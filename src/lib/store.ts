@@ -45,8 +45,8 @@ export const filteredCamps = derived(filterState, ($f) => {
     if ($f.categories.size > 0 && !$f.categories.has(camp.category)) return false;
     // 学校档次 tags（camp 的 tags 与筛选 tags 有交集即通过）
     if ($f.tags.size > 0 && !camp.tags.some(t => $f.tags.has(t))) return false;
-    // 学校名过滤：BoardCaster 条目不受学校名限制（已是精选数据）
-    if ($f.schools.size > 0 && camp.source !== 'boardcaster' && !$f.schools.has(camp.school)) return false;
+    // 学校名过滤
+    if ($f.schools.size > 0 && !$f.schools.has(camp.school)) return false;
     // 紧迫度
     if ($f.urgency.size > 0 && !$f.urgency.has(camp.urgency)) return false;
     // 搜索词
