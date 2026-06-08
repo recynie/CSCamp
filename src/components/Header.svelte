@@ -1,5 +1,5 @@
 <script lang="ts">
-  let { updatedDate, totalCount }: { updatedDate: string; totalCount: number } = $props();
+  let { updatedDate, totalCount, filteredCount }: { updatedDate: string; totalCount: number; filteredCount: number } = $props();
 
   let dark = $state(
     typeof localStorage !== 'undefined' && localStorage.getItem('theme') === 'dark'
@@ -19,7 +19,7 @@
       <div class="min-w-0">
         <h1 class="font-semibold text-sm sm:text-base truncate">夏令营 DDL · 2026</h1>
         <p class="text-xs text-zinc-400 dark:text-zinc-500 hidden sm:block">
-          {totalCount} 条通知 · 更新于 {updatedDate}
+          显示 {filteredCount} / {totalCount} 条 · 更新于 {updatedDate}
         </p>
       </div>
     </div>

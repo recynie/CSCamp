@@ -4,9 +4,11 @@
 
   let {
     urgencyOptions,
+    allCategories,
     schools,
     filterState,
     onToggleUrgency,
+    onToggleCategory,
     onToggleSchool,
     onClearFilters,
     onQueryChange,
@@ -14,9 +16,11 @@
     onToggleUnknown,
   }: {
     urgencyOptions: Urgency[];
+    allCategories: string[];
     schools: string[];
     filterState: FilterState;
     onToggleUrgency: (u: Urgency) => void;
+    onToggleCategory: (c: string) => void;
     onToggleSchool: (s: string) => void;
     onClearFilters: () => void;
     onQueryChange: (q: string) => void;
@@ -30,11 +34,10 @@
   );
 
   const hasActiveFilters = $derived(
-    filterState.query ||
+    !!filterState.query ||
     filterState.urgency.size > 0 ||
-    filterState.schools.size > 0 ||
-    !filterState.showExpired ||
-    !filterState.showUnknown
+    filterState.categories.size > 0 ||
+    filterState.schools.size > 0
   );
 </script>
 
@@ -49,6 +52,26 @@
       placeholder="学校、院系、关键词..."
       class="w-full px-3 py-2 text-sm rounded border border-zinc-300 dark:border-zinc-700 bg-white dark:bg-zinc-950 focus:outline-none focus:ring-2 focus:ring-blue-500"
     />
+  </div>
+
+  <!-- Categories -->
+  <div class="bg-white dark:bg-zinc-900 rounded-lg p-4 border border-zinc-200 dark:border-zinc-800">
+    <p class="block text-xs font-medium text-zinc-500 dark:text-zinc-400 mb-2">
+      类别 ({filterState.categories.size === 0 ? '全部' : filterState.categories.size})
+    </p>
+    <div class="flex flex-col gap-2">
+      {#each allCategories as cat}
+        <label class="flex items-center gap-2 text-sm cursor-pointer hover:bg-zinc-50 dark:hover:bg-zinc-800 p-1 rounded">
+          <input
+            type="checkbox"
+            checked={filterState.categories.has(cat)}
+            onchange={() => onToggleCategory(cat)}
+            class="rounded border-zinc-300 dark:border-zinc-600"
+          />
+          <span class="text-zinc-700 dark:text-zinc-300">{cat}</span>
+        </label>
+      {/each}
+    </div>
   </div>
 
   <!-- Urgency -->
@@ -96,7 +119,9 @@
 
   <!-- Schools -->
   <div class="bg-white dark:bg-zinc-900 rounded-lg p-4 border border-zinc-200 dark:border-zinc-800">
-    <p class="block text-xs font-medium text-zinc-500 dark:text-zinc-400 mb-2">学校 ({filterState.schools.size > 0 ? filterState.schools.size : '全部'})</p>
+    <p class="block text-xs font-medium text-zinc-500 dark:text-zinc-400 mb-2">
+      学校 ({filterState.schools.size === 0 ? '全部' : filterState.schools.size})
+    </p>
     <input
       type="text"
       bind:value={schoolQuery}
@@ -124,7 +149,7 @@
       onclick={onClearFilters}
       class="w-full py-2 text-sm text-blue-600 dark:text-blue-400 hover:bg-blue-50 dark:hover:bg-blue-950 rounded-lg border border-blue-200 dark:border-blue-800 transition-colors"
     >
-      清除筛选
+      清除筛选（显示全部）
     </button>
   {/if}
 </div>

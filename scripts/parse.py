@@ -2,7 +2,7 @@
 """
 parse.py — 从 awesome-summer-camp-2026 拉取 README，解析为 camps.json
 用法: python scripts/parse.py
-输出: src/data/camps.json
+输出: src/data/camps.json 和 src/data/defaults.json
 """
 
 import re
@@ -17,6 +17,7 @@ import yaml  # pip install pyyaml
 ROOT = Path(__file__).parent.parent
 FILTER_FILE = ROOT / "filter.yaml"
 OUTPUT_FILE = ROOT / "src" / "data" / "camps.json"
+DEFAULTS_FILE = ROOT / "src" / "data" / "defaults.json"
 
 UPSTREAM = "https://raw.githubusercontent.com/shenyanpai/awesome-summer-camp-2026/main"
 
@@ -127,26 +128,6 @@ def load_filter() -> dict:
         return yaml.safe_load(f)
 
 
-def apply_filter(entries: list[dict], cfg: dict) -> list[dict]:
-    allowed = set(cfg.get("allowed_schools", []))
-    show_expired = cfg.get("show_expired", False)
-    show_unknown = cfg.get("show_unknown_deadline", True)
-
-    result = []
-    for e in entries:
-        # 学校白名单
-        if allowed and e["school"] not in allowed:
-            continue
-        # 已截止过滤
-        if e["expired"] and not show_expired:
-            continue
-        # 截止日期未知过滤
-        if e["deadline"] is None and not show_unknown:
-            continue
-        result.append(e)
-    return result
-
-
 def add_urgency(entries: list[dict]) -> list[dict]:
     """附加 urgency 字段，供前端配色使用"""
     today = date.today()
@@ -173,14 +154,10 @@ def add_urgency(entries: list[dict]) -> list[dict]:
 
 def main():
     cfg = load_filter()
-    categories = cfg.get("categories", list(CATEGORY_FILES.keys()))
 
+    # 拉取全部 4 类数据
     all_entries = []
-    for cat in categories:
-        filename = CATEGORY_FILES.get(cat)
-        if not filename:
-            print(f"[warn] 未知类别: {cat}")
-            continue
+    for cat, filename in CATEGORY_FILES.items():
         url = f"{UPSTREAM}/{urllib.parse.quote(filename)}"
         print(f"[fetch] {url}")
         content = fetch(url)
@@ -188,28 +165,38 @@ def main():
         print(f"  → 解析到 {len(entries)} 条")
         all_entries.extend(entries)
 
-    filtered = apply_filter(all_entries, cfg)
-    print(f"[filter] {len(all_entries)} → {len(filtered)} 条")
-
-    filtered = add_urgency(filtered)
+    all_entries = add_urgency(all_entries)
 
     # 排序：先按截止日期升序，None 排最后
-    filtered.sort(key=lambda e: (
+    all_entries.sort(key=lambda e: (
         e["deadline"] is None,
         e["expired"],
         e["deadline"] or "9999",
     ))
 
+    # 保存全量数据
     OUTPUT_FILE.parent.mkdir(parents=True, exist_ok=True)
     meta = {
         "updated_at": datetime.now(CST).isoformat(),
-        "total": len(filtered),
-        "camps": filtered,
+        "total": len(all_entries),
+        "camps": all_entries,
     }
     with open(OUTPUT_FILE, "w", encoding="utf-8") as f:
         json.dump(meta, f, ensure_ascii=False, indent=2)
 
-    print(f"[done] 写入 {OUTPUT_FILE}  ({len(filtered)} 条)")
+    print(f"[done] 写入 {OUTPUT_FILE}  ({len(all_entries)} 条)")
+
+    # 保存默认值配置
+    defaults = {
+        "categories": cfg.get("default_categories", []),
+        "schools": cfg.get("default_schools", []),
+        "showExpired": cfg.get("default_show_expired", False),
+        "showUnknown": cfg.get("default_show_unknown_deadline", True),
+    }
+    with open(DEFAULTS_FILE, "w", encoding="utf-8") as f:
+        json.dump(defaults, f, ensure_ascii=False, indent=2)
+
+    print(f"[done] 写入 {DEFAULTS_FILE}")
 
 
 # urllib.parse 需要单独导入

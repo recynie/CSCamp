@@ -20,6 +20,7 @@ export interface CampsData {
 export interface FilterState {
   query: string;
   urgency: Set<Urgency>;
+  categories: Set<string>;
   schools: Set<string>;
   showExpired: boolean;
   showUnknown: boolean;

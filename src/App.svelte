@@ -1,5 +1,5 @@
 <script lang="ts">
-  import { filterState, filteredCamps, updatedAt, allCamps } from './lib/store';
+  import { filterState, filteredCamps, updatedAt, allCamps, allCategories } from './lib/store';
   import { getSchools, URGENCY_LABELS } from './lib/utils';
   import type { Urgency } from './lib/types';
   import Header from './components/Header.svelte';
@@ -7,8 +7,6 @@
   import CampList from './components/CampList.svelte';
 
   const schools = getSchools(allCamps);
-
-  // urgency options to show (exclude expired — handled by toggle)
   const urgencyOptions: Urgency[] = ['critical', 'soon', 'near', 'far', 'unknown'];
 
   function toggleUrgency(u: Urgency) {
@@ -16,6 +14,14 @@
       const s = new Set(f.urgency);
       s.has(u) ? s.delete(u) : s.add(u);
       return { ...f, urgency: s };
+    });
+  }
+
+  function toggleCategory(cat: string) {
+    filterState.update(f => {
+      const s = new Set(f.categories);
+      s.has(cat) ? s.delete(cat) : s.add(cat);
+      return { ...f, categories: s };
     });
   }
 
@@ -32,11 +38,11 @@
       ...f,
       query: '',
       urgency: new Set(),
+      categories: new Set(),
       schools: new Set(),
     }));
   }
 
-  // format updated_at
   const updatedDate = new Date(updatedAt).toLocaleString('zh-CN', {
     timeZone: 'Asia/Shanghai',
     month: '2-digit', day: '2-digit',
@@ -45,15 +51,17 @@
 </script>
 
 <div class="min-h-screen flex flex-col">
-  <Header {updatedDate} totalCount={allCamps.length} />
+  <Header {updatedDate} totalCount={allCamps.length} filteredCount={$filteredCamps.length} />
 
   <main class="flex-1 max-w-5xl mx-auto w-full px-4 py-6 gap-6 flex flex-col lg:flex-row">
     <aside class="w-full lg:w-64 shrink-0">
       <FilterPanel
         {urgencyOptions}
+        {allCategories}
         {schools}
         filterState={$filterState}
         onToggleUrgency={toggleUrgency}
+        onToggleCategory={toggleCategory}
         onToggleSchool={toggleSchool}
         onClearFilters={clearFilters}
         onQueryChange={(q) => filterState.update(f => ({ ...f, query: q }))}
