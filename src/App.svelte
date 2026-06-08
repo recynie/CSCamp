@@ -6,6 +6,11 @@
   import FilterPanel from './components/FilterPanel.svelte';
   import CampList from './components/CampList.svelte';
 
+  let scrollY = $state(0);
+  function scrollToTop() {
+    window.scrollTo({ top: 0, behavior: 'smooth' });
+  }
+
   const schools = getSchools(allCamps);
   const urgencyOptions: Urgency[] = ['critical', 'soon', 'near', 'far', 'unknown'];
 
@@ -63,7 +68,7 @@
   <Header {updatedDate} totalCount={allCamps.length} filteredCount={$filteredCamps.length} />
 
   <main class="flex-1 max-w-5xl mx-auto w-full px-4 py-6 gap-6 flex flex-col lg:flex-row">
-    <aside class="w-full lg:w-64 shrink-0">
+    <aside class="w-full lg:w-64 shrink-0 lg:sticky lg:top-20 lg:max-h-[calc(100vh-5.5rem)] lg:overflow-y-auto">
       <FilterPanel
         {urgencyOptions}
         {allCategories}
@@ -102,3 +107,17 @@
     · 每小时自动同步
   </footer>
 </div>
+
+<svelte:window bind:scrollY />
+
+{#if scrollY > 300}
+  <button
+    onclick={scrollToTop}
+    aria-label="回到顶部"
+    class="fixed bottom-6 right-6 z-50 w-10 h-10 rounded-full bg-white dark:bg-zinc-800 border border-zinc-200 dark:border-zinc-700 shadow-md flex items-center justify-center text-zinc-500 dark:text-zinc-400 hover:text-zinc-700 dark:hover:text-zinc-200 hover:shadow-lg transition-all"
+  >
+    <svg class="w-4 h-4" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2.5">
+      <path stroke-linecap="round" stroke-linejoin="round" d="M5 15l7-7 7 7" />
+    </svg>
+  </button>
+{/if}
