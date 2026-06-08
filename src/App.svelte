@@ -1,6 +1,6 @@
 <script lang="ts">
-  import { filterState, filteredCamps, updatedAt, allCamps, allCategories } from './lib/store';
-  import { getSchools, URGENCY_LABELS } from './lib/utils';
+  import { filterState, filteredCamps, updatedAt, allCamps, allCategories, allTags } from './lib/store';
+  import { getSchools } from './lib/utils';
   import type { Urgency } from './lib/types';
   import Header from './components/Header.svelte';
   import FilterPanel from './components/FilterPanel.svelte';
@@ -25,6 +25,14 @@
     });
   }
 
+  function toggleTag(tag: string) {
+    filterState.update(f => {
+      const s = new Set(f.tags);
+      s.has(tag) ? s.delete(tag) : s.add(tag);
+      return { ...f, tags: s };
+    });
+  }
+
   function toggleSchool(school: string) {
     filterState.update(f => {
       const s = new Set(f.schools);
@@ -39,6 +47,7 @@
       query: '',
       urgency: new Set(),
       categories: new Set(),
+      tags: new Set(),
       schools: new Set(),
     }));
   }
@@ -58,10 +67,12 @@
       <FilterPanel
         {urgencyOptions}
         {allCategories}
+        {allTags}
         {schools}
         filterState={$filterState}
         onToggleUrgency={toggleUrgency}
         onToggleCategory={toggleCategory}
+        onToggleTag={toggleTag}
         onToggleSchool={toggleSchool}
         onClearFilters={clearFilters}
         onQueryChange={(q) => filterState.update(f => ({ ...f, query: q }))}
@@ -82,6 +93,12 @@
       rel="noopener"
       class="underline hover:text-zinc-600 dark:hover:text-zinc-400"
     >shenyanpai/awesome-summer-camp-2026</a>
+    · <a
+      href="https://github.com/CS-BAOYAN/BoardCaster"
+      target="_blank"
+      rel="noopener"
+      class="underline hover:text-zinc-600 dark:hover:text-zinc-400"
+    >CS-BAOYAN/BoardCaster</a>
     · 每小时自动同步
   </footer>
 </div>

@@ -40,6 +40,13 @@
               >
                 {camp.institute || camp.title}
               </a>
+              {#if camp.tags.length > 0}
+                <div class="flex flex-wrap gap-1 mt-1.5">
+                  {#each camp.tags as tag}
+                    <span class="text-[10px] px-1.5 py-0.5 rounded-full bg-zinc-100 text-zinc-500 dark:bg-zinc-800 dark:text-zinc-400">{tag}</span>
+                  {/each}
+                </div>
+              {/if}
             </div>
 
             <!-- Right: deadline + countdown -->

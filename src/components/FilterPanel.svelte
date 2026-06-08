@@ -5,10 +5,12 @@
   let {
     urgencyOptions,
     allCategories,
+    allTags,
     schools,
     filterState,
     onToggleUrgency,
     onToggleCategory,
+    onToggleTag,
     onToggleSchool,
     onClearFilters,
     onQueryChange,
@@ -17,10 +19,12 @@
   }: {
     urgencyOptions: Urgency[];
     allCategories: string[];
+    allTags: string[];
     schools: string[];
     filterState: FilterState;
     onToggleUrgency: (u: Urgency) => void;
     onToggleCategory: (c: string) => void;
+    onToggleTag: (t: string) => void;
     onToggleSchool: (s: string) => void;
     onClearFilters: () => void;
     onQueryChange: (q: string) => void;
@@ -37,14 +41,31 @@
     !!filterState.query ||
     filterState.urgency.size > 0 ||
     filterState.categories.size > 0 ||
+    filterState.tags.size > 0 ||
     filterState.schools.size > 0
   );
+
+  // Tag display colors
+  const TAG_COLORS: Record<string, string> = {
+    'TOP2':   'bg-purple-100 text-purple-700 dark:bg-purple-900/40 dark:text-purple-300',
+    'C9':     'bg-indigo-100 text-indigo-700 dark:bg-indigo-900/40 dark:text-indigo-300',
+    '华五':   'bg-blue-100 text-blue-700 dark:bg-blue-900/40 dark:text-blue-300',
+    '985':    'bg-sky-100 text-sky-700 dark:bg-sky-900/40 dark:text-sky-300',
+    '211':    'bg-teal-100 text-teal-700 dark:bg-teal-900/40 dark:text-teal-300',
+    'AI强校': 'bg-orange-100 text-orange-700 dark:bg-orange-900/40 dark:text-orange-300',
+    '研究院': 'bg-green-100 text-green-700 dark:bg-green-900/40 dark:text-green-300',
+    '港澳':   'bg-rose-100 text-rose-700 dark:bg-rose-900/40 dark:text-rose-300',
+    '联培':   'bg-yellow-100 text-yellow-700 dark:bg-yellow-900/40 dark:text-yellow-300',
+    '双非':   'bg-zinc-100 text-zinc-600 dark:bg-zinc-800 dark:text-zinc-400',
+    '四非':   'bg-zinc-100 text-zinc-500 dark:bg-zinc-800 dark:text-zinc-500',
+  };
+  const TAG_COLOR_DEFAULT = 'bg-zinc-100 text-zinc-600 dark:bg-zinc-800 dark:text-zinc-400';
 </script>
 
 <div class="space-y-4">
   <!-- Search -->
   <div class="bg-white dark:bg-zinc-900 rounded-lg p-4 border border-zinc-200 dark:border-zinc-800">
-    <p class="block text-xs font-medium text-zinc-500 dark:text-zinc-400 mb-2">搜索</p>
+    <p class="text-xs font-medium text-zinc-500 dark:text-zinc-400 mb-2">搜索</p>
     <input
       type="text"
       value={filterState.query}
@@ -54,12 +75,33 @@
     />
   </div>
 
+  <!-- School tags -->
+  <div class="bg-white dark:bg-zinc-900 rounded-lg p-4 border border-zinc-200 dark:border-zinc-800">
+    <p class="text-xs font-medium text-zinc-500 dark:text-zinc-400 mb-2">
+      学校档次 ({filterState.tags.size === 0 ? '全部' : filterState.tags.size})
+    </p>
+    <div class="flex flex-wrap gap-1.5">
+      {#each allTags as tag}
+        {@const active = filterState.tags.has(tag)}
+        <button
+          onclick={() => onToggleTag(tag)}
+          class="px-2 py-0.5 rounded-full text-xs font-medium border transition-all
+            {active
+              ? (TAG_COLORS[tag] ?? TAG_COLOR_DEFAULT) + ' border-transparent ring-2 ring-offset-1 ring-blue-400 dark:ring-blue-500'
+              : 'bg-zinc-50 text-zinc-500 border-zinc-200 dark:bg-zinc-800 dark:text-zinc-400 dark:border-zinc-700 hover:border-zinc-400'}"
+        >
+          {tag}
+        </button>
+      {/each}
+    </div>
+  </div>
+
   <!-- Categories -->
   <div class="bg-white dark:bg-zinc-900 rounded-lg p-4 border border-zinc-200 dark:border-zinc-800">
-    <p class="block text-xs font-medium text-zinc-500 dark:text-zinc-400 mb-2">
+    <p class="text-xs font-medium text-zinc-500 dark:text-zinc-400 mb-2">
       类别 ({filterState.categories.size === 0 ? '全部' : filterState.categories.size})
     </p>
-    <div class="flex flex-col gap-2">
+    <div class="flex flex-col gap-1">
       {#each allCategories as cat}
         <label class="flex items-center gap-2 text-sm cursor-pointer hover:bg-zinc-50 dark:hover:bg-zinc-800 p-1 rounded">
           <input
@@ -76,8 +118,8 @@
 
   <!-- Urgency -->
   <div class="bg-white dark:bg-zinc-900 rounded-lg p-4 border border-zinc-200 dark:border-zinc-800">
-    <p class="block text-xs font-medium text-zinc-500 dark:text-zinc-400 mb-2">紧迫度</p>
-    <div class="flex flex-col gap-2">
+    <p class="text-xs font-medium text-zinc-500 dark:text-zinc-400 mb-2">紧迫度</p>
+    <div class="flex flex-col gap-1">
       {#each urgencyOptions as u}
         <label class="flex items-center gap-2 text-sm cursor-pointer hover:bg-zinc-50 dark:hover:bg-zinc-800 p-1 rounded">
           <input
@@ -94,8 +136,8 @@
 
   <!-- Show/Hide toggles -->
   <div class="bg-white dark:bg-zinc-900 rounded-lg p-4 border border-zinc-200 dark:border-zinc-800">
-    <p class="block text-xs font-medium text-zinc-500 dark:text-zinc-400 mb-2">显示选项</p>
-    <div class="flex flex-col gap-2">
+    <p class="text-xs font-medium text-zinc-500 dark:text-zinc-400 mb-2">显示选项</p>
+    <div class="flex flex-col gap-1">
       <label class="flex items-center gap-2 text-sm cursor-pointer hover:bg-zinc-50 dark:hover:bg-zinc-800 p-1 rounded">
         <input
           type="checkbox"
@@ -119,7 +161,7 @@
 
   <!-- Schools -->
   <div class="bg-white dark:bg-zinc-900 rounded-lg p-4 border border-zinc-200 dark:border-zinc-800">
-    <p class="block text-xs font-medium text-zinc-500 dark:text-zinc-400 mb-2">
+    <p class="text-xs font-medium text-zinc-500 dark:text-zinc-400 mb-2">
       学校 ({filterState.schools.size === 0 ? '全部' : filterState.schools.size})
     </p>
     <input
@@ -128,9 +170,9 @@
       placeholder="筛选学校..."
       class="w-full px-3 py-2 text-sm rounded border border-zinc-300 dark:border-zinc-700 bg-white dark:bg-zinc-950 focus:outline-none focus:ring-2 focus:ring-blue-500 mb-2"
     />
-    <div class="max-h-60 overflow-y-auto space-y-1">
+    <div class="max-h-52 overflow-y-auto space-y-0.5">
       {#each filteredSchools as school}
-        <label class="flex items-center gap-2 text-sm cursor-pointer hover:bg-zinc-50 dark:hover:bg-zinc-800 p-1 rounded">
+        <label class="flex items-center gap-2 text-sm cursor-pointer hover:bg-zinc-50 dark:hover:bg-zinc-800 px-1 py-0.5 rounded">
           <input
             type="checkbox"
             checked={filterState.schools.has(school)}
@@ -143,7 +185,7 @@
     </div>
   </div>
 
-  <!-- Clear filters -->
+  <!-- Clear -->
   {#if hasActiveFilters}
     <button
       onclick={onClearFilters}
