@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-08T16:32:51.818501+08:00",
+  "updated_at": "2026-06-08T16:46:19.837077+08:00",
   "total": 503,
   "camps": [
     {
@@ -3428,7 +3428,7 @@
       "url": "https://cs.ustc.edu.cn/2026/0519/c20160a741173/page.htm",
       "deadline": "2026-06-20",
       "expired": false,
-      "category": "理工类",
+      "category": "BoardCaster",
       "tags": [
         "C9",
         "华五",
@@ -4426,7 +4426,7 @@
       "url": "https://mp.weixin.qq.com/s/Izj5zLIiaegkkA7cYVWIEQ",
       "deadline": "2026-06-22",
       "expired": false,
-      "category": "理工类",
+      "category": "BoardCaster",
       "tags": [
         "AI强校",
         "双非"
@@ -4570,7 +4570,7 @@
       "url": "https://mee.sustech.edu.cn/jiaoxuetongzhi/",
       "deadline": "2026-06-23",
       "expired": false,
-      "category": "理工类",
+      "category": "BoardCaster",
       "tags": [
         "AI强校",
         "双非"
@@ -5135,7 +5135,7 @@
       "url": "https://ai.zju.edu.cn/2026/0529/c90497a3168021/page.htm",
       "deadline": "2026-06-26",
       "expired": false,
-      "category": "理工类",
+      "category": "BoardCaster",
       "tags": [
         "C9",
         "华五",
@@ -5989,7 +5989,7 @@
       "url": "http://www.lamda.nju.edu.cn/recruit-2027/recruit-2027.html",
       "deadline": "2026-07-31",
       "expired": false,
-      "category": "理工类",
+      "category": "BoardCaster",
       "tags": [
         "C9",
         "华五",
@@ -6006,7 +6006,7 @@
       "url": "https://mp.weixin.qq.com/s/QoCdstU_zzUp8m-F7Xr7pQ",
       "deadline": "2026-07-31",
       "expired": false,
-      "category": "理工类",
+      "category": "BoardCaster",
       "tags": [
         "双非"
       ],
@@ -6049,7 +6049,7 @@
       "url": "https://yanzhao.bjut.edu.cn/info/1019/17801.htm",
       "deadline": "2025-09-21",
       "expired": true,
-      "category": "理工类",
+      "category": "BoardCaster",
       "tags": [
         "211"
       ],
@@ -6251,7 +6251,7 @@
       "url": "https://collegeai.tsinghua.edu.cn/info/1043/1281.htm",
       "deadline": "2026-04-30",
       "expired": true,
-      "category": "理工类",
+      "category": "BoardCaster",
       "tags": [
         "TOP2",
         "C9",
@@ -6300,7 +6300,7 @@
       "url": "https://www.bza.edu.cn/detail/acld06aavyiaa8lwsi69ofwtxdund3k5",
       "deadline": "2026-05-05",
       "expired": true,
-      "category": "理工类",
+      "category": "BoardCaster",
       "tags": [
         "联培"
       ],
@@ -6314,7 +6314,7 @@
       "url": "https://admissions.sii.edu.cn",
       "deadline": "2026-05-06",
       "expired": true,
-      "category": "理工类",
+      "category": "BoardCaster",
       "tags": [
         "联培"
       ],
@@ -6545,7 +6545,7 @@
       "url": "https://sds.cuhk.edu.cn/article/2354",
       "deadline": "2026-05-11",
       "expired": true,
-      "category": "理工类",
+      "category": "BoardCaster",
       "tags": [
         "港澳"
       ],
@@ -6622,7 +6622,7 @@
       "url": "https://vptlo.hkust-gz.edu.cn/rbcc/?section=about",
       "deadline": "2026-05-16",
       "expired": true,
-      "category": "理工类",
+      "category": "BoardCaster",
       "tags": [
         "港澳"
       ],
@@ -6665,7 +6665,7 @@
       "url": "https://www.ict.ac.cn/yjsjy/zsxx/sszs/202605/t20260511_8199682.html",
       "deadline": "2026-05-18",
       "expired": true,
-      "category": "理工类",
+      "category": "BoardCaster",
       "tags": [
         "研究院"
       ],
@@ -6693,7 +6693,7 @@
       "url": "https://mp.weixin.qq.com/s/hwrkwrhdcsJ5A1gfIYNwyw",
       "deadline": "2026-05-19",
       "expired": true,
-      "category": "理工类",
+      "category": "BoardCaster",
       "tags": [
         "研究院"
       ],
@@ -7684,7 +7684,7 @@
       "url": "https://cft.hkust-gz.edu.cn/admission",
       "deadline": null,
       "expired": false,
-      "category": "理工类",
+      "category": "BoardCaster",
       "tags": [
         "港澳"
       ],
@@ -7698,7 +7698,7 @@
       "url": "http://cs.ustc.edu.cn/2026/0519/c22510a741173/pagem.htm",
       "deadline": null,
       "expired": false,
-      "category": "理工类",
+      "category": "BoardCaster",
       "tags": [
         "C9",
         "华五",
@@ -7715,7 +7715,7 @@
       "url": "https://mp.weixin.qq.com/s/vzmlXQ_zBh3qEN8nwDbAOg",
       "deadline": null,
       "expired": false,
-      "category": "理工类",
+      "category": "BoardCaster",
       "tags": [
         "联培"
       ],
@@ -7729,7 +7729,7 @@
       "url": "https://cs.pku.edu.cn/info/1022/5820.htm",
       "deadline": null,
       "expired": false,
-      "category": "理工类",
+      "category": "BoardCaster",
       "tags": [
         "TOP2",
         "C9",
@@ -7747,7 +7747,7 @@
       "url": "http://8.149.133.61/application.html",
       "deadline": null,
       "expired": false,
-      "category": "理工类",
+      "category": "BoardCaster",
       "tags": [
         "985",
         "211"

@@ -194,7 +194,7 @@ def parse_boardcaster(
             "url":       item.get("website", "").strip(),
             "deadline":  deadline_date,
             "expired":   expired,
-            "category":  "理工类",   # BoardCaster 主要是 CS/理工方向
+            "category":  "BoardCaster",
             "tags":      tags,
             "source":    "boardcaster",
         })
