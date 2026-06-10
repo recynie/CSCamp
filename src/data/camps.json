@@ -1,61 +1,7 @@
 {
-  "updated_at": "2026-06-10T07:23:05.045762+08:00",
+  "updated_at": "2026-06-10T12:25:31.020958+08:00",
   "total": 500,
   "camps": [
-    {
-      "school": "清华大学",
-      "institute": "清华大学生命科学联合中心2026年生命科学、基础医学与药学大学生学术交流周”",
-      "title": "2026年清华大学生命科学联合中心2026年生命科学、基础医学与药学大学生学术交流周”通知",
-      "url": "https://mp.weixin.qq.com/s/gEDhVcIMCwhThuUK_nIqCg",
-      "deadline": "2026-06-09",
-      "expired": false,
-      "category": "理工类",
-      "tags": [
-        "TOP2",
-        "C9",
-        "华五",
-        "985",
-        "211"
-      ],
-      "source": "shenyanpai",
-      "urgency": "critical"
-    },
-    {
-      "school": "清华大学",
-      "institute": "清华大学药学院2026年优秀大学生学术交流会",
-      "title": "2026年清华大学药学院2026年优秀大学生学术交流会通知",
-      "url": "https://www.sps.tsinghua.edu.cn/info/1075/2674.htm",
-      "deadline": "2026-06-09",
-      "expired": false,
-      "category": "理工类",
-      "tags": [
-        "TOP2",
-        "C9",
-        "华五",
-        "985",
-        "211"
-      ],
-      "source": "shenyanpai",
-      "urgency": "critical"
-    },
-    {
-      "school": "清华大学",
-      "institute": "清华大学生命科学学院2026年生命科学、基础医学与药学大学生学术交流周”",
-      "title": "2026年清华大学生命科学学院2026年生命科学、基础医学与药学大学生学术交流周”通知",
-      "url": "https://mp.weixin.qq.com/s/2rABVNmHw9kAT6ej0avykA?scene=1&click_id=20",
-      "deadline": "2026-06-09",
-      "expired": false,
-      "category": "理工类",
-      "tags": [
-        "TOP2",
-        "C9",
-        "华五",
-        "985",
-        "211"
-      ],
-      "source": "shenyanpai",
-      "urgency": "critical"
-    },
     {
       "school": "清华大学",
       "institute": "清华大学电子工程系信息光电子研究所2026年信息光电子",
@@ -366,7 +312,7 @@
         "研究院"
       ],
       "source": "shenyanpai",
-      "urgency": "soon"
+      "urgency": "critical"
     },
     {
       "school": "中国科学院",
@@ -380,7 +326,7 @@
         "研究院"
       ],
       "source": "shenyanpai",
-      "urgency": "soon"
+      "urgency": "critical"
     },
     {
       "school": "中国科学院",
@@ -394,7 +340,7 @@
         "研究院"
       ],
       "source": "shenyanpai",
-      "urgency": "soon"
+      "urgency": "critical"
     },
     {
       "school": "浙江大学",
@@ -411,7 +357,7 @@
         "211"
       ],
       "source": "shenyanpai",
-      "urgency": "soon"
+      "urgency": "critical"
     },
     {
       "school": "清华大学",
@@ -1885,7 +1831,7 @@
         "211"
       ],
       "source": "shenyanpai",
-      "urgency": "near"
+      "urgency": "soon"
     },
     {
       "school": "浙江大学",
@@ -1902,7 +1848,7 @@
         "211"
       ],
       "source": "shenyanpai",
-      "urgency": "near"
+      "urgency": "soon"
     },
     {
       "school": "浙江大学",
@@ -1919,7 +1865,7 @@
         "211"
       ],
       "source": "shenyanpai",
-      "urgency": "near"
+      "urgency": "soon"
     },
     {
       "school": "西安交通大学",
@@ -1935,7 +1881,7 @@
         "211"
       ],
       "source": "shenyanpai",
-      "urgency": "near"
+      "urgency": "soon"
     },
     {
       "school": "中国科学院",
@@ -1949,7 +1895,7 @@
         "研究院"
       ],
       "source": "shenyanpai",
-      "urgency": "near"
+      "urgency": "soon"
     },
     {
       "school": "北京师范大学",
@@ -1964,7 +1910,7 @@
         "211"
       ],
       "source": "shenyanpai",
-      "urgency": "near"
+      "urgency": "soon"
     },
     {
       "school": "北京协和医学院",
@@ -1978,7 +1924,7 @@
         "双非"
       ],
       "source": "shenyanpai",
-      "urgency": "near"
+      "urgency": "soon"
     },
     {
       "school": "北京大学",
@@ -4454,7 +4400,7 @@
         "研究院"
       ],
       "source": "shenyanpai",
-      "urgency": "far"
+      "urgency": "near"
     },
     {
       "school": "暨南大学",
@@ -4468,7 +4414,7 @@
         "211"
       ],
       "source": "shenyanpai",
-      "urgency": "far"
+      "urgency": "near"
     },
     {
       "school": "北京大学",
@@ -7223,6 +7169,60 @@
       "category": "医农类",
       "tags": [
         "研究院"
+      ],
+      "source": "shenyanpai",
+      "urgency": "expired"
+    },
+    {
+      "school": "清华大学",
+      "institute": "清华大学生命科学联合中心2026年生命科学、基础医学与药学大学生学术交流周”",
+      "title": "2026年清华大学生命科学联合中心2026年生命科学、基础医学与药学大学生学术交流周”通知",
+      "url": "https://mp.weixin.qq.com/s/gEDhVcIMCwhThuUK_nIqCg",
+      "deadline": "2026-06-09",
+      "expired": true,
+      "category": "理工类",
+      "tags": [
+        "TOP2",
+        "C9",
+        "华五",
+        "985",
+        "211"
+      ],
+      "source": "shenyanpai",
+      "urgency": "expired"
+    },
+    {
+      "school": "清华大学",
+      "institute": "清华大学药学院2026年优秀大学生学术交流会",
+      "title": "2026年清华大学药学院2026年优秀大学生学术交流会通知",
+      "url": "https://www.sps.tsinghua.edu.cn/info/1075/2674.htm",
+      "deadline": "2026-06-09",
+      "expired": true,
+      "category": "理工类",
+      "tags": [
+        "TOP2",
+        "C9",
+        "华五",
+        "985",
+        "211"
+      ],
+      "source": "shenyanpai",
+      "urgency": "expired"
+    },
+    {
+      "school": "清华大学",
+      "institute": "清华大学生命科学学院2026年生命科学、基础医学与药学大学生学术交流周”",
+      "title": "2026年清华大学生命科学学院2026年生命科学、基础医学与药学大学生学术交流周”通知",
+      "url": "https://mp.weixin.qq.com/s/2rABVNmHw9kAT6ej0avykA?scene=1&click_id=20",
+      "deadline": "2026-06-09",
+      "expired": true,
+      "category": "理工类",
+      "tags": [
+        "TOP2",
+        "C9",
+        "华五",
+        "985",
+        "211"
       ],
       "source": "shenyanpai",
       "urgency": "expired"
