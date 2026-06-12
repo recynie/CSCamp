@@ -1,51 +1,7 @@
 {
-  "updated_at": "2026-06-12T07:44:07.369402+08:00",
+  "updated_at": "2026-06-12T12:50:34.771195+08:00",
   "total": 546,
   "camps": [
-    {
-      "school": "南开大学",
-      "institute": "南开大学数学科学学院数学学科2026年全国优秀大学生交流营",
-      "title": "2026年南开大学数学科学学院数学学科2026年全国优秀大学生交流营",
-      "url": "https://math.nankai.edu.cn/2026/0605/c34401a597681/page.htm",
-      "deadline": "2026-06-11",
-      "expired": false,
-      "category": "理工类",
-      "tags": [
-        "985",
-        "211"
-      ],
-      "source": "shenyanpai",
-      "urgency": "critical"
-    },
-    {
-      "school": "南开大学",
-      "institute": "南开大学组合数学中心数学学科2026年全国优秀大学生交流营",
-      "title": "2026年南开大学组合数学中心数学学科2026年全国优秀大学生交流营",
-      "url": "https://mp.weixin.qq.com/s/hqFoFGCOmH_F3BWKsoBrmw",
-      "deadline": "2026-06-11",
-      "expired": false,
-      "category": "理工类",
-      "tags": [
-        "985",
-        "211"
-      ],
-      "source": "shenyanpai",
-      "urgency": "critical"
-    },
-    {
-      "school": "中国科学院",
-      "institute": "中国科学院地质与地球物理研究所“第十三届地球与行星科学大学生夏令营”暨“中国科学院大学第四期行星科学暑期学校”",
-      "title": "2026年中国科学院地质与地球物理研究所“第十三届地球与行星科学大学生夏令营”暨“中国科学院大学第四期行星科学暑期学校”通知",
-      "url": "https://igg.cas.cn/jyyd/jy_upcoming/202605/t20260506_8195734.html",
-      "deadline": "2026-06-11",
-      "expired": false,
-      "category": "理工类",
-      "tags": [
-        "研究院"
-      ],
-      "source": "shenyanpai",
-      "urgency": "critical"
-    },
     {
       "school": "北京大学",
       "institute": "北京大学化学与分子工程学院和深研院化生学院联合",
@@ -562,7 +518,7 @@
         "211"
       ],
       "source": "shenyanpai",
-      "urgency": "soon"
+      "urgency": "critical"
     },
     {
       "school": "清华大学",
@@ -580,7 +536,7 @@
         "211"
       ],
       "source": "shenyanpai",
-      "urgency": "soon"
+      "urgency": "critical"
     },
     {
       "school": "北京大学",
@@ -598,7 +554,7 @@
         "211"
       ],
       "source": "shenyanpai",
-      "urgency": "soon"
+      "urgency": "critical"
     },
     {
       "school": "北京大学",
@@ -616,7 +572,7 @@
         "211"
       ],
       "source": "shenyanpai",
-      "urgency": "soon"
+      "urgency": "critical"
     },
     {
       "school": "北京大学",
@@ -634,7 +590,7 @@
         "211"
       ],
       "source": "shenyanpai",
-      "urgency": "soon"
+      "urgency": "critical"
     },
     {
       "school": "北京大学",
@@ -652,7 +608,7 @@
         "211"
       ],
       "source": "shenyanpai",
-      "urgency": "soon"
+      "urgency": "critical"
     },
     {
       "school": "北京大学",
@@ -670,7 +626,7 @@
         "211"
       ],
       "source": "shenyanpai",
-      "urgency": "soon"
+      "urgency": "critical"
     },
     {
       "school": "北京大学",
@@ -688,7 +644,7 @@
         "211"
       ],
       "source": "shenyanpai",
-      "urgency": "soon"
+      "urgency": "critical"
     },
     {
       "school": "北京大学",
@@ -706,7 +662,7 @@
         "211"
       ],
       "source": "shenyanpai",
-      "urgency": "soon"
+      "urgency": "critical"
     },
     {
       "school": "北京大学",
@@ -724,7 +680,7 @@
         "211"
       ],
       "source": "shenyanpai",
-      "urgency": "soon"
+      "urgency": "critical"
     },
     {
       "school": "浙江大学",
@@ -741,7 +697,7 @@
         "211"
       ],
       "source": "shenyanpai",
-      "urgency": "soon"
+      "urgency": "critical"
     },
     {
       "school": "浙江大学",
@@ -758,7 +714,7 @@
         "211"
       ],
       "source": "shenyanpai",
-      "urgency": "soon"
+      "urgency": "critical"
     },
     {
       "school": "西安交通大学",
@@ -774,7 +730,7 @@
         "211"
       ],
       "source": "shenyanpai",
-      "urgency": "soon"
+      "urgency": "critical"
     },
     {
       "school": "西安交通大学",
@@ -790,7 +746,7 @@
         "211"
       ],
       "source": "shenyanpai",
-      "urgency": "soon"
+      "urgency": "critical"
     },
     {
       "school": "西安交通大学",
@@ -806,7 +762,7 @@
         "211"
       ],
       "source": "shenyanpai",
-      "urgency": "soon"
+      "urgency": "critical"
     },
     {
       "school": "西安交通大学",
@@ -822,7 +778,7 @@
         "211"
       ],
       "source": "shenyanpai",
-      "urgency": "soon"
+      "urgency": "critical"
     },
     {
       "school": "西安交通大学",
@@ -838,7 +794,7 @@
         "211"
       ],
       "source": "shenyanpai",
-      "urgency": "soon"
+      "urgency": "critical"
     },
     {
       "school": "西安交通大学",
@@ -854,7 +810,7 @@
         "211"
       ],
       "source": "shenyanpai",
-      "urgency": "soon"
+      "urgency": "critical"
     },
     {
       "school": "西安交通大学",
@@ -870,7 +826,7 @@
         "211"
       ],
       "source": "shenyanpai",
-      "urgency": "soon"
+      "urgency": "critical"
     },
     {
       "school": "北京航空航天大学",
@@ -885,7 +841,7 @@
         "211"
       ],
       "source": "shenyanpai",
-      "urgency": "soon"
+      "urgency": "critical"
     },
     {
       "school": "北京师范大学",
@@ -900,7 +856,7 @@
         "211"
       ],
       "source": "shenyanpai",
-      "urgency": "soon"
+      "urgency": "critical"
     },
     {
       "school": "南开大学",
@@ -915,7 +871,7 @@
         "211"
       ],
       "source": "shenyanpai",
-      "urgency": "soon"
+      "urgency": "critical"
     },
     {
       "school": "吉林大学",
@@ -930,7 +886,7 @@
         "211"
       ],
       "source": "shenyanpai",
-      "urgency": "soon"
+      "urgency": "critical"
     },
     {
       "school": "南方科技大学",
@@ -945,7 +901,7 @@
         "双非"
       ],
       "source": "shenyanpai",
-      "urgency": "soon"
+      "urgency": "critical"
     },
     {
       "school": "中国海洋大学",
@@ -960,7 +916,7 @@
         "211"
       ],
       "source": "shenyanpai",
-      "urgency": "soon"
+      "urgency": "critical"
     },
     {
       "school": "中国海洋大学",
@@ -975,7 +931,7 @@
         "211"
       ],
       "source": "shenyanpai",
-      "urgency": "soon"
+      "urgency": "critical"
     },
     {
       "school": "福建农林大学",
@@ -989,7 +945,7 @@
         "双非"
       ],
       "source": "shenyanpai",
-      "urgency": "soon"
+      "urgency": "critical"
     },
     {
       "school": "重庆交通大学",
@@ -1001,7 +957,7 @@
       "category": "理工类",
       "tags": [],
       "source": "shenyanpai",
-      "urgency": "soon"
+      "urgency": "critical"
     },
     {
       "school": "中国科学院大学",
@@ -1015,7 +971,7 @@
         "研究院"
       ],
       "source": "shenyanpai",
-      "urgency": "soon"
+      "urgency": "critical"
     },
     {
       "school": "中国科学院大学",
@@ -1029,7 +985,7 @@
         "研究院"
       ],
       "source": "shenyanpai",
-      "urgency": "soon"
+      "urgency": "critical"
     },
     {
       "school": "中国科学院",
@@ -1043,7 +999,7 @@
         "研究院"
       ],
       "source": "shenyanpai",
-      "urgency": "soon"
+      "urgency": "critical"
     },
     {
       "school": "中国科学院",
@@ -1057,7 +1013,7 @@
         "研究院"
       ],
       "source": "shenyanpai",
-      "urgency": "soon"
+      "urgency": "critical"
     },
     {
       "school": "中国科学院",
@@ -1071,7 +1027,7 @@
         "研究院"
       ],
       "source": "shenyanpai",
-      "urgency": "soon"
+      "urgency": "critical"
     },
     {
       "school": "中国科学院",
@@ -1085,7 +1041,7 @@
         "研究院"
       ],
       "source": "shenyanpai",
-      "urgency": "soon"
+      "urgency": "critical"
     },
     {
       "school": "中国科学院",
@@ -1099,7 +1055,7 @@
         "研究院"
       ],
       "source": "shenyanpai",
-      "urgency": "soon"
+      "urgency": "critical"
     },
     {
       "school": "中国科学院",
@@ -1113,7 +1069,7 @@
         "研究院"
       ],
       "source": "shenyanpai",
-      "urgency": "soon"
+      "urgency": "critical"
     },
     {
       "school": "中国科学院",
@@ -1127,7 +1083,7 @@
         "研究院"
       ],
       "source": "shenyanpai",
-      "urgency": "soon"
+      "urgency": "critical"
     },
     {
       "school": "中国科学院",
@@ -1141,7 +1097,7 @@
         "研究院"
       ],
       "source": "shenyanpai",
-      "urgency": "soon"
+      "urgency": "critical"
     },
     {
       "school": "中国科学院",
@@ -1155,7 +1111,7 @@
         "研究院"
       ],
       "source": "shenyanpai",
-      "urgency": "soon"
+      "urgency": "critical"
     },
     {
       "school": "中国科学院",
@@ -1169,7 +1125,7 @@
         "研究院"
       ],
       "source": "shenyanpai",
-      "urgency": "soon"
+      "urgency": "critical"
     },
     {
       "school": "北京大学",
@@ -1187,7 +1143,7 @@
         "211"
       ],
       "source": "shenyanpai",
-      "urgency": "soon"
+      "urgency": "critical"
     },
     {
       "school": "西安交通大学",
@@ -1203,7 +1159,7 @@
         "211"
       ],
       "source": "shenyanpai",
-      "urgency": "soon"
+      "urgency": "critical"
     },
     {
       "school": "厦门大学",
@@ -1218,7 +1174,7 @@
         "211"
       ],
       "source": "shenyanpai",
-      "urgency": "soon"
+      "urgency": "critical"
     },
     {
       "school": "厦门大学",
@@ -1233,7 +1189,7 @@
         "211"
       ],
       "source": "shenyanpai",
-      "urgency": "soon"
+      "urgency": "critical"
     },
     {
       "school": "厦门大学",
@@ -1248,7 +1204,7 @@
         "211"
       ],
       "source": "shenyanpai",
-      "urgency": "soon"
+      "urgency": "critical"
     },
     {
       "school": "厦门大学",
@@ -1263,7 +1219,7 @@
         "211"
       ],
       "source": "shenyanpai",
-      "urgency": "soon"
+      "urgency": "critical"
     },
     {
       "school": "厦门大学",
@@ -1278,7 +1234,7 @@
         "211"
       ],
       "source": "shenyanpai",
-      "urgency": "soon"
+      "urgency": "critical"
     },
     {
       "school": "澳门大学",
@@ -1292,7 +1248,7 @@
         "港澳"
       ],
       "source": "shenyanpai",
-      "urgency": "soon"
+      "urgency": "critical"
     },
     {
       "school": "澳门大学",
@@ -1306,7 +1262,7 @@
         "港澳"
       ],
       "source": "shenyanpai",
-      "urgency": "soon"
+      "urgency": "critical"
     },
     {
       "school": "中国科学技术大学",
@@ -1323,7 +1279,7 @@
         "211"
       ],
       "source": "shenyanpai",
-      "urgency": "soon"
+      "urgency": "critical"
     },
     {
       "school": "北京师范大学",
@@ -1338,7 +1294,7 @@
         "211"
       ],
       "source": "shenyanpai",
-      "urgency": "soon"
+      "urgency": "critical"
     },
     {
       "school": "北京师范大学",
@@ -1353,7 +1309,7 @@
         "211"
       ],
       "source": "shenyanpai",
-      "urgency": "soon"
+      "urgency": "critical"
     },
     {
       "school": "暨南大学",
@@ -1367,7 +1323,7 @@
         "211"
       ],
       "source": "shenyanpai",
-      "urgency": "soon"
+      "urgency": "critical"
     },
     {
       "school": "云南大学",
@@ -1382,7 +1338,7 @@
         "211"
       ],
       "source": "shenyanpai",
-      "urgency": "soon"
+      "urgency": "critical"
     },
     {
       "school": "北京第二外国语学院",
@@ -1396,7 +1352,7 @@
         "双非"
       ],
       "source": "shenyanpai",
-      "urgency": "soon"
+      "urgency": "critical"
     },
     {
       "school": "中国科学院大学",
@@ -1410,7 +1366,7 @@
         "研究院"
       ],
       "source": "shenyanpai",
-      "urgency": "soon"
+      "urgency": "critical"
     },
     {
       "school": "清华大学",
@@ -1428,7 +1384,7 @@
         "211"
       ],
       "source": "shenyanpai",
-      "urgency": "soon"
+      "urgency": "critical"
     },
     {
       "school": "北京协和医学院",
@@ -1442,7 +1398,7 @@
         "双非"
       ],
       "source": "shenyanpai",
-      "urgency": "soon"
+      "urgency": "critical"
     },
     {
       "school": "南方科技大学",
@@ -1457,7 +1413,7 @@
         "双非"
       ],
       "source": "shenyanpai",
-      "urgency": "soon"
+      "urgency": "critical"
     },
     {
       "school": "中国科学院",
@@ -1471,7 +1427,7 @@
         "研究院"
       ],
       "source": "shenyanpai",
-      "urgency": "soon"
+      "urgency": "critical"
     },
     {
       "school": "中国科学院",
@@ -1485,7 +1441,7 @@
         "研究院"
       ],
       "source": "shenyanpai",
-      "urgency": "soon"
+      "urgency": "critical"
     },
     {
       "school": "北京大学",
@@ -2157,7 +2113,7 @@
         "211"
       ],
       "source": "shenyanpai",
-      "urgency": "near"
+      "urgency": "soon"
     },
     {
       "school": "复旦大学",
@@ -2174,7 +2130,7 @@
         "211"
       ],
       "source": "shenyanpai",
-      "urgency": "near"
+      "urgency": "soon"
     },
     {
       "school": "上海科技大学",
@@ -2189,7 +2145,7 @@
         "双非"
       ],
       "source": "shenyanpai",
-      "urgency": "near"
+      "urgency": "soon"
     },
     {
       "school": "湖南科技大学",
@@ -2203,7 +2159,7 @@
         "双非"
       ],
       "source": "shenyanpai",
-      "urgency": "near"
+      "urgency": "soon"
     },
     {
       "school": "湖南科技大学",
@@ -2217,7 +2173,7 @@
         "双非"
       ],
       "source": "shenyanpai",
-      "urgency": "near"
+      "urgency": "soon"
     },
     {
       "school": "湖南科技大学",
@@ -2231,7 +2187,7 @@
         "双非"
       ],
       "source": "shenyanpai",
-      "urgency": "near"
+      "urgency": "soon"
     },
     {
       "school": "湖南科技大学",
@@ -2245,7 +2201,7 @@
         "双非"
       ],
       "source": "shenyanpai",
-      "urgency": "near"
+      "urgency": "soon"
     },
     {
       "school": "湖南科技大学",
@@ -2259,7 +2215,7 @@
         "双非"
       ],
       "source": "shenyanpai",
-      "urgency": "near"
+      "urgency": "soon"
     },
     {
       "school": "湖南科技大学",
@@ -2273,7 +2229,7 @@
         "双非"
       ],
       "source": "shenyanpai",
-      "urgency": "near"
+      "urgency": "soon"
     },
     {
       "school": "湖南科技大学",
@@ -2287,7 +2243,7 @@
         "双非"
       ],
       "source": "shenyanpai",
-      "urgency": "near"
+      "urgency": "soon"
     },
     {
       "school": "湖南科技大学",
@@ -2301,7 +2257,7 @@
         "双非"
       ],
       "source": "shenyanpai",
-      "urgency": "near"
+      "urgency": "soon"
     },
     {
       "school": "湖南科技大学",
@@ -2315,7 +2271,7 @@
         "双非"
       ],
       "source": "shenyanpai",
-      "urgency": "near"
+      "urgency": "soon"
     },
     {
       "school": "湖南科技大学",
@@ -2329,7 +2285,7 @@
         "双非"
       ],
       "source": "shenyanpai",
-      "urgency": "near"
+      "urgency": "soon"
     },
     {
       "school": "湖南科技大学",
@@ -2343,7 +2299,7 @@
         "双非"
       ],
       "source": "shenyanpai",
-      "urgency": "near"
+      "urgency": "soon"
     },
     {
       "school": "中国科学院大学",
@@ -2357,7 +2313,7 @@
         "研究院"
       ],
       "source": "shenyanpai",
-      "urgency": "near"
+      "urgency": "soon"
     },
     {
       "school": "中国科学院大学",
@@ -2371,7 +2327,7 @@
         "研究院"
       ],
       "source": "shenyanpai",
-      "urgency": "near"
+      "urgency": "soon"
     },
     {
       "school": "中国科学院大学",
@@ -2385,7 +2341,7 @@
         "研究院"
       ],
       "source": "shenyanpai",
-      "urgency": "near"
+      "urgency": "soon"
     },
     {
       "school": "中国科学院",
@@ -2399,7 +2355,7 @@
         "研究院"
       ],
       "source": "shenyanpai",
-      "urgency": "near"
+      "urgency": "soon"
     },
     {
       "school": "自然资源部",
@@ -2413,7 +2369,7 @@
         "研究院"
       ],
       "source": "shenyanpai",
-      "urgency": "near"
+      "urgency": "soon"
     },
     {
       "school": "浙江大学",
@@ -2430,7 +2386,7 @@
         "211"
       ],
       "source": "shenyanpai",
-      "urgency": "near"
+      "urgency": "soon"
     },
     {
       "school": "中国科学院",
@@ -2444,7 +2400,7 @@
         "研究院"
       ],
       "source": "shenyanpai",
-      "urgency": "near"
+      "urgency": "soon"
     },
     {
       "school": "清华大学",
@@ -5180,7 +5136,7 @@
         "211"
       ],
       "source": "shenyanpai",
-      "urgency": "far"
+      "urgency": "near"
     },
     {
       "school": "哈尔滨工业大学",
@@ -5196,7 +5152,7 @@
         "211"
       ],
       "source": "shenyanpai",
-      "urgency": "far"
+      "urgency": "near"
     },
     {
       "school": "西湖大学",
@@ -5211,7 +5167,7 @@
         "双非"
       ],
       "source": "shenyanpai",
-      "urgency": "far"
+      "urgency": "near"
     },
     {
       "school": "中国科学院大学",
@@ -5225,7 +5181,7 @@
         "研究院"
       ],
       "source": "shenyanpai",
-      "urgency": "far"
+      "urgency": "near"
     },
     {
       "school": "中国科学院",
@@ -5239,7 +5195,7 @@
         "研究院"
       ],
       "source": "shenyanpai",
-      "urgency": "far"
+      "urgency": "near"
     },
     {
       "school": "中国科学院",
@@ -5253,7 +5209,7 @@
         "研究院"
       ],
       "source": "shenyanpai",
-      "urgency": "far"
+      "urgency": "near"
     },
     {
       "school": "兰州大学",
@@ -5268,7 +5224,7 @@
         "211"
       ],
       "source": "shenyanpai",
-      "urgency": "far"
+      "urgency": "near"
     },
     {
       "school": "中国科学院",
@@ -7888,6 +7844,50 @@
       "category": "医农类",
       "tags": [
         "双非"
+      ],
+      "source": "shenyanpai",
+      "urgency": "expired"
+    },
+    {
+      "school": "南开大学",
+      "institute": "南开大学数学科学学院数学学科2026年全国优秀大学生交流营",
+      "title": "2026年南开大学数学科学学院数学学科2026年全国优秀大学生交流营",
+      "url": "https://math.nankai.edu.cn/2026/0605/c34401a597681/page.htm",
+      "deadline": "2026-06-11",
+      "expired": true,
+      "category": "理工类",
+      "tags": [
+        "985",
+        "211"
+      ],
+      "source": "shenyanpai",
+      "urgency": "expired"
+    },
+    {
+      "school": "南开大学",
+      "institute": "南开大学组合数学中心数学学科2026年全国优秀大学生交流营",
+      "title": "2026年南开大学组合数学中心数学学科2026年全国优秀大学生交流营",
+      "url": "https://mp.weixin.qq.com/s/hqFoFGCOmH_F3BWKsoBrmw",
+      "deadline": "2026-06-11",
+      "expired": true,
+      "category": "理工类",
+      "tags": [
+        "985",
+        "211"
+      ],
+      "source": "shenyanpai",
+      "urgency": "expired"
+    },
+    {
+      "school": "中国科学院",
+      "institute": "中国科学院地质与地球物理研究所“第十三届地球与行星科学大学生夏令营”暨“中国科学院大学第四期行星科学暑期学校”",
+      "title": "2026年中国科学院地质与地球物理研究所“第十三届地球与行星科学大学生夏令营”暨“中国科学院大学第四期行星科学暑期学校”通知",
+      "url": "https://igg.cas.cn/jyyd/jy_upcoming/202605/t20260506_8195734.html",
+      "deadline": "2026-06-11",
+      "expired": true,
+      "category": "理工类",
+      "tags": [
+        "研究院"
       ],
       "source": "shenyanpai",
       "urgency": "expired"
