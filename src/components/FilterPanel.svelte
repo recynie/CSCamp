@@ -100,7 +100,7 @@
     />
   </div>
 
-  <!-- 2. 数据源 — 默认折叠，用 tag 按钮替代 checkbox -->
+  <!-- 2. 数据源 -->
   <CollapsibleSection title="数据源" count={filterState.categories.size} defaultOpen={false}>
     <div class="flex flex-wrap gap-1.5">
       {#each allCategories as cat}
@@ -119,7 +119,7 @@
   </CollapsibleSection>
 
   <!-- 3. 学校标签 -->
-  <CollapsibleSection title="学校标签" count={filterState.tags.size} defaultOpen={true}>
+  <CollapsibleSection title="学校标签" count={filterState.tags.size} defaultOpen={false}>
     <div class="flex flex-wrap gap-1.5">
       {#each allTags as tag}
         {@const active = filterState.tags.has(tag)}
@@ -136,7 +136,7 @@
     </div>
   </CollapsibleSection>
 
-  <!-- 4. 学校 — 默认折叠（76所学校，垂直空间大） -->
+  <!-- 4. 学校 -->
   <CollapsibleSection title="学校" count={filterState.schools.size} defaultOpen={false}>
     <input
       type="text"
@@ -159,7 +159,7 @@
     </div>
   </CollapsibleSection>
 
-  <!-- 5. 专业大类 — 默认折叠，用 tag 按钮展示 -->
+  <!-- 5. 专业大类 -->
   <CollapsibleSection title="专业大类" count={filterState.departmentGroups.size} defaultOpen={false}>
     <div class="flex flex-wrap gap-1.5">
       {#each allDepartmentGroups as group}
@@ -178,7 +178,7 @@
   </CollapsibleSection>
 
   <!-- 6. 紧迫度 -->
-  <CollapsibleSection title="紧迫度" count={filterState.urgency.size} defaultOpen={true}>
+  <CollapsibleSection title="紧迫度" count={filterState.urgency.size} defaultOpen={false}>
     <div class="flex flex-col gap-1">
       {#each urgencyOptions as u}
         <label class="flex items-center gap-2 text-sm cursor-pointer hover:bg-zinc-50 dark:hover:bg-zinc-800 p-1 rounded">
@@ -195,7 +195,7 @@
   </CollapsibleSection>
 
   <!-- 7. 显示选项 -->
-  <CollapsibleSection title="显示选项" defaultOpen={true}>
+  <CollapsibleSection title="显示选项" defaultOpen={false}>
     <div class="flex flex-col gap-1">
       <label class="flex items-center gap-2 text-sm cursor-pointer hover:bg-zinc-50 dark:hover:bg-zinc-800 p-1 rounded">
         <input
