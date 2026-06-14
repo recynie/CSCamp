@@ -21,6 +21,10 @@ default_show_expired: false
 # 默认是否显示截止日期为"暂无"的通知
 default_show_unknown_deadline: true
 
+# 默认勾选的专业大类（来自 department_rules.yaml）
+# 空列表 = 显示全部
+default_department_groups: []
+
 # ============================================================
 # 默认勾选的学校列表（空列表 = 不按学校名过滤）
 # ============================================================

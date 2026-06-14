@@ -20,6 +20,7 @@ import yaml
 ROOT = Path(__file__).parent.parent
 FILTER_FILE    = ROOT / "filter.yaml"
 SCHOOL_TAGS_FILE = ROOT / "school_tags.yaml"
+DEPT_RULES_FILE = ROOT / "department_rules.yaml"
 OUTPUT_FILE    = ROOT / "src" / "data" / "camps.json"
 DEFAULTS_FILE  = ROOT / "src" / "data" / "defaults.json"
 
@@ -77,6 +78,63 @@ def get_tags(school: str, school_tags: dict[str, list[str]]) -> list[str]:
     return school_tags.get(school, [])
 
 
+# ── 院系提取和专业大类归类 ────────────────────────────────────────────────────
+
+def load_dept_rules() -> list[dict]:
+    """
+    加载 department_rules.yaml，返回 groups 列表。
+    每个 group: { name: str, keywords: list[str] }
+    """
+    with open(DEPT_RULES_FILE, encoding="utf-8") as f:
+        data = yaml.safe_load(f)
+    return data.get("groups", [])
+
+
+def extract_department(title: str) -> str | None:
+    """
+    从夏令营标题中提取院系名称。
+    例如: "2026年北京大学计算机学院优秀大学生夏令营" → "计算机学院"
+    返回 None 表示无法提取。
+    """
+    t = title
+
+    # 去掉年份前缀
+    t = re.sub(r'^202[0-9]年', '', t)
+    # 去掉 'XX大学' 学校名前缀（2-6个中文字符+大学）
+    t = re.sub(r'^[\u4e00-\u9fff]{2,6}大学', '', t)
+    # 去掉开头可能的括号内容 like （第十二届）
+    t = re.sub(r'^[（(][^）)]*[）)]', '', t).strip()
+    # 再去掉可能的年份
+    t = re.sub(r'^202[0-9]年', '', t)
+
+    # 主要模式: 匹配 "XX学院/系/研究所/研究院/中心/实验室/学部/书院"
+    pat = re.compile(r'^(.{1,25}(?:学院|系|研究所|研究院|中心|实验室|学部|书院))')
+    m = pat.search(t)
+    if m:
+        dept = m.group(1).strip()
+        dept = re.sub(r'(?:202[0-9]年|关于|举办|开放|招募|招收|通知|公告|活动|报名|启动|开始).*$', '', dept).strip()
+        if len(dept) >= 2:
+            return dept
+
+    return None
+
+
+def classify_department(dept: str | None, rules: list[dict]) -> str:
+    """
+    将院系名归类到专业大类。
+    按 keywords 顺序逐个匹配，第一个命中即返回。
+    未匹配的返回 '其他'。
+    此规则对新夏令营零配置即可自动归类。
+    """
+    if not dept:
+        return '其他'
+    for g in rules:
+        for kw in g['keywords']:
+            if kw in dept:
+                return g['name']
+    return '其他'
+
+
 # ── 网络工具 ──────────────────────────────────────────────────────────────────
 
 def fetch(url: str) -> str:
@@ -101,6 +159,10 @@ def parse_deadline(raw: str) -> tuple[str | None, bool]:
 
 
 def extract_institute(title: str, school: str) -> str:
+    """
+    从标题中提取 institute（已废弃，由 extract_department 替代）。
+    保留以兼容现有数据格式。
+    """
     cleaned = re.sub(r"^\d{4}年[^\s]*?大学[（(（]?[^）)）]*[）)）]?", "", title).strip()
     if not cleaned:
         cleaned = re.sub(r"^\d{4}年", "", title).strip()
@@ -275,13 +337,29 @@ def main():
 
     all_entries = add_urgency(all_entries)
 
+    # ── 4. 提取院系和专业大类 ───────────────────────────────
+    dept_rules = load_dept_rules()
+    for e in all_entries:
+        dept = extract_department(e["title"])
+        if not dept:
+            # fallback: 尝试从 institute 提取
+            inst = e.get("institute", "").strip()
+            if inst and inst not in (
+                "全国优秀大学生夏令营", "优秀大学生夏令营",
+                "夏令营", "通知", "报名通知",
+                '夏令营"', '夏令营”', "",
+            ):
+                dept = inst
+        e["department"] = dept or e["title"][:20]
+        e["department_group"] = classify_department(dept, dept_rules)
+
     all_entries.sort(key=lambda e: (
         e["deadline"] is None,
         e["expired"],
         e["deadline"] or "9999",
     ))
 
-    # ── 4. 写出 camps.json ─────────────────────────────────
+    # ── 5. 写出 camps.json ─────────────────────────────────
     OUTPUT_FILE.parent.mkdir(parents=True, exist_ok=True)
     meta = {
         "updated_at": datetime.now(CST).isoformat(),
@@ -292,7 +370,7 @@ def main():
         json.dump(meta, f, ensure_ascii=False, indent=2)
     print(f"[done] 写入 {OUTPUT_FILE}  ({len(all_entries)} 条)")
 
-    # ── 5. 写出 defaults.json ──────────────────────────────
+    # ── 6. 写出 defaults.json ──────────────────────────────
     cfg = yaml.safe_load(open(FILTER_FILE, encoding="utf-8"))
     defaults = {
         "categories": cfg.get("default_categories", []),
@@ -300,6 +378,7 @@ def main():
         "tags":       cfg.get("default_tags", []),
         "showExpired": cfg.get("default_show_expired", False),
         "showUnknown": cfg.get("default_show_unknown_deadline", True),
+        "departmentGroups": cfg.get("default_department_groups", []),
     }
     with open(DEFAULTS_FILE, "w", encoding="utf-8") as f:
         json.dump(defaults, f, ensure_ascii=False, indent=2)

@@ -18,7 +18,9 @@
         "211"
       ],
       "source": "shenyanpai",
-      "urgency": "critical"
+      "urgency": "critical",
+      "department": "电子工程系微波与天线研究所",
+      "department_group": "电子/通信"
     },
     {
       "school": "北京大学",
@@ -36,7 +38,9 @@
         "211"
       ],
       "source": "shenyanpai",
-      "urgency": "critical"
+      "urgency": "critical",
+      "department": "未来技术学院",
+      "department_group": "交叉/前沿"
     },
     {
       "school": "北京大学",
@@ -54,7 +58,9 @@
         "211"
       ],
       "source": "shenyanpai",
-      "urgency": "critical"
+      "urgency": "critical",
+      "department": "前沿交叉学科研究院大数据科学研究中心",
+      "department_group": "计算机"
     },
     {
       "school": "北京大学",
@@ -72,7 +78,9 @@
         "211"
       ],
       "source": "shenyanpai",
-      "urgency": "critical"
+      "urgency": "critical",
+      "department": "前沿交叉学科研究院（含定量生物学中心",
+      "department_group": "生医/药学"
     },
     {
       "school": "北京大学",
@@ -90,7 +98,9 @@
         "211"
       ],
       "source": "shenyanpai",
-      "urgency": "critical"
+      "urgency": "critical",
+      "department": "前沿交叉学科研究院",
+      "department_group": "交叉/前沿"
     },
     {
       "school": "华中科技大学",
@@ -105,7 +115,9 @@
         "211"
       ],
       "source": "shenyanpai",
-      "urgency": "critical"
+      "urgency": "critical",
+      "department": "国家脉冲强磁场科学中心",
+      "department_group": "物理/天文"
     },
     {
       "school": "西安交通大学",
@@ -121,7 +133,9 @@
         "211"
       ],
       "source": "shenyanpai",
-      "urgency": "critical"
+      "urgency": "critical",
+      "department": "物理学院",
+      "department_group": "物理/天文"
     },
     {
       "school": "北京师范大学",
@@ -136,7 +150,9 @@
         "211"
       ],
       "source": "shenyanpai",
-      "urgency": "critical"
+      "urgency": "critical",
+      "department": "数学科学学院",
+      "department_group": "数学/统计"
     },
     {
       "school": "南方科技大学",
@@ -151,7 +167,9 @@
         "双非"
       ],
       "source": "shenyanpai",
-      "urgency": "critical"
+      "urgency": "critical",
+      "department": "海洋科学与工程系",
+      "department_group": "地学/环境"
     },
     {
       "school": "南方科技大学",
@@ -166,7 +184,9 @@
         "双非"
       ],
       "source": "shenyanpai",
-      "urgency": "critical"
+      "urgency": "critical",
+      "department": "创新创意设计学院",
+      "department_group": "文法/社科"
     },
     {
       "school": "西湖大学",
@@ -181,7 +201,9 @@
         "双非"
       ],
       "source": "shenyanpai",
-      "urgency": "critical"
+      "urgency": "critical",
+      "department": "理学院",
+      "department_group": "物理/天文"
     },
     {
       "school": "中国科学院大学",
@@ -195,7 +217,9 @@
         "研究院"
       ],
       "source": "shenyanpai",
-      "urgency": "critical"
+      "urgency": "critical",
+      "department": "杭州高等研究院基础物理与数学科学学院",
+      "department_group": "数学/统计"
     },
     {
       "school": "中国科学院",
@@ -209,7 +233,9 @@
         "研究院"
       ],
       "source": "shenyanpai",
-      "urgency": "critical"
+      "urgency": "critical",
+      "department": "中国科学院南京地理与湖泊研究所",
+      "department_group": "地学/环境"
     },
     {
       "school": "中国科学院",
@@ -223,7 +249,9 @@
         "研究院"
       ],
       "source": "shenyanpai",
-      "urgency": "critical"
+      "urgency": "critical",
+      "department": "中国科学院物理研究所",
+      "department_group": "物理/天文"
     },
     {
       "school": "中国科学院",
@@ -237,7 +265,9 @@
         "研究院"
       ],
       "source": "shenyanpai",
-      "urgency": "critical"
+      "urgency": "critical",
+      "department": "中国科学院精密测量科学与技术创新研究院",
+      "department_group": "交叉/前沿"
     },
     {
       "school": "中国科学院",
@@ -251,7 +281,9 @@
         "研究院"
       ],
       "source": "shenyanpai",
-      "urgency": "critical"
+      "urgency": "critical",
+      "department": "中国科学院化学研究所",
+      "department_group": "化学/材料"
     },
     {
       "school": "北京大学",
@@ -269,7 +301,9 @@
         "211"
       ],
       "source": "shenyanpai",
-      "urgency": "critical"
+      "urgency": "critical",
+      "department": "国家发展研究院",
+      "department_group": "经管/金融"
     },
     {
       "school": "北京大学",
@@ -287,7 +321,9 @@
         "211"
       ],
       "source": "shenyanpai",
-      "urgency": "critical"
+      "urgency": "critical",
+      "department": "前沿交叉学科研究院科学技术与医学史系",
+      "department_group": "生医/药学"
     },
     {
       "school": "西安交通大学",
@@ -303,7 +339,9 @@
         "211"
       ],
       "source": "shenyanpai",
-      "urgency": "critical"
+      "urgency": "critical",
+      "department": "马克思主义学院",
+      "department_group": "文法/社科"
     },
     {
       "school": "北京协和医学院",
@@ -317,7 +355,9 @@
         "双非"
       ],
       "source": "shenyanpai",
-      "urgency": "critical"
+      "urgency": "critical",
+      "department": "北京协和医学院脑和类脑学院",
+      "department_group": "生医/药学"
     },
     {
       "school": "北京协和医学院",
@@ -331,7 +371,9 @@
         "双非"
       ],
       "source": "shenyanpai",
-      "urgency": "critical"
+      "urgency": "critical",
+      "department": "北京协和医学院脑和类脑学院",
+      "department_group": "生医/药学"
     },
     {
       "school": "清华大学",
@@ -349,7 +391,9 @@
         "211"
       ],
       "source": "shenyanpai",
-      "urgency": "critical"
+      "urgency": "critical",
+      "department": "航天航空学院神经调控国家工程研究中心",
+      "department_group": "机械/航空/能源"
     },
     {
       "school": "清华大学",
@@ -367,7 +411,9 @@
         "211"
       ],
       "source": "shenyanpai",
-      "urgency": "critical"
+      "urgency": "critical",
+      "department": "精密仪器系",
+      "department_group": "自动化/仪器"
     },
     {
       "school": "北京大学",
@@ -385,7 +431,9 @@
         "211"
       ],
       "source": "shenyanpai",
-      "urgency": "critical"
+      "urgency": "critical",
+      "department": "计算机学院",
+      "department_group": "计算机"
     },
     {
       "school": "北京大学",
@@ -403,7 +451,9 @@
         "211"
       ],
       "source": "shenyanpai",
-      "urgency": "critical"
+      "urgency": "critical",
+      "department": "数学科学学院",
+      "department_group": "数学/统计"
     },
     {
       "school": "北京大学",
@@ -421,7 +471,9 @@
         "211"
       ],
       "source": "shenyanpai",
-      "urgency": "critical"
+      "urgency": "critical",
+      "department": "物理学院量子材料科学中心",
+      "department_group": "物理/天文"
     },
     {
       "school": "北京大学",
@@ -439,7 +491,9 @@
         "211"
       ],
       "source": "shenyanpai",
-      "urgency": "critical"
+      "urgency": "critical",
+      "department": "智能学院",
+      "department_group": "计算机"
     },
     {
       "school": "北京大学",
@@ -457,7 +511,9 @@
         "211"
       ],
       "source": "shenyanpai",
-      "urgency": "critical"
+      "urgency": "critical",
+      "department": "物理学院现代光学研究所",
+      "department_group": "电子/通信"
     },
     {
       "school": "北京大学",
@@ -475,7 +531,9 @@
         "211"
       ],
       "source": "shenyanpai",
-      "urgency": "critical"
+      "urgency": "critical",
+      "department": "电子学院",
+      "department_group": "电子/通信"
     },
     {
       "school": "北京大学",
@@ -493,7 +551,9 @@
         "211"
       ],
       "source": "shenyanpai",
-      "urgency": "critical"
+      "urgency": "critical",
+      "department": "物理学院",
+      "department_group": "物理/天文"
     },
     {
       "school": "北京大学",
@@ -511,7 +571,9 @@
         "211"
       ],
       "source": "shenyanpai",
-      "urgency": "critical"
+      "urgency": "critical",
+      "department": "集成电路学院",
+      "department_group": "电子/通信"
     },
     {
       "school": "浙江大学",
@@ -528,7 +590,9 @@
         "211"
       ],
       "source": "shenyanpai",
-      "urgency": "critical"
+      "urgency": "critical",
+      "department": "化学系",
+      "department_group": "化学/材料"
     },
     {
       "school": "浙江大学",
@@ -545,7 +609,9 @@
         "211"
       ],
       "source": "shenyanpai",
-      "urgency": "critical"
+      "urgency": "critical",
+      "department": "物理学院",
+      "department_group": "物理/天文"
     },
     {
       "school": "西安交通大学",
@@ -561,7 +627,9 @@
         "211"
       ],
       "source": "shenyanpai",
-      "urgency": "critical"
+      "urgency": "critical",
+      "department": "电子与信息学部计算机科学与技术学院",
+      "department_group": "计算机"
     },
     {
       "school": "西安交通大学",
@@ -577,7 +645,9 @@
         "211"
       ],
       "source": "shenyanpai",
-      "urgency": "critical"
+      "urgency": "critical",
+      "department": "电子与信息学部微电子学院",
+      "department_group": "电子/通信"
     },
     {
       "school": "西安交通大学",
@@ -593,7 +663,9 @@
         "211"
       ],
       "source": "shenyanpai",
-      "urgency": "critical"
+      "urgency": "critical",
+      "department": "电子与信息学部信息与通信工程学院",
+      "department_group": "电子/通信"
     },
     {
       "school": "西安交通大学",
@@ -609,7 +681,9 @@
         "211"
       ],
       "source": "shenyanpai",
-      "urgency": "critical"
+      "urgency": "critical",
+      "department": "能源与动力工程学院",
+      "department_group": "机械/航空/能源"
     },
     {
       "school": "西安交通大学",
@@ -625,7 +699,9 @@
         "211"
       ],
       "source": "shenyanpai",
-      "urgency": "critical"
+      "urgency": "critical",
+      "department": "电子与信息学部软件学院",
+      "department_group": "计算机"
     },
     {
       "school": "西安交通大学",
@@ -641,7 +717,9 @@
         "211"
       ],
       "source": "shenyanpai",
-      "urgency": "critical"
+      "urgency": "critical",
+      "department": "仪器科学与技术学院",
+      "department_group": "自动化/仪器"
     },
     {
       "school": "西安交通大学",
@@ -657,7 +735,9 @@
         "211"
       ],
       "source": "shenyanpai",
-      "urgency": "critical"
+      "urgency": "critical",
+      "department": "能源与动力工程学院",
+      "department_group": "机械/航空/能源"
     },
     {
       "school": "北京航空航天大学",
@@ -672,7 +752,9 @@
         "211"
       ],
       "source": "shenyanpai",
-      "urgency": "critical"
+      "urgency": "critical",
+      "department": "宇航学院",
+      "department_group": "机械/航空/能源"
     },
     {
       "school": "北京师范大学",
@@ -687,7 +769,9 @@
         "211"
       ],
       "source": "shenyanpai",
-      "urgency": "critical"
+      "urgency": "critical",
+      "department": "地理科学学部灾害风险科学研究院优秀大学生系",
+      "department_group": "地学/环境"
     },
     {
       "school": "南开大学",
@@ -702,7 +786,9 @@
         "211"
       ],
       "source": "shenyanpai",
-      "urgency": "critical"
+      "urgency": "critical",
+      "department": "化学学院",
+      "department_group": "化学/材料"
     },
     {
       "school": "吉林大学",
@@ -717,7 +803,9 @@
         "211"
       ],
       "source": "shenyanpai",
-      "urgency": "critical"
+      "urgency": "critical",
+      "department": "地球探测科学与技术学院",
+      "department_group": "地学/环境"
     },
     {
       "school": "南方科技大学",
@@ -732,7 +820,9 @@
         "双非"
       ],
       "source": "shenyanpai",
-      "urgency": "critical"
+      "urgency": "critical",
+      "department": "力学与航空航天工程系",
+      "department_group": "机械/航空/能源"
     },
     {
       "school": "中国海洋大学",
@@ -747,7 +837,9 @@
         "211"
       ],
       "source": "shenyanpai",
-      "urgency": "critical"
+      "urgency": "critical",
+      "department": "方宗熙海洋生物进化与发育研究中心",
+      "department_group": "生医/药学"
     },
     {
       "school": "中国海洋大学",
@@ -762,7 +854,9 @@
         "211"
       ],
       "source": "shenyanpai",
-      "urgency": "critical"
+      "urgency": "critical",
+      "department": "海洋生物遗传学与育种教育部重点实验室",
+      "department_group": "生医/药学"
     },
     {
       "school": "福建农林大学",
@@ -776,7 +870,9 @@
         "双非"
       ],
       "source": "shenyanpai",
-      "urgency": "critical"
+      "urgency": "critical",
+      "department": "资源与环境学院",
+      "department_group": "地学/环境"
     },
     {
       "school": "重庆交通大学",
@@ -788,7 +884,9 @@
       "category": "理工类",
       "tags": [],
       "source": "shenyanpai",
-      "urgency": "critical"
+      "urgency": "critical",
+      "department": "土木工程学院",
+      "department_group": "建筑/土木"
     },
     {
       "school": "中国科学院大学",
@@ -802,7 +900,9 @@
         "研究院"
       ],
       "source": "shenyanpai",
-      "urgency": "critical"
+      "urgency": "critical",
+      "department": "杭州高等研究院智能科学与技术学院",
+      "department_group": "计算机"
     },
     {
       "school": "中国科学院大学",
@@ -816,7 +916,9 @@
         "研究院"
       ],
       "source": "shenyanpai",
-      "urgency": "critical"
+      "urgency": "critical",
+      "department": "物理科学学院",
+      "department_group": "物理/天文"
     },
     {
       "school": "中国科学院",
@@ -830,7 +932,9 @@
         "研究院"
       ],
       "source": "shenyanpai",
-      "urgency": "critical"
+      "urgency": "critical",
+      "department": "中国科学院大气物理研究所",
+      "department_group": "物理/天文"
     },
     {
       "school": "中国科学院",
@@ -844,7 +948,9 @@
         "研究院"
       ],
       "source": "shenyanpai",
-      "urgency": "critical"
+      "urgency": "critical",
+      "department": "中国科学院生物与化学交叉研究中心",
+      "department_group": "化学/材料"
     },
     {
       "school": "中国科学院",
@@ -858,7 +964,9 @@
         "研究院"
       ],
       "source": "shenyanpai",
-      "urgency": "critical"
+      "urgency": "critical",
+      "department": "中国科学院青岛生物能源与过程研究所",
+      "department_group": "生医/药学"
     },
     {
       "school": "中国科学院",
@@ -872,7 +980,9 @@
         "研究院"
       ],
       "source": "shenyanpai",
-      "urgency": "critical"
+      "urgency": "critical",
+      "department": "中国科学院天津工业生物技术研究所",
+      "department_group": "生医/药学"
     },
     {
       "school": "中国科学院",
@@ -886,7 +996,9 @@
         "研究院"
       ],
       "source": "shenyanpai",
-      "urgency": "critical"
+      "urgency": "critical",
+      "department": "中国科学院武汉病毒研究所",
+      "department_group": "生医/药学"
     },
     {
       "school": "中国科学院",
@@ -900,7 +1012,9 @@
         "研究院"
       ],
       "source": "shenyanpai",
-      "urgency": "critical"
+      "urgency": "critical",
+      "department": "中国科学院生物物理研究所",
+      "department_group": "物理/天文"
     },
     {
       "school": "中国科学院",
@@ -914,7 +1028,9 @@
         "研究院"
       ],
       "source": "shenyanpai",
-      "urgency": "critical"
+      "urgency": "critical",
+      "department": "中国科学院",
+      "department_group": "研究院所"
     },
     {
       "school": "中国科学院",
@@ -928,7 +1044,9 @@
         "研究院"
       ],
       "source": "shenyanpai",
-      "urgency": "critical"
+      "urgency": "critical",
+      "department": "中国科学院沈阳应用生态研究所",
+      "department_group": "生医/药学"
     },
     {
       "school": "中国科学院",
@@ -942,7 +1060,9 @@
         "研究院"
       ],
       "source": "shenyanpai",
-      "urgency": "critical"
+      "urgency": "critical",
+      "department": "中国科学院",
+      "department_group": "研究院所"
     },
     {
       "school": "中国科学院",
@@ -956,7 +1076,9 @@
         "研究院"
       ],
       "source": "shenyanpai",
-      "urgency": "critical"
+      "urgency": "critical",
+      "department": "中国科学院国家纳米科学中心",
+      "department_group": "化学/材料"
     },
     {
       "school": "北京大学",
@@ -974,7 +1096,9 @@
         "211"
       ],
       "source": "shenyanpai",
-      "urgency": "critical"
+      "urgency": "critical",
+      "department": "现代农学院",
+      "department_group": "农学/畜牧"
     },
     {
       "school": "西安交通大学",
@@ -990,7 +1114,9 @@
         "211"
       ],
       "source": "shenyanpai",
-      "urgency": "critical"
+      "urgency": "critical",
+      "department": "经济与金融学院",
+      "department_group": "经管/金融"
     },
     {
       "school": "厦门大学",
@@ -1005,7 +1131,9 @@
         "211"
       ],
       "source": "shenyanpai",
-      "urgency": "critical"
+      "urgency": "critical",
+      "department": "经济学院",
+      "department_group": "经管/金融"
     },
     {
       "school": "厦门大学",
@@ -1020,7 +1148,9 @@
         "211"
       ],
       "source": "shenyanpai",
-      "urgency": "critical"
+      "urgency": "critical",
+      "department": "王亚南经济研究院",
+      "department_group": "经管/金融"
     },
     {
       "school": "厦门大学",
@@ -1035,7 +1165,9 @@
         "211"
       ],
       "source": "shenyanpai",
-      "urgency": "critical"
+      "urgency": "critical",
+      "department": "邹至庄经济研究院",
+      "department_group": "经管/金融"
     },
     {
       "school": "厦门大学",
@@ -1050,7 +1182,9 @@
         "211"
       ],
       "source": "shenyanpai",
-      "urgency": "critical"
+      "urgency": "critical",
+      "department": "经济学院",
+      "department_group": "经管/金融"
     },
     {
       "school": "厦门大学",
@@ -1065,7 +1199,9 @@
         "211"
       ],
       "source": "shenyanpai",
-      "urgency": "critical"
+      "urgency": "critical",
+      "department": "经济学院",
+      "department_group": "经管/金融"
     },
     {
       "school": "澳门大学",
@@ -1079,7 +1215,9 @@
         "港澳"
       ],
       "source": "shenyanpai",
-      "urgency": "critical"
+      "urgency": "critical",
+      "department": "2026年澳門大學工商管理學院2026年學術夏令營火熱",
+      "department_group": "经管/金融"
     },
     {
       "school": "澳门大学",
@@ -1093,7 +1231,9 @@
         "港澳"
       ],
       "source": "shenyanpai",
-      "urgency": "critical"
+      "urgency": "critical",
+      "department": "澳門大学工商管理學院金融碩士夏令營現正接受申請",
+      "department_group": "经管/金融"
     },
     {
       "school": "中国科学技术大学",
@@ -1110,7 +1250,9 @@
         "211"
       ],
       "source": "shenyanpai",
-      "urgency": "critical"
+      "urgency": "critical",
+      "department": "人文与社会科学学院",
+      "department_group": "文法/社科"
     },
     {
       "school": "北京师范大学",
@@ -1125,7 +1267,9 @@
         "211"
       ],
       "source": "shenyanpai",
-      "urgency": "critical"
+      "urgency": "critical",
+      "department": "政府管理学院",
+      "department_group": "物理/天文"
     },
     {
       "school": "北京师范大学",
@@ -1140,7 +1284,9 @@
         "211"
       ],
       "source": "shenyanpai",
-      "urgency": "critical"
+      "urgency": "critical",
+      "department": "未来设计学院",
+      "department_group": "文法/社科"
     },
     {
       "school": "暨南大学",
@@ -1154,7 +1300,9 @@
         "211"
       ],
       "source": "shenyanpai",
-      "urgency": "critical"
+      "urgency": "critical",
+      "department": "国际关系学院第十一届“东南亚、华侨华人与区域国际关系",
+      "department_group": "文法/社科"
     },
     {
       "school": "云南大学",
@@ -1169,7 +1317,9 @@
         "211"
       ],
       "source": "shenyanpai",
-      "urgency": "critical"
+      "urgency": "critical",
+      "department": "国际关系研究院",
+      "department_group": "文法/社科"
     },
     {
       "school": "北京第二外国语学院",
@@ -1183,7 +1333,9 @@
         "双非"
       ],
       "source": "shenyanpai",
-      "urgency": "critical"
+      "urgency": "critical",
+      "department": "北京第二外国语学院日语学院",
+      "department_group": "文法/社科"
     },
     {
       "school": "中国科学院大学",
@@ -1197,7 +1349,9 @@
         "研究院"
       ],
       "source": "shenyanpai",
-      "urgency": "critical"
+      "urgency": "critical",
+      "department": "信息资源管理系",
+      "department_group": "经管/金融"
     },
     {
       "school": "清华大学",
@@ -1215,7 +1369,9 @@
         "211"
       ],
       "source": "shenyanpai",
-      "urgency": "critical"
+      "urgency": "critical",
+      "department": "万科公共卫生与健康学院",
+      "department_group": "生医/药学"
     },
     {
       "school": "北京协和医学院",
@@ -1229,7 +1385,9 @@
         "双非"
       ],
       "source": "shenyanpai",
-      "urgency": "critical"
+      "urgency": "critical",
+      "department": "北京协和医学院放射医学研究所",
+      "department_group": "生医/药学"
     },
     {
       "school": "南方科技大学",
@@ -1244,7 +1402,9 @@
         "双非"
       ],
       "source": "shenyanpai",
-      "urgency": "critical"
+      "urgency": "critical",
+      "department": "医学院",
+      "department_group": "生医/药学"
     },
     {
       "school": "中国科学院",
@@ -1258,7 +1418,9 @@
         "研究院"
       ],
       "source": "shenyanpai",
-      "urgency": "critical"
+      "urgency": "critical",
+      "department": "中国科学院",
+      "department_group": "研究院所"
     },
     {
       "school": "中国科学院",
@@ -1272,7 +1434,9 @@
         "研究院"
       ],
       "source": "shenyanpai",
-      "urgency": "critical"
+      "urgency": "critical",
+      "department": "中国科学院东北地理与农业生态研究所",
+      "department_group": "生医/药学"
     },
     {
       "school": "北京大学",
@@ -1290,7 +1454,9 @@
         "211"
       ],
       "source": "shenyanpai",
-      "urgency": "critical"
+      "urgency": "critical",
+      "department": "环境科学与工程学院",
+      "department_group": "地学/环境"
     },
     {
       "school": "北京师范大学",
@@ -1305,7 +1471,9 @@
         "211"
       ],
       "source": "shenyanpai",
-      "urgency": "critical"
+      "urgency": "critical",
+      "department": "水科学研究院",
+      "department_group": "地学/环境"
     },
     {
       "school": "北京师范大学",
@@ -1320,7 +1488,9 @@
         "211"
       ],
       "source": "shenyanpai",
-      "urgency": "critical"
+      "urgency": "critical",
+      "department": "地理科学学部优秀大学生系",
+      "department_group": "地学/环境"
     },
     {
       "school": "厦门大学",
@@ -1335,7 +1505,9 @@
         "211"
       ],
       "source": "shenyanpai",
-      "urgency": "critical"
+      "urgency": "critical",
+      "department": "化学化工学院",
+      "department_group": "机械/航空/能源"
     },
     {
       "school": "南方科技大学",
@@ -1350,7 +1522,9 @@
         "双非"
       ],
       "source": "shenyanpai",
-      "urgency": "critical"
+      "urgency": "critical",
+      "department": "生命科学学院",
+      "department_group": "生医/药学"
     },
     {
       "school": "中国科学院大学",
@@ -1364,7 +1538,9 @@
         "研究院"
       ],
       "source": "shenyanpai",
-      "urgency": "critical"
+      "urgency": "critical",
+      "department": "计算机科学与技术学院",
+      "department_group": "计算机"
     },
     {
       "school": "北京大学",
@@ -1382,7 +1558,9 @@
         "211"
       ],
       "source": "shenyanpai",
-      "urgency": "critical"
+      "urgency": "critical",
+      "department": "经济学院",
+      "department_group": "经管/金融"
     },
     {
       "school": "北京大学",
@@ -1400,7 +1578,9 @@
         "211"
       ],
       "source": "shenyanpai",
-      "urgency": "critical"
+      "urgency": "critical",
+      "department": "新结构经济学研究院",
+      "department_group": "经管/金融"
     },
     {
       "school": "北京大学",
@@ -1418,7 +1598,9 @@
         "211"
       ],
       "source": "shenyanpai",
-      "urgency": "critical"
+      "urgency": "critical",
+      "department": "光华管理学院",
+      "department_group": "物理/天文"
     },
     {
       "school": "北京大学",
@@ -1436,7 +1618,9 @@
         "211"
       ],
       "source": "shenyanpai",
-      "urgency": "critical"
+      "urgency": "critical",
+      "department": "光华管理学院",
+      "department_group": "物理/天文"
     },
     {
       "school": "北京大学",
@@ -1454,7 +1638,9 @@
         "211"
       ],
       "source": "shenyanpai",
-      "urgency": "critical"
+      "urgency": "critical",
+      "department": "光华管理学院",
+      "department_group": "物理/天文"
     },
     {
       "school": "四川大学",
@@ -1469,7 +1655,9 @@
         "211"
       ],
       "source": "shenyanpai",
-      "urgency": "critical"
+      "urgency": "critical",
+      "department": "法学院",
+      "department_group": "文法/社科"
     },
     {
       "school": "浙江大学",
@@ -1486,7 +1674,9 @@
         "211"
       ],
       "source": "shenyanpai",
-      "urgency": "critical"
+      "urgency": "critical",
+      "department": "光电科学与工程学院",
+      "department_group": "电子/通信"
     },
     {
       "school": "浙江大学",
@@ -1503,7 +1693,9 @@
         "211"
       ],
       "source": "shenyanpai",
-      "urgency": "critical"
+      "urgency": "critical",
+      "department": "高分子科学与工程学系",
+      "department_group": "化学/材料"
     },
     {
       "school": "浙江大学",
@@ -1520,7 +1712,9 @@
         "211"
       ],
       "source": "shenyanpai",
-      "urgency": "critical"
+      "urgency": "critical",
+      "department": "材料科学与工程学院",
+      "department_group": "化学/材料"
     },
     {
       "school": "西安交通大学",
@@ -1536,7 +1730,9 @@
         "211"
       ],
       "source": "shenyanpai",
-      "urgency": "critical"
+      "urgency": "critical",
+      "department": "生命科学与技术学院",
+      "department_group": "生医/药学"
     },
     {
       "school": "中国科学院",
@@ -1550,7 +1746,9 @@
         "研究院"
       ],
       "source": "shenyanpai",
-      "urgency": "critical"
+      "urgency": "critical",
+      "department": "中国科学院数学与系统科学研究院",
+      "department_group": "数学/统计"
     },
     {
       "school": "北京师范大学",
@@ -1565,7 +1763,9 @@
         "211"
       ],
       "source": "shenyanpai",
-      "urgency": "critical"
+      "urgency": "critical",
+      "department": "国家安全与应急管理学院",
+      "department_group": "物理/天文"
     },
     {
       "school": "中国科学院大学",
@@ -1579,7 +1779,9 @@
         "研究院"
       ],
       "source": "shenyanpai",
-      "urgency": "critical"
+      "urgency": "critical",
+      "department": "人文学院",
+      "department_group": "文法/社科"
     },
     {
       "school": "北京协和医学院",
@@ -1593,7 +1795,9 @@
         "双非"
       ],
       "source": "shenyanpai",
-      "urgency": "critical"
+      "urgency": "critical",
+      "department": "北京协和医学院药用植物研究所",
+      "department_group": "生医/药学"
     },
     {
       "school": "北京大学",
@@ -1611,7 +1815,9 @@
         "211"
       ],
       "source": "shenyanpai",
-      "urgency": "soon"
+      "urgency": "soon",
+      "department": "城市规划与设计学院",
+      "department_group": "地学/环境"
     },
     {
       "school": "南京大学",
@@ -1628,7 +1834,9 @@
         "211"
       ],
       "source": "shenyanpai",
-      "urgency": "soon"
+      "urgency": "soon",
+      "department": "地理与海洋科学学院",
+      "department_group": "地学/环境"
     },
     {
       "school": "武汉大学",
@@ -1643,7 +1851,9 @@
         "211"
       ],
       "source": "shenyanpai",
-      "urgency": "soon"
+      "urgency": "soon",
+      "department": "数学与统计学院",
+      "department_group": "数学/统计"
     },
     {
       "school": "西安交通大学",
@@ -1659,7 +1869,9 @@
         "211"
       ],
       "source": "shenyanpai",
-      "urgency": "soon"
+      "urgency": "soon",
+      "department": "前沿科学技术研究院",
+      "department_group": "交叉/前沿"
     },
     {
       "school": "西安交通大学",
@@ -1675,7 +1887,9 @@
         "211"
       ],
       "source": "shenyanpai",
-      "urgency": "soon"
+      "urgency": "soon",
+      "department": "电气工程学院",
+      "department_group": "自动化/仪器"
     },
     {
       "school": "西安交通大学",
@@ -1691,7 +1905,9 @@
         "211"
       ],
       "source": "shenyanpai",
-      "urgency": "soon"
+      "urgency": "soon",
+      "department": "化学学院",
+      "department_group": "化学/材料"
     },
     {
       "school": "北京师范大学",
@@ -1706,7 +1922,9 @@
         "211"
       ],
       "source": "shenyanpai",
-      "urgency": "soon"
+      "urgency": "soon",
+      "department": "未来技术学院",
+      "department_group": "交叉/前沿"
     },
     {
       "school": "北京师范大学",
@@ -1721,7 +1939,9 @@
         "211"
       ],
       "source": "shenyanpai",
-      "urgency": "soon"
+      "urgency": "soon",
+      "department": "系统科学学院",
+      "department_group": "交叉/前沿"
     },
     {
       "school": "北京师范大学",
@@ -1736,7 +1956,9 @@
         "211"
       ],
       "source": "shenyanpai",
-      "urgency": "soon"
+      "urgency": "soon",
+      "department": "高等研究院",
+      "department_group": "交叉/前沿"
     },
     {
       "school": "吉林大学",
@@ -1751,7 +1973,9 @@
         "211"
       ],
       "source": "shenyanpai",
-      "urgency": "soon"
+      "urgency": "soon",
+      "department": "化学学院",
+      "department_group": "化学/材料"
     },
     {
       "school": "南方科技大学",
@@ -1766,7 +1990,9 @@
         "双非"
       ],
       "source": "shenyanpai",
-      "urgency": "soon"
+      "urgency": "soon",
+      "department": "环境科学与工程学院",
+      "department_group": "地学/环境"
     },
     {
       "school": "南方科技大学",
@@ -1781,7 +2007,9 @@
         "双非"
       ],
       "source": "shenyanpai",
-      "urgency": "soon"
+      "urgency": "soon",
+      "department": "物理系",
+      "department_group": "物理/天文"
     },
     {
       "school": "南方科技大学",
@@ -1796,7 +2024,9 @@
         "双非"
       ],
       "source": "shenyanpai",
-      "urgency": "soon"
+      "urgency": "soon",
+      "department": "环境科学与工程学院",
+      "department_group": "地学/环境"
     },
     {
       "school": "南方科技大学",
@@ -1811,7 +2041,9 @@
         "双非"
       ],
       "source": "shenyanpai",
-      "urgency": "soon"
+      "urgency": "soon",
+      "department": "地球与空间科学系",
+      "department_group": "物理/天文"
     },
     {
       "school": "上海科技大学",
@@ -1826,7 +2058,9 @@
         "双非"
       ],
       "source": "shenyanpai",
-      "urgency": "soon"
+      "urgency": "soon",
+      "department": "生命科学与技术学院",
+      "department_group": "生医/药学"
     },
     {
       "school": "广东工业大学",
@@ -1840,7 +2074,9 @@
         "双非"
       ],
       "source": "shenyanpai",
-      "urgency": "soon"
+      "urgency": "soon",
+      "department": "信息工程学院",
+      "department_group": "计算机"
     },
     {
       "school": "中国科学院大学",
@@ -1854,7 +2090,9 @@
         "研究院"
       ],
       "source": "shenyanpai",
-      "urgency": "soon"
+      "urgency": "soon",
+      "department": "杭州高等研究院生命与健康科学学院",
+      "department_group": "生医/药学"
     },
     {
       "school": "中国科学院",
@@ -1868,7 +2106,9 @@
         "研究院"
       ],
       "source": "shenyanpai",
-      "urgency": "soon"
+      "urgency": "soon",
+      "department": "中国科学院大连化学物理研究所",
+      "department_group": "物理/天文"
     },
     {
       "school": "华东政法大学",
@@ -1882,7 +2122,9 @@
         "双非"
       ],
       "source": "shenyanpai",
-      "urgency": "soon"
+      "urgency": "soon",
+      "department": "知识产权学院",
+      "department_group": "经管/金融"
     },
     {
       "school": "贵州财经大学",
@@ -1896,7 +2138,9 @@
         "双非"
       ],
       "source": "shenyanpai",
-      "urgency": "soon"
+      "urgency": "soon",
+      "department": "马克思主义学院",
+      "department_group": "文法/社科"
     },
     {
       "school": "西安交通大学",
@@ -1912,7 +2156,9 @@
         "211"
       ],
       "source": "shenyanpai",
-      "urgency": "soon"
+      "urgency": "soon",
+      "department": "医学部",
+      "department_group": "生医/药学"
     },
     {
       "school": "山东大学",
@@ -1927,7 +2173,9 @@
         "211"
       ],
       "source": "shenyanpai",
-      "urgency": "soon"
+      "urgency": "soon",
+      "department": "药学院",
+      "department_group": "生医/药学"
     },
     {
       "school": "复旦大学",
@@ -1944,7 +2192,9 @@
         "211"
       ],
       "source": "shenyanpai",
-      "urgency": "soon"
+      "urgency": "soon",
+      "department": "化学系",
+      "department_group": "化学/材料"
     },
     {
       "school": "复旦大学",
@@ -1961,7 +2211,9 @@
         "211"
       ],
       "source": "shenyanpai",
-      "urgency": "soon"
+      "urgency": "soon",
+      "department": "化学系",
+      "department_group": "化学/材料"
     },
     {
       "school": "上海科技大学",
@@ -1976,7 +2228,9 @@
         "双非"
       ],
       "source": "shenyanpai",
-      "urgency": "soon"
+      "urgency": "soon",
+      "department": "物质科学与技术学院",
+      "department_group": "物理/天文"
     },
     {
       "school": "湖南科技大学",
@@ -1990,7 +2244,9 @@
         "双非"
       ],
       "source": "shenyanpai",
-      "urgency": "soon"
+      "urgency": "soon",
+      "department": "地球科学与空间信息工程学院",
+      "department_group": "计算机"
     },
     {
       "school": "湖南科技大学",
@@ -2004,7 +2260,9 @@
         "双非"
       ],
       "source": "shenyanpai",
-      "urgency": "soon"
+      "urgency": "soon",
+      "department": "材料科学与工程学院",
+      "department_group": "化学/材料"
     },
     {
       "school": "湖南科技大学",
@@ -2018,7 +2276,9 @@
         "双非"
       ],
       "source": "shenyanpai",
-      "urgency": "soon"
+      "urgency": "soon",
+      "department": "生命科学与健康学院",
+      "department_group": "生医/药学"
     },
     {
       "school": "湖南科技大学",
@@ -2032,7 +2292,9 @@
         "双非"
       ],
       "source": "shenyanpai",
-      "urgency": "soon"
+      "urgency": "soon",
+      "department": "物理与电子科学学院",
+      "department_group": "电子/通信"
     },
     {
       "school": "湖南科技大学",
@@ -2046,7 +2308,9 @@
         "双非"
       ],
       "source": "shenyanpai",
-      "urgency": "soon"
+      "urgency": "soon",
+      "department": "机电工程学院",
+      "department_group": "自动化/仪器"
     },
     {
       "school": "湖南科技大学",
@@ -2060,7 +2324,9 @@
         "双非"
       ],
       "source": "shenyanpai",
-      "urgency": "soon"
+      "urgency": "soon",
+      "department": "计算机科学与工程学院",
+      "department_group": "计算机"
     },
     {
       "school": "湖南科技大学",
@@ -2074,7 +2340,9 @@
         "双非"
       ],
       "source": "shenyanpai",
-      "urgency": "soon"
+      "urgency": "soon",
+      "department": "化学化工学院",
+      "department_group": "机械/航空/能源"
     },
     {
       "school": "湖南科技大学",
@@ -2088,7 +2356,9 @@
         "双非"
       ],
       "source": "shenyanpai",
-      "urgency": "soon"
+      "urgency": "soon",
+      "department": "资源环境与安全工程学院",
+      "department_group": "地学/环境"
     },
     {
       "school": "湖南科技大学",
@@ -2102,7 +2372,9 @@
         "双非"
       ],
       "source": "shenyanpai",
-      "urgency": "soon"
+      "urgency": "soon",
+      "department": "信息与电气工程学院",
+      "department_group": "电子/通信"
     },
     {
       "school": "湖南科技大学",
@@ -2116,7 +2388,9 @@
         "双非"
       ],
       "source": "shenyanpai",
-      "urgency": "soon"
+      "urgency": "soon",
+      "department": "数学与统计学院",
+      "department_group": "数学/统计"
     },
     {
       "school": "湖南科技大学",
@@ -2130,7 +2404,9 @@
         "双非"
       ],
       "source": "shenyanpai",
-      "urgency": "soon"
+      "urgency": "soon",
+      "department": "土木工程学院",
+      "department_group": "建筑/土木"
     },
     {
       "school": "中国科学院大学",
@@ -2144,7 +2420,9 @@
         "研究院"
       ],
       "source": "shenyanpai",
-      "urgency": "soon"
+      "urgency": "soon",
+      "department": "物理科学学院",
+      "department_group": "物理/天文"
     },
     {
       "school": "中国科学院大学",
@@ -2158,7 +2436,9 @@
         "研究院"
       ],
       "source": "shenyanpai",
-      "urgency": "soon"
+      "urgency": "soon",
+      "department": "物理科学学院",
+      "department_group": "物理/天文"
     },
     {
       "school": "中国科学院大学",
@@ -2172,7 +2452,9 @@
         "研究院"
       ],
       "source": "shenyanpai",
-      "urgency": "soon"
+      "urgency": "soon",
+      "department": "杭州高等研究院物理与光电工程学院",
+      "department_group": "电子/通信"
     },
     {
       "school": "中国科学院",
@@ -2186,7 +2468,9 @@
         "研究院"
       ],
       "source": "shenyanpai",
-      "urgency": "soon"
+      "urgency": "soon",
+      "department": "中国科学院微小卫星创新研究院",
+      "department_group": "交叉/前沿"
     },
     {
       "school": "自然资源部",
@@ -2200,7 +2484,9 @@
         "研究院"
       ],
       "source": "shenyanpai",
-      "urgency": "soon"
+      "urgency": "soon",
+      "department": "自然资源部第一海洋研究所",
+      "department_group": "地学/环境"
     },
     {
       "school": "浙江大学",
@@ -2217,7 +2503,9 @@
         "211"
       ],
       "source": "shenyanpai",
-      "urgency": "soon"
+      "urgency": "soon",
+      "department": "医学院附属精神卫生中心",
+      "department_group": "生医/药学"
     },
     {
       "school": "中国科学院",
@@ -2231,7 +2519,9 @@
         "研究院"
       ],
       "source": "shenyanpai",
-      "urgency": "soon"
+      "urgency": "soon",
+      "department": "中国科学院广州生物医药与健康研究院",
+      "department_group": "生医/药学"
     },
     {
       "school": "清华大学",
@@ -2249,7 +2539,9 @@
         "211"
       ],
       "source": "shenyanpai",
-      "urgency": "soon"
+      "urgency": "soon",
+      "department": "生物医学交叉研究院（北京生命科学研究所",
+      "department_group": "生医/药学"
     },
     {
       "school": "清华大学",
@@ -2267,7 +2559,9 @@
         "211"
       ],
       "source": "shenyanpai",
-      "urgency": "soon"
+      "urgency": "soon",
+      "department": "力学与工程交叉研究院",
+      "department_group": "机械/航空/能源"
     },
     {
       "school": "浙江大学",
@@ -2284,7 +2578,9 @@
         "211"
       ],
       "source": "shenyanpai",
-      "urgency": "soon"
+      "urgency": "soon",
+      "department": "航空航天学院",
+      "department_group": "机械/航空/能源"
     },
     {
       "school": "浙江大学",
@@ -2301,7 +2597,9 @@
         "211"
       ],
       "source": "shenyanpai",
-      "urgency": "soon"
+      "urgency": "soon",
+      "department": "机械工程学院",
+      "department_group": "机械/航空/能源"
     },
     {
       "school": "浙江大学",
@@ -2318,7 +2616,9 @@
         "211"
       ],
       "source": "shenyanpai",
-      "urgency": "soon"
+      "urgency": "soon",
+      "department": "数据科学研究中心",
+      "department_group": "计算机"
     },
     {
       "school": "浙江大学",
@@ -2335,7 +2635,9 @@
         "211"
       ],
       "source": "shenyanpai",
-      "urgency": "soon"
+      "urgency": "soon",
+      "department": "环境与资源学院",
+      "department_group": "地学/环境"
     },
     {
       "school": "上海交通大学",
@@ -2352,7 +2654,9 @@
         "211"
       ],
       "source": "shenyanpai",
-      "urgency": "soon"
+      "urgency": "soon",
+      "department": "国家电投智慧能源创新学院",
+      "department_group": "交叉/前沿"
     },
     {
       "school": "复旦大学",
@@ -2369,7 +2673,9 @@
         "211"
       ],
       "source": "shenyanpai",
-      "urgency": "soon"
+      "urgency": "soon",
+      "department": "化学系分子合成与识别科学中心",
+      "department_group": "化学/材料"
     },
     {
       "school": "复旦大学",
@@ -2386,7 +2692,9 @@
         "211"
       ],
       "source": "shenyanpai",
-      "urgency": "soon"
+      "urgency": "soon",
+      "department": "分子合成与识别科学中心",
+      "department_group": "生医/药学"
     },
     {
       "school": "复旦大学",
@@ -2403,7 +2711,9 @@
         "211"
       ],
       "source": "shenyanpai",
-      "urgency": "soon"
+      "urgency": "soon",
+      "department": "物理学系",
+      "department_group": "物理/天文"
     },
     {
       "school": "中国科学技术大学",
@@ -2420,7 +2730,9 @@
         "211"
       ],
       "source": "shenyanpai",
-      "urgency": "soon"
+      "urgency": "soon",
+      "department": "环境科学与工程系",
+      "department_group": "地学/环境"
     },
     {
       "school": "中国科学技术大学",
@@ -2437,7 +2749,9 @@
         "211"
       ],
       "source": "shenyanpai",
-      "urgency": "soon"
+      "urgency": "soon",
+      "department": "材料科学与工程学院",
+      "department_group": "化学/材料"
     },
     {
       "school": "中国科学技术大学",
@@ -2454,7 +2768,9 @@
         "211"
       ],
       "source": "shenyanpai",
-      "urgency": "soon"
+      "urgency": "soon",
+      "department": "计算机科学与技术学院",
+      "department_group": "计算机"
     },
     {
       "school": "西安交通大学",
@@ -2470,7 +2786,9 @@
         "211"
       ],
       "source": "shenyanpai",
-      "urgency": "soon"
+      "urgency": "soon",
+      "department": "航天航空学院",
+      "department_group": "机械/航空/能源"
     },
     {
       "school": "西安交通大学",
@@ -2486,7 +2804,9 @@
         "211"
       ],
       "source": "shenyanpai",
-      "urgency": "soon"
+      "urgency": "soon",
+      "department": "人居环境与建筑工程学院",
+      "department_group": "地学/环境"
     },
     {
       "school": "西安交通大学",
@@ -2502,7 +2822,9 @@
         "211"
       ],
       "source": "shenyanpai",
-      "urgency": "soon"
+      "urgency": "soon",
+      "department": "新能源科学技术与工程学院",
+      "department_group": "机械/航空/能源"
     },
     {
       "school": "哈尔滨工业大学",
@@ -2518,7 +2840,9 @@
         "211"
       ],
       "source": "shenyanpai",
-      "urgency": "soon"
+      "urgency": "soon",
+      "department": "电气工程及自动化学院",
+      "department_group": "自动化/仪器"
     },
     {
       "school": "北京师范大学",
@@ -2533,7 +2857,9 @@
         "211"
       ],
       "source": "shenyanpai",
-      "urgency": "soon"
+      "urgency": "soon",
+      "department": "化学学院",
+      "department_group": "化学/材料"
     },
     {
       "school": "吉林大学",
@@ -2548,7 +2874,9 @@
         "211"
       ],
       "source": "shenyanpai",
-      "urgency": "soon"
+      "urgency": "soon",
+      "department": "材料科学与工程学院",
+      "department_group": "化学/材料"
     },
     {
       "school": "兰州大学",
@@ -2563,7 +2891,9 @@
         "211"
       ],
       "source": "shenyanpai",
-      "urgency": "soon"
+      "urgency": "soon",
+      "department": "数学与统计学院",
+      "department_group": "数学/统计"
     },
     {
       "school": "西湖大学",
@@ -2578,7 +2908,9 @@
         "双非"
       ],
       "source": "shenyanpai",
-      "urgency": "soon"
+      "urgency": "soon",
+      "department": "交叉科学中心",
+      "department_group": "交叉/前沿"
     },
     {
       "school": "中国科学院大学",
@@ -2592,7 +2924,9 @@
         "研究院"
       ],
       "source": "shenyanpai",
-      "urgency": "soon"
+      "urgency": "soon",
+      "department": "光电学院",
+      "department_group": "电子/通信"
     },
     {
       "school": "中国科学院大学",
@@ -2606,7 +2940,9 @@
         "研究院"
       ],
       "source": "shenyanpai",
-      "urgency": "soon"
+      "urgency": "soon",
+      "department": "杭州高等研究院环境学院",
+      "department_group": "地学/环境"
     },
     {
       "school": "中国科学院大学",
@@ -2620,7 +2956,9 @@
         "研究院"
       ],
       "source": "shenyanpai",
-      "urgency": "soon"
+      "urgency": "soon",
+      "department": "杭州高等研究院化学与材料科学学院",
+      "department_group": "化学/材料"
     },
     {
       "school": "中国科学院",
@@ -2634,7 +2972,9 @@
         "研究院"
       ],
       "source": "shenyanpai",
-      "urgency": "soon"
+      "urgency": "soon",
+      "department": "中国科学院上海硅酸盐研究所",
+      "department_group": "化学/材料"
     },
     {
       "school": "中国科学院",
@@ -2648,7 +2988,9 @@
         "研究院"
       ],
       "source": "shenyanpai",
-      "urgency": "soon"
+      "urgency": "soon",
+      "department": "中国科学院高能物理研究所",
+      "department_group": "物理/天文"
     },
     {
       "school": "中国科学院",
@@ -2662,7 +3004,9 @@
         "研究院"
       ],
       "source": "shenyanpai",
-      "urgency": "soon"
+      "urgency": "soon",
+      "department": "中国科学院青藏高原研究所",
+      "department_group": "地学/环境"
     },
     {
       "school": "中国科学院",
@@ -2676,7 +3020,9 @@
         "研究院"
       ],
       "source": "shenyanpai",
-      "urgency": "soon"
+      "urgency": "soon",
+      "department": "中国科学院福建物质结构研究所（海西研究院",
+      "department_group": "化学/材料"
     },
     {
       "school": "中国科学院",
@@ -2690,7 +3036,9 @@
         "研究院"
       ],
       "source": "shenyanpai",
-      "urgency": "soon"
+      "urgency": "soon",
+      "department": "中国科学院上海营养与健康研究所",
+      "department_group": "生医/药学"
     },
     {
       "school": "中国科学院",
@@ -2704,7 +3052,9 @@
         "研究院"
       ],
       "source": "shenyanpai",
-      "urgency": "soon"
+      "urgency": "soon",
+      "department": "中国科学院宁波材料技术与工程研究所",
+      "department_group": "化学/材料"
     },
     {
       "school": "中国科学院",
@@ -2718,7 +3068,9 @@
         "研究院"
       ],
       "source": "shenyanpai",
-      "urgency": "soon"
+      "urgency": "soon",
+      "department": "中国科学院南海海洋研究所",
+      "department_group": "生医/药学"
     },
     {
       "school": "中国科学院",
@@ -2732,7 +3084,9 @@
         "研究院"
       ],
       "source": "shenyanpai",
-      "urgency": "soon"
+      "urgency": "soon",
+      "department": "中国科学院上海光学精密机械研究所",
+      "department_group": "电子/通信"
     },
     {
       "school": "中国科学院",
@@ -2746,7 +3100,9 @@
         "研究院"
       ],
       "source": "shenyanpai",
-      "urgency": "soon"
+      "urgency": "soon",
+      "department": "中国科学院遗传与发育生物学研究所",
+      "department_group": "生医/药学"
     },
     {
       "school": "中国科学院",
@@ -2760,7 +3116,9 @@
         "研究院"
       ],
       "source": "shenyanpai",
-      "urgency": "soon"
+      "urgency": "soon",
+      "department": "中国科学院西北研究院",
+      "department_group": "地学/环境"
     },
     {
       "school": "中国科学院",
@@ -2774,7 +3132,9 @@
         "研究院"
       ],
       "source": "shenyanpai",
-      "urgency": "soon"
+      "urgency": "soon",
+      "department": "中国科学院上海高等研究院",
+      "department_group": "交叉/前沿"
     },
     {
       "school": "中国科学院",
@@ -2788,7 +3148,9 @@
         "研究院"
       ],
       "source": "shenyanpai",
-      "urgency": "soon"
+      "urgency": "soon",
+      "department": "中国科学院长春光学精密机械与物理研究所",
+      "department_group": "电子/通信"
     },
     {
       "school": "中国科学院",
@@ -2802,7 +3164,9 @@
         "研究院"
       ],
       "source": "shenyanpai",
-      "urgency": "soon"
+      "urgency": "soon",
+      "department": "中国科学院兰州化学物理研究所",
+      "department_group": "物理/天文"
     },
     {
       "school": "中国科学院",
@@ -2816,7 +3180,9 @@
         "研究院"
       ],
       "source": "shenyanpai",
-      "urgency": "soon"
+      "urgency": "soon",
+      "department": "中国科学院上海微系统与信息技术研究所",
+      "department_group": "电子/通信"
     },
     {
       "school": "中国科学院",
@@ -2830,7 +3196,9 @@
         "研究院"
       ],
       "source": "shenyanpai",
-      "urgency": "soon"
+      "urgency": "soon",
+      "department": "中国科学院新疆生态与地理研究所",
+      "department_group": "生医/药学"
     },
     {
       "school": "中国科学院",
@@ -2844,7 +3212,9 @@
         "研究院"
       ],
       "source": "shenyanpai",
-      "urgency": "soon"
+      "urgency": "soon",
+      "department": "中国科学院亚热带农业生态研究所",
+      "department_group": "生医/药学"
     },
     {
       "school": "中国科学院",
@@ -2858,7 +3228,9 @@
         "研究院"
       ],
       "source": "shenyanpai",
-      "urgency": "soon"
+      "urgency": "soon",
+      "department": "中国科学院分子植物科学卓越创新中心",
+      "department_group": "化学/材料"
     },
     {
       "school": "中国科学院",
@@ -2872,7 +3244,9 @@
         "研究院"
       ],
       "source": "shenyanpai",
-      "urgency": "soon"
+      "urgency": "soon",
+      "department": "中国科学院昆明动物研究所",
+      "department_group": "生医/药学"
     },
     {
       "school": "中国科学院",
@@ -2886,7 +3260,9 @@
         "研究院"
       ],
       "source": "shenyanpai",
-      "urgency": "soon"
+      "urgency": "soon",
+      "department": "中国科学院",
+      "department_group": "研究院所"
     },
     {
       "school": "中国科学院",
@@ -2900,7 +3276,9 @@
         "研究院"
       ],
       "source": "shenyanpai",
-      "urgency": "soon"
+      "urgency": "soon",
+      "department": "中国科学院上海技术物理研究所",
+      "department_group": "电子/通信"
     },
     {
       "school": "香港中文大学（深圳）",
@@ -2914,7 +3292,9 @@
         "港澳"
       ],
       "source": "shenyanpai",
-      "urgency": "soon"
+      "urgency": "soon",
+      "department": "数据科学学院",
+      "department_group": "计算机"
     },
     {
       "school": "浙江大学",
@@ -2931,7 +3311,9 @@
         "211"
       ],
       "source": "shenyanpai",
-      "urgency": "soon"
+      "urgency": "soon",
+      "department": "国际联合商学院",
+      "department_group": "经管/金融"
     },
     {
       "school": "山东大学",
@@ -2946,7 +3328,9 @@
         "211"
       ],
       "source": "shenyanpai",
-      "urgency": "soon"
+      "urgency": "soon",
+      "department": "哲学与社会发展学院第二届扬州文化书院",
+      "department_group": "文法/社科"
     },
     {
       "school": "浙江大学",
@@ -2963,7 +3347,9 @@
         "211"
       ],
       "source": "shenyanpai",
-      "urgency": "soon"
+      "urgency": "soon",
+      "department": "动物科学学院",
+      "department_group": "生医/药学"
     },
     {
       "school": "北京协和医学院",
@@ -2977,7 +3363,9 @@
         "双非"
       ],
       "source": "shenyanpai",
-      "urgency": "soon"
+      "urgency": "soon",
+      "department": "北京协和医学院基础学院",
+      "department_group": "生医/药学"
     },
     {
       "school": "南方科技大学",
@@ -2992,7 +3380,9 @@
         "双非"
       ],
       "source": "shenyanpai",
-      "urgency": "soon"
+      "urgency": "soon",
+      "department": "生物医学工程系",
+      "department_group": "生医/药学"
     },
     {
       "school": "北京大学",
@@ -3010,7 +3400,9 @@
         "211"
       ],
       "source": "shenyanpai",
-      "urgency": "soon"
+      "urgency": "soon",
+      "department": "统计科学中心",
+      "department_group": "数学/统计"
     },
     {
       "school": "浙江大学",
@@ -3027,7 +3419,9 @@
         "211"
       ],
       "source": "shenyanpai",
-      "urgency": "soon"
+      "urgency": "soon",
+      "department": "生物系统工程与食品科学学院",
+      "department_group": "生医/药学"
     },
     {
       "school": "南京大学",
@@ -3044,7 +3438,9 @@
         "211"
       ],
       "source": "shenyanpai",
-      "urgency": "soon"
+      "urgency": "soon",
+      "department": "天文与空间科学学院",
+      "department_group": "物理/天文"
     },
     {
       "school": "中国科学技术大学",
@@ -3061,7 +3457,9 @@
         "211"
       ],
       "source": "shenyanpai",
-      "urgency": "soon"
+      "urgency": "soon",
+      "department": "稀土学院（中国科学院赣江创新研究院",
+      "department_group": "化学/材料"
     },
     {
       "school": "中国科学技术大学",
@@ -3078,7 +3476,9 @@
         "211"
       ],
       "source": "shenyanpai",
-      "urgency": "soon"
+      "urgency": "soon",
+      "department": "火灾安全全国重点实验室",
+      "department_group": "地学/环境"
     },
     {
       "school": "中国科学技术大学",
@@ -3095,7 +3495,9 @@
         "211"
       ],
       "source": "shenyanpai",
-      "urgency": "soon"
+      "urgency": "soon",
+      "department": "集成电路学院",
+      "department_group": "电子/通信"
     },
     {
       "school": "华中科技大学",
@@ -3110,7 +3512,9 @@
         "211"
       ],
       "source": "shenyanpai",
-      "urgency": "soon"
+      "urgency": "soon",
+      "department": "物理学院暨国家精密重力测量科学中心",
+      "department_group": "物理/天文"
     },
     {
       "school": "西安交通大学",
@@ -3126,7 +3530,9 @@
         "211"
       ],
       "source": "shenyanpai",
-      "urgency": "soon"
+      "urgency": "soon",
+      "department": "材料科学与工程学院",
+      "department_group": "化学/材料"
     },
     {
       "school": "哈尔滨工业大学",
@@ -3142,7 +3548,9 @@
         "211"
       ],
       "source": "shenyanpai",
-      "urgency": "soon"
+      "urgency": "soon",
+      "department": "建筑与设计学院",
+      "department_group": "文法/社科"
     },
     {
       "school": "北京师范大学",
@@ -3157,7 +3565,9 @@
         "211"
       ],
       "source": "shenyanpai",
-      "urgency": "soon"
+      "urgency": "soon",
+      "department": "地理科学学部优秀大学生系",
+      "department_group": "地学/环境"
     },
     {
       "school": "厦门大学",
@@ -3172,7 +3582,9 @@
         "211"
       ],
       "source": "shenyanpai",
-      "urgency": "soon"
+      "urgency": "soon",
+      "department": "生命科学学院",
+      "department_group": "生医/药学"
     },
     {
       "school": "吉林大学",
@@ -3187,7 +3599,9 @@
         "211"
       ],
       "source": "shenyanpai",
-      "urgency": "soon"
+      "urgency": "soon",
+      "department": "物理学院",
+      "department_group": "物理/天文"
     },
     {
       "school": "南方科技大学",
@@ -3202,7 +3616,9 @@
         "双非"
       ],
       "source": "shenyanpai",
-      "urgency": "soon"
+      "urgency": "soon",
+      "department": "电子与电气工程系",
+      "department_group": "电子/通信"
     },
     {
       "school": "南方科技大学",
@@ -3217,7 +3633,9 @@
         "双非"
       ],
       "source": "shenyanpai",
-      "urgency": "soon"
+      "urgency": "soon",
+      "department": "深港微电子学院",
+      "department_group": "计算机"
     },
     {
       "school": "南方科技大学",
@@ -3232,7 +3650,9 @@
         "双非"
       ],
       "source": "shenyanpai",
-      "urgency": "soon"
+      "urgency": "soon",
+      "department": "自动化与智能制造学院",
+      "department_group": "计算机"
     },
     {
       "school": "南方科技大学",
@@ -3247,7 +3667,9 @@
         "双非"
       ],
       "source": "shenyanpai",
-      "urgency": "soon"
+      "urgency": "soon",
+      "department": "半导体学院（国家卓越工程师学院",
+      "department_group": "电子/通信"
     },
     {
       "school": "上海科技大学",
@@ -3262,7 +3684,9 @@
         "双非"
       ],
       "source": "shenyanpai",
-      "urgency": "soon"
+      "urgency": "soon",
+      "department": "信息科学与技术学院",
+      "department_group": "计算机"
     },
     {
       "school": "上海科技大学",
@@ -3277,7 +3701,9 @@
         "双非"
       ],
       "source": "shenyanpai",
-      "urgency": "soon"
+      "urgency": "soon",
+      "department": "信息科学与技术学院",
+      "department_group": "计算机"
     },
     {
       "school": "中国矿业大学",
@@ -3291,7 +3717,9 @@
         "211"
       ],
       "source": "shenyanpai",
-      "urgency": "soon"
+      "urgency": "soon",
+      "department": "安全工程学院",
+      "department_group": "建筑/土木"
     },
     {
       "school": "中国科学院大学",
@@ -3305,7 +3733,9 @@
         "研究院"
       ],
       "source": "shenyanpai",
-      "urgency": "soon"
+      "urgency": "soon",
+      "department": "量子学院",
+      "department_group": "物理/天文"
     },
     {
       "school": "中国科学院大学",
@@ -3319,7 +3749,9 @@
         "研究院"
       ],
       "source": "shenyanpai",
-      "urgency": "soon"
+      "urgency": "soon",
+      "department": "杭州高等研究院药物科学与技术学院",
+      "department_group": "化学/材料"
     },
     {
       "school": "中国科学院大学",
@@ -3333,7 +3765,9 @@
         "研究院"
       ],
       "source": "shenyanpai",
-      "urgency": "soon"
+      "urgency": "soon",
+      "department": "化学科学学院",
+      "department_group": "化学/材料"
     },
     {
       "school": "中国科学院",
@@ -3347,7 +3781,9 @@
         "研究院"
       ],
       "source": "shenyanpai",
-      "urgency": "soon"
+      "urgency": "soon",
+      "department": "中国科学院上海应用物理研究所",
+      "department_group": "物理/天文"
     },
     {
       "school": "中国科学院",
@@ -3361,7 +3797,9 @@
         "研究院"
       ],
       "source": "shenyanpai",
-      "urgency": "soon"
+      "urgency": "soon",
+      "department": "中国科学院水利部成都山地灾害与环境研究所",
+      "department_group": "地学/环境"
     },
     {
       "school": "中国科学院",
@@ -3375,7 +3813,9 @@
         "研究院"
       ],
       "source": "shenyanpai",
-      "urgency": "soon"
+      "urgency": "soon",
+      "department": "中国科学院半导体研究所",
+      "department_group": "电子/通信"
     },
     {
       "school": "中国科学院",
@@ -3389,7 +3829,9 @@
         "研究院"
       ],
       "source": "shenyanpai",
-      "urgency": "soon"
+      "urgency": "soon",
+      "department": "中国科学院地理科学与资源研究所",
+      "department_group": "地学/环境"
     },
     {
       "school": "中国科学院",
@@ -3403,7 +3845,9 @@
         "研究院"
       ],
       "source": "shenyanpai",
-      "urgency": "soon"
+      "urgency": "soon",
+      "department": "中国科学院南京土壤研究所",
+      "department_group": "地学/环境"
     },
     {
       "school": "中国科学院",
@@ -3417,7 +3861,9 @@
         "研究院"
       ],
       "source": "shenyanpai",
-      "urgency": "soon"
+      "urgency": "soon",
+      "department": "中国科学院理化技术研究所",
+      "department_group": "化学/材料"
     },
     {
       "school": "中国科学院",
@@ -3431,7 +3877,9 @@
         "研究院"
       ],
       "source": "shenyanpai",
-      "urgency": "soon"
+      "urgency": "soon",
+      "department": "中国科学院微生物研究所",
+      "department_group": "生医/药学"
     },
     {
       "school": "中国地质科学院",
@@ -3445,7 +3893,9 @@
         "研究院"
       ],
       "source": "shenyanpai",
-      "urgency": "soon"
+      "urgency": "soon",
+      "department": "中国地质科学院地质研究所",
+      "department_group": "地学/环境"
     },
     {
       "school": "重庆大学",
@@ -3460,7 +3910,9 @@
         "211"
       ],
       "source": "shenyanpai",
-      "urgency": "soon"
+      "urgency": "soon",
+      "department": "经济与工商管理学院",
+      "department_group": "物理/天文"
     },
     {
       "school": "南方科技大学",
@@ -3475,7 +3927,9 @@
         "双非"
       ],
       "source": "shenyanpai",
-      "urgency": "soon"
+      "urgency": "soon",
+      "department": "商学院",
+      "department_group": "经管/金融"
     },
     {
       "school": "上海海事大学",
@@ -3487,7 +3941,9 @@
       "category": "经管类",
       "tags": [],
       "source": "shenyanpai",
-      "urgency": "soon"
+      "urgency": "soon",
+      "department": "经济管理学院",
+      "department_group": "物理/天文"
     },
     {
       "school": "北京大学",
@@ -3505,7 +3961,9 @@
         "211"
       ],
       "source": "shenyanpai",
-      "urgency": "soon"
+      "urgency": "soon",
+      "department": "国际法学院",
+      "department_group": "文法/社科"
     },
     {
       "school": "上海海事大学",
@@ -3517,7 +3975,9 @@
       "category": "文法类",
       "tags": [],
       "source": "shenyanpai",
-      "urgency": "soon"
+      "urgency": "soon",
+      "department": "马克思主义学院",
+      "department_group": "文法/社科"
     },
     {
       "school": "浙江大学",
@@ -3534,7 +3994,9 @@
         "211"
       ],
       "source": "shenyanpai",
-      "urgency": "soon"
+      "urgency": "soon",
+      "department": "药学院",
+      "department_group": "生医/药学"
     },
     {
       "school": "浙江大学",
@@ -3551,7 +4013,9 @@
         "211"
       ],
       "source": "shenyanpai",
-      "urgency": "soon"
+      "urgency": "soon",
+      "department": "公共卫生学院",
+      "department_group": "生医/药学"
     },
     {
       "school": "浙江大学",
@@ -3568,7 +4032,9 @@
         "211"
       ],
       "source": "shenyanpai",
-      "urgency": "soon"
+      "urgency": "soon",
+      "department": "医学院儿科学院",
+      "department_group": "生医/药学"
     },
     {
       "school": "广州医科大学",
@@ -3582,7 +4048,9 @@
         "双非"
       ],
       "source": "shenyanpai",
-      "urgency": "soon"
+      "urgency": "soon",
+      "department": "呼吸疾病全国重点实验室",
+      "department_group": "生医/药学"
     },
     {
       "school": "中国科学院大学",
@@ -3596,7 +4064,9 @@
         "研究院"
       ],
       "source": "shenyanpai",
-      "urgency": "soon"
+      "urgency": "soon",
+      "department": "杭州高等研究院分子医学院",
+      "department_group": "生医/药学"
     },
     {
       "school": "中国科学院",
@@ -3610,7 +4080,9 @@
         "研究院"
       ],
       "source": "shenyanpai",
-      "urgency": "soon"
+      "urgency": "soon",
+      "department": "中国科学院动物研究所",
+      "department_group": "生医/药学"
     },
     {
       "school": "中国科学院",
@@ -3624,7 +4096,9 @@
         "研究院"
       ],
       "source": "shenyanpai",
-      "urgency": "soon"
+      "urgency": "soon",
+      "department": "中国科学院杭州医学研究所",
+      "department_group": "生医/药学"
     },
     {
       "school": "北京大学",
@@ -3642,7 +4116,9 @@
         "211"
       ],
       "source": "shenyanpai",
-      "urgency": "near"
+      "urgency": "near",
+      "department": "力学与工程科学学院",
+      "department_group": "机械/航空/能源"
     },
     {
       "school": "北京大学",
@@ -3660,7 +4136,9 @@
         "211"
       ],
       "source": "shenyanpai",
-      "urgency": "near"
+      "urgency": "near",
+      "department": "力学与工程科学学院",
+      "department_group": "机械/航空/能源"
     },
     {
       "school": "北京大学",
@@ -3678,7 +4156,9 @@
         "211"
       ],
       "source": "shenyanpai",
-      "urgency": "near"
+      "urgency": "near",
+      "department": "深圳研究生院新材料学院",
+      "department_group": "化学/材料"
     },
     {
       "school": "北京大学",
@@ -3696,7 +4176,9 @@
         "211"
       ],
       "source": "shenyanpai",
-      "urgency": "near"
+      "urgency": "near",
+      "department": "材料科学与工程学院",
+      "department_group": "化学/材料"
     },
     {
       "school": "浙江大学",
@@ -3713,7 +4195,9 @@
         "211"
       ],
       "source": "shenyanpai",
-      "urgency": "near"
+      "urgency": "near",
+      "department": "生物医学工程与仪器科学学院",
+      "department_group": "自动化/仪器"
     },
     {
       "school": "浙江大学",
@@ -3730,7 +4214,9 @@
         "211"
       ],
       "source": "shenyanpai",
-      "urgency": "near"
+      "urgency": "near",
+      "department": "生命科学学院",
+      "department_group": "生医/药学"
     },
     {
       "school": "浙江大学",
@@ -3747,7 +4233,9 @@
         "211"
       ],
       "source": "shenyanpai",
-      "urgency": "near"
+      "urgency": "near",
+      "department": "地球科学学院",
+      "department_group": "地学/环境"
     },
     {
       "school": "南京大学",
@@ -3764,7 +4252,9 @@
         "211"
       ],
       "source": "shenyanpai",
-      "urgency": "near"
+      "urgency": "near",
+      "department": "化学和化工学院",
+      "department_group": "机械/航空/能源"
     },
     {
       "school": "南京大学",
@@ -3781,7 +4271,9 @@
         "211"
       ],
       "source": "shenyanpai",
-      "urgency": "near"
+      "urgency": "near",
+      "department": "数学学院",
+      "department_group": "数学/统计"
     },
     {
       "school": "中国科学技术大学",
@@ -3798,7 +4290,9 @@
         "211"
       ],
       "source": "shenyanpai",
-      "urgency": "near"
+      "urgency": "near",
+      "department": "信息科学技术学院",
+      "department_group": "计算机"
     },
     {
       "school": "西安交通大学",
@@ -3814,7 +4308,9 @@
         "211"
       ],
       "source": "shenyanpai",
-      "urgency": "near"
+      "urgency": "near",
+      "department": "机械工程学院",
+      "department_group": "机械/航空/能源"
     },
     {
       "school": "西安交通大学",
@@ -3830,7 +4326,9 @@
         "211"
       ],
       "source": "shenyanpai",
-      "urgency": "near"
+      "urgency": "near",
+      "department": "化学工程与技术学院",
+      "department_group": "化学/材料"
     },
     {
       "school": "哈尔滨工业大学",
@@ -3846,7 +4344,9 @@
         "211"
       ],
       "source": "shenyanpai",
-      "urgency": "near"
+      "urgency": "near",
+      "department": "计算学部",
+      "department_group": "计算机"
     },
     {
       "school": "北京师范大学",
@@ -3861,7 +4361,9 @@
         "211"
       ],
       "source": "shenyanpai",
-      "urgency": "near"
+      "urgency": "near",
+      "department": "人工智能学院",
+      "department_group": "计算机"
     },
     {
       "school": "吉林大学",
@@ -3876,7 +4378,9 @@
         "211"
       ],
       "source": "shenyanpai",
-      "urgency": "near"
+      "urgency": "near",
+      "department": "计算机科学与技术学院",
+      "department_group": "计算机"
     },
     {
       "school": "南方科技大学",
@@ -3891,7 +4395,9 @@
         "双非"
       ],
       "source": "shenyanpai",
-      "urgency": "near"
+      "urgency": "near",
+      "department": "机械与能源工程系",
+      "department_group": "机械/航空/能源"
     },
     {
       "school": "广东工业大学",
@@ -3905,7 +4411,9 @@
         "双非"
       ],
       "source": "shenyanpai",
-      "urgency": "near"
+      "urgency": "near",
+      "department": "轻工化工学院",
+      "department_group": "机械/航空/能源"
     },
     {
       "school": "西湖大学",
@@ -3920,7 +4428,9 @@
         "双非"
       ],
       "source": "shenyanpai",
-      "urgency": "near"
+      "urgency": "near",
+      "department": "生命科学学院",
+      "department_group": "生医/药学"
     },
     {
       "school": "中国科学院",
@@ -3934,7 +4444,9 @@
         "研究院"
       ],
       "source": "shenyanpai",
-      "urgency": "near"
+      "urgency": "near",
+      "department": "中国科学院沈阳计算技术研究所",
+      "department_group": "计算机"
     },
     {
       "school": "中国科学院",
@@ -3948,7 +4460,9 @@
         "研究院"
       ],
       "source": "shenyanpai",
-      "urgency": "near"
+      "urgency": "near",
+      "department": "中国科学院古脊椎动物与古人类研究所",
+      "department_group": "生医/药学"
     },
     {
       "school": "中国科学院",
@@ -3962,7 +4476,9 @@
         "研究院"
       ],
       "source": "shenyanpai",
-      "urgency": "near"
+      "urgency": "near",
+      "department": "中国科学院软件研究所",
+      "department_group": "计算机"
     },
     {
       "school": "中国科学院",
@@ -3976,7 +4492,9 @@
         "研究院"
       ],
       "source": "shenyanpai",
-      "urgency": "near"
+      "urgency": "near",
+      "department": "中国科学院力学研究所",
+      "department_group": "机械/航空/能源"
     },
     {
       "school": "中国科学院",
@@ -3990,7 +4508,9 @@
         "研究院"
       ],
       "source": "shenyanpai",
-      "urgency": "near"
+      "urgency": "near",
+      "department": "中国科学院过程工程研究所",
+      "department_group": "化学/材料"
     },
     {
       "school": "中国科学院",
@@ -4004,7 +4524,9 @@
         "研究院"
       ],
       "source": "shenyanpai",
-      "urgency": "near"
+      "urgency": "near",
+      "department": "中国科学院新疆天文台",
+      "department_group": "物理/天文"
     },
     {
       "school": "北京航空航天大学",
@@ -4019,7 +4541,9 @@
         "211"
       ],
       "source": "shenyanpai",
-      "urgency": "near"
+      "urgency": "near",
+      "department": "经济管理学院",
+      "department_group": "物理/天文"
     },
     {
       "school": "兰州大学",
@@ -4034,7 +4558,9 @@
         "211"
       ],
       "source": "shenyanpai",
-      "urgency": "near"
+      "urgency": "near",
+      "department": "外国语学院",
+      "department_group": "文法/社科"
     },
     {
       "school": "北京大学",
@@ -4052,7 +4578,9 @@
         "211"
       ],
       "source": "shenyanpai",
-      "urgency": "near"
+      "urgency": "near",
+      "department": "基础医学院",
+      "department_group": "生医/药学"
     },
     {
       "school": "南京大学",
@@ -4069,7 +4597,9 @@
         "211"
       ],
       "source": "shenyanpai",
-      "urgency": "near"
+      "urgency": "near",
+      "department": "医学院",
+      "department_group": "生医/药学"
     },
     {
       "school": "中山大学",
@@ -4084,7 +4614,9 @@
         "211"
       ],
       "source": "shenyanpai",
-      "urgency": "near"
+      "urgency": "near",
+      "department": "中山医学院",
+      "department_group": "生医/药学"
     },
     {
       "school": "北京协和医学院",
@@ -4098,7 +4630,9 @@
         "双非"
       ],
       "source": "shenyanpai",
-      "urgency": "near"
+      "urgency": "near",
+      "department": "北京协和医学院病原生物学研究所",
+      "department_group": "生医/药学"
     },
     {
       "school": "海南大学",
@@ -4113,7 +4647,9 @@
         "211"
       ],
       "source": "shenyanpai",
-      "urgency": "near"
+      "urgency": "near",
+      "department": "南繁学院（三亚南繁研究院",
+      "department_group": "农学/畜牧"
     },
     {
       "school": "中国科学院",
@@ -4127,7 +4663,9 @@
         "研究院"
       ],
       "source": "shenyanpai",
-      "urgency": "near"
+      "urgency": "near",
+      "department": "中国科学院昆明植物研究所",
+      "department_group": "生医/药学"
     },
     {
       "school": "上海科技大学",
@@ -4142,7 +4680,9 @@
         "双非"
       ],
       "source": "boardcaster",
-      "urgency": "near"
+      "urgency": "near",
+      "department": "信息学院",
+      "department_group": "计算机"
     },
     {
       "school": "北京大学",
@@ -4160,7 +4700,9 @@
         "211"
       ],
       "source": "shenyanpai",
-      "urgency": "near"
+      "urgency": "near",
+      "department": "环境与能源学院",
+      "department_group": "地学/环境"
     },
     {
       "school": "中国科学技术大学",
@@ -4177,7 +4719,9 @@
         "211"
       ],
       "source": "shenyanpai",
-      "urgency": "near"
+      "urgency": "near",
+      "department": "网络空间安全学院",
+      "department_group": "计算机"
     },
     {
       "school": "北京师范大学",
@@ -4192,7 +4736,9 @@
         "211"
       ],
       "source": "shenyanpai",
-      "urgency": "near"
+      "urgency": "near",
+      "department": "物理与天文学院",
+      "department_group": "物理/天文"
     },
     {
       "school": "山东大学",
@@ -4207,7 +4753,9 @@
         "211"
       ],
       "source": "shenyanpai",
-      "urgency": "near"
+      "urgency": "near",
+      "department": "软件学院",
+      "department_group": "计算机"
     },
     {
       "school": "中国矿业大学",
@@ -4221,7 +4769,9 @@
         "211"
       ],
       "source": "shenyanpai",
-      "urgency": "near"
+      "urgency": "near",
+      "department": "材料与物理学院",
+      "department_group": "物理/天文"
     },
     {
       "school": "中国科学院",
@@ -4235,7 +4785,9 @@
         "研究院"
       ],
       "source": "shenyanpai",
-      "urgency": "near"
+      "urgency": "near",
+      "department": "中国科学院心理研究所",
+      "department_group": "生医/药学"
     },
     {
       "school": "东华大学",
@@ -4249,7 +4801,9 @@
         "双非"
       ],
       "source": "shenyanpai",
-      "urgency": "near"
+      "urgency": "near",
+      "department": "旭日工商管理学院",
+      "department_group": "物理/天文"
     },
     {
       "school": "西安交通大学",
@@ -4265,7 +4819,9 @@
         "211"
       ],
       "source": "shenyanpai",
-      "urgency": "near"
+      "urgency": "near",
+      "department": "公共政策与管理学院",
+      "department_group": "物理/天文"
     },
     {
       "school": "西安交通大学",
@@ -4281,7 +4837,9 @@
         "211"
       ],
       "source": "shenyanpai",
-      "urgency": "near"
+      "urgency": "near",
+      "department": "法学院",
+      "department_group": "文法/社科"
     },
     {
       "school": "北京大学",
@@ -4299,7 +4857,9 @@
         "211"
       ],
       "source": "shenyanpai",
-      "urgency": "near"
+      "urgency": "near",
+      "department": "药学院",
+      "department_group": "生医/药学"
     },
     {
       "school": "南方科技大学",
@@ -4314,7 +4874,9 @@
         "双非"
       ],
       "source": "boardcaster",
-      "urgency": "near"
+      "urgency": "near",
+      "department": "机械与能源工程系",
+      "department_group": "机械/航空/能源"
     },
     {
       "school": "复旦大学",
@@ -4331,7 +4893,9 @@
         "211"
       ],
       "source": "shenyanpai",
-      "urgency": "near"
+      "urgency": "near",
+      "department": "现代物理研究所",
+      "department_group": "物理/天文"
     },
     {
       "school": "中国科学院大学",
@@ -4345,7 +4909,9 @@
         "研究院"
       ],
       "source": "shenyanpai",
-      "urgency": "near"
+      "urgency": "near",
+      "department": "材料科学与光电技术学院",
+      "department_group": "电子/通信"
     },
     {
       "school": "中国科学院",
@@ -4359,7 +4925,9 @@
         "研究院"
       ],
       "source": "shenyanpai",
-      "urgency": "near"
+      "urgency": "near",
+      "department": "中国科学院光电技术研究所",
+      "department_group": "电子/通信"
     },
     {
       "school": "暨南大学",
@@ -4373,7 +4941,9 @@
         "211"
       ],
       "source": "shenyanpai",
-      "urgency": "near"
+      "urgency": "near",
+      "department": "经济与社会研究院",
+      "department_group": "经管/金融"
     },
     {
       "school": "上海理工大学",
@@ -4387,7 +4957,9 @@
         "双非"
       ],
       "source": "shenyanpai",
-      "urgency": "near"
+      "urgency": "near",
+      "department": "外语学院",
+      "department_group": "文法/社科"
     },
     {
       "school": "北京协和医学院",
@@ -4401,7 +4973,9 @@
         "双非"
       ],
       "source": "shenyanpai",
-      "urgency": "near"
+      "urgency": "near",
+      "department": "北京协和医学院医学信息研究所",
+      "department_group": "生医/药学"
     },
     {
       "school": "北京大学",
@@ -4419,7 +4993,9 @@
         "211"
       ],
       "source": "shenyanpai",
-      "urgency": "near"
+      "urgency": "near",
+      "department": "信息工程学院",
+      "department_group": "计算机"
     },
     {
       "school": "北京大学",
@@ -4437,7 +5013,9 @@
         "211"
       ],
       "source": "shenyanpai",
-      "urgency": "near"
+      "urgency": "near",
+      "department": "先进制造与机器人学院",
+      "department_group": "自动化/仪器"
     },
     {
       "school": "浙江大学",
@@ -4454,7 +5032,9 @@
         "211"
       ],
       "source": "shenyanpai",
-      "urgency": "near"
+      "urgency": "near",
+      "department": "爱丁堡大学联合学院",
+      "department_group": "交叉/前沿"
     },
     {
       "school": "浙江大学",
@@ -4471,7 +5051,9 @@
         "211"
       ],
       "source": "shenyanpai",
-      "urgency": "near"
+      "urgency": "near",
+      "department": "化学工程与生物工程学院",
+      "department_group": "化学/材料"
     },
     {
       "school": "浙江大学",
@@ -4488,7 +5070,9 @@
         "211"
       ],
       "source": "shenyanpai",
-      "urgency": "near"
+      "urgency": "near",
+      "department": "人工智能学院",
+      "department_group": "计算机"
     },
     {
       "school": "浙江大学",
@@ -4505,7 +5089,9 @@
         "211"
       ],
       "source": "shenyanpai",
-      "urgency": "near"
+      "urgency": "near",
+      "department": "网络空间安全学院",
+      "department_group": "计算机"
     },
     {
       "school": "浙江大学",
@@ -4522,7 +5108,9 @@
         "211"
       ],
       "source": "shenyanpai",
-      "urgency": "near"
+      "urgency": "near",
+      "department": "计算机科学与技术学院",
+      "department_group": "计算机"
     },
     {
       "school": "浙江大学",
@@ -4539,7 +5127,9 @@
         "211"
       ],
       "source": "shenyanpai",
-      "urgency": "near"
+      "urgency": "near",
+      "department": "集成电路学院",
+      "department_group": "电子/通信"
     },
     {
       "school": "浙江大学",
@@ -4556,7 +5146,9 @@
         "211"
       ],
       "source": "shenyanpai",
-      "urgency": "near"
+      "urgency": "near",
+      "department": "信息与电子工程学院",
+      "department_group": "电子/通信"
     },
     {
       "school": "复旦大学",
@@ -4573,7 +5165,9 @@
         "211"
       ],
       "source": "shenyanpai",
-      "urgency": "near"
+      "urgency": "near",
+      "department": "生命科学学院复杂性状的遗传调控全国重点实验室",
+      "department_group": "生医/药学"
     },
     {
       "school": "南京大学",
@@ -4590,7 +5184,9 @@
         "211"
       ],
       "source": "shenyanpai",
-      "urgency": "near"
+      "urgency": "near",
+      "department": "环境学院",
+      "department_group": "地学/环境"
     },
     {
       "school": "中国科学技术大学",
@@ -4607,7 +5203,9 @@
         "211"
       ],
       "source": "shenyanpai",
-      "urgency": "near"
+      "urgency": "near",
+      "department": "人工智能与数据科学学院",
+      "department_group": "计算机"
     },
     {
       "school": "中国科学技术大学",
@@ -4624,7 +5222,9 @@
         "211"
       ],
       "source": "shenyanpai",
-      "urgency": "near"
+      "urgency": "near",
+      "department": "生命科学与医学部",
+      "department_group": "生医/药学"
     },
     {
       "school": "中国科学技术大学",
@@ -4641,7 +5241,9 @@
         "211"
       ],
       "source": "shenyanpai",
-      "urgency": "near"
+      "urgency": "near",
+      "department": "物理学院",
+      "department_group": "物理/天文"
     },
     {
       "school": "山东大学",
@@ -4656,7 +5258,9 @@
         "211"
       ],
       "source": "shenyanpai",
-      "urgency": "near"
+      "urgency": "near",
+      "department": "物理学院",
+      "department_group": "物理/天文"
     },
     {
       "school": "吉林大学",
@@ -4671,7 +5275,9 @@
         "211"
       ],
       "source": "shenyanpai",
-      "urgency": "near"
+      "urgency": "near",
+      "department": "生命科学学院",
+      "department_group": "生医/药学"
     },
     {
       "school": "南方科技大学",
@@ -4686,7 +5292,9 @@
         "双非"
       ],
       "source": "shenyanpai",
-      "urgency": "near"
+      "urgency": "near",
+      "department": "化学系",
+      "department_group": "化学/材料"
     },
     {
       "school": "南方科技大学",
@@ -4701,7 +5309,9 @@
         "双非"
       ],
       "source": "shenyanpai",
-      "urgency": "near"
+      "urgency": "near",
+      "department": "材料科学与工程系",
+      "department_group": "化学/材料"
     },
     {
       "school": "兰州大学",
@@ -4716,7 +5326,9 @@
         "211"
       ],
       "source": "shenyanpai",
-      "urgency": "near"
+      "urgency": "near",
+      "department": "物理科学与技术学院",
+      "department_group": "物理/天文"
     },
     {
       "school": "兰州大学",
@@ -4731,7 +5343,9 @@
         "211"
       ],
       "source": "shenyanpai",
-      "urgency": "near"
+      "urgency": "near",
+      "department": "土木工程与力学学院",
+      "department_group": "机械/航空/能源"
     },
     {
       "school": "兰州大学",
@@ -4746,7 +5360,9 @@
         "211"
       ],
       "source": "shenyanpai",
-      "urgency": "near"
+      "urgency": "near",
+      "department": "资源环境学院",
+      "department_group": "地学/环境"
     },
     {
       "school": "广东工业大学",
@@ -4760,7 +5376,9 @@
         "双非"
       ],
       "source": "shenyanpai",
-      "urgency": "near"
+      "urgency": "near",
+      "department": "材料与能源学院",
+      "department_group": "化学/材料"
     },
     {
       "school": "中国科学院",
@@ -4774,7 +5392,9 @@
         "研究院"
       ],
       "source": "shenyanpai",
-      "urgency": "near"
+      "urgency": "near",
+      "department": "中国科学院北京基因组研究所（国家生物信息中心",
+      "department_group": "生医/药学"
     },
     {
       "school": "中国科学院",
@@ -4788,7 +5408,9 @@
         "研究院"
       ],
       "source": "shenyanpai",
-      "urgency": "near"
+      "urgency": "near",
+      "department": "中国科学院国家空间科学中心",
+      "department_group": "物理/天文"
     },
     {
       "school": "中国科学院",
@@ -4802,7 +5424,9 @@
         "研究院"
       ],
       "source": "shenyanpai",
-      "urgency": "near"
+      "urgency": "near",
+      "department": "中国科学院地球环境研究所",
+      "department_group": "地学/环境"
     },
     {
       "school": "中国科学院",
@@ -4816,7 +5440,9 @@
         "研究院"
       ],
       "source": "shenyanpai",
-      "urgency": "near"
+      "urgency": "near",
+      "department": "中国科学院南京地质古生物研究所",
+      "department_group": "生医/药学"
     },
     {
       "school": "中国科学院",
@@ -4830,7 +5456,9 @@
         "研究院"
       ],
       "source": "shenyanpai",
-      "urgency": "near"
+      "urgency": "near",
+      "department": "中国科学院深海科学与工程研究所",
+      "department_group": "地学/环境"
     },
     {
       "school": "中国科学院",
@@ -4844,7 +5472,9 @@
         "研究院"
       ],
       "source": "shenyanpai",
-      "urgency": "near"
+      "urgency": "near",
+      "department": "中国科学院新疆理化技术研究所",
+      "department_group": "化学/材料"
     },
     {
       "school": "中国科学院",
@@ -4858,7 +5488,9 @@
         "研究院"
       ],
       "source": "shenyanpai",
-      "urgency": "near"
+      "urgency": "near",
+      "department": "中国科学院电工研究所",
+      "department_group": "自动化/仪器"
     },
     {
       "school": "中国科学院",
@@ -4872,7 +5504,9 @@
         "研究院"
       ],
       "source": "shenyanpai",
-      "urgency": "near"
+      "urgency": "near",
+      "department": "中国科学院海洋研究所",
+      "department_group": "地学/环境"
     },
     {
       "school": "中国科学院",
@@ -4886,7 +5520,9 @@
         "研究院"
       ],
       "source": "shenyanpai",
-      "urgency": "near"
+      "urgency": "near",
+      "department": "中国科学院脑科学与智能技术卓越创新中心",
+      "department_group": "计算机"
     },
     {
       "school": "西安交通大学",
@@ -4902,7 +5538,9 @@
         "211"
       ],
       "source": "shenyanpai",
-      "urgency": "near"
+      "urgency": "near",
+      "department": "管理学院",
+      "department_group": "物理/天文"
     },
     {
       "school": "浙江大学",
@@ -4919,7 +5557,9 @@
         "211"
       ],
       "source": "shenyanpai",
-      "urgency": "near"
+      "urgency": "near",
+      "department": "医学院护理系",
+      "department_group": "生医/药学"
     },
     {
       "school": "中国科学技术大学",
@@ -4936,7 +5576,9 @@
         "211"
       ],
       "source": "shenyanpai",
-      "urgency": "near"
+      "urgency": "near",
+      "department": "中国科学技术大学附属第一医院第一届“医往无前”临床医学",
+      "department_group": "生医/药学"
     },
     {
       "school": "中山大学",
@@ -4951,7 +5593,9 @@
         "211"
       ],
       "source": "shenyanpai",
-      "urgency": "near"
+      "urgency": "near",
+      "department": "中山医学院",
+      "department_group": "生医/药学"
     },
     {
       "school": "西安交通大学",
@@ -4967,7 +5611,9 @@
         "211"
       ],
       "source": "shenyanpai",
-      "urgency": "near"
+      "urgency": "near",
+      "department": "国家储能技术产教融合创新平台（中心",
+      "department_group": "交叉/前沿"
     },
     {
       "school": "哈尔滨工业大学",
@@ -4983,7 +5629,9 @@
         "211"
       ],
       "source": "shenyanpai",
-      "urgency": "near"
+      "urgency": "near",
+      "department": "机电工程学院",
+      "department_group": "自动化/仪器"
     },
     {
       "school": "西湖大学",
@@ -4998,7 +5646,9 @@
         "双非"
       ],
       "source": "shenyanpai",
-      "urgency": "near"
+      "urgency": "near",
+      "department": "工学院",
+      "department_group": "机械/航空/能源"
     },
     {
       "school": "中国科学院大学",
@@ -5012,7 +5662,9 @@
         "研究院"
       ],
       "source": "shenyanpai",
-      "urgency": "near"
+      "urgency": "near",
+      "department": "资源与环境学院",
+      "department_group": "地学/环境"
     },
     {
       "school": "中国科学院",
@@ -5026,7 +5678,9 @@
         "研究院"
       ],
       "source": "shenyanpai",
-      "urgency": "near"
+      "urgency": "near",
+      "department": "中国科学院近代物理研究所“走进国家实验室",
+      "department_group": "物理/天文"
     },
     {
       "school": "中国科学院",
@@ -5040,7 +5694,9 @@
         "研究院"
       ],
       "source": "shenyanpai",
-      "urgency": "near"
+      "urgency": "near",
+      "department": "中国科学院苏州纳米技术与纳米仿生研究所",
+      "department_group": "化学/材料"
     },
     {
       "school": "兰州大学",
@@ -5055,7 +5711,9 @@
         "211"
       ],
       "source": "shenyanpai",
-      "urgency": "near"
+      "urgency": "near",
+      "department": "第二医院（第二临床医学院",
+      "department_group": "生医/药学"
     },
     {
       "school": "中国科学院",
@@ -5069,7 +5727,9 @@
         "研究院"
       ],
       "source": "shenyanpai",
-      "urgency": "near"
+      "urgency": "near",
+      "department": "中国科学院信息工程研究所",
+      "department_group": "计算机"
     },
     {
       "school": "中山大学",
@@ -5084,7 +5744,9 @@
         "211"
       ],
       "source": "shenyanpai",
-      "urgency": "near"
+      "urgency": "near",
+      "department": "大气科学学院",
+      "department_group": "地学/环境"
     },
     {
       "school": "山东大学",
@@ -5099,7 +5761,9 @@
         "211"
       ],
       "source": "shenyanpai",
-      "urgency": "near"
+      "urgency": "near",
+      "department": "前沿交叉科学青岛研究院",
+      "department_group": "交叉/前沿"
     },
     {
       "school": "中科环渤海（烟台）药物高等研究院",
@@ -5113,7 +5777,9 @@
         "研究院"
       ],
       "source": "shenyanpai",
-      "urgency": "near"
+      "urgency": "near",
+      "department": "中科环渤海（烟台）药物高等研究院烟台新药创制山东省实验室",
+      "department_group": "生医/药学"
     },
     {
       "school": "中国科学院",
@@ -5127,7 +5793,9 @@
         "研究院"
       ],
       "source": "shenyanpai",
-      "urgency": "near"
+      "urgency": "near",
+      "department": "中国科学院植物研究所",
+      "department_group": "生医/药学"
     },
     {
       "school": "中国农业科学院",
@@ -5141,7 +5809,9 @@
         "研究院"
       ],
       "source": "shenyanpai",
-      "urgency": "near"
+      "urgency": "near",
+      "department": "中国农业科学院蔬菜花卉研究所",
+      "department_group": "农学/畜牧"
     },
     {
       "school": "南京大学",
@@ -5158,7 +5828,9 @@
         "211"
       ],
       "source": "shenyanpai",
-      "urgency": "far"
+      "urgency": "far",
+      "department": "深空探测科学与技术研究院",
+      "department_group": "研究院所"
     },
     {
       "school": "华中科技大学",
@@ -5173,7 +5845,9 @@
         "211"
       ],
       "source": "shenyanpai",
-      "urgency": "far"
+      "urgency": "far",
+      "department": "航空航天学院",
+      "department_group": "机械/航空/能源"
     },
     {
       "school": "上海理工大学",
@@ -5187,7 +5861,9 @@
         "双非"
       ],
       "source": "shenyanpai",
-      "urgency": "far"
+      "urgency": "far",
+      "department": "基础学部（数学学院、物理学院",
+      "department_group": "数学/统计"
     },
     {
       "school": "西湖大学",
@@ -5202,7 +5878,9 @@
         "双非"
       ],
       "source": "shenyanpai",
-      "urgency": "far"
+      "urgency": "far",
+      "department": "理学院化学系",
+      "department_group": "物理/天文"
     },
     {
       "school": "西湖大学",
@@ -5217,7 +5895,9 @@
         "双非"
       ],
       "source": "shenyanpai",
-      "urgency": "far"
+      "urgency": "far",
+      "department": "理学院物理系",
+      "department_group": "物理/天文"
     },
     {
       "school": "中国科学院",
@@ -5231,7 +5911,9 @@
         "研究院"
       ],
       "source": "shenyanpai",
-      "urgency": "far"
+      "urgency": "far",
+      "department": "中国科学院计算机网络信息中心",
+      "department_group": "计算机"
     },
     {
       "school": "北京工商大学",
@@ -5245,7 +5927,9 @@
         "双非"
       ],
       "source": "shenyanpai",
-      "urgency": "far"
+      "urgency": "far",
+      "department": "经济学院",
+      "department_group": "经管/金融"
     },
     {
       "school": "中国科学院",
@@ -5259,7 +5943,9 @@
         "研究院"
       ],
       "source": "shenyanpai",
-      "urgency": "far"
+      "urgency": "far",
+      "department": "中国科学院自然科学史研究所",
+      "department_group": "研究院所"
     },
     {
       "school": "浙江大学",
@@ -5276,7 +5962,9 @@
         "211"
       ],
       "source": "shenyanpai",
-      "urgency": "far"
+      "urgency": "far",
+      "department": "海洋学院",
+      "department_group": "地学/环境"
     },
     {
       "school": "中国科学技术大学",
@@ -5293,7 +5981,9 @@
         "211"
       ],
       "source": "shenyanpai",
-      "urgency": "far"
+      "urgency": "far",
+      "department": "国家卓越工程师学院（先进技术研究院",
+      "department_group": "研究院所"
     },
     {
       "school": "中国科学技术大学",
@@ -5310,7 +6000,9 @@
         "211"
       ],
       "source": "shenyanpai",
-      "urgency": "far"
+      "urgency": "far",
+      "department": "应用化学与工程学院（中国科学院长春应用化学研究所",
+      "department_group": "化学/材料"
     },
     {
       "school": "南方科技大学",
@@ -5325,7 +6017,9 @@
         "双非"
       ],
       "source": "shenyanpai",
-      "urgency": "far"
+      "urgency": "far",
+      "department": "前沿生物技术研究院",
+      "department_group": "生医/药学"
     },
     {
       "school": "兰州大学",
@@ -5340,7 +6034,9 @@
         "211"
       ],
       "source": "shenyanpai",
-      "urgency": "far"
+      "urgency": "far",
+      "department": "草地农业科技学院",
+      "department_group": "农学/畜牧"
     },
     {
       "school": "兰州大学",
@@ -5355,7 +6051,9 @@
         "211"
       ],
       "source": "shenyanpai",
-      "urgency": "far"
+      "urgency": "far",
+      "department": "生命科学学院",
+      "department_group": "生医/药学"
     },
     {
       "school": "上海科技大学",
@@ -5370,7 +6068,9 @@
         "双非"
       ],
       "source": "shenyanpai",
-      "urgency": "far"
+      "urgency": "far",
+      "department": "生物医学工程学院",
+      "department_group": "生医/药学"
     },
     {
       "school": "上海科技大学",
@@ -5385,7 +6085,9 @@
         "双非"
       ],
       "source": "shenyanpai",
-      "urgency": "far"
+      "urgency": "far",
+      "department": "数学科学研究所",
+      "department_group": "数学/统计"
     },
     {
       "school": "上海科技大学",
@@ -5400,7 +6102,9 @@
         "双非"
       ],
       "source": "shenyanpai",
-      "urgency": "far"
+      "urgency": "far",
+      "department": "创意与艺术学院",
+      "department_group": "文法/社科"
     },
     {
       "school": "广州医科大学",
@@ -5414,7 +6118,9 @@
         "双非"
       ],
       "source": "shenyanpai",
-      "urgency": "far"
+      "urgency": "far",
+      "department": "广州霍夫曼免疫研究所",
+      "department_group": "生医/药学"
     },
     {
       "school": "中国科学院大学",
@@ -5428,7 +6134,9 @@
         "研究院"
       ],
       "source": "shenyanpai",
-      "urgency": "far"
+      "urgency": "far",
+      "department": "环境材料与污染控制技术研究中心",
+      "department_group": "自动化/仪器"
     },
     {
       "school": "中国科学院大学",
@@ -5442,7 +6150,9 @@
         "研究院"
       ],
       "source": "shenyanpai",
-      "urgency": "far"
+      "urgency": "far",
+      "department": "地球与行星科学学院“地星学院",
+      "department_group": "地学/环境"
     },
     {
       "school": "中国科学院",
@@ -5456,7 +6166,9 @@
         "研究院"
       ],
       "source": "shenyanpai",
-      "urgency": "far"
+      "urgency": "far",
+      "department": "中国科学院微电子研究所",
+      "department_group": "电子/通信"
     },
     {
       "school": "中国科学院",
@@ -5470,7 +6182,9 @@
         "研究院"
       ],
       "source": "shenyanpai",
-      "urgency": "far"
+      "urgency": "far",
+      "department": "中国科学院工程热物理研究所",
+      "department_group": "机械/航空/能源"
     },
     {
       "school": "中国科学院",
@@ -5484,7 +6198,9 @@
         "研究院"
       ],
       "source": "shenyanpai",
-      "urgency": "far"
+      "urgency": "far",
+      "department": "中国科学院成都生物研究所",
+      "department_group": "生医/药学"
     },
     {
       "school": "中国科学院",
@@ -5498,7 +6214,9 @@
         "研究院"
       ],
       "source": "shenyanpai",
-      "urgency": "far"
+      "urgency": "far",
+      "department": "中国科学院声学研究所",
+      "department_group": "电子/通信"
     },
     {
       "school": "中国科学院",
@@ -5512,7 +6230,9 @@
         "研究院"
       ],
       "source": "shenyanpai",
-      "urgency": "far"
+      "urgency": "far",
+      "department": "中国科学院山西煤炭化学研究所",
+      "department_group": "化学/材料"
     },
     {
       "school": "中国科学院",
@@ -5526,7 +6246,9 @@
         "研究院"
       ],
       "source": "shenyanpai",
-      "urgency": "far"
+      "urgency": "far",
+      "department": "中国科学院地球化学研究所",
+      "department_group": "化学/材料"
     },
     {
       "school": "中国科学院",
@@ -5540,7 +6262,9 @@
         "研究院"
       ],
       "source": "shenyanpai",
-      "urgency": "far"
+      "urgency": "far",
+      "department": "中国科学院烟台海岸带研究所",
+      "department_group": "地学/环境"
     },
     {
       "school": "中国科学院",
@@ -5554,7 +6278,9 @@
         "研究院"
       ],
       "source": "shenyanpai",
-      "urgency": "far"
+      "urgency": "far",
+      "department": "中国科学院合肥物质科学研究院",
+      "department_group": "研究院所"
     },
     {
       "school": "中国工程物理研究院",
@@ -5568,7 +6294,9 @@
         "研究院"
       ],
       "source": "shenyanpai",
-      "urgency": "far"
+      "urgency": "far",
+      "department": "北京计算科学研究中心",
+      "department_group": "计算机"
     },
     {
       "school": "复旦大学",
@@ -5585,7 +6313,9 @@
         "211"
       ],
       "source": "shenyanpai",
-      "urgency": "far"
+      "urgency": "far",
+      "department": "管理学院",
+      "department_group": "物理/天文"
     },
     {
       "school": "西安交通大学",
@@ -5601,7 +6331,9 @@
         "211"
       ],
       "source": "shenyanpai",
-      "urgency": "far"
+      "urgency": "far",
+      "department": "金禾经济研究中心",
+      "department_group": "经管/金融"
     },
     {
       "school": "西安交通大学",
@@ -5617,7 +6349,9 @@
         "211"
       ],
       "source": "shenyanpai",
-      "urgency": "far"
+      "urgency": "far",
+      "department": "新闻与新媒体学院",
+      "department_group": "文法/社科"
     },
     {
       "school": "重庆大学",
@@ -5632,7 +6366,9 @@
         "211"
       ],
       "source": "shenyanpai",
-      "urgency": "far"
+      "urgency": "far",
+      "department": "法学院",
+      "department_group": "文法/社科"
     },
     {
       "school": "北京协和医学院",
@@ -5646,7 +6382,9 @@
         "双非"
       ],
       "source": "shenyanpai",
-      "urgency": "far"
+      "urgency": "far",
+      "department": "北京协和医学院输血研究所",
+      "department_group": "生医/药学"
     },
     {
       "school": "北京协和医学院",
@@ -5660,7 +6398,9 @@
         "双非"
       ],
       "source": "shenyanpai",
-      "urgency": "far"
+      "urgency": "far",
+      "department": "北京协和医学院药物研究所",
+      "department_group": "生医/药学"
     },
     {
       "school": "南方科技大学",
@@ -5675,7 +6415,9 @@
         "双非"
       ],
       "source": "shenyanpai",
-      "urgency": "far"
+      "urgency": "far",
+      "department": "公共卫生及应急管理学院",
+      "department_group": "物理/天文"
     },
     {
       "school": "上海大学",
@@ -5689,7 +6431,9 @@
         "211"
       ],
       "source": "shenyanpai",
-      "urgency": "far"
+      "urgency": "far",
+      "department": "医学院",
+      "department_group": "生医/药学"
     },
     {
       "school": "中国科学院",
@@ -5703,7 +6447,9 @@
         "研究院"
       ],
       "source": "shenyanpai",
-      "urgency": "far"
+      "urgency": "far",
+      "department": "中国科学院遗传与发育生物学研究所农业资源研究中心",
+      "department_group": "生医/药学"
     },
     {
       "school": "北京大学",
@@ -5721,7 +6467,9 @@
         "211"
       ],
       "source": "shenyanpai",
-      "urgency": "far"
+      "urgency": "far",
+      "department": "科学智能学院",
+      "department_group": "计算机"
     },
     {
       "school": "南方科技大学",
@@ -5736,7 +6484,9 @@
         "双非"
       ],
       "source": "shenyanpai",
-      "urgency": "far"
+      "urgency": "far",
+      "department": "创新创业学院",
+      "department_group": "交叉/前沿"
     },
     {
       "school": "兰州大学",
@@ -5751,7 +6501,9 @@
         "211"
       ],
       "source": "shenyanpai",
-      "urgency": "far"
+      "urgency": "far",
+      "department": "核科学与技术学院",
+      "department_group": "机械/航空/能源"
     },
     {
       "school": "中国科学院",
@@ -5765,7 +6517,9 @@
         "研究院"
       ],
       "source": "shenyanpai",
-      "urgency": "far"
+      "urgency": "far",
+      "department": "中国科学院北京纳米能源与系统研究所",
+      "department_group": "化学/材料"
     },
     {
       "school": "中国科学院",
@@ -5779,7 +6533,9 @@
         "研究院"
       ],
       "source": "shenyanpai",
-      "urgency": "far"
+      "urgency": "far",
+      "department": "中国科学院西安光学精密机械研究所招生系",
+      "department_group": "电子/通信"
     },
     {
       "school": "兰州大学",
@@ -5794,7 +6550,9 @@
         "211"
       ],
       "source": "shenyanpai",
-      "urgency": "far"
+      "urgency": "far",
+      "department": "政治与国际关系学院",
+      "department_group": "文法/社科"
     },
     {
       "school": "广西大学",
@@ -5806,7 +6564,9 @@
       "category": "文法类",
       "tags": [],
       "source": "shenyanpai",
-      "urgency": "far"
+      "urgency": "far",
+      "department": "公共管理学院",
+      "department_group": "物理/天文"
     },
     {
       "school": "中国疾病预防控制中心",
@@ -5818,7 +6578,9 @@
       "category": "医农类",
       "tags": [],
       "source": "shenyanpai",
-      "urgency": "far"
+      "urgency": "far",
+      "department": "中国疾病预防控制中心慢性非传染性疾病预防控制中心",
+      "department_group": "自动化/仪器"
     },
     {
       "school": "浙江大学",
@@ -5835,7 +6597,9 @@
         "211"
       ],
       "source": "shenyanpai",
-      "urgency": "far"
+      "urgency": "far",
+      "department": "伊利诺伊大学厄巴纳香槟校区联合学院",
+      "department_group": "交叉/前沿"
     },
     {
       "school": "中国科学院",
@@ -5849,7 +6613,9 @@
         "研究院"
       ],
       "source": "shenyanpai",
-      "urgency": "far"
+      "urgency": "far",
+      "department": "中国科学院沈阳自动化研究所",
+      "department_group": "自动化/仪器"
     },
     {
       "school": "西安交通大学",
@@ -5865,7 +6631,9 @@
         "211"
       ],
       "source": "shenyanpai",
-      "urgency": "far"
+      "urgency": "far",
+      "department": "人文社会科学学院",
+      "department_group": "文法/社科"
     },
     {
       "school": "南方医科大学",
@@ -5879,7 +6647,9 @@
         "双非"
       ],
       "source": "shenyanpai",
-      "urgency": "far"
+      "urgency": "far",
+      "department": "粤港澳大湾区脑科学与类脑研究中心",
+      "department_group": "生医/药学"
     },
     {
       "school": "中国科学院",
@@ -5893,7 +6663,9 @@
         "研究院"
       ],
       "source": "shenyanpai",
-      "urgency": "far"
+      "urgency": "far",
+      "department": "中国科学院",
+      "department_group": "研究院所"
     },
     {
       "school": "上海海洋大学",
@@ -5907,7 +6679,9 @@
         "双非"
       ],
       "source": "shenyanpai",
-      "urgency": "far"
+      "urgency": "far",
+      "department": "食品学院",
+      "department_group": "生医/药学"
     },
     {
       "school": "西安交通大学",
@@ -5923,7 +6697,9 @@
         "211"
       ],
       "source": "shenyanpai",
-      "urgency": "far"
+      "urgency": "far",
+      "department": "未来技术学院",
+      "department_group": "交叉/前沿"
     },
     {
       "school": "深圳大学",
@@ -5937,7 +6713,9 @@
         "双非"
       ],
       "source": "shenyanpai",
-      "urgency": "far"
+      "urgency": "far",
+      "department": "中国经济特区研究中心",
+      "department_group": "经管/金融"
     },
     {
       "school": "中国科学院",
@@ -5951,7 +6729,9 @@
         "研究院"
       ],
       "source": "shenyanpai",
-      "urgency": "far"
+      "urgency": "far",
+      "department": "中国科学院城市环境研究所",
+      "department_group": "地学/环境"
     },
     {
       "school": "中国科学院",
@@ -5965,7 +6745,9 @@
         "研究院"
       ],
       "source": "shenyanpai",
-      "urgency": "far"
+      "urgency": "far",
+      "department": "中国科学院城市环境研究所",
+      "department_group": "地学/环境"
     },
     {
       "school": "中国科学院",
@@ -5979,7 +6761,9 @@
         "研究院"
       ],
       "source": "shenyanpai",
-      "urgency": "far"
+      "urgency": "far",
+      "department": "中国科学院深圳先进技术研究院合成生物学研究所",
+      "department_group": "生医/药学"
     },
     {
       "school": "中国科学院",
@@ -5993,7 +6777,9 @@
         "研究院"
       ],
       "source": "shenyanpai",
-      "urgency": "far"
+      "urgency": "far",
+      "department": "中国科学院深圳先进技术研究院",
+      "department_group": "交叉/前沿"
     },
     {
       "school": "中国科学院",
@@ -6007,7 +6793,9 @@
         "研究院"
       ],
       "source": "shenyanpai",
-      "urgency": "far"
+      "urgency": "far",
+      "department": "中国科学院深圳先进技术研究院碳中和技术研究所",
+      "department_group": "交叉/前沿"
     },
     {
       "school": "中国科学院",
@@ -6021,7 +6809,9 @@
         "研究院"
       ],
       "source": "shenyanpai",
-      "urgency": "far"
+      "urgency": "far",
+      "department": "中国科学院深圳先进技术研究院生物医药与技术研究所",
+      "department_group": "生医/药学"
     },
     {
       "school": "天津科技大学",
@@ -6035,7 +6825,9 @@
         "双非"
       ],
       "source": "shenyanpai",
-      "urgency": "far"
+      "urgency": "far",
+      "department": "生物工程学院",
+      "department_group": "生医/药学"
     },
     {
       "school": "中国科学院",
@@ -6049,7 +6841,9 @@
         "研究院"
       ],
       "source": "shenyanpai",
-      "urgency": "far"
+      "urgency": "far",
+      "department": "中国科学院上海药物研究所",
+      "department_group": "生医/药学"
     },
     {
       "school": "南京大学",
@@ -6066,7 +6860,9 @@
         "211"
       ],
       "source": "shenyanpai",
-      "urgency": "far"
+      "urgency": "far",
+      "department": "人工智能学院",
+      "department_group": "计算机"
     },
     {
       "school": "信息支援部队工程大学",
@@ -6080,7 +6876,9 @@
         "双非"
       ],
       "source": "boardcaster",
-      "urgency": "far"
+      "urgency": "far",
+      "department": "研究生招生办公室",
+      "department_group": "交叉/前沿"
     },
     {
       "school": "南京航空航天大学",
@@ -6095,7 +6893,9 @@
         "211"
       ],
       "source": "shenyanpai",
-      "urgency": "far"
+      "urgency": "far",
+      "department": "数学学院",
+      "department_group": "数学/统计"
     },
     {
       "school": "安徽医科大学",
@@ -6109,7 +6909,9 @@
         "双非"
       ],
       "source": "shenyanpai",
-      "urgency": "expired"
+      "urgency": "expired",
+      "department": "第一临床医学院",
+      "department_group": "生医/药学"
     },
     {
       "school": "北京工业大学",
@@ -6123,7 +6925,9 @@
         "211"
       ],
       "source": "boardcaster",
-      "urgency": "expired"
+      "urgency": "expired",
+      "department": "所有学院",
+      "department_group": "交叉/前沿"
     },
     {
       "school": "香港大学",
@@ -6137,7 +6941,9 @@
         "港澳"
       ],
       "source": "shenyanpai",
-      "urgency": "expired"
+      "urgency": "expired",
+      "department": "经管学院",
+      "department_group": "经管/金融"
     },
     {
       "school": "南开大学",
@@ -6152,7 +6958,9 @@
         "211"
       ],
       "source": "shenyanpai",
-      "urgency": "expired"
+      "urgency": "expired",
+      "department": "国家创新与金融研究院",
+      "department_group": "经管/金融"
     },
     {
       "school": "北京大学",
@@ -6170,7 +6978,9 @@
         "211"
       ],
       "source": "shenyanpai",
-      "urgency": "expired"
+      "urgency": "expired",
+      "department": "国际法学院",
+      "department_group": "文法/社科"
     },
     {
       "school": "澳门大学",
@@ -6184,7 +6994,9 @@
         "港澳"
       ],
       "source": "shenyanpai",
-      "urgency": "expired"
+      "urgency": "expired",
+      "department": "健康科学学院",
+      "department_group": "生医/药学"
     },
     {
       "school": "中国科学技术大学",
@@ -6201,7 +7013,9 @@
         "211"
       ],
       "source": "shenyanpai",
-      "urgency": "expired"
+      "urgency": "expired",
+      "department": "应用化学与工程学院（中国科学院长春应用化学研究所",
+      "department_group": "化学/材料"
     },
     {
       "school": "重庆邮电大学",
@@ -6215,7 +7029,9 @@
         "211"
       ],
       "source": "shenyanpai",
-      "urgency": "expired"
+      "urgency": "expired",
+      "department": "人工智能学院",
+      "department_group": "计算机"
     },
     {
       "school": "清华大学",
@@ -6233,7 +7049,9 @@
         "211"
       ],
       "source": "shenyanpai",
-      "urgency": "expired"
+      "urgency": "expired",
+      "department": "统计与数据科学系",
+      "department_group": "计算机"
     },
     {
       "school": "北京大学",
@@ -6251,7 +7069,9 @@
         "211"
       ],
       "source": "shenyanpai",
-      "urgency": "expired"
+      "urgency": "expired",
+      "department": "数学科学学院",
+      "department_group": "数学/统计"
     },
     {
       "school": "中国科学院",
@@ -6265,7 +7085,9 @@
         "研究院"
       ],
       "source": "shenyanpai",
-      "urgency": "expired"
+      "urgency": "expired",
+      "department": "中国科学院数学与系统科学研究院",
+      "department_group": "数学/统计"
     },
     {
       "school": "清华大学",
@@ -6283,7 +7105,9 @@
         "211"
       ],
       "source": "shenyanpai",
-      "urgency": "expired"
+      "urgency": "expired",
+      "department": "人工智能学院",
+      "department_group": "计算机"
     },
     {
       "school": "澳门大学",
@@ -6297,7 +7121,9 @@
         "港澳"
       ],
       "source": "shenyanpai",
-      "urgency": "expired"
+      "urgency": "expired",
+      "department": "应用物理及材料工程研究院",
+      "department_group": "物理/天文"
     },
     {
       "school": "香港中文大学（深圳）",
@@ -6311,7 +7137,9 @@
         "港澳"
       ],
       "source": "shenyanpai",
-      "urgency": "expired"
+      "urgency": "expired",
+      "department": "经管学院",
+      "department_group": "经管/金融"
     },
     {
       "school": "清华大学",
@@ -6329,7 +7157,9 @@
         "211"
       ],
       "source": "boardcaster",
-      "urgency": "expired"
+      "urgency": "expired",
+      "department": "人工智能学院",
+      "department_group": "计算机"
     },
     {
       "school": "中国科学技术大学",
@@ -6346,7 +7176,9 @@
         "211"
       ],
       "source": "shenyanpai",
-      "urgency": "expired"
+      "urgency": "expired",
+      "department": "精准智能化学全国重点实验室",
+      "department_group": "计算机"
     },
     {
       "school": "中国科学院",
@@ -6360,7 +7192,9 @@
         "研究院"
       ],
       "source": "shenyanpai",
-      "urgency": "expired"
+      "urgency": "expired",
+      "department": "中国科学院苏州纳米技术与纳米仿生研究所",
+      "department_group": "化学/材料"
     },
     {
       "school": "北京中关村学院",
@@ -6374,7 +7208,9 @@
         "联培"
       ],
       "source": "boardcaster",
-      "urgency": "expired"
+      "urgency": "expired",
+      "department": "北京中关村学院",
+      "department_group": "交叉/前沿"
     },
     {
       "school": "上海创智学院",
@@ -6388,7 +7224,9 @@
         "联培"
       ],
       "source": "boardcaster",
-      "urgency": "expired"
+      "urgency": "expired",
+      "department": "上海创智学院",
+      "department_group": "交叉/前沿"
     },
     {
       "school": "清华大学",
@@ -6406,7 +7244,9 @@
         "211"
       ],
       "source": "shenyanpai",
-      "urgency": "expired"
+      "urgency": "expired",
+      "department": "交叉信息研究院",
+      "department_group": "计算机"
     },
     {
       "school": "复旦大学",
@@ -6423,7 +7263,9 @@
         "211"
       ],
       "source": "shenyanpai",
-      "urgency": "expired"
+      "urgency": "expired",
+      "department": "管理学院2027级招生系",
+      "department_group": "物理/天文"
     },
     {
       "school": "中国科学技术大学",
@@ -6440,7 +7282,9 @@
         "211"
       ],
       "source": "shenyanpai",
-      "urgency": "expired"
+      "urgency": "expired",
+      "department": "国家同步辐射实验室",
+      "department_group": "物理/天文"
     },
     {
       "school": "中国科学技术大学",
@@ -6457,7 +7301,9 @@
         "211"
       ],
       "source": "shenyanpai",
-      "urgency": "expired"
+      "urgency": "expired",
+      "department": "数学科学学院",
+      "department_group": "数学/统计"
     },
     {
       "school": "香港中文大学（深圳）",
@@ -6471,7 +7317,9 @@
         "港澳"
       ],
       "source": "shenyanpai",
-      "urgency": "expired"
+      "urgency": "expired",
+      "department": "理工学院",
+      "department_group": "机械/航空/能源"
     },
     {
       "school": "上海交通大学",
@@ -6488,7 +7336,9 @@
         "211"
       ],
       "source": "shenyanpai",
-      "urgency": "expired"
+      "urgency": "expired",
+      "department": "李政道研究所",
+      "department_group": "物理/天文"
     },
     {
       "school": "复旦大学",
@@ -6505,7 +7355,9 @@
         "211"
       ],
       "source": "shenyanpai",
-      "urgency": "expired"
+      "urgency": "expired",
+      "department": "数学科学学院",
+      "department_group": "数学/统计"
     },
     {
       "school": "中国科学技术大学",
@@ -6522,7 +7374,9 @@
         "211"
       ],
       "source": "shenyanpai",
-      "urgency": "expired"
+      "urgency": "expired",
+      "department": "地球和空间科学学院",
+      "department_group": "物理/天文"
     },
     {
       "school": "中国科学技术大学",
@@ -6539,7 +7393,9 @@
         "211"
       ],
       "source": "shenyanpai",
-      "urgency": "expired"
+      "urgency": "expired",
+      "department": "地球和空间科学学院",
+      "department_group": "物理/天文"
     },
     {
       "school": "中国科学技术大学",
@@ -6556,7 +7412,9 @@
         "211"
       ],
       "source": "shenyanpai",
-      "urgency": "expired"
+      "urgency": "expired",
+      "department": "地球和空间科学学院",
+      "department_group": "物理/天文"
     },
     {
       "school": "中国科学技术大学",
@@ -6573,7 +7431,9 @@
         "211"
       ],
       "source": "shenyanpai",
-      "urgency": "expired"
+      "urgency": "expired",
+      "department": "地球和空间科学学院",
+      "department_group": "物理/天文"
     },
     {
       "school": "香港中文大学",
@@ -6587,7 +7447,9 @@
         "港澳"
       ],
       "source": "shenyanpai",
-      "urgency": "expired"
+      "urgency": "expired",
+      "department": "化学系",
+      "department_group": "化学/材料"
     },
     {
       "school": "北京大学",
@@ -6605,7 +7467,9 @@
         "211"
       ],
       "source": "shenyanpai",
-      "urgency": "expired"
+      "urgency": "expired",
+      "department": "全球健康发展研究院",
+      "department_group": "生医/药学"
     },
     {
       "school": "香港中文大学（深圳）",
@@ -6619,7 +7483,9 @@
         "港澳"
       ],
       "source": "boardcaster",
-      "urgency": "expired"
+      "urgency": "expired",
+      "department": "港中大（深圳）数据科学学院",
+      "department_group": "计算机"
     },
     {
       "school": "中国科学院",
@@ -6633,7 +7499,9 @@
         "研究院"
       ],
       "source": "shenyanpai",
-      "urgency": "expired"
+      "urgency": "expired",
+      "department": "中国科学院工程热物理研究所",
+      "department_group": "机械/航空/能源"
     },
     {
       "school": "中国科学院",
@@ -6647,7 +7515,9 @@
         "研究院"
       ],
       "source": "shenyanpai",
-      "urgency": "expired"
+      "urgency": "expired",
+      "department": "中国科学院苏州生物医学工程技术研究所",
+      "department_group": "生医/药学"
     },
     {
       "school": "北京大学",
@@ -6665,7 +7535,9 @@
         "211"
       ],
       "source": "shenyanpai",
-      "urgency": "expired"
+      "urgency": "expired",
+      "department": "物理学院天文学系",
+      "department_group": "物理/天文"
     },
     {
       "school": "中国科学技术大学",
@@ -6682,7 +7554,9 @@
         "211"
       ],
       "source": "shenyanpai",
-      "urgency": "expired"
+      "urgency": "expired",
+      "department": "管理学院科技商学院",
+      "department_group": "物理/天文"
     },
     {
       "school": "香港科技大学（广州）",
@@ -6696,7 +7570,9 @@
         "港澳"
       ],
       "source": "boardcaster",
-      "urgency": "expired"
+      "urgency": "expired",
+      "department": "红鸟挑战营第一期",
+      "department_group": "交叉/前沿"
     },
     {
       "school": "西湖大学",
@@ -6711,7 +7587,9 @@
         "双非"
       ],
       "source": "shenyanpai",
-      "urgency": "expired"
+      "urgency": "expired",
+      "department": "2026西湖大学生命科学学院",
+      "department_group": "生医/药学"
     },
     {
       "school": "中国科学院大学",
@@ -6725,7 +7603,9 @@
         "研究院"
       ],
       "source": "shenyanpai",
-      "urgency": "expired"
+      "urgency": "expired",
+      "department": "前沿交叉科学学院",
+      "department_group": "交叉/前沿"
     },
     {
       "school": "中国科学院",
@@ -6739,7 +7619,9 @@
         "研究院"
       ],
       "source": "boardcaster",
-      "urgency": "expired"
+      "urgency": "expired",
+      "department": "计算技术研究所",
+      "department_group": "计算机"
     },
     {
       "school": "中国科学院",
@@ -6753,7 +7635,9 @@
         "研究院"
       ],
       "source": "shenyanpai",
-      "urgency": "expired"
+      "urgency": "expired",
+      "department": "中国科学院计算技术研究所",
+      "department_group": "计算机"
     },
     {
       "school": "中国科学院",
@@ -6767,7 +7651,9 @@
         "研究院"
       ],
       "source": "boardcaster",
-      "urgency": "expired"
+      "urgency": "expired",
+      "department": "空天信息创新研究院",
+      "department_group": "交叉/前沿"
     },
     {
       "school": "浙江大学",
@@ -6784,7 +7670,9 @@
         "211"
       ],
       "source": "shenyanpai",
-      "urgency": "expired"
+      "urgency": "expired",
+      "department": "数学科学学院",
+      "department_group": "数学/统计"
     },
     {
       "school": "中国科学技术大学",
@@ -6801,7 +7689,9 @@
         "211"
       ],
       "source": "shenyanpai",
-      "urgency": "expired"
+      "urgency": "expired",
+      "department": "地球和空间科学学院",
+      "department_group": "物理/天文"
     },
     {
       "school": "中国科学院",
@@ -6815,7 +7705,9 @@
         "研究院"
       ],
       "source": "shenyanpai",
-      "urgency": "expired"
+      "urgency": "expired",
+      "department": "中国科学院西安光学精密机械研究所",
+      "department_group": "电子/通信"
     },
     {
       "school": "清华大学",
@@ -6833,7 +7725,9 @@
         "211"
       ],
       "source": "shenyanpai",
-      "urgency": "expired"
+      "urgency": "expired",
+      "department": "苏世民书院",
+      "department_group": "文法/社科"
     },
     {
       "school": "浙江大学",
@@ -6850,7 +7744,9 @@
         "211"
       ],
       "source": "shenyanpai",
-      "urgency": "expired"
+      "urgency": "expired",
+      "department": "数据科学研究中心",
+      "department_group": "计算机"
     },
     {
       "school": "中国科学技术大学",
@@ -6867,7 +7763,9 @@
         "211"
       ],
       "source": "shenyanpai",
-      "urgency": "expired"
+      "urgency": "expired",
+      "department": "生物医学工程学院",
+      "department_group": "生医/药学"
     },
     {
       "school": "中国科学技术大学",
@@ -6884,7 +7782,9 @@
         "211"
       ],
       "source": "shenyanpai",
-      "urgency": "expired"
+      "urgency": "expired",
+      "department": "环境科学与光电技术学院",
+      "department_group": "电子/通信"
     },
     {
       "school": "中国科学院",
@@ -6898,7 +7798,9 @@
         "研究院"
       ],
       "source": "shenyanpai",
-      "urgency": "expired"
+      "urgency": "expired",
+      "department": "中国科学院合肥物质科学研究院",
+      "department_group": "研究院所"
     },
     {
       "school": "清华大学",
@@ -6916,7 +7818,9 @@
         "211"
       ],
       "source": "shenyanpai",
-      "urgency": "expired"
+      "urgency": "expired",
+      "department": "航空发动机研究院",
+      "department_group": "机械/航空/能源"
     },
     {
       "school": "浙江大学",
@@ -6933,7 +7837,9 @@
         "211"
       ],
       "source": "shenyanpai",
-      "urgency": "expired"
+      "urgency": "expired",
+      "department": "管理学院",
+      "department_group": "物理/天文"
     },
     {
       "school": "浙江大学",
@@ -6950,7 +7856,9 @@
         "211"
       ],
       "source": "shenyanpai",
-      "urgency": "expired"
+      "urgency": "expired",
+      "department": "数据科学研究中心",
+      "department_group": "计算机"
     },
     {
       "school": "西湖大学",
@@ -6965,7 +7873,9 @@
         "双非"
       ],
       "source": "boardcaster",
-      "urgency": "expired"
+      "urgency": "expired",
+      "department": "西湖大学",
+      "department_group": "交叉/前沿"
     },
     {
       "school": "清华大学",
@@ -6983,7 +7893,9 @@
         "211"
       ],
       "source": "shenyanpai",
-      "urgency": "expired"
+      "urgency": "expired",
+      "department": "工业工程系",
+      "department_group": "机械/航空/能源"
     },
     {
       "school": "中国科学技术大学",
@@ -7000,7 +7912,9 @@
         "211"
       ],
       "source": "shenyanpai",
-      "urgency": "expired"
+      "urgency": "expired",
+      "department": "苏州高等研究院",
+      "department_group": "交叉/前沿"
     },
     {
       "school": "吉林大学",
@@ -7015,7 +7929,9 @@
         "211"
       ],
       "source": "shenyanpai",
-      "urgency": "expired"
+      "urgency": "expired",
+      "department": "化学学院无机合成与制备化学全国重点实验室",
+      "department_group": "化学/材料"
     },
     {
       "school": "香港中文大学（深圳）",
@@ -7029,7 +7945,9 @@
         "港澳"
       ],
       "source": "shenyanpai",
-      "urgency": "expired"
+      "urgency": "expired",
+      "department": "经管学院",
+      "department_group": "经管/金融"
     },
     {
       "school": "清华大学",
@@ -7047,7 +7965,9 @@
         "211"
       ],
       "source": "shenyanpai",
-      "urgency": "expired"
+      "urgency": "expired",
+      "department": "物理系",
+      "department_group": "物理/天文"
     },
     {
       "school": "清华大学",
@@ -7065,7 +7985,9 @@
         "211"
       ],
       "source": "shenyanpai",
-      "urgency": "expired"
+      "urgency": "expired",
+      "department": "建筑学院",
+      "department_group": "建筑/土木"
     },
     {
       "school": "北京大学",
@@ -7083,7 +8005,9 @@
         "211"
       ],
       "source": "shenyanpai",
-      "urgency": "expired"
+      "urgency": "expired",
+      "department": "北京大学深圳研究生院2026年国际暑期探索营",
+      "department_group": "交叉/前沿"
     },
     {
       "school": "中国科学技术大学",
@@ -7100,7 +8024,9 @@
         "211"
       ],
       "source": "shenyanpai",
-      "urgency": "expired"
+      "urgency": "expired",
+      "department": "合肥微尺度物质科学国家研究中心预",
+      "department_group": "物理/天文"
     },
     {
       "school": "中国科学院",
@@ -7114,7 +8040,9 @@
         "研究院"
       ],
       "source": "shenyanpai",
-      "urgency": "expired"
+      "urgency": "expired",
+      "department": "中国科学院古脊椎动物与古人类研究所分子古生物学实验室",
+      "department_group": "生医/药学"
     },
     {
       "school": "中国科学院",
@@ -7128,7 +8056,9 @@
         "研究院"
       ],
       "source": "shenyanpai",
-      "urgency": "expired"
+      "urgency": "expired",
+      "department": "中国科学院古脊椎动物与古人类研究所分子古生物学实验室",
+      "department_group": "生医/药学"
     },
     {
       "school": "南开大学",
@@ -7143,7 +8073,9 @@
         "211"
       ],
       "source": "shenyanpai",
-      "urgency": "expired"
+      "urgency": "expired",
+      "department": "周恩来政府管理学院中国政府发展联合研究中心",
+      "department_group": "物理/天文"
     },
     {
       "school": "中国科学院大学",
@@ -7157,7 +8089,9 @@
         "研究院"
       ],
       "source": "shenyanpai",
-      "urgency": "expired"
+      "urgency": "expired",
+      "department": "国际理论物理中心",
+      "department_group": "物理/天文"
     },
     {
       "school": "复旦大学",
@@ -7174,7 +8108,9 @@
         "211"
       ],
       "source": "shenyanpai",
-      "urgency": "expired"
+      "urgency": "expired",
+      "department": "国际金融学院EMF2026系",
+      "department_group": "经管/金融"
     },
     {
       "school": "北京协和医学院",
@@ -7188,7 +8124,9 @@
         "双非"
       ],
       "source": "shenyanpai",
-      "urgency": "expired"
+      "urgency": "expired",
+      "department": "北京协和医学院医药生物技术研究所",
+      "department_group": "生医/药学"
     },
     {
       "school": "北京大学",
@@ -7206,7 +8144,9 @@
         "211"
       ],
       "source": "shenyanpai",
-      "urgency": "expired"
+      "urgency": "expired",
+      "department": "生命科学联合中心",
+      "department_group": "生医/药学"
     },
     {
       "school": "浙江大学",
@@ -7223,7 +8163,9 @@
         "211"
       ],
       "source": "shenyanpai",
-      "urgency": "expired"
+      "urgency": "expired",
+      "department": "良渚实验室",
+      "department_group": "生医/药学"
     },
     {
       "school": "浙江大学",
@@ -7240,7 +8182,9 @@
         "211"
       ],
       "source": "shenyanpai",
-      "urgency": "expired"
+      "urgency": "expired",
+      "department": "基础医学院",
+      "department_group": "生医/药学"
     },
     {
       "school": "浙江大学",
@@ -7257,7 +8201,9 @@
         "211"
       ],
       "source": "shenyanpai",
-      "urgency": "expired"
+      "urgency": "expired",
+      "department": "脑科学与脑医学学院",
+      "department_group": "生医/药学"
     },
     {
       "school": "中国科学技术大学",
@@ -7274,7 +8220,9 @@
         "211"
       ],
       "source": "shenyanpai",
-      "urgency": "expired"
+      "urgency": "expired",
+      "department": "能源科学与技术学院",
+      "department_group": "机械/航空/能源"
     },
     {
       "school": "中国科学院大学",
@@ -7288,7 +8236,9 @@
         "研究院"
       ],
       "source": "shenyanpai",
-      "urgency": "expired"
+      "urgency": "expired",
+      "department": "经济与管理学院和中国科学院数学与系统科学研究院",
+      "department_group": "数学/统计"
     },
     {
       "school": "北京师范大学",
@@ -7303,7 +8253,9 @@
         "211"
       ],
       "source": "shenyanpai",
-      "urgency": "expired"
+      "urgency": "expired",
+      "department": "文理学院",
+      "department_group": "物理/天文"
     },
     {
       "school": "北京协和医学院",
@@ -7317,7 +8269,9 @@
         "双非"
       ],
       "source": "shenyanpai",
-      "urgency": "expired"
+      "urgency": "expired",
+      "department": "北京协和医学院比较医学中心",
+      "department_group": "生医/药学"
     },
     {
       "school": "中国科学院大学",
@@ -7331,7 +8285,9 @@
         "研究院"
       ],
       "source": "shenyanpai",
-      "urgency": "expired"
+      "urgency": "expired",
+      "department": "中丹学院",
+      "department_group": "交叉/前沿"
     },
     {
       "school": "中国科学院",
@@ -7345,7 +8301,9 @@
         "研究院"
       ],
       "source": "shenyanpai",
-      "urgency": "expired"
+      "urgency": "expired",
+      "department": "中国科学院理论物理研究所",
+      "department_group": "物理/天文"
     },
     {
       "school": "北京师范大学",
@@ -7360,7 +8318,9 @@
         "211"
       ],
       "source": "shenyanpai",
-      "urgency": "expired"
+      "urgency": "expired",
+      "department": "环境学院",
+      "department_group": "地学/环境"
     },
     {
       "school": "中国科学院",
@@ -7374,7 +8334,9 @@
         "研究院"
       ],
       "source": "shenyanpai",
-      "urgency": "expired"
+      "urgency": "expired",
+      "department": "中国科学院分子细胞科学卓越创新中心",
+      "department_group": "化学/材料"
     },
     {
       "school": "中国科学院",
@@ -7388,7 +8350,9 @@
         "研究院"
       ],
       "source": "shenyanpai",
-      "urgency": "expired"
+      "urgency": "expired",
+      "department": "中国科学院生态环境研究中心",
+      "department_group": "生医/药学"
     },
     {
       "school": "南开大学",
@@ -7403,7 +8367,9 @@
         "211"
       ],
       "source": "shenyanpai",
-      "urgency": "expired"
+      "urgency": "expired",
+      "department": "旅游与服务学院",
+      "department_group": "经管/金融"
     },
     {
       "school": "北京大学",
@@ -7421,7 +8387,9 @@
         "211"
       ],
       "source": "shenyanpai",
-      "urgency": "expired"
+      "urgency": "expired",
+      "department": "北京大学燕京学堂2026年全国优秀大学生夏令营",
+      "department_group": "文法/社科"
     },
     {
       "school": "北京师范大学",
@@ -7436,7 +8404,9 @@
         "211"
       ],
       "source": "shenyanpai",
-      "urgency": "expired"
+      "urgency": "expired",
+      "department": "历史学院考古文博系",
+      "department_group": "文法/社科"
     },
     {
       "school": "中国科学院大学",
@@ -7450,7 +8420,9 @@
         "研究院"
       ],
       "source": "shenyanpai",
-      "urgency": "expired"
+      "urgency": "expired",
+      "department": "公共政策与管理学院",
+      "department_group": "物理/天文"
     },
     {
       "school": "中国医学科学院",
@@ -7464,7 +8436,9 @@
         "研究院"
       ],
       "source": "shenyanpai",
-      "urgency": "expired"
+      "urgency": "expired",
+      "department": "中国医学科学院血液病医院（中国医学科学院血液学研究所",
+      "department_group": "生医/药学"
     },
     {
       "school": "清华大学",
@@ -7482,7 +8456,9 @@
         "211"
       ],
       "source": "shenyanpai",
-      "urgency": "expired"
+      "urgency": "expired",
+      "department": "生命科学联合中心",
+      "department_group": "生医/药学"
     },
     {
       "school": "清华大学",
@@ -7500,7 +8476,9 @@
         "211"
       ],
       "source": "shenyanpai",
-      "urgency": "expired"
+      "urgency": "expired",
+      "department": "药学院",
+      "department_group": "生医/药学"
     },
     {
       "school": "清华大学",
@@ -7518,7 +8496,9 @@
         "211"
       ],
       "source": "shenyanpai",
-      "urgency": "expired"
+      "urgency": "expired",
+      "department": "生命科学学院",
+      "department_group": "生医/药学"
     },
     {
       "school": "清华大学",
@@ -7536,7 +8516,9 @@
         "211"
       ],
       "source": "shenyanpai",
-      "urgency": "expired"
+      "urgency": "expired",
+      "department": "电子工程系信息光电子研究所",
+      "department_group": "电子/通信"
     },
     {
       "school": "中国科学院大学",
@@ -7550,7 +8532,9 @@
         "研究院"
       ],
       "source": "shenyanpai",
-      "urgency": "expired"
+      "urgency": "expired",
+      "department": "应急管理科学与工程学院",
+      "department_group": "经管/金融"
     },
     {
       "school": "中国科学院",
@@ -7564,7 +8548,9 @@
         "研究院"
       ],
       "source": "shenyanpai",
-      "urgency": "expired"
+      "urgency": "expired",
+      "department": "中国科学院广州地球化学研究所",
+      "department_group": "化学/材料"
     },
     {
       "school": "中国原子能科学研究院",
@@ -7578,7 +8564,9 @@
         "研究院"
       ],
       "source": "shenyanpai",
-      "urgency": "expired"
+      "urgency": "expired",
+      "department": "中国原子能科学研究院核物理研究所",
+      "department_group": "物理/天文"
     },
     {
       "school": "北京大学",
@@ -7596,7 +8584,9 @@
         "211"
       ],
       "source": "shenyanpai",
-      "urgency": "expired"
+      "urgency": "expired",
+      "department": "汇丰商学院",
+      "department_group": "经管/金融"
     },
     {
       "school": "复旦大学",
@@ -7613,7 +8603,9 @@
         "211"
       ],
       "source": "shenyanpai",
-      "urgency": "expired"
+      "urgency": "expired",
+      "department": "经济学院",
+      "department_group": "经管/金融"
     },
     {
       "school": "复旦大学",
@@ -7630,7 +8622,9 @@
         "211"
       ],
       "source": "shenyanpai",
-      "urgency": "expired"
+      "urgency": "expired",
+      "department": "经济学院",
+      "department_group": "经管/金融"
     },
     {
       "school": "北京大学",
@@ -7648,7 +8642,9 @@
         "211"
       ],
       "source": "shenyanpai",
-      "urgency": "expired"
+      "urgency": "expired",
+      "department": "人口研究所",
+      "department_group": "经管/金融"
     },
     {
       "school": "海南大学",
@@ -7663,7 +8659,9 @@
         "211"
       ],
       "source": "shenyanpai",
-      "urgency": "expired"
+      "urgency": "expired",
+      "department": "亚利桑那州立大学国际学院",
+      "department_group": "交叉/前沿"
     },
     {
       "school": "北京协和医学院",
@@ -7677,7 +8675,9 @@
         "双非"
       ],
       "source": "shenyanpai",
-      "urgency": "expired"
+      "urgency": "expired",
+      "department": "北京协和医学院北京医院国家老年医学中心",
+      "department_group": "生医/药学"
     },
     {
       "school": "南开大学",
@@ -7692,7 +8692,9 @@
         "211"
       ],
       "source": "shenyanpai",
-      "urgency": "expired"
+      "urgency": "expired",
+      "department": "数学科学学院",
+      "department_group": "数学/统计"
     },
     {
       "school": "南开大学",
@@ -7707,7 +8709,9 @@
         "211"
       ],
       "source": "shenyanpai",
-      "urgency": "expired"
+      "urgency": "expired",
+      "department": "组合数学中心",
+      "department_group": "计算机"
     },
     {
       "school": "中国科学院",
@@ -7721,7 +8725,9 @@
         "研究院"
       ],
       "source": "shenyanpai",
-      "urgency": "expired"
+      "urgency": "expired",
+      "department": "中国科学院地质与地球物理研究所",
+      "department_group": "物理/天文"
     },
     {
       "school": "北京大学",
@@ -7739,7 +8745,9 @@
         "211"
       ],
       "source": "shenyanpai",
-      "urgency": "expired"
+      "urgency": "expired",
+      "department": "化学与分子工程学院和深研院化生学院",
+      "department_group": "化学/材料"
     },
     {
       "school": "北京大学",
@@ -7757,7 +8765,9 @@
         "211"
       ],
       "source": "shenyanpai",
-      "urgency": "expired"
+      "urgency": "expired",
+      "department": "深圳研究生院化学生物学与生物技术学院",
+      "department_group": "化学/材料"
     },
     {
       "school": "西安交通大学",
@@ -7773,7 +8783,9 @@
         "211"
       ],
       "source": "shenyanpai",
-      "urgency": "expired"
+      "urgency": "expired",
+      "department": "电子与信息学部自动化科学与工程学院",
+      "department_group": "电子/通信"
     },
     {
       "school": "中国科学院大学",
@@ -7787,7 +8799,9 @@
         "研究院"
       ],
       "source": "shenyanpai",
-      "urgency": "expired"
+      "urgency": "expired",
+      "department": "工程科学学院",
+      "department_group": "交叉/前沿"
     },
     {
       "school": "西安交通大学",
@@ -7803,7 +8817,9 @@
         "211"
       ],
       "source": "shenyanpai",
-      "urgency": "expired"
+      "urgency": "expired",
+      "department": "外国语学院",
+      "department_group": "文法/社科"
     },
     {
       "school": "香港中文大学（深圳）",
@@ -7817,7 +8833,9 @@
         "港澳"
       ],
       "source": "shenyanpai",
-      "urgency": "expired"
+      "urgency": "expired",
+      "department": "医学院",
+      "department_group": "生医/药学"
     },
     {
       "school": "中国农业科学院",
@@ -7831,7 +8849,9 @@
         "研究院"
       ],
       "source": "shenyanpai",
-      "urgency": "expired"
+      "urgency": "expired",
+      "department": "中国农业科学院蜜蜂研究所",
+      "department_group": "农学/畜牧"
     },
     {
       "school": "中国科学院",
@@ -7845,7 +8865,9 @@
         "研究院"
       ],
       "source": "shenyanpai",
-      "urgency": "expired"
+      "urgency": "expired",
+      "department": "中国科学院武汉岩土力学研究所",
+      "department_group": "机械/航空/能源"
     },
     {
       "school": "中国科学院",
@@ -7859,7 +8881,9 @@
         "研究院"
       ],
       "source": "shenyanpai",
-      "urgency": "expired"
+      "urgency": "expired",
+      "department": "中国科学院工业人工智能研究所",
+      "department_group": "计算机"
     },
     {
       "school": "中国科学院",
@@ -7873,7 +8897,9 @@
         "研究院"
       ],
       "source": "shenyanpai",
-      "urgency": "expired"
+      "urgency": "expired",
+      "department": "中国科学院上海有机化学研究所",
+      "department_group": "化学/材料"
     },
     {
       "school": "浙江大学",
@@ -7890,7 +8916,9 @@
         "211"
       ],
       "source": "shenyanpai",
-      "urgency": "expired"
+      "urgency": "expired",
+      "department": "转化医学研究院",
+      "department_group": "生医/药学"
     },
     {
       "school": "清华大学",
@@ -7908,7 +8936,9 @@
         "211"
       ],
       "source": "shenyanpai",
-      "urgency": "unknown"
+      "urgency": "unknown",
+      "department": "环境学院",
+      "department_group": "地学/环境"
     },
     {
       "school": "清华大学",
@@ -7926,7 +8956,9 @@
         "211"
       ],
       "source": "shenyanpai",
-      "urgency": "unknown"
+      "urgency": "unknown",
+      "department": "深圳国际研究生院数据与信息研究院",
+      "department_group": "计算机"
     },
     {
       "school": "清华大学",
@@ -7944,7 +8976,9 @@
         "211"
       ],
       "source": "shenyanpai",
-      "urgency": "unknown"
+      "urgency": "unknown",
+      "department": "智能产业研究院",
+      "department_group": "计算机"
     },
     {
       "school": "北京大学",
@@ -7962,7 +8996,9 @@
         "211"
       ],
       "source": "shenyanpai",
-      "urgency": "unknown"
+      "urgency": "unknown",
+      "department": "环境科学与工程学院",
+      "department_group": "地学/环境"
     },
     {
       "school": "北京大学",
@@ -7980,7 +9016,9 @@
         "211"
       ],
       "source": "shenyanpai",
-      "urgency": "unknown"
+      "urgency": "unknown",
+      "department": "北京大学深圳研究生院“2026年全国优秀大学生夏令营”",
+      "department_group": "交叉/前沿"
     },
     {
       "school": "浙江大学",
@@ -7997,7 +9035,9 @@
         "211"
       ],
       "source": "shenyanpai",
-      "urgency": "unknown"
+      "urgency": "unknown",
+      "department": "电气工程学院",
+      "department_group": "自动化/仪器"
     },
     {
       "school": "南京大学",
@@ -8014,7 +9054,9 @@
         "211"
       ],
       "source": "shenyanpai",
-      "urgency": "unknown"
+      "urgency": "unknown",
+      "department": "物理学院",
+      "department_group": "物理/天文"
     },
     {
       "school": "中国科学技术大学",
@@ -8031,7 +9073,9 @@
         "211"
       ],
       "source": "shenyanpai",
-      "urgency": "unknown"
+      "urgency": "unknown",
+      "department": "信息科学技术学院自动化系",
+      "department_group": "计算机"
     },
     {
       "school": "中国科学技术大学",
@@ -8048,7 +9092,9 @@
         "211"
       ],
       "source": "shenyanpai",
-      "urgency": "unknown"
+      "urgency": "unknown",
+      "department": "电子工程与信息科学系",
+      "department_group": "电子/通信"
     },
     {
       "school": "西安交通大学",
@@ -8064,7 +9110,9 @@
         "211"
       ],
       "source": "shenyanpai",
-      "urgency": "unknown"
+      "urgency": "unknown",
+      "department": "电子与信息学部电子科学与工程学院",
+      "department_group": "电子/通信"
     },
     {
       "school": "西安交通大学",
@@ -8080,7 +9128,9 @@
         "211"
       ],
       "source": "shenyanpai",
-      "urgency": "unknown"
+      "urgency": "unknown",
+      "department": "电子与信息学部网络空间安全学院",
+      "department_group": "计算机"
     },
     {
       "school": "同济大学",
@@ -8095,7 +9145,9 @@
         "211"
       ],
       "source": "shenyanpai",
-      "urgency": "unknown"
+      "urgency": "unknown",
+      "department": "中意工程创新学院",
+      "department_group": "交叉/前沿"
     },
     {
       "school": "天津大学",
@@ -8110,7 +9162,9 @@
         "211"
       ],
       "source": "shenyanpai",
-      "urgency": "unknown"
+      "urgency": "unknown",
+      "department": "宣怀学院",
+      "department_group": "交叉/前沿"
     },
     {
       "school": "天津大学",
@@ -8125,7 +9179,9 @@
         "211"
       ],
       "source": "shenyanpai",
-      "urgency": "unknown"
+      "urgency": "unknown",
+      "department": "纳电子科学与芯片工程学院纳米中心",
+      "department_group": "电子/通信"
     },
     {
       "school": "山东大学",
@@ -8140,7 +9196,9 @@
         "211"
       ],
       "source": "shenyanpai",
-      "urgency": "unknown"
+      "urgency": "unknown",
+      "department": "空间科学与技术学院",
+      "department_group": "物理/天文"
     },
     {
       "school": "中国科学院大学",
@@ -8154,7 +9212,9 @@
         "研究院"
       ],
       "source": "shenyanpai",
-      "urgency": "unknown"
+      "urgency": "unknown",
+      "department": "杭州高等研究院",
+      "department_group": "交叉/前沿"
     },
     {
       "school": "中国科学院",
@@ -8168,7 +9228,9 @@
         "研究院"
       ],
       "source": "shenyanpai",
-      "urgency": "unknown"
+      "urgency": "unknown",
+      "department": "中国科学院空间应用工程与技术中心",
+      "department_group": "研究院所"
     },
     {
       "school": "中国科学院",
@@ -8182,7 +9244,9 @@
         "研究院"
       ],
       "source": "shenyanpai",
-      "urgency": "unknown"
+      "urgency": "unknown",
+      "department": "中国科学院上海光学精密机械研究所",
+      "department_group": "电子/通信"
     },
     {
       "school": "中国科学院",
@@ -8196,7 +9260,9 @@
         "研究院"
       ],
       "source": "shenyanpai",
-      "urgency": "unknown"
+      "urgency": "unknown",
+      "department": "中国科学院国家授时中心",
+      "department_group": "物理/天文"
     },
     {
       "school": "中国科学院",
@@ -8210,7 +9276,9 @@
         "研究院"
       ],
       "source": "shenyanpai",
-      "urgency": "unknown"
+      "urgency": "unknown",
+      "department": "中国科学院软件研究所中文信息处理实验室",
+      "department_group": "计算机"
     },
     {
       "school": "上海人工智能实验室",
@@ -8225,7 +9293,9 @@
         "联培"
       ],
       "source": "shenyanpai",
-      "urgency": "unknown"
+      "urgency": "unknown",
+      "department": "上海人工智能实验室",
+      "department_group": "计算机"
     },
     {
       "school": "复旦大学",
@@ -8242,7 +9312,9 @@
         "211"
       ],
       "source": "shenyanpai",
-      "urgency": "unknown"
+      "urgency": "unknown",
+      "department": "管理学院",
+      "department_group": "物理/天文"
     },
     {
       "school": "复旦大学",
@@ -8259,7 +9331,9 @@
         "211"
       ],
       "source": "shenyanpai",
-      "urgency": "unknown"
+      "urgency": "unknown",
+      "department": "管理学院",
+      "department_group": "物理/天文"
     },
     {
       "school": "南方科技大学",
@@ -8274,7 +9348,9 @@
         "双非"
       ],
       "source": "shenyanpai",
-      "urgency": "unknown"
+      "urgency": "unknown",
+      "department": "商学院",
+      "department_group": "经管/金融"
     },
     {
       "school": "上海财经大学",
@@ -8288,7 +9364,9 @@
         "211"
       ],
       "source": "shenyanpai",
-      "urgency": "unknown"
+      "urgency": "unknown",
+      "department": "滴水湖高级金融学院",
+      "department_group": "经管/金融"
     },
     {
       "school": "浙江大学",
@@ -8305,7 +9383,9 @@
         "211"
       ],
       "source": "shenyanpai",
-      "urgency": "unknown"
+      "urgency": "unknown",
+      "department": "哲学学院",
+      "department_group": "文法/社科"
     },
     {
       "school": "中国科学院大学",
@@ -8319,7 +9399,9 @@
         "研究院"
       ],
       "source": "shenyanpai",
-      "urgency": "unknown"
+      "urgency": "unknown",
+      "department": "信息资源管理系",
+      "department_group": "经管/金融"
     },
     {
       "school": "浙江大学",
@@ -8336,7 +9418,9 @@
         "211"
       ],
       "source": "shenyanpai",
-      "urgency": "unknown"
+      "urgency": "unknown",
+      "department": "医学院",
+      "department_group": "生医/药学"
     },
     {
       "school": "香港科技大学（广州）",
@@ -8350,7 +9434,9 @@
         "港澳"
       ],
       "source": "boardcaster",
-      "urgency": "unknown"
+      "urgency": "unknown",
+      "department": "未来技术学院（红鸟硕士项目）",
+      "department_group": "交叉/前沿"
     },
     {
       "school": "中国电信人工智能研究院",
@@ -8364,7 +9450,9 @@
         "联培"
       ],
       "source": "boardcaster",
-      "urgency": "unknown"
+      "urgency": "unknown",
+      "department": "TeleAI（中国电信人工智能研究院",
+      "department_group": "计算机"
     },
     {
       "school": "东南大学",
@@ -8379,7 +9467,9 @@
         "211"
       ],
       "source": "boardcaster",
-      "urgency": "unknown"
+      "urgency": "unknown",
+      "department": "PALM实验室",
+      "department_group": "计算机"
     },
     {
       "school": "上海交通大学",
@@ -8396,7 +9486,9 @@
         "211"
       ],
       "source": "boardcaster",
-      "urgency": "unknown"
+      "urgency": "unknown",
+      "department": "人工智能学院",
+      "department_group": "计算机"
     }
   ]
 }

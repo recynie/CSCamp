@@ -61,5 +61,6 @@
   ],
   "tags": [],
   "showExpired": false,
-  "showUnknown": true
+  "showUnknown": true,
+  "departmentGroups": []
 }

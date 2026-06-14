@@ -6,11 +6,13 @@
     urgencyOptions,
     allCategories,
     allTags,
+    allDepartmentGroups,
     schools,
     filterState,
     onToggleUrgency,
     onToggleCategory,
     onToggleTag,
+    onToggleDepartmentGroup,
     onToggleSchool,
     onClearFilters,
     onQueryChange,
@@ -20,11 +22,13 @@
     urgencyOptions: Urgency[];
     allCategories: string[];
     allTags: string[];
+    allDepartmentGroups: string[];
     schools: string[];
     filterState: FilterState;
     onToggleUrgency: (u: Urgency) => void;
     onToggleCategory: (c: string) => void;
     onToggleTag: (t: string) => void;
+    onToggleDepartmentGroup: (g: string) => void;
     onToggleSchool: (s: string) => void;
     onClearFilters: () => void;
     onQueryChange: (q: string) => void;
@@ -63,6 +67,26 @@
 </script>
 
 <div class="space-y-4">
+  <!-- Department Groups -->
+  <div class="bg-white dark:bg-zinc-900 rounded-lg p-4 border border-zinc-200 dark:border-zinc-800">
+    <p class="text-xs font-medium text-zinc-500 dark:text-zinc-400 mb-2">
+      专业大类 ({filterState.departmentGroups.size === 0 ? '全部' : filterState.departmentGroups.size})
+    </p>
+    <div class="space-y-0.5">
+      {#each allDepartmentGroups as group}
+        <label class="flex items-center gap-2 text-sm cursor-pointer hover:bg-zinc-50 dark:hover:bg-zinc-800 p-1 rounded">
+          <input
+            type="checkbox"
+            checked={filterState.departmentGroups.has(group)}
+            onchange={() => onToggleDepartmentGroup(group)}
+            class="rounded border-zinc-300 dark:border-zinc-600"
+          />
+          <span class="text-zinc-700 dark:text-zinc-300 text-xs">{group}</span>
+        </label>
+      {/each}
+    </div>
+  </div>
+
   <!-- Search -->
   <div class="bg-white dark:bg-zinc-900 rounded-lg p-4 border border-zinc-200 dark:border-zinc-800">
     <p class="text-xs font-medium text-zinc-500 dark:text-zinc-400 mb-2">搜索</p>

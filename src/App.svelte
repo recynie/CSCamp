@@ -1,5 +1,5 @@
 <script lang="ts">
-  import { filterState, filteredCamps, updatedAt, allCamps, allCategories, allTags } from './lib/store';
+  import { filterState, filteredCamps, updatedAt, allCamps, allCategories, allTags, allDepartmentGroups } from './lib/store';
   import { getSchools } from './lib/utils';
   import type { Urgency } from './lib/types';
   import Header from './components/Header.svelte';
@@ -46,6 +46,14 @@
     });
   }
 
+  function toggleDepartmentGroup(g: string) {
+    filterState.update(f => {
+      const s = new Set(f.departmentGroups);
+      s.has(g) ? s.delete(g) : s.add(g);
+      return { ...f, departmentGroups: s };
+    });
+  }
+
   function clearFilters() {
     filterState.update(f => ({
       ...f,
@@ -54,6 +62,7 @@
       categories: new Set(),
       tags: new Set(),
       schools: new Set(),
+      departmentGroups: new Set(),
     }));
   }
 
@@ -73,11 +82,13 @@
         {urgencyOptions}
         {allCategories}
         {allTags}
+        {allDepartmentGroups}
         {schools}
         filterState={$filterState}
         onToggleUrgency={toggleUrgency}
         onToggleCategory={toggleCategory}
         onToggleTag={toggleTag}
+        onToggleDepartmentGroup={toggleDepartmentGroup}
         onToggleSchool={toggleSchool}
         onClearFilters={clearFilters}
         onQueryChange={(q) => filterState.update(f => ({ ...f, query: q }))}
