@@ -62,5 +62,10 @@
   "tags": [],
   "showExpired": false,
   "showUnknown": true,
-  "departmentGroups": []
+  "departmentGroups": [
+    "计算机",
+    "电子/通信",
+    "交叉/创新创业",
+    "其他"
+  ]
 }

@@ -23,7 +23,11 @@ default_show_unknown_deadline: true
 
 # 默认勾选的专业大类（来自 department_rules.yaml）
 # 空列表 = 显示全部
-default_department_groups: []
+default_department_groups:
+  - 计算机
+  - 电子/通信
+  - 交叉/创新创业
+  - 其他
 
 # ============================================================
 # 默认勾选的学校列表（空列表 = 不按学校名过滤）
