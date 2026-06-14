@@ -42,10 +42,25 @@
     schools.filter(s => s.toLowerCase().includes(schoolQuery.toLowerCase()))
   );
 
-  let departmentQuery = $state('');
-  const filteredDepartmentGroups = $derived(
-    allDepartmentGroups.filter(g => g.toLowerCase().includes(departmentQuery.toLowerCase()))
-  );
+  // Colors for department group tags
+  const DEPT_COLORS: Record<string, string> = {
+    '计算机':       'bg-violet-100 text-violet-700 dark:bg-violet-900/40 dark:text-violet-300',
+    '电子/通信':   'bg-sky-100 text-sky-700 dark:bg-sky-900/40 dark:text-sky-300',
+    '自动化/仪器': 'bg-cyan-100 text-cyan-700 dark:bg-cyan-900/40 dark:text-cyan-300',
+    '经管/金融':   'bg-emerald-100 text-emerald-700 dark:bg-emerald-900/40 dark:text-emerald-300',
+    '生医/药学':   'bg-rose-100 text-rose-700 dark:bg-rose-900/40 dark:text-rose-300',
+    '数学/统计':   'bg-amber-100 text-amber-700 dark:bg-amber-900/40 dark:text-amber-300',
+    '物理/天文':   'bg-indigo-100 text-indigo-700 dark:bg-indigo-900/40 dark:text-indigo-300',
+    '化学/材料':   'bg-lime-100 text-lime-700 dark:bg-lime-900/40 dark:text-lime-300',
+    '机械/航空/能源': 'bg-orange-100 text-orange-700 dark:bg-orange-900/40 dark:text-orange-300',
+    '建筑/土木':   'bg-stone-100 text-stone-700 dark:bg-stone-900/40 dark:text-stone-300',
+    '地学/环境':   'bg-teal-100 text-teal-700 dark:bg-teal-900/40 dark:text-teal-300',
+    '文法/社科':   'bg-pink-100 text-pink-700 dark:bg-pink-900/40 dark:text-pink-300',
+    '农学/畜牧':   'bg-green-100 text-green-700 dark:bg-green-900/40 dark:text-green-300',
+    '交叉/创新创业': 'bg-fuchsia-100 text-fuchsia-700 dark:bg-fuchsia-900/40 dark:text-fuchsia-300',
+    '其他':       'bg-zinc-100 text-zinc-600 dark:bg-zinc-800 dark:text-zinc-400',
+  };
+  const DEPT_COLOR_DEFAULT = 'bg-zinc-100 text-zinc-600 dark:bg-zinc-800 dark:text-zinc-400';
 
   const hasActiveFilters = $derived(
     !!filterState.query ||
@@ -103,8 +118,8 @@
     </div>
   </CollapsibleSection>
 
-  <!-- 3. 学校档次 -->
-  <CollapsibleSection title="学校档次" count={filterState.tags.size} defaultOpen={true}>
+  <!-- 3. 学校标签 -->
+  <CollapsibleSection title="学校标签" count={filterState.tags.size} defaultOpen={true}>
     <div class="flex flex-wrap gap-1.5">
       {#each allTags as tag}
         {@const active = filterState.tags.has(tag)}
@@ -144,25 +159,20 @@
     </div>
   </CollapsibleSection>
 
-  <!-- 5. 专业大类 — 默认折叠，加搜索框 + 可滚动列表 -->
+  <!-- 5. 专业大类 — 默认折叠，用 tag 按钮展示 -->
   <CollapsibleSection title="专业大类" count={filterState.departmentGroups.size} defaultOpen={false}>
-    <input
-      type="text"
-      bind:value={departmentQuery}
-      placeholder="筛选专业大类..."
-      class="w-full px-3 py-2 text-sm rounded border border-zinc-300 dark:border-zinc-700 bg-white dark:bg-zinc-950 focus:outline-none focus:ring-2 focus:ring-blue-500 mb-2"
-    />
-    <div class="max-h-52 overflow-y-auto space-y-0.5">
-      {#each filteredDepartmentGroups as group}
-        <label class="flex items-center gap-2 text-sm cursor-pointer hover:bg-zinc-50 dark:hover:bg-zinc-800 px-1 py-0.5 rounded">
-          <input
-            type="checkbox"
-            checked={filterState.departmentGroups.has(group)}
-            onchange={() => onToggleDepartmentGroup(group)}
-            class="rounded border-zinc-300 dark:border-zinc-600"
-          />
-          <span class="text-zinc-700 dark:text-zinc-300 text-xs">{group}</span>
-        </label>
+    <div class="flex flex-wrap gap-1.5">
+      {#each allDepartmentGroups as group}
+        {@const active = filterState.departmentGroups.has(group)}
+        <button
+          onclick={() => onToggleDepartmentGroup(group)}
+          class="px-2 py-0.5 rounded-full text-xs font-medium border transition-all
+            {active
+              ? (DEPT_COLORS[group] ?? DEPT_COLOR_DEFAULT) + ' border-transparent ring-2 ring-offset-1 ring-blue-400 dark:ring-blue-500'
+              : 'bg-zinc-50 text-zinc-500 border-zinc-200 dark:bg-zinc-800 dark:text-zinc-400 dark:border-zinc-700 hover:border-zinc-400'}"
+        >
+          {group}
+        </button>
       {/each}
     </div>
   </CollapsibleSection>
