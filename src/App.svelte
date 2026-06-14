@@ -1,5 +1,5 @@
 <script lang="ts">
-  import { filterState, filteredCamps, updatedAt, allCamps, allCategories, allTags, allDepartmentGroups } from './lib/store';
+  import { filterState, filteredCamps, updatedAt, allCamps, allCategories, allTags, allDepartmentGroups, defaults } from './lib/store';
   import { getSchools } from './lib/utils';
   import type { Urgency } from './lib/types';
   import Header from './components/Header.svelte';
@@ -66,6 +66,19 @@
     }));
   }
 
+  function resetDefaults() {
+    filterState.set({
+      query: '',
+      urgency: new Set(),
+      categories: new Set(defaults.categories),
+      tags: new Set(defaults.tags),
+      schools: new Set(defaults.schools),
+      departmentGroups: new Set(defaults.departmentGroups),
+      showExpired: defaults.showExpired,
+      showUnknown: defaults.showUnknown,
+    });
+  }
+
   const updatedDate = new Date(updatedAt).toLocaleString('zh-CN', {
     timeZone: 'Asia/Shanghai',
     month: '2-digit', day: '2-digit',
@@ -91,6 +104,7 @@
         onToggleDepartmentGroup={toggleDepartmentGroup}
         onToggleSchool={toggleSchool}
         onClearFilters={clearFilters}
+        onResetDefaults={resetDefaults}
         onQueryChange={(q) => filterState.update(f => ({ ...f, query: q }))}
         onToggleExpired={() => filterState.update(f => ({ ...f, showExpired: !f.showExpired }))}
         onToggleUnknown={() => filterState.update(f => ({ ...f, showUnknown: !f.showUnknown }))}

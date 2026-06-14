@@ -39,7 +39,7 @@ export const allDepartmentGroups: string[] = DEPT_GROUP_ORDER.filter(g =>
   allCamps.some(c => c.department_group === g)
 );
 
-const defaults = defaultsRaw as {
+export const defaults = defaultsRaw as {
   categories: string[];
   schools: string[];
   tags: string[];

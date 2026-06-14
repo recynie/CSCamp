@@ -16,6 +16,7 @@
     onToggleDepartmentGroup,
     onToggleSchool,
     onClearFilters,
+    onResetDefaults,
     onQueryChange,
     onToggleExpired,
     onToggleUnknown,
@@ -32,6 +33,7 @@
     onToggleDepartmentGroup: (g: string) => void;
     onToggleSchool: (s: string) => void;
     onClearFilters: () => void;
+    onResetDefaults: () => void;
     onQueryChange: (q: string) => void;
     onToggleExpired: () => void;
     onToggleUnknown: () => void;
@@ -227,4 +229,11 @@
       清除筛选（显示全部）
     </button>
   {/if}
+
+  <button
+    onclick={onResetDefaults}
+    class="w-full py-2 text-sm text-zinc-500 dark:text-zinc-400 hover:bg-zinc-50 dark:hover:bg-zinc-800 rounded-lg border border-zinc-200 dark:border-zinc-700 transition-colors"
+  >
+    恢复默认
+  </button>
 </div>
