@@ -32,8 +32,6 @@ const DEPT_GROUP_ORDER = [
   '经管/金融',
   '文法/社科',
   '建筑/土木',
-  '交叉/前沿',
-  '研究院所',
   '其他',
 ];
 export const allDepartmentGroups: string[] = DEPT_GROUP_ORDER.filter(g =>
