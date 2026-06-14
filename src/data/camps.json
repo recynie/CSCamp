@@ -40,7 +40,7 @@
       "source": "shenyanpai",
       "urgency": "critical",
       "department": "未来技术学院",
-      "department_group": "其他"
+      "department_group": "交叉/创新创业"
     },
     {
       "school": "北京大学",
@@ -100,7 +100,7 @@
       "source": "shenyanpai",
       "urgency": "critical",
       "department": "前沿交叉学科研究院",
-      "department_group": "其他"
+      "department_group": "交叉/创新创业"
     },
     {
       "school": "华中科技大学",
@@ -1871,7 +1871,7 @@
       "source": "shenyanpai",
       "urgency": "soon",
       "department": "前沿科学技术研究院",
-      "department_group": "其他"
+      "department_group": "交叉/创新创业"
     },
     {
       "school": "西安交通大学",
@@ -1924,7 +1924,7 @@
       "source": "shenyanpai",
       "urgency": "soon",
       "department": "未来技术学院",
-      "department_group": "其他"
+      "department_group": "交叉/创新创业"
     },
     {
       "school": "北京师范大学",
@@ -1958,7 +1958,7 @@
       "source": "shenyanpai",
       "urgency": "soon",
       "department": "高等研究院",
-      "department_group": "其他"
+      "department_group": "交叉/创新创业"
     },
     {
       "school": "吉林大学",
@@ -2910,7 +2910,7 @@
       "source": "shenyanpai",
       "urgency": "soon",
       "department": "交叉科学中心",
-      "department_group": "其他"
+      "department_group": "交叉/创新创业"
     },
     {
       "school": "中国科学院大学",
@@ -3134,7 +3134,7 @@
       "source": "shenyanpai",
       "urgency": "soon",
       "department": "中国科学院上海高等研究院",
-      "department_group": "其他"
+      "department_group": "交叉/创新创业"
     },
     {
       "school": "中国科学院",
@@ -5613,7 +5613,7 @@
       "source": "shenyanpai",
       "urgency": "near",
       "department": "国家储能技术产教融合创新平台（中心",
-      "department_group": "其他"
+      "department_group": "交叉/创新创业"
     },
     {
       "school": "哈尔滨工业大学",
@@ -5763,7 +5763,7 @@
       "source": "shenyanpai",
       "urgency": "near",
       "department": "前沿交叉科学青岛研究院",
-      "department_group": "其他"
+      "department_group": "交叉/创新创业"
     },
     {
       "school": "中科环渤海（烟台）药物高等研究院",
@@ -5983,7 +5983,7 @@
       "source": "shenyanpai",
       "urgency": "far",
       "department": "国家卓越工程师学院（先进技术研究院",
-      "department_group": "其他"
+      "department_group": "交叉/创新创业"
     },
     {
       "school": "中国科学技术大学",
@@ -6486,7 +6486,7 @@
       "source": "shenyanpai",
       "urgency": "far",
       "department": "创新创业学院",
-      "department_group": "其他"
+      "department_group": "交叉/创新创业"
     },
     {
       "school": "兰州大学",
@@ -6699,7 +6699,7 @@
       "source": "shenyanpai",
       "urgency": "far",
       "department": "未来技术学院",
-      "department_group": "其他"
+      "department_group": "交叉/创新创业"
     },
     {
       "school": "深圳大学",
@@ -6779,7 +6779,7 @@
       "source": "shenyanpai",
       "urgency": "far",
       "department": "中国科学院深圳先进技术研究院",
-      "department_group": "其他"
+      "department_group": "交叉/创新创业"
     },
     {
       "school": "中国科学院",
@@ -6795,7 +6795,7 @@
       "source": "shenyanpai",
       "urgency": "far",
       "department": "中国科学院深圳先进技术研究院碳中和技术研究所",
-      "department_group": "其他"
+      "department_group": "交叉/创新创业"
     },
     {
       "school": "中国科学院",
@@ -7210,7 +7210,7 @@
       "source": "boardcaster",
       "urgency": "expired",
       "department": "北京中关村学院",
-      "department_group": "其他"
+      "department_group": "交叉/创新创业"
     },
     {
       "school": "上海创智学院",
@@ -7226,7 +7226,7 @@
       "source": "boardcaster",
       "urgency": "expired",
       "department": "上海创智学院",
-      "department_group": "其他"
+      "department_group": "交叉/创新创业"
     },
     {
       "school": "清华大学",
@@ -7572,7 +7572,7 @@
       "source": "boardcaster",
       "urgency": "expired",
       "department": "红鸟挑战营第一期",
-      "department_group": "其他"
+      "department_group": "交叉/创新创业"
     },
     {
       "school": "西湖大学",
@@ -7605,7 +7605,7 @@
       "source": "shenyanpai",
       "urgency": "expired",
       "department": "前沿交叉科学学院",
-      "department_group": "其他"
+      "department_group": "交叉/创新创业"
     },
     {
       "school": "中国科学院",
@@ -7914,7 +7914,7 @@
       "source": "shenyanpai",
       "urgency": "expired",
       "department": "苏州高等研究院",
-      "department_group": "其他"
+      "department_group": "交叉/创新创业"
     },
     {
       "school": "吉林大学",
@@ -8007,7 +8007,7 @@
       "source": "shenyanpai",
       "urgency": "expired",
       "department": "北京大学深圳研究生院2026年国际暑期探索营",
-      "department_group": "其他"
+      "department_group": "交叉/创新创业"
     },
     {
       "school": "中国科学技术大学",
@@ -9018,7 +9018,7 @@
       "source": "shenyanpai",
       "urgency": "unknown",
       "department": "北京大学深圳研究生院“2026年全国优秀大学生夏令营”",
-      "department_group": "其他"
+      "department_group": "交叉/创新创业"
     },
     {
       "school": "浙江大学",
@@ -9147,7 +9147,7 @@
       "source": "shenyanpai",
       "urgency": "unknown",
       "department": "中意工程创新学院",
-      "department_group": "其他"
+      "department_group": "交叉/创新创业"
     },
     {
       "school": "天津大学",
@@ -9164,7 +9164,7 @@
       "source": "shenyanpai",
       "urgency": "unknown",
       "department": "宣怀学院",
-      "department_group": "其他"
+      "department_group": "交叉/创新创业"
     },
     {
       "school": "天津大学",
@@ -9214,7 +9214,7 @@
       "source": "shenyanpai",
       "urgency": "unknown",
       "department": "杭州高等研究院",
-      "department_group": "其他"
+      "department_group": "交叉/创新创业"
     },
     {
       "school": "中国科学院",
@@ -9436,7 +9436,7 @@
       "source": "boardcaster",
       "urgency": "unknown",
       "department": "未来技术学院（红鸟硕士项目）",
-      "department_group": "其他"
+      "department_group": "交叉/创新创业"
     },
     {
       "school": "中国电信人工智能研究院",
