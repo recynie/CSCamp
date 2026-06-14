@@ -1,66 +1,7 @@
 {
-  "updated_at": "2026-06-14T06:13:18.630339+08:00",
+  "updated_at": "2026-06-14T08:16:45.782753+08:00",
   "total": 546,
   "camps": [
-    {
-      "school": "中国科学院",
-      "institute": "中国科学院武汉岩土力学研究所2026年大学生夏令营",
-      "title": "2026年中国科学院武汉岩土力学研究所2026年大学生夏令营",
-      "url": "https://mp.weixin.qq.com/s/NIsGG7EYNI9nSSnZHeF_bw",
-      "deadline": "2026-06-13",
-      "expired": false,
-      "category": "理工类",
-      "tags": [
-        "研究院"
-      ],
-      "source": "shenyanpai",
-      "urgency": "critical"
-    },
-    {
-      "school": "中国科学院",
-      "institute": "中国科学院工业人工智能研究所首届“智造未来”暑期优秀大学生夏令营",
-      "title": "2026年中国科学院工业人工智能研究所首届“智造未来”暑期优秀大学生夏令营报名通知",
-      "url": "https://mp.weixin.qq.com/s/RldIUi3tfAtC3DCyaUHiGg",
-      "deadline": "2026-06-13",
-      "expired": false,
-      "category": "理工类",
-      "tags": [
-        "研究院"
-      ],
-      "source": "shenyanpai",
-      "urgency": "critical"
-    },
-    {
-      "school": "中国科学院",
-      "institute": "中国科学院上海有机化学研究所2026年大学生暑期夏令营",
-      "title": "2026年中国科学院上海有机化学研究所2026年大学生暑期夏令营报名通知",
-      "url": "https://sioc.cas.cn/zs/202604/t20260415_8185634.html",
-      "deadline": "2026-06-13",
-      "expired": false,
-      "category": "理工类",
-      "tags": [
-        "研究院"
-      ],
-      "source": "shenyanpai",
-      "urgency": "critical"
-    },
-    {
-      "school": "浙江大学",
-      "institute": "浙江大学转化医学研究院直博夏令营",
-      "title": "2026年浙江大学转化医学研究院直博夏令营报名通知",
-      "url": "https://itm.zju.edu.cn/notice/details-2xlygzjdxzhyxyjyzbxlybmtz-1545.html",
-      "deadline": "2026-06-13",
-      "expired": false,
-      "category": "医农类",
-      "tags": [
-        "C9",
-        "华五",
-        "985",
-        "211"
-      ],
-      "source": "shenyanpai",
-      "urgency": "critical"
-    },
     {
       "school": "清华大学",
       "institute": "清华大学电子工程系微波与天线研究所",
@@ -1545,7 +1486,7 @@
         "211"
       ],
       "source": "shenyanpai",
-      "urgency": "soon"
+      "urgency": "critical"
     },
     {
       "school": "浙江大学",
@@ -1562,7 +1503,7 @@
         "211"
       ],
       "source": "shenyanpai",
-      "urgency": "soon"
+      "urgency": "critical"
     },
     {
       "school": "浙江大学",
@@ -1579,7 +1520,7 @@
         "211"
       ],
       "source": "shenyanpai",
-      "urgency": "soon"
+      "urgency": "critical"
     },
     {
       "school": "西安交通大学",
@@ -1595,7 +1536,7 @@
         "211"
       ],
       "source": "shenyanpai",
-      "urgency": "soon"
+      "urgency": "critical"
     },
     {
       "school": "中国科学院",
@@ -1609,7 +1550,7 @@
         "研究院"
       ],
       "source": "shenyanpai",
-      "urgency": "soon"
+      "urgency": "critical"
     },
     {
       "school": "北京师范大学",
@@ -1624,7 +1565,7 @@
         "211"
       ],
       "source": "shenyanpai",
-      "urgency": "soon"
+      "urgency": "critical"
     },
     {
       "school": "中国科学院大学",
@@ -1638,7 +1579,7 @@
         "研究院"
       ],
       "source": "shenyanpai",
-      "urgency": "soon"
+      "urgency": "critical"
     },
     {
       "school": "北京协和医学院",
@@ -1652,7 +1593,7 @@
         "双非"
       ],
       "source": "shenyanpai",
-      "urgency": "soon"
+      "urgency": "critical"
     },
     {
       "school": "北京大学",
@@ -3069,7 +3010,7 @@
         "211"
       ],
       "source": "shenyanpai",
-      "urgency": "near"
+      "urgency": "soon"
     },
     {
       "school": "浙江大学",
@@ -3086,7 +3027,7 @@
         "211"
       ],
       "source": "shenyanpai",
-      "urgency": "near"
+      "urgency": "soon"
     },
     {
       "school": "南京大学",
@@ -3103,7 +3044,7 @@
         "211"
       ],
       "source": "shenyanpai",
-      "urgency": "near"
+      "urgency": "soon"
     },
     {
       "school": "中国科学技术大学",
@@ -3120,7 +3061,7 @@
         "211"
       ],
       "source": "shenyanpai",
-      "urgency": "near"
+      "urgency": "soon"
     },
     {
       "school": "中国科学技术大学",
@@ -3137,7 +3078,7 @@
         "211"
       ],
       "source": "shenyanpai",
-      "urgency": "near"
+      "urgency": "soon"
     },
     {
       "school": "中国科学技术大学",
@@ -3154,7 +3095,7 @@
         "211"
       ],
       "source": "shenyanpai",
-      "urgency": "near"
+      "urgency": "soon"
     },
     {
       "school": "华中科技大学",
@@ -3169,7 +3110,7 @@
         "211"
       ],
       "source": "shenyanpai",
-      "urgency": "near"
+      "urgency": "soon"
     },
     {
       "school": "西安交通大学",
@@ -3185,7 +3126,7 @@
         "211"
       ],
       "source": "shenyanpai",
-      "urgency": "near"
+      "urgency": "soon"
     },
     {
       "school": "哈尔滨工业大学",
@@ -3201,7 +3142,7 @@
         "211"
       ],
       "source": "shenyanpai",
-      "urgency": "near"
+      "urgency": "soon"
     },
     {
       "school": "北京师范大学",
@@ -3216,7 +3157,7 @@
         "211"
       ],
       "source": "shenyanpai",
-      "urgency": "near"
+      "urgency": "soon"
     },
     {
       "school": "厦门大学",
@@ -3231,7 +3172,7 @@
         "211"
       ],
       "source": "shenyanpai",
-      "urgency": "near"
+      "urgency": "soon"
     },
     {
       "school": "吉林大学",
@@ -3246,7 +3187,7 @@
         "211"
       ],
       "source": "shenyanpai",
-      "urgency": "near"
+      "urgency": "soon"
     },
     {
       "school": "南方科技大学",
@@ -3261,7 +3202,7 @@
         "双非"
       ],
       "source": "shenyanpai",
-      "urgency": "near"
+      "urgency": "soon"
     },
     {
       "school": "南方科技大学",
@@ -3276,7 +3217,7 @@
         "双非"
       ],
       "source": "shenyanpai",
-      "urgency": "near"
+      "urgency": "soon"
     },
     {
       "school": "南方科技大学",
@@ -3291,7 +3232,7 @@
         "双非"
       ],
       "source": "shenyanpai",
-      "urgency": "near"
+      "urgency": "soon"
     },
     {
       "school": "南方科技大学",
@@ -3306,7 +3247,7 @@
         "双非"
       ],
       "source": "shenyanpai",
-      "urgency": "near"
+      "urgency": "soon"
     },
     {
       "school": "上海科技大学",
@@ -3321,7 +3262,7 @@
         "双非"
       ],
       "source": "shenyanpai",
-      "urgency": "near"
+      "urgency": "soon"
     },
     {
       "school": "上海科技大学",
@@ -3336,7 +3277,7 @@
         "双非"
       ],
       "source": "shenyanpai",
-      "urgency": "near"
+      "urgency": "soon"
     },
     {
       "school": "中国矿业大学",
@@ -3350,7 +3291,7 @@
         "211"
       ],
       "source": "shenyanpai",
-      "urgency": "near"
+      "urgency": "soon"
     },
     {
       "school": "中国科学院大学",
@@ -3364,7 +3305,7 @@
         "研究院"
       ],
       "source": "shenyanpai",
-      "urgency": "near"
+      "urgency": "soon"
     },
     {
       "school": "中国科学院大学",
@@ -3378,7 +3319,7 @@
         "研究院"
       ],
       "source": "shenyanpai",
-      "urgency": "near"
+      "urgency": "soon"
     },
     {
       "school": "中国科学院大学",
@@ -3392,7 +3333,7 @@
         "研究院"
       ],
       "source": "shenyanpai",
-      "urgency": "near"
+      "urgency": "soon"
     },
     {
       "school": "中国科学院",
@@ -3406,7 +3347,7 @@
         "研究院"
       ],
       "source": "shenyanpai",
-      "urgency": "near"
+      "urgency": "soon"
     },
     {
       "school": "中国科学院",
@@ -3420,7 +3361,7 @@
         "研究院"
       ],
       "source": "shenyanpai",
-      "urgency": "near"
+      "urgency": "soon"
     },
     {
       "school": "中国科学院",
@@ -3434,7 +3375,7 @@
         "研究院"
       ],
       "source": "shenyanpai",
-      "urgency": "near"
+      "urgency": "soon"
     },
     {
       "school": "中国科学院",
@@ -3448,7 +3389,7 @@
         "研究院"
       ],
       "source": "shenyanpai",
-      "urgency": "near"
+      "urgency": "soon"
     },
     {
       "school": "中国科学院",
@@ -3462,7 +3403,7 @@
         "研究院"
       ],
       "source": "shenyanpai",
-      "urgency": "near"
+      "urgency": "soon"
     },
     {
       "school": "中国科学院",
@@ -3476,7 +3417,7 @@
         "研究院"
       ],
       "source": "shenyanpai",
-      "urgency": "near"
+      "urgency": "soon"
     },
     {
       "school": "中国科学院",
@@ -3490,7 +3431,7 @@
         "研究院"
       ],
       "source": "shenyanpai",
-      "urgency": "near"
+      "urgency": "soon"
     },
     {
       "school": "中国地质科学院",
@@ -3504,7 +3445,7 @@
         "研究院"
       ],
       "source": "shenyanpai",
-      "urgency": "near"
+      "urgency": "soon"
     },
     {
       "school": "重庆大学",
@@ -3519,7 +3460,7 @@
         "211"
       ],
       "source": "shenyanpai",
-      "urgency": "near"
+      "urgency": "soon"
     },
     {
       "school": "南方科技大学",
@@ -3534,7 +3475,7 @@
         "双非"
       ],
       "source": "shenyanpai",
-      "urgency": "near"
+      "urgency": "soon"
     },
     {
       "school": "上海海事大学",
@@ -3546,7 +3487,7 @@
       "category": "经管类",
       "tags": [],
       "source": "shenyanpai",
-      "urgency": "near"
+      "urgency": "soon"
     },
     {
       "school": "北京大学",
@@ -3564,7 +3505,7 @@
         "211"
       ],
       "source": "shenyanpai",
-      "urgency": "near"
+      "urgency": "soon"
     },
     {
       "school": "上海海事大学",
@@ -3576,7 +3517,7 @@
       "category": "文法类",
       "tags": [],
       "source": "shenyanpai",
-      "urgency": "near"
+      "urgency": "soon"
     },
     {
       "school": "浙江大学",
@@ -3593,7 +3534,7 @@
         "211"
       ],
       "source": "shenyanpai",
-      "urgency": "near"
+      "urgency": "soon"
     },
     {
       "school": "浙江大学",
@@ -3610,7 +3551,7 @@
         "211"
       ],
       "source": "shenyanpai",
-      "urgency": "near"
+      "urgency": "soon"
     },
     {
       "school": "浙江大学",
@@ -3627,7 +3568,7 @@
         "211"
       ],
       "source": "shenyanpai",
-      "urgency": "near"
+      "urgency": "soon"
     },
     {
       "school": "广州医科大学",
@@ -3641,7 +3582,7 @@
         "双非"
       ],
       "source": "shenyanpai",
-      "urgency": "near"
+      "urgency": "soon"
     },
     {
       "school": "中国科学院大学",
@@ -3655,7 +3596,7 @@
         "研究院"
       ],
       "source": "shenyanpai",
-      "urgency": "near"
+      "urgency": "soon"
     },
     {
       "school": "中国科学院",
@@ -3669,7 +3610,7 @@
         "研究院"
       ],
       "source": "shenyanpai",
-      "urgency": "near"
+      "urgency": "soon"
     },
     {
       "school": "中国科学院",
@@ -3683,7 +3624,7 @@
         "研究院"
       ],
       "source": "shenyanpai",
-      "urgency": "near"
+      "urgency": "soon"
     },
     {
       "school": "北京大学",
@@ -5143,7 +5084,7 @@
         "211"
       ],
       "source": "shenyanpai",
-      "urgency": "far"
+      "urgency": "near"
     },
     {
       "school": "山东大学",
@@ -5158,7 +5099,7 @@
         "211"
       ],
       "source": "shenyanpai",
-      "urgency": "far"
+      "urgency": "near"
     },
     {
       "school": "中科环渤海（烟台）药物高等研究院",
@@ -5172,7 +5113,7 @@
         "研究院"
       ],
       "source": "shenyanpai",
-      "urgency": "far"
+      "urgency": "near"
     },
     {
       "school": "中国科学院",
@@ -5186,7 +5127,7 @@
         "研究院"
       ],
       "source": "shenyanpai",
-      "urgency": "far"
+      "urgency": "near"
     },
     {
       "school": "中国农业科学院",
@@ -5200,7 +5141,7 @@
         "研究院"
       ],
       "source": "shenyanpai",
-      "urgency": "far"
+      "urgency": "near"
     },
     {
       "school": "南京大学",
@@ -7888,6 +7829,65 @@
       "category": "医农类",
       "tags": [
         "研究院"
+      ],
+      "source": "shenyanpai",
+      "urgency": "expired"
+    },
+    {
+      "school": "中国科学院",
+      "institute": "中国科学院武汉岩土力学研究所2026年大学生夏令营",
+      "title": "2026年中国科学院武汉岩土力学研究所2026年大学生夏令营",
+      "url": "https://mp.weixin.qq.com/s/NIsGG7EYNI9nSSnZHeF_bw",
+      "deadline": "2026-06-13",
+      "expired": true,
+      "category": "理工类",
+      "tags": [
+        "研究院"
+      ],
+      "source": "shenyanpai",
+      "urgency": "expired"
+    },
+    {
+      "school": "中国科学院",
+      "institute": "中国科学院工业人工智能研究所首届“智造未来”暑期优秀大学生夏令营",
+      "title": "2026年中国科学院工业人工智能研究所首届“智造未来”暑期优秀大学生夏令营报名通知",
+      "url": "https://mp.weixin.qq.com/s/RldIUi3tfAtC3DCyaUHiGg",
+      "deadline": "2026-06-13",
+      "expired": true,
+      "category": "理工类",
+      "tags": [
+        "研究院"
+      ],
+      "source": "shenyanpai",
+      "urgency": "expired"
+    },
+    {
+      "school": "中国科学院",
+      "institute": "中国科学院上海有机化学研究所2026年大学生暑期夏令营",
+      "title": "2026年中国科学院上海有机化学研究所2026年大学生暑期夏令营报名通知",
+      "url": "https://sioc.cas.cn/zs/202604/t20260415_8185634.html",
+      "deadline": "2026-06-13",
+      "expired": true,
+      "category": "理工类",
+      "tags": [
+        "研究院"
+      ],
+      "source": "shenyanpai",
+      "urgency": "expired"
+    },
+    {
+      "school": "浙江大学",
+      "institute": "浙江大学转化医学研究院直博夏令营",
+      "title": "2026年浙江大学转化医学研究院直博夏令营报名通知",
+      "url": "https://itm.zju.edu.cn/notice/details-2xlygzjdxzhyxyjyzbxlybmtz-1545.html",
+      "deadline": "2026-06-13",
+      "expired": true,
+      "category": "医农类",
+      "tags": [
+        "C9",
+        "华五",
+        "985",
+        "211"
       ],
       "source": "shenyanpai",
       "urgency": "expired"
