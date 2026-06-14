@@ -966,7 +966,7 @@
       "source": "shenyanpai",
       "urgency": "critical",
       "department": "中国科学院青岛生物能源与过程研究所",
-      "department_group": "生医/药学"
+      "department_group": "机械/航空/能源"
     },
     {
       "school": "中国科学院",
@@ -2656,7 +2656,7 @@
       "source": "shenyanpai",
       "urgency": "soon",
       "department": "国家电投智慧能源创新学院",
-      "department_group": "其他"
+      "department_group": "机械/航空/能源"
     },
     {
       "school": "复旦大学",
@@ -4702,7 +4702,7 @@
       "source": "shenyanpai",
       "urgency": "near",
       "department": "环境与能源学院",
-      "department_group": "地学/环境"
+      "department_group": "机械/航空/能源"
     },
     {
       "school": "中国科学技术大学",
@@ -5378,7 +5378,7 @@
       "source": "shenyanpai",
       "urgency": "near",
       "department": "材料与能源学院",
-      "department_group": "化学/材料"
+      "department_group": "机械/航空/能源"
     },
     {
       "school": "中国科学院",
@@ -6519,7 +6519,7 @@
       "source": "shenyanpai",
       "urgency": "far",
       "department": "中国科学院北京纳米能源与系统研究所",
-      "department_group": "化学/材料"
+      "department_group": "机械/航空/能源"
     },
     {
       "school": "中国科学院",
