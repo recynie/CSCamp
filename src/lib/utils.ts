@@ -51,6 +51,31 @@ export function daysUntil(deadline: string | null): number | null {
   return Math.round((d.getTime() - today.getTime()) / 86400000);
 }
 
+/**
+ * Recompute urgency client-side based on today's date.
+ * This ensures camps with stale data (deadline already passed but
+ * JSON still marked as critical/soon) are correctly shown as expired.
+ */
+export function computeEffectiveUrgency(camp: Camp): Urgency {
+  if (camp.deadline === null) return 'unknown';
+  const days = daysUntil(camp.deadline);
+  if (days === null) return 'unknown';
+  if (days < 0) return 'expired';
+  if (days <= 3) return 'critical';
+  if (days <= 7) return 'soon';
+  if (days <= 14) return 'near';
+  return 'far';
+}
+
+/**
+ * Check whether a camp is effectively expired (deadline has passed).
+ */
+export function isEffectivelyExpired(camp: Camp): boolean {
+  if (camp.deadline === null) return false;
+  const days = daysUntil(camp.deadline);
+  return days !== null && days < 0;
+}
+
 export function formatDeadline(deadline: string | null): string {
   if (!deadline) return '暂无';
   const [, m, d] = deadline.split('-');

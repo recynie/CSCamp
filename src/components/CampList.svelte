@@ -1,6 +1,6 @@
 <script lang="ts">
   import type { Camp } from '../lib/types';
-  import { URGENCY_LABELS, URGENCY_COLORS, daysUntil, formatDeadline, formatCountdown } from '../lib/utils';
+  import { URGENCY_LABELS, URGENCY_COLORS, daysUntil, formatDeadline, formatCountdown, computeEffectiveUrgency, isEffectivelyExpired } from '../lib/utils';
 
   let { camps }: { camps: Camp[] } = $props();
 </script>
@@ -17,8 +17,10 @@
 
   <div class="space-y-2">
     {#each camps as camp (camp.url)}
+      {@const effectiveUrgency = computeEffectiveUrgency(camp)}
+      {@const effectivelyExpired = effectiveUrgency === 'expired'}
       {@const days = daysUntil(camp.deadline)}
-      {@const colors = URGENCY_COLORS[camp.urgency]}
+      {@const colors = URGENCY_COLORS[effectiveUrgency]}
       <div class="bg-white dark:bg-zinc-900 rounded-lg overflow-hidden border border-zinc-200 dark:border-zinc-800 {colors.row} hover:shadow-sm transition-shadow">
         <div class="px-4 py-3">
           <div class="flex items-start justify-between gap-3">
@@ -29,7 +31,7 @@
                   {camp.school}
                 </span>
                 <span class="text-xs px-1.5 py-0.5 rounded-full {colors.badge} shrink-0">
-                  {URGENCY_LABELS[camp.urgency]}
+                  {URGENCY_LABELS[effectiveUrgency]}
                 </span>
               </div>
               <a
@@ -51,10 +53,10 @@
 
             <!-- Right: deadline + countdown -->
             <div class="shrink-0 text-right">
-              <div class="text-sm font-mono font-medium {camp.expired ? 'text-zinc-400 line-through' : 'text-zinc-800 dark:text-zinc-200'}">
+              <div class="text-sm font-mono font-medium {effectivelyExpired ? 'text-zinc-400 line-through' : 'text-zinc-800 dark:text-zinc-200'}">
                 {formatDeadline(camp.deadline)}
               </div>
-              <div class="text-xs {camp.urgency === 'critical' ? 'text-red-500 font-semibold' : 'text-zinc-400 dark:text-zinc-500'} mt-0.5">
+              <div class="text-xs {effectiveUrgency === 'critical' ? 'text-red-500 font-semibold' : 'text-zinc-400 dark:text-zinc-500'} mt-0.5">
                 {formatCountdown(days)}
               </div>
             </div>

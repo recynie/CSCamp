@@ -1,5 +1,6 @@
 import { writable, derived } from 'svelte/store';
 import type { Camp, FilterState, CampsData } from './types';
+import { isEffectivelyExpired, computeEffectiveUrgency } from './utils';
 import raw from '$data/camps.json';
 import defaultsRaw from '$data/defaults.json';
 
@@ -60,9 +61,12 @@ export const filterState = writable<FilterState>({
 });
 
 export const filteredCamps = derived(filterState, ($f) => {
-  return allCamps.filter(camp => {
-    // 已截止
-    if (camp.expired && !$f.showExpired) return false;
+  // First pass: filter
+  let result = allCamps.filter(camp => {
+    const effectivelyExpired = isEffectivelyExpired(camp);
+
+    // 已截止（用客户端实时计算的过期状态，而非缓存的 camp.expired）
+    if (effectivelyExpired && !$f.showExpired) return false;
     // 日期未知
     if (camp.deadline === null && !$f.showUnknown) return false;
     // 类别
@@ -73,8 +77,8 @@ export const filteredCamps = derived(filterState, ($f) => {
     if ($f.schools.size > 0 && !$f.schools.has(camp.school)) return false;
     // 专业大类
     if ($f.departmentGroups.size > 0 && !$f.departmentGroups.has(camp.department_group)) return false;
-    // 紧迫度
-    if ($f.urgency.size > 0 && !$f.urgency.has(camp.urgency)) return false;
+    // 紧迫度（用客户端实时计算的紧迫度）
+    if ($f.urgency.size > 0 && !$f.urgency.has(computeEffectiveUrgency(camp))) return false;
     // 搜索词
     if ($f.query) {
       const q = $f.query.toLowerCase();
@@ -83,4 +87,23 @@ export const filteredCamps = derived(filterState, ($f) => {
     }
     return true;
   });
+
+  // Second pass: sort — expired camps always at the bottom
+  result.sort((a, b) => {
+    const aExpired = isEffectivelyExpired(a);
+    const bExpired = isEffectivelyExpired(b);
+    // expired 排在最后
+    if (aExpired !== bExpired) return aExpired ? 1 : -1;
+    // 同样是非过期，按 deadline 升序（未知日期最后）
+    if (!aExpired && !bExpired) {
+      if (a.deadline === null && b.deadline === null) return 0;
+      if (a.deadline === null) return 1;
+      if (b.deadline === null) return -1;
+      return a.deadline.localeCompare(b.deadline);
+    }
+    // 同样是过期，按原顺序（保持数据源的相对顺序）
+    return 0;
+  });
+
+  return result;
 });
