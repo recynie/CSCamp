@@ -1,920 +1,7 @@
 {
-  "updated_at": "2026-06-20T16:55:17.497261+08:00",
+  "updated_at": "2026-06-21T17:49:48.520871+08:00",
   "total": 896,
   "camps": [
-    {
-      "school": "清华大学",
-      "institute": "“暑期科研体验营”",
-      "title": "2026年清华大学生物医学交叉研究院（北京生命科学研究所）“暑期科研体验营” 报名通知",
-      "url": "https://mp.weixin.qq.com/s/KcR1N1-_BB1TAVNFm8O_4Q",
-      "deadline": "2026-06-20",
-      "expired": false,
-      "category": "理工类",
-      "tags": [
-        "TOP2",
-        "C9",
-        "华五",
-        "985",
-        "211"
-      ],
-      "source": "shenyanpai",
-      "urgency": "critical",
-      "department": "生物医学交叉研究院（北京生命科学研究所",
-      "department_group": "生医/药学"
-    },
-    {
-      "school": "清华大学",
-      "institute": "清华大学力学与工程交叉研究院 2026年暑期体验营",
-      "title": "2026年清华大学力学与工程交叉研究院 2026年暑期体验营报名通知",
-      "url": "https://www.mechanox.tsinghua.edu.cn/cn/2026/0518/c960a7602/page.htm",
-      "deadline": "2026-06-20",
-      "expired": false,
-      "category": "理工类",
-      "tags": [
-        "TOP2",
-        "C9",
-        "华五",
-        "985",
-        "211"
-      ],
-      "source": "shenyanpai",
-      "urgency": "critical",
-      "department": "力学与工程交叉研究院",
-      "department_group": "机械/航空/能源"
-    },
-    {
-      "school": "浙江大学",
-      "institute": "浙江大学环境与资源学院",
-      "title": "2026年浙江大学环境与资源学院关于举办2026年全国优秀大学生学术夏令营的通知",
-      "url": "http://www.cers.zju.edu.cn/cercn/2026/0528/c91703a3167240/page.htm",
-      "deadline": "2026-06-20",
-      "expired": false,
-      "category": "理工类",
-      "tags": [
-        "C9",
-        "华五",
-        "985",
-        "211"
-      ],
-      "source": "shenyanpai",
-      "urgency": "critical",
-      "department": "环境与资源学院",
-      "department_group": "地学/环境"
-    },
-    {
-      "school": "浙江大学",
-      "institute": "浙江大学数据科学研究中心2026年iMDS项目OPEN DAY暨优秀大学生夏令营申请正式开启",
-      "title": "2026年浙江大学数据科学研究中心2026年iMDS项目OPEN DAY暨优秀大学生夏令营申请正式开启",
-      "url": "https://cds.zju.edu.cn/a/zsxx/3806.html",
-      "deadline": "2026-06-20",
-      "expired": false,
-      "category": "理工类",
-      "tags": [
-        "C9",
-        "华五",
-        "985",
-        "211"
-      ],
-      "source": "shenyanpai",
-      "urgency": "critical",
-      "department": "数据科学研究中心",
-      "department_group": "计算机"
-    },
-    {
-      "school": "浙江大学",
-      "institute": "浙江大学航空航天学院",
-      "title": "2026年浙江大学航空航天学院关于举办2026年优秀大学生暑期夏令营的通知",
-      "url": "http://saa.zju.edu.cn/2026/0602/c67629a3169091/page.htm",
-      "deadline": "2026-06-20",
-      "expired": false,
-      "category": "理工类",
-      "tags": [
-        "C9",
-        "华五",
-        "985",
-        "211"
-      ],
-      "source": "shenyanpai",
-      "urgency": "critical",
-      "department": "航空航天学院",
-      "department_group": "机械/航空/能源"
-    },
-    {
-      "school": "浙江大学",
-      "institute": "浙江大学机械工程学院2026年全国优秀大学生暑期学术夏令营活动",
-      "title": "2026年浙江大学机械工程学院2026年全国优秀大学生暑期学术夏令营活动通知",
-      "url": "https://mp.weixin.qq.com/s/ZAjlRfZrRzIU6XIE7KNRrQ",
-      "deadline": "2026-06-20",
-      "expired": false,
-      "category": "理工类",
-      "tags": [
-        "C9",
-        "华五",
-        "985",
-        "211"
-      ],
-      "source": "shenyanpai",
-      "urgency": "critical",
-      "department": "机械工程学院",
-      "department_group": "机械/航空/能源"
-    },
-    {
-      "school": "上海交通大学",
-      "institute": "上海交通大学国家电投智慧能源创新学院“未来能源”国际暑期学校招生简章",
-      "title": "2026年上海交通大学国家电投智慧能源创新学院“未来能源”国际暑期学校招生简章",
-      "url": "https://www.senergy.sjtu.edu.cn/index/tongzhigonggao/3966.html",
-      "deadline": "2026-06-20",
-      "expired": false,
-      "category": "理工类",
-      "tags": [
-        "C9",
-        "华五",
-        "985",
-        "211"
-      ],
-      "source": "shenyanpai",
-      "urgency": "critical",
-      "department": "国家电投智慧能源创新学院",
-      "department_group": "机械/航空/能源"
-    },
-    {
-      "school": "复旦大学",
-      "institute": "复旦大学化学系分子合成与识别科学中心夏令营",
-      "title": "2026年复旦大学化学系分子合成与识别科学中心夏令营报名开始",
-      "url": "https://mp.weixin.qq.com/s/5QpWFn7rLNpm3qnp1SKO8w",
-      "deadline": "2026-06-20",
-      "expired": false,
-      "category": "理工类",
-      "tags": [
-        "C9",
-        "华五",
-        "985",
-        "211"
-      ],
-      "source": "shenyanpai",
-      "urgency": "critical",
-      "department": "化学系分子合成与识别科学中心",
-      "department_group": "化学/材料"
-    },
-    {
-      "school": "复旦大学",
-      "institute": "复旦大学分子合成与识别科学中心2026年研究生推免现场交流会",
-      "title": "2026年复旦大学分子合成与识别科学中心2026年研究生推免现场交流会",
-      "url": "https://rcmrs.fudan.edu.cn/eb/0e/c25962a781070/page.htm",
-      "deadline": "2026-06-20",
-      "expired": false,
-      "category": "理工类",
-      "tags": [
-        "C9",
-        "华五",
-        "985",
-        "211"
-      ],
-      "source": "shenyanpai",
-      "urgency": "critical",
-      "department": "分子合成与识别科学中心",
-      "department_group": "生医/药学"
-    },
-    {
-      "school": "复旦大学",
-      "institute": "复旦大学物理学系2026年全国优秀大学生夏令营",
-      "title": "2026年复旦大学物理学系2026年全国优秀大学生夏令营报名通知",
-      "url": "https://phys.fudan.edu.cn/ee/bc/c7522a782012/page.htm",
-      "deadline": "2026-06-20",
-      "expired": false,
-      "category": "理工类",
-      "tags": [
-        "C9",
-        "华五",
-        "985",
-        "211"
-      ],
-      "source": "shenyanpai",
-      "urgency": "critical",
-      "department": "物理学系",
-      "department_group": "物理/天文"
-    },
-    {
-      "school": "中国科学技术大学",
-      "institute": "中国科学技术大学环境科学与工程系第一届环境交叉科学营",
-      "title": "2026年中国科学技术大学环境科学与工程系第一届环境交叉科学营报名通知",
-      "url": "https://ese.ustc.edu.cn/2026/0430/c26730a736583/page.htm",
-      "deadline": "2026-06-20",
-      "expired": false,
-      "category": "理工类",
-      "tags": [
-        "C9",
-        "华五",
-        "985",
-        "211"
-      ],
-      "source": "shenyanpai",
-      "urgency": "critical",
-      "department": "环境科学与工程系",
-      "department_group": "地学/环境"
-    },
-    {
-      "school": "中国科学技术大学",
-      "institute": "线上研学体验营的",
-      "title": "2026年中国科学技术大学材料科学与工程学院（金属所）线上研学体验营的通知",
-      "url": "https://imr.cas.cn/xwzx/tzgg/202605/t20260519_8205059.html",
-      "deadline": "2026-06-20",
-      "expired": false,
-      "category": "理工类",
-      "tags": [
-        "C9",
-        "华五",
-        "985",
-        "211"
-      ],
-      "source": "shenyanpai",
-      "urgency": "critical",
-      "department": "材料科学与工程学院",
-      "department_group": "化学/材料"
-    },
-    {
-      "school": "中国科学技术大学",
-      "institute": "中国科学技术大学计算机科学与技术学院2026年暑期科学营",
-      "title": "2026年中国科学技术大学计算机科学与技术学院2026年暑期科学营报名通知",
-      "url": "https://cs.ustc.edu.cn/2026/0519/c22511a741173/page.htm",
-      "deadline": "2026-06-20",
-      "expired": false,
-      "category": "理工类",
-      "tags": [
-        "C9",
-        "华五",
-        "985",
-        "211"
-      ],
-      "source": "shenyanpai",
-      "urgency": "critical",
-      "department": "计算机科学与技术学院",
-      "department_group": "计算机"
-    },
-    {
-      "school": "西安交通大学",
-      "institute": "西安交通大学新能源科学技术与工程学院第八届“新能源转化原理与技术”国际暑期学校",
-      "title": "2026年西安交通大学新能源科学技术与工程学院第八届“新能源转化原理与技术”国际暑期学校",
-      "url": "https://mfpe.xjtu.edu.cn/info/1076/7260.htm",
-      "deadline": "2026-06-20",
-      "expired": false,
-      "category": "理工类",
-      "tags": [
-        "C9",
-        "985",
-        "211"
-      ],
-      "source": "shenyanpai",
-      "urgency": "critical",
-      "department": "新能源科学技术与工程学院",
-      "department_group": "机械/航空/能源"
-    },
-    {
-      "school": "西安交通大学",
-      "institute": "全国优秀大学生夏令营",
-      "title": "2026年西安交通大学人居环境与建筑工程学院 2026年（第十届）全国优秀大学生夏令营通知",
-      "url": "https://hsce.xjtu.edu.cn/info/1014/14294.htm",
-      "deadline": "2026-06-20",
-      "expired": false,
-      "category": "理工类",
-      "tags": [
-        "C9",
-        "985",
-        "211"
-      ],
-      "source": "shenyanpai",
-      "urgency": "critical",
-      "department": "人居环境与建筑工程学院",
-      "department_group": "地学/环境"
-    },
-    {
-      "school": "西安交通大学",
-      "institute": "全国优秀大学生夏令营",
-      "title": "2026年西安交通大学航天航空学院复杂服役环境重大装备结构强度与寿命全国重点实验室2026年（第十二届）全国优秀大学生夏令营通知",
-      "url": "https://sae.xjtu.edu.cn/info/1093/9673.htm",
-      "deadline": "2026-06-20",
-      "expired": false,
-      "category": "理工类",
-      "tags": [
-        "C9",
-        "985",
-        "211"
-      ],
-      "source": "shenyanpai",
-      "urgency": "critical",
-      "department": "航天航空学院",
-      "department_group": "机械/航空/能源"
-    },
-    {
-      "school": "哈尔滨工业大学",
-      "institute": "哈尔滨工业大学电气工程及自动化学院暑期学术交流营的",
-      "title": "2026年哈尔滨工业大学电气工程及自动化学院暑期学术交流营的通知",
-      "url": "https://hitee.hit.edu.cn/2026/0605/c17101a393578/page.htm",
-      "deadline": "2026-06-20",
-      "expired": false,
-      "category": "理工类",
-      "tags": [
-        "C9",
-        "985",
-        "211"
-      ],
-      "source": "shenyanpai",
-      "urgency": "critical",
-      "department": "电气工程及自动化学院",
-      "department_group": "自动化/仪器"
-    },
-    {
-      "school": "北京师范大学",
-      "institute": "北京师范大学化学学院2026年全国优秀大学生暑期夏令营活动",
-      "title": "2026年北京师范大学化学学院2026年全国优秀大学生暑期夏令营活动通知",
-      "url": "http://www.chem.bnu.edu.cn/sytzgg/0f4dd590e37a4962b366174854000441.htm",
-      "deadline": "2026-06-20",
-      "expired": false,
-      "category": "理工类",
-      "tags": [
-        "985",
-        "211"
-      ],
-      "source": "shenyanpai",
-      "urgency": "critical",
-      "department": "化学学院",
-      "department_group": "化学/材料"
-    },
-    {
-      "school": "吉林大学",
-      "institute": "吉林大学材料科学与工程学院2026年校园学术活动",
-      "title": "2026年吉林大学材料科学与工程学院2026年校园学术活动开放日的通知",
-      "url": "https://dmse.jlu.edu.cn/info/1018/7803.htm",
-      "deadline": "2026-06-20",
-      "expired": false,
-      "category": "理工类",
-      "tags": [
-        "985",
-        "211"
-      ],
-      "source": "shenyanpai",
-      "urgency": "critical",
-      "department": "材料科学与工程学院",
-      "department_group": "化学/材料"
-    },
-    {
-      "school": "兰州大学",
-      "institute": "兰州大学数学与统计学院2026年第八届优秀大学生暑期夏令营活动",
-      "title": "2026年兰州大学数学与统计学院2026年第八届优秀大学生暑期夏令营活动通知",
-      "url": "https://math.lzu.edu.cn/info/1062/5861.htm",
-      "deadline": "2026-06-20",
-      "expired": false,
-      "category": "理工类",
-      "tags": [
-        "985",
-        "211"
-      ],
-      "source": "shenyanpai",
-      "urgency": "critical",
-      "department": "数学与统计学院",
-      "department_group": "数学/统计"
-    },
-    {
-      "school": "西湖大学",
-      "institute": "西湖大学交叉科学中心夏令营",
-      "title": "2026年西湖大学交叉科学中心夏令营公告",
-      "url": "https://science.westlake.edu.cn/newsevents/news/202605/t20260527_67188.shtml",
-      "deadline": "2026-06-20",
-      "expired": false,
-      "category": "理工类",
-      "tags": [
-        "AI强校",
-        "双非"
-      ],
-      "source": "shenyanpai",
-      "urgency": "critical",
-      "department": "交叉科学中心",
-      "department_group": "交叉/创新创业"
-    },
-    {
-      "school": "中国科学院大学",
-      "institute": "中国科学院大学杭州高等研究院环境学院2026年优秀大学生暑期夏令营活动",
-      "title": "2026年中国科学院大学杭州高等研究院环境学院2026年优秀大学生暑期夏令营活动通知",
-      "url": "https://mp.weixin.qq.com/s/kedqCrO3xAZtO-1nXWx51g",
-      "deadline": "2026-06-20",
-      "expired": false,
-      "category": "理工类",
-      "tags": [
-        "研究院"
-      ],
-      "source": "shenyanpai",
-      "urgency": "critical",
-      "department": "杭州高等研究院环境学院",
-      "department_group": "地学/环境"
-    },
-    {
-      "school": "中国科学院大学",
-      "institute": "中国科学院大学光电学院2026年优秀大学生夏令营",
-      "title": "2026年中国科学院大学光电学院2026年优秀大学生夏令营报名通知",
-      "url": "https://oe.ucas.ac.cn/index.php/zh/tongzhi/614-2026-3",
-      "deadline": "2026-06-20",
-      "expired": false,
-      "category": "理工类",
-      "tags": [
-        "研究院"
-      ],
-      "source": "shenyanpai",
-      "urgency": "critical",
-      "department": "光电学院",
-      "department_group": "电子/通信"
-    },
-    {
-      "school": "中国科学院大学",
-      "institute": "中国科学院大学杭州高等研究院化学与材料科学学院2026年优秀大学生暑期夏令营活动",
-      "title": "2026年中国科学院大学杭州高等研究院化学与材料科学学院2026年优秀大学生暑期夏令营活动通知",
-      "url": "http://hias.ucas.ac.cn/hxyclkxxy/info/1118/1849.htm",
-      "deadline": "2026-06-20",
-      "expired": false,
-      "category": "理工类",
-      "tags": [
-        "研究院"
-      ],
-      "source": "shenyanpai",
-      "urgency": "critical",
-      "department": "杭州高等研究院化学与材料科学学院",
-      "department_group": "化学/材料"
-    },
-    {
-      "school": "中国科学院",
-      "institute": "中国科学院福建物质结构研究所（海西研究院）2026年大学生暑期夏令营",
-      "title": "2026年中国科学院福建物质结构研究所（海西研究院）2026年大学生暑期夏令营招募通知",
-      "url": "http://www.fjirsm.ac.cn/yjsjy/zsxx/202604/t20260407_8182017.html",
-      "deadline": "2026-06-20",
-      "expired": false,
-      "category": "理工类",
-      "tags": [
-        "研究院"
-      ],
-      "source": "shenyanpai",
-      "urgency": "critical",
-      "department": "中国科学院福建物质结构研究所（海西研究院",
-      "department_group": "化学/材料"
-    },
-    {
-      "school": "中国科学院",
-      "institute": "2026年中国科学院上海营养与健康研究所 2026年大学生暑期夏令营暨2027级硕士研究生推免初选",
-      "title": "2026年中国科学院上海营养与健康研究所 2026年大学生暑期夏令营暨2027级硕士研究生推免初选报名通知",
-      "url": "https://sedu.sinh.ac.cn/news.php?id=531",
-      "deadline": "2026-06-20",
-      "expired": false,
-      "category": "理工类",
-      "tags": [
-        "研究院"
-      ],
-      "source": "shenyanpai",
-      "urgency": "critical",
-      "department": "中国科学院上海营养与健康研究所",
-      "department_group": "生医/药学"
-    },
-    {
-      "school": "中国科学院",
-      "institute": "中国科学院兰州化学物理研究所",
-      "title": "2026年中国科学院兰州化学物理研究所关于举办2026年优秀大学生夏令营的通知",
-      "url": "https://licp.cas.cn/sy2018/cslm2024/licpzsdt/dxsxly/202605/t20260526_8209510.html",
-      "deadline": "2026-06-20",
-      "expired": false,
-      "category": "理工类",
-      "tags": [
-        "研究院"
-      ],
-      "source": "shenyanpai",
-      "urgency": "critical",
-      "department": "中国科学院兰州化学物理研究所",
-      "department_group": "物理/天文"
-    },
-    {
-      "school": "中国科学院",
-      "institute": "2026年中国科学院亚热带农业生态研究所“体验农业生态之旅”2026年暑期夏令营活动",
-      "title": "2026年中国科学院亚热带农业生态研究所“体验农业生态之旅”2026年暑期夏令营活动通知（第一轮）",
-      "url": "https://mp.weixin.qq.com/s/aW2LpF7nCLmH4z1m7k91Sg",
-      "deadline": "2026-06-20",
-      "expired": false,
-      "category": "理工类",
-      "tags": [
-        "研究院"
-      ],
-      "source": "shenyanpai",
-      "urgency": "critical",
-      "department": "中国科学院亚热带农业生态研究所",
-      "department_group": "生医/药学"
-    },
-    {
-      "school": "中国科学院",
-      "institute": "中国科学院上海硅酸盐研究所2026年“下一站，硅所”大学生夏令营",
-      "title": "2026年中国科学院上海硅酸盐研究所2026年“下一站，硅所”大学生夏令营报名正式开始",
-      "url": "https://mp.weixin.qq.com/s/U1BXOagIzoMhAUw1ziAvjg",
-      "deadline": "2026-06-20",
-      "expired": false,
-      "category": "理工类",
-      "tags": [
-        "研究院"
-      ],
-      "source": "shenyanpai",
-      "urgency": "critical",
-      "department": "中国科学院上海硅酸盐研究所",
-      "department_group": "化学/材料"
-    },
-    {
-      "school": "中国科学院",
-      "institute": "中国科学院宁波材料技术与工程研究所2026年“梦启甬城，心动科苑”大学生暑期夏令营营员",
-      "title": "2026年中国科学院宁波材料技术与工程研究所2026年“梦启甬城，心动科苑”大学生暑期夏令营营员招募通知",
-      "url": "https://ncmte.nimte.ac.cn/view-33404.html",
-      "deadline": "2026-06-20",
-      "expired": false,
-      "category": "理工类",
-      "tags": [
-        "研究院"
-      ],
-      "source": "shenyanpai",
-      "urgency": "critical",
-      "department": "中国科学院宁波材料技术与工程研究所",
-      "department_group": "化学/材料"
-    },
-    {
-      "school": "中国科学院",
-      "institute": "中国科学院南海海洋研究所2026年“蓝色海洋”大学生夏令营活动",
-      "title": "2026年中国科学院南海海洋研究所2026年“蓝色海洋”大学生夏令营活动通知",
-      "url": "https://scsio.cas.cn/yjsjy/lhpy/xly/202604/t20260419_8187300.html",
-      "deadline": "2026-06-20",
-      "expired": false,
-      "category": "理工类",
-      "tags": [
-        "研究院"
-      ],
-      "source": "shenyanpai",
-      "urgency": "critical",
-      "department": "中国科学院南海海洋研究所",
-      "department_group": "地学/环境"
-    },
-    {
-      "school": "中国科学院",
-      "institute": "中国科学院上海光学精密机械研究所2026年“追光之旅”暑期大学生夏令营",
-      "title": "2026年中国科学院上海光学精密机械研究所2026年“追光之旅”暑期大学生夏令营招募通知",
-      "url": "https://mp.weixin.qq.com/s/s1cbDbIqLy4Co7TOhmE2Sw",
-      "deadline": "2026-06-20",
-      "expired": false,
-      "category": "理工类",
-      "tags": [
-        "研究院"
-      ],
-      "source": "shenyanpai",
-      "urgency": "critical",
-      "department": "中国科学院上海光学精密机械研究所",
-      "department_group": "电子/通信"
-    },
-    {
-      "school": "中国科学院",
-      "institute": "中国科学院遗传与发育生物学研究所2026年“筑梦科学”大学生夏令营活动",
-      "title": "2026年中国科学院遗传与发育生物学研究所2026年“筑梦科学”大学生夏令营活动报名通知",
-      "url": "https://genetics.cas.cn/edu/zsxx/xlytms/202604/t20260424_8190986.html",
-      "deadline": "2026-06-20",
-      "expired": false,
-      "category": "理工类",
-      "tags": [
-        "研究院"
-      ],
-      "source": "shenyanpai",
-      "urgency": "critical",
-      "department": "中国科学院遗传与发育生物学研究所",
-      "department_group": "生医/药学"
-    },
-    {
-      "school": "中国科学院",
-      "institute": "2026年中国科学院西北研究院2026年“相聚丝路兰州 共筑科学梦想”优秀大学生夏令营的",
-      "title": "2026年中国科学院西北研究院2026年“相聚丝路兰州 共筑科学梦想”优秀大学生夏令营的通知",
-      "url": "https://nieer.cas.cn/edu/kjjh/xly/202604/t20260423_8190291.html",
-      "deadline": "2026-06-20",
-      "expired": false,
-      "category": "理工类",
-      "tags": [
-        "研究院"
-      ],
-      "source": "shenyanpai",
-      "urgency": "critical",
-      "department": "中国科学院西北研究院",
-      "department_group": "地学/环境"
-    },
-    {
-      "school": "中国科学院",
-      "institute": "中国科学院高能物理研究所2026年全国大学生夏令营及暑期学校活动",
-      "title": "2026年中国科学院高能物理研究所2026年全国大学生夏令营及暑期学校活动报名通知",
-      "url": "https://ihep.cas.cn/edu/bks/xly/202604/t20260426_8191472.html",
-      "deadline": "2026-06-20",
-      "expired": false,
-      "category": "理工类",
-      "tags": [
-        "研究院"
-      ],
-      "source": "shenyanpai",
-      "urgency": "critical",
-      "department": "中国科学院高能物理研究所",
-      "department_group": "物理/天文"
-    },
-    {
-      "school": "中国科学院",
-      "institute": "2026年中国科学院长春光学精密机械与物理研究所2026年“溯光明理”夏令营邀请函",
-      "title": "2026年中国科学院长春光学精密机械与物理研究所2026年“溯光明理”夏令营邀请函",
-      "url": "https://mp.weixin.qq.com/s/CN-4u5YTKRMVPKT19jPWhQ",
-      "deadline": "2026-06-20",
-      "expired": false,
-      "category": "理工类",
-      "tags": [
-        "研究院"
-      ],
-      "source": "shenyanpai",
-      "urgency": "critical",
-      "department": "中国科学院长春光学精密机械与物理研究所",
-      "department_group": "电子/通信"
-    },
-    {
-      "school": "中国科学院",
-      "institute": "2026年中国科学院上海微系统与信息技术研究所2026年夏令营",
-      "title": "2026年中国科学院上海微系统与信息技术研究所2026年夏令营报名通知",
-      "url": "https://sim.cas.cn/yjs/zsxx/yjs_sszs/202604/t20260429_8194554.html",
-      "deadline": "2026-06-20",
-      "expired": false,
-      "category": "理工类",
-      "tags": [
-        "研究院"
-      ],
-      "source": "shenyanpai",
-      "urgency": "critical",
-      "department": "中国科学院上海微系统与信息技术研究所",
-      "department_group": "电子/通信"
-    },
-    {
-      "school": "中国科学院",
-      "institute": "中国科学院上海技术物理研究所“红外筑梦”优秀大学生夏令营",
-      "title": "2026年中国科学院上海技术物理研究所“红外筑梦”优秀大学生夏令营报名通知",
-      "url": "https://sitp.cas.cn/yjs/zsxx/ssszs/202605/t20260501_8195486.html",
-      "deadline": "2026-06-20",
-      "expired": false,
-      "category": "理工类",
-      "tags": [
-        "研究院"
-      ],
-      "source": "shenyanpai",
-      "urgency": "critical",
-      "department": "中国科学院上海技术物理研究所",
-      "department_group": "物理/天文"
-    },
-    {
-      "school": "中国科学院",
-      "institute": "中国科学院云南天文台2026年“七彩云南天文之旅”大学生夏令营活动",
-      "title": "2026年中国科学院云南天文台2026年“七彩云南天文之旅”大学生夏令营活动通知",
-      "url": "https://www.ynao.cas.cn/yjsjy/jydt/zs/202605/t20260509_8197882.html",
-      "deadline": "2026-06-20",
-      "expired": false,
-      "category": "理工类",
-      "tags": [
-        "研究院"
-      ],
-      "source": "shenyanpai",
-      "urgency": "critical",
-      "department": "中国科学院",
-      "department_group": "其他"
-    },
-    {
-      "school": "中国科学院",
-      "institute": "中国科学院昆明动物研究所2026年大学生夏令营",
-      "title": "2026年中国科学院昆明动物研究所2026年大学生夏令营报名公告",
-      "url": "http://www.kiz.cas.cn/yjsjy/tzgg/202605/t20260509_8198981.html",
-      "deadline": "2026-06-20",
-      "expired": false,
-      "category": "理工类",
-      "tags": [
-        "研究院"
-      ],
-      "source": "shenyanpai",
-      "urgency": "critical",
-      "department": "中国科学院昆明动物研究所",
-      "department_group": "生医/药学"
-    },
-    {
-      "school": "中国科学院",
-      "institute": "2026年中国科学院上海高等研究院2027研究生招生",
-      "title": "2026年中国科学院上海高等研究院2027研究生招生启动",
-      "url": "https://mp.weixin.qq.com/s/ptJjgtzc6FbmSViDG3qdAQ",
-      "deadline": "2026-06-20",
-      "expired": false,
-      "category": "理工类",
-      "tags": [
-        "研究院"
-      ],
-      "source": "shenyanpai",
-      "urgency": "critical",
-      "department": "中国科学院上海高等研究院",
-      "department_group": "交叉/创新创业"
-    },
-    {
-      "school": "中国科学院",
-      "institute": "中国科学院青藏高原研究所2026年度“第三极大学生科学夏令营”",
-      "title": "2026年中国科学院青藏高原研究所2026年度“第三极大学生科学夏令营”招募令",
-      "url": "http://www.itpcas.ac.cn/new_tzgg/new_qt/202605/t20260511_8199676.html",
-      "deadline": "2026-06-20",
-      "expired": false,
-      "category": "理工类",
-      "tags": [
-        "研究院"
-      ],
-      "source": "shenyanpai",
-      "urgency": "critical",
-      "department": "中国科学院青藏高原研究所",
-      "department_group": "地学/环境"
-    },
-    {
-      "school": "中国科学院",
-      "institute": "2026年中国科学院新疆生态与地理研究所2026年“探秘新疆 走进生地所”全国优秀大学生夏令营",
-      "title": "2026年中国科学院新疆生态与地理研究所2026年“探秘新疆 走进生地所”全国优秀大学生夏令营招募通知",
-      "url": "https://egi.cas.cn/yjsjy/zsxx/sszs/202605/t20260509_8198553.html",
-      "deadline": "2026-06-20",
-      "expired": false,
-      "category": "理工类",
-      "tags": [
-        "研究院"
-      ],
-      "source": "shenyanpai",
-      "urgency": "critical",
-      "department": "中国科学院新疆生态与地理研究所",
-      "department_group": "生医/药学"
-    },
-    {
-      "school": "中国科学院",
-      "institute": "2026年中国科学院分子植物科学卓越创新中心2026年“探索生命的多样性”暑期夏令营",
-      "title": "2026年中国科学院分子植物科学卓越创新中心2026年“探索生命的多样性”暑期夏令营报名通知",
-      "url": "http://www.sippe.ac.cn/jypy/yjspy/yjs_zsqk/202604/t20260414_8185538.html",
-      "deadline": "2026-06-20",
-      "expired": false,
-      "category": "理工类",
-      "tags": [
-        "研究院"
-      ],
-      "source": "shenyanpai",
-      "urgency": "critical",
-      "department": "中国科学院分子植物科学卓越创新中心",
-      "department_group": "生医/药学"
-    },
-    {
-      "school": "香港中文大学（深圳）",
-      "institute": "数据科学学院硕士研究生项目2026年优秀大学生迷你营及夏令营",
-      "title": "2026年香港中文大学（深圳）数据科学学院硕士研究生项目2026年优秀大学生迷你营及夏令营开放申请",
-      "url": "https://mp.weixin.qq.com/s/PlA3r0GmzvshCkNB1E3JFg",
-      "deadline": "2026-06-20",
-      "expired": false,
-      "category": "理工类",
-      "tags": [
-        "港澳"
-      ],
-      "source": "shenyanpai",
-      "urgency": "critical",
-      "department": "数据科学学院",
-      "department_group": "计算机"
-    },
-    {
-      "school": "浙江大学",
-      "institute": "浙江大学国际联合商学院ZIBS OPEN DAY暨优秀大学生夏令营申请正式开启",
-      "title": "2026年浙江大学国际联合商学院ZIBS OPEN DAY暨优秀大学生夏令营申请正式开启",
-      "url": "https://zibs.zju.edu.cn/2026/0529/c83662a3167800/page.htm",
-      "deadline": "2026-06-20",
-      "expired": false,
-      "category": "经管类",
-      "tags": [
-        "C9",
-        "华五",
-        "985",
-        "211"
-      ],
-      "source": "shenyanpai",
-      "urgency": "critical",
-      "department": "国际联合商学院",
-      "department_group": "经管/金融"
-    },
-    {
-      "school": "浙江大学",
-      "institute": "浙江大学经济学院经济学拔尖学生培养基地首期暑期学校的",
-      "title": "2026年浙江大学经济学院经济学拔尖学生培养基地首期暑期学校的报名通知",
-      "url": "https://mp.weixin.qq.com/s/wM0osf4N7AJYolZdyco8dQ?scene=1&click_id=912837394",
-      "deadline": "2026-06-20",
-      "expired": false,
-      "category": "经管类",
-      "tags": [
-        "C9",
-        "华五",
-        "985",
-        "211"
-      ],
-      "source": "shenyanpai",
-      "urgency": "critical",
-      "department": "经济学院",
-      "department_group": "经管/金融"
-    },
-    {
-      "school": "山东大学",
-      "institute": "山东大学哲学与社会发展学院第二届扬州文化书院“知行转进”古典学·哲学夏令营",
-      "title": "2026年山东大学哲学与社会发展学院第二届扬州文化书院“知行转进”古典学·哲学夏令营报名通知",
-      "url": "https://www.sps.sdu.edu.cn/info/1050/18626.htm",
-      "deadline": "2026-06-20",
-      "expired": false,
-      "category": "文法类",
-      "tags": [
-        "985",
-        "211"
-      ],
-      "source": "shenyanpai",
-      "urgency": "critical",
-      "department": "哲学与社会发展学院第二届扬州文化书院",
-      "department_group": "文法/社科"
-    },
-    {
-      "school": "吉林大学",
-      "institute": "吉林大学法学院2026年“建构中国法学自主知识体系”主题校园学术活动",
-      "title": "2026年吉林大学法学院2026年“建构中国法学自主知识体系”主题校园学术活动开放日招募通知",
-      "url": "https://law.jlu.edu.cn/info/1046/25338.htm",
-      "deadline": "2026-06-20",
-      "expired": false,
-      "category": "文法类",
-      "tags": [
-        "985",
-        "211"
-      ],
-      "source": "shenyanpai",
-      "urgency": "critical",
-      "department": "法学院",
-      "department_group": "文法/社科"
-    },
-    {
-      "school": "北京第二外国语学院",
-      "institute": "北京第二外国语学院日语学院日语语言文学与翻译（日语）专业/2026年优秀大学生夏令营招生简章（二号",
-      "title": "2026年北京第二外国语学院日语学院日语语言文学与翻译（日语）专业/2026年优秀大学生夏令营招生简章（二号通知）",
-      "url": "https://mp.weixin.qq.com/s/qcTaUWYJGoBXRC6FQCB2zw",
-      "deadline": "2026-06-20",
-      "expired": false,
-      "category": "文法类",
-      "tags": [
-        "双非"
-      ],
-      "source": "shenyanpai",
-      "urgency": "critical",
-      "department": "北京第二外国语学院日语学院",
-      "department_group": "文法/社科"
-    },
-    {
-      "school": "浙江大学",
-      "institute": "通知",
-      "title": "2026年浙江大学动物科学学院”印象西湖·相约浙大”暑期学校（短期项目）通知",
-      "url": "http://www.cas.zju.edu.cn/caschinese/2026/0604/c15939a3174884/page.htm",
-      "deadline": "2026-06-20",
-      "expired": false,
-      "category": "医农类",
-      "tags": [
-        "C9",
-        "华五",
-        "985",
-        "211"
-      ],
-      "source": "shenyanpai",
-      "urgency": "critical",
-      "department": "动物科学学院",
-      "department_group": "生医/药学"
-    },
-    {
-      "school": "北京协和医学院",
-      "institute": "北京协和医学院基础学院2026年全国优秀大学生暑期夏令营活动",
-      "title": "2026年北京协和医学院基础学院2026年全国优秀大学生暑期夏令营活动通知",
-      "url": "https://mp.weixin.qq.com/s/V8UyBYmWvF2AyzpGkLp6OQ?scene=1&click_id=284298398",
-      "deadline": "2026-06-20",
-      "expired": false,
-      "category": "医农类",
-      "tags": [
-        "双非"
-      ],
-      "source": "shenyanpai",
-      "urgency": "critical",
-      "department": "北京协和医学院基础学院",
-      "department_group": "生医/药学"
-    },
-    {
-      "school": "南方科技大学",
-      "institute": "南方科技大学生物医学工程系2026年全国优秀大学生夏季交流营",
-      "title": "2026年南方科技大学生物医学工程系2026年全国优秀大学生夏季交流营",
-      "url": "https://mp.weixin.qq.com/s/b-CGobgc5XqMEr7UTjtOfA",
-      "deadline": "2026-06-20",
-      "expired": false,
-      "category": "医农类",
-      "tags": [
-        "AI强校",
-        "双非"
-      ],
-      "source": "shenyanpai",
-      "urgency": "critical",
-      "department": "生物医学工程系",
-      "department_group": "生医/药学"
-    },
     {
       "school": "北京大学",
       "institute": "北京大学统计科学中心2026年优秀大学生夏令营",
@@ -3181,7 +2268,7 @@
         "211"
       ],
       "source": "shenyanpai",
-      "urgency": "soon",
+      "urgency": "critical",
       "department": "工程物理系",
       "department_group": "物理/天文"
     },
@@ -3201,7 +2288,7 @@
         "211"
       ],
       "source": "shenyanpai",
-      "urgency": "soon",
+      "urgency": "critical",
       "department": "软件与微电子学院",
       "department_group": "计算机"
     },
@@ -3220,7 +2307,7 @@
         "211"
       ],
       "source": "shenyanpai",
-      "urgency": "soon",
+      "urgency": "critical",
       "department": "现代物理研究所",
       "department_group": "物理/天文"
     },
@@ -3237,7 +2324,7 @@
         "211"
       ],
       "source": "shenyanpai",
-      "urgency": "soon",
+      "urgency": "critical",
       "department": "航空发动机研究院",
       "department_group": "机械/航空/能源"
     },
@@ -3254,7 +2341,7 @@
         "211"
       ],
       "source": "shenyanpai",
-      "urgency": "soon",
+      "urgency": "critical",
       "department": "高分子科学与工程学院高分子研究所",
       "department_group": "化学/材料"
     },
@@ -3271,7 +2358,7 @@
         "211"
       ],
       "source": "shenyanpai",
-      "urgency": "soon",
+      "urgency": "critical",
       "department": "环境科学与工程学院",
       "department_group": "地学/环境"
     },
@@ -3288,7 +2375,7 @@
         "211"
       ],
       "source": "shenyanpai",
-      "urgency": "soon",
+      "urgency": "critical",
       "department": "数据科学研究院",
       "department_group": "计算机"
     },
@@ -3305,7 +2392,7 @@
         "211"
       ],
       "source": "shenyanpai",
-      "urgency": "soon",
+      "urgency": "critical",
       "department": "电子信息工程学院优秀大学生实验室",
       "department_group": "计算机"
     },
@@ -3319,7 +2406,7 @@
       "category": "理工类",
       "tags": [],
       "source": "shenyanpai",
-      "urgency": "soon",
+      "urgency": "critical",
       "department": "商船学院",
       "department_group": "其他"
     },
@@ -3335,7 +2422,7 @@
         "研究院"
       ],
       "source": "shenyanpai",
-      "urgency": "soon",
+      "urgency": "critical",
       "department": "材料科学与光电技术学院",
       "department_group": "电子/通信"
     },
@@ -3351,7 +2438,7 @@
         "研究院"
       ],
       "source": "shenyanpai",
-      "urgency": "soon",
+      "urgency": "critical",
       "department": "生命科学学院",
       "department_group": "生医/药学"
     },
@@ -3367,7 +2454,7 @@
         "研究院"
       ],
       "source": "shenyanpai",
-      "urgency": "soon",
+      "urgency": "critical",
       "department": "中国科学院光电技术研究所",
       "department_group": "电子/通信"
     },
@@ -3383,7 +2470,7 @@
         "211"
       ],
       "source": "shenyanpai",
-      "urgency": "soon",
+      "urgency": "critical",
       "department": "经济与社会研究院",
       "department_group": "经管/金融"
     },
@@ -3400,7 +2487,7 @@
         "211"
       ],
       "source": "shenyanpai",
-      "urgency": "soon",
+      "urgency": "critical",
       "department": "新闻学院",
       "department_group": "文法/社科"
     },
@@ -3416,7 +2503,7 @@
         "双非"
       ],
       "source": "shenyanpai",
-      "urgency": "soon",
+      "urgency": "critical",
       "department": "外语学院",
       "department_group": "文法/社科"
     },
@@ -3433,7 +2520,7 @@
         "211"
       ],
       "source": "shenyanpai",
-      "urgency": "soon",
+      "urgency": "critical",
       "department": "华西口腔医学院",
       "department_group": "生医/药学"
     },
@@ -3449,7 +2536,7 @@
         "双非"
       ],
       "source": "shenyanpai",
-      "urgency": "soon",
+      "urgency": "critical",
       "department": "北京协和医学院医学信息研究所",
       "department_group": "生医/药学"
     },
@@ -3466,7 +2553,7 @@
         "211"
       ],
       "source": "shenyanpai",
-      "urgency": "soon",
+      "urgency": "critical",
       "department": "基础医学院",
       "department_group": "生医/药学"
     },
@@ -3480,7 +2567,7 @@
       "category": "医农类",
       "tags": [],
       "source": "shenyanpai",
-      "urgency": "soon",
+      "urgency": "critical",
       "department": "护理学院",
       "department_group": "物理/天文"
     },
@@ -3496,7 +2583,7 @@
         "双非"
       ],
       "source": "shenyanpai",
-      "urgency": "soon",
+      "urgency": "critical",
       "department": "医学部口腔医学院",
       "department_group": "生医/药学"
     },
@@ -3510,7 +2597,7 @@
       "category": "医农类",
       "tags": [],
       "source": "shenyanpai",
-      "urgency": "soon",
+      "urgency": "critical",
       "department": "园艺学院",
       "department_group": "农学/畜牧"
     },
@@ -5101,7 +4188,7 @@
         "211"
       ],
       "source": "shenyanpai",
-      "urgency": "near",
+      "urgency": "soon",
       "department": "生命科学研究院",
       "department_group": "生医/药学"
     },
@@ -5120,7 +4207,7 @@
         "211"
       ],
       "source": "shenyanpai",
-      "urgency": "near",
+      "urgency": "soon",
       "department": "生物医学工程与技术创新学院",
       "department_group": "生医/药学"
     },
@@ -5139,7 +4226,7 @@
         "211"
       ],
       "source": "shenyanpai",
-      "urgency": "near",
+      "urgency": "soon",
       "department": "环境与健康研究院",
       "department_group": "生医/药学"
     },
@@ -5156,7 +4243,7 @@
         "211"
       ],
       "source": "shenyanpai",
-      "urgency": "near",
+      "urgency": "soon",
       "department": "大气科学学院",
       "department_group": "地学/环境"
     },
@@ -5173,7 +4260,7 @@
         "211"
       ],
       "source": "shenyanpai",
-      "urgency": "near",
+      "urgency": "soon",
       "department": "计算机学院",
       "department_group": "计算机"
     },
@@ -5190,7 +4277,7 @@
         "211"
       ],
       "source": "shenyanpai",
-      "urgency": "near",
+      "urgency": "soon",
       "department": "中意工程创新学院",
       "department_group": "其他"
     },
@@ -5207,7 +4294,7 @@
         "211"
       ],
       "source": "shenyanpai",
-      "urgency": "near",
+      "urgency": "soon",
       "department": "前沿交叉科学青岛研究院",
       "department_group": "交叉/创新创业"
     },
@@ -5224,7 +4311,7 @@
         "211"
       ],
       "source": "shenyanpai",
-      "urgency": "near",
+      "urgency": "soon",
       "department": "新一代半导体材料研究院",
       "department_group": "电子/通信"
     },
@@ -5241,7 +4328,7 @@
         "211"
       ],
       "source": "shenyanpai",
-      "urgency": "near",
+      "urgency": "soon",
       "department": "机械工程学院",
       "department_group": "机械/航空/能源"
     },
@@ -5258,7 +4345,7 @@
         "211"
       ],
       "source": "shenyanpai",
-      "urgency": "near",
+      "urgency": "soon",
       "department": "交通学院",
       "department_group": "建筑/土木"
     },
@@ -5275,7 +4362,7 @@
         "211"
       ],
       "source": "shenyanpai",
-      "urgency": "near",
+      "urgency": "soon",
       "department": "计算机科学与技术学院软件学院",
       "department_group": "计算机"
     },
@@ -5292,7 +4379,7 @@
         "211"
       ],
       "source": "shenyanpai",
-      "urgency": "near",
+      "urgency": "soon",
       "department": "人工智能学院",
       "department_group": "计算机"
     },
@@ -5309,7 +4396,7 @@
         "211"
       ],
       "source": "shenyanpai",
-      "urgency": "near",
+      "urgency": "soon",
       "department": "动物医学与生物安全学院",
       "department_group": "生医/药学"
     },
@@ -5326,7 +4413,7 @@
         "211"
       ],
       "source": "shenyanpai",
-      "urgency": "near",
+      "urgency": "soon",
       "department": "大气科学学院",
       "department_group": "地学/环境"
     },
@@ -5343,7 +4430,7 @@
         "211"
       ],
       "source": "shenyanpai",
-      "urgency": "near",
+      "urgency": "soon",
       "department": "信息科学与工程学院",
       "department_group": "其他"
     },
@@ -5359,7 +4446,7 @@
         "211"
       ],
       "source": "shenyanpai",
-      "urgency": "near",
+      "urgency": "soon",
       "department": "化学与分子工程学院",
       "department_group": "化学/材料"
     },
@@ -5373,7 +4460,7 @@
       "category": "理工类",
       "tags": [],
       "source": "shenyanpai",
-      "urgency": "near",
+      "urgency": "soon",
       "department": "化学学院",
       "department_group": "化学/材料"
     },
@@ -5387,7 +4474,7 @@
       "category": "理工类",
       "tags": [],
       "source": "shenyanpai",
-      "urgency": "near",
+      "urgency": "soon",
       "department": "能源科学与工程学院",
       "department_group": "机械/航空/能源"
     },
@@ -5401,7 +4488,7 @@
       "category": "理工类",
       "tags": [],
       "source": "shenyanpai",
-      "urgency": "near",
+      "urgency": "soon",
       "department": "机械工程学院",
       "department_group": "机械/航空/能源"
     },
@@ -5415,7 +4502,7 @@
       "category": "理工类",
       "tags": [],
       "source": "shenyanpai",
-      "urgency": "near",
+      "urgency": "soon",
       "department": "电气工程学院",
       "department_group": "自动化/仪器"
     },
@@ -5429,7 +4516,7 @@
       "category": "理工类",
       "tags": [],
       "source": "shenyanpai",
-      "urgency": "near",
+      "urgency": "soon",
       "department": "土木工程学院",
       "department_group": "建筑/土木"
     },
@@ -5443,7 +4530,7 @@
       "category": "理工类",
       "tags": [],
       "source": "shenyanpai",
-      "urgency": "near",
+      "urgency": "soon",
       "department": "土木工程学院",
       "department_group": "建筑/土木"
     },
@@ -5459,7 +4546,7 @@
         "研究院"
       ],
       "source": "shenyanpai",
-      "urgency": "near",
+      "urgency": "soon",
       "department": "中科环渤海（烟台）药物高等研究院烟台新药创制山东省实验室",
       "department_group": "生医/药学"
     },
@@ -5476,7 +4563,7 @@
         "211"
       ],
       "source": "shenyanpai",
-      "urgency": "near",
+      "urgency": "soon",
       "department": "管理学院",
       "department_group": "物理/天文"
     },
@@ -5493,7 +4580,7 @@
         "211"
       ],
       "source": "shenyanpai",
-      "urgency": "near",
+      "urgency": "soon",
       "department": "东北亚学院",
       "department_group": "其他"
     },
@@ -5510,7 +4597,7 @@
         "211"
       ],
       "source": "shenyanpai",
-      "urgency": "near",
+      "urgency": "soon",
       "department": "文学院",
       "department_group": "文法/社科"
     },
@@ -5524,7 +4611,7 @@
       "category": "文法类",
       "tags": [],
       "source": "shenyanpai",
-      "urgency": "near",
+      "urgency": "soon",
       "department": "外国语学院",
       "department_group": "文法/社科"
     },
@@ -5540,7 +4627,7 @@
         "双非"
       ],
       "source": "shenyanpai",
-      "urgency": "near",
+      "urgency": "soon",
       "department": "传播学院",
       "department_group": "文法/社科"
     },
@@ -5556,7 +4643,7 @@
         "双非"
       ],
       "source": "shenyanpai",
-      "urgency": "near",
+      "urgency": "soon",
       "department": "马克思主义学院",
       "department_group": "文法/社科"
     },
@@ -5572,7 +4659,7 @@
         "双非"
       ],
       "source": "shenyanpai",
-      "urgency": "near",
+      "urgency": "soon",
       "department": "马克思主义学院",
       "department_group": "文法/社科"
     },
@@ -5588,7 +4675,7 @@
         "双非"
       ],
       "source": "shenyanpai",
-      "urgency": "near",
+      "urgency": "soon",
       "department": "语言与传播学院",
       "department_group": "文法/社科"
     },
@@ -5605,7 +4692,7 @@
         "211"
       ],
       "source": "shenyanpai",
-      "urgency": "near",
+      "urgency": "soon",
       "department": "泰康医学院（基础医学院",
       "department_group": "生医/药学"
     },
@@ -5621,7 +4708,7 @@
         "双非"
       ],
       "source": "shenyanpai",
-      "urgency": "near",
+      "urgency": "soon",
       "department": "北京协和医学院",
       "department_group": "生医/药学"
     },
@@ -5638,7 +4725,7 @@
         "211"
       ],
       "source": "shenyanpai",
-      "urgency": "near",
+      "urgency": "soon",
       "department": "基础医学院",
       "department_group": "生医/药学"
     },
@@ -5655,7 +4742,7 @@
         "211"
       ],
       "source": "shenyanpai",
-      "urgency": "near",
+      "urgency": "soon",
       "department": "护理学院",
       "department_group": "物理/天文"
     },
@@ -5671,7 +4758,7 @@
         "研究院"
       ],
       "source": "shenyanpai",
-      "urgency": "near",
+      "urgency": "soon",
       "department": "中国科学院植物研究所",
       "department_group": "生医/药学"
     },
@@ -5687,7 +4774,7 @@
         "研究院"
       ],
       "source": "shenyanpai",
-      "urgency": "near",
+      "urgency": "soon",
       "department": "中国农业科学院蔬菜花卉研究所",
       "department_group": "农学/畜牧"
     },
@@ -5703,7 +4790,7 @@
         "研究院"
       ],
       "source": "shenyanpai",
-      "urgency": "near",
+      "urgency": "soon",
       "department": "中国农业科学院兰州兽医研究所",
       "department_group": "生医/药学"
     },
@@ -8989,7 +8076,7 @@
         "211"
       ],
       "source": "shenyanpai",
-      "urgency": "far",
+      "urgency": "near",
       "department": "智能创意与交互实验室",
       "department_group": "其他"
     },
@@ -9008,7 +8095,7 @@
         "211"
       ],
       "source": "shenyanpai",
-      "urgency": "far",
+      "urgency": "near",
       "department": "材料科学与工程学院",
       "department_group": "化学/材料"
     },
@@ -9026,7 +8113,7 @@
         "211"
       ],
       "source": "shenyanpai",
-      "urgency": "far",
+      "urgency": "near",
       "department": "未来技术学院",
       "department_group": "交叉/创新创业"
     },
@@ -9043,7 +8130,7 @@
         "211"
       ],
       "source": "shenyanpai",
-      "urgency": "far",
+      "urgency": "near",
       "department": "海洋科学学院",
       "department_group": "地学/环境"
     },
@@ -9061,7 +8148,7 @@
         "211"
       ],
       "source": "shenyanpai",
-      "urgency": "far",
+      "urgency": "near",
       "department": "电子与信息工程学院",
       "department_group": "计算机"
     },
@@ -9078,7 +8165,7 @@
         "211"
       ],
       "source": "shenyanpai",
-      "urgency": "far",
+      "urgency": "near",
       "department": "地球科学学院",
       "department_group": "地学/环境"
     },
@@ -9095,7 +8182,7 @@
         "211"
       ],
       "source": "shenyanpai",
-      "urgency": "far",
+      "urgency": "near",
       "department": "基础与前沿研究院",
       "department_group": "其他"
     },
@@ -9112,7 +8199,7 @@
         "211"
       ],
       "source": "shenyanpai",
-      "urgency": "far",
+      "urgency": "near",
       "department": "光电科学与工程学院",
       "department_group": "电子/通信"
     },
@@ -9128,7 +8215,7 @@
         "211"
       ],
       "source": "shenyanpai",
-      "urgency": "far",
+      "urgency": "near",
       "department": "生命科学学院",
       "department_group": "生医/药学"
     },
@@ -9142,7 +8229,7 @@
       "category": "理工类",
       "tags": [],
       "source": "shenyanpai",
-      "urgency": "far",
+      "urgency": "near",
       "department": "土木与交通学院含精细爆破全国重点实验室",
       "department_group": "建筑/土木"
     },
@@ -9156,7 +8243,7 @@
       "category": "理工类",
       "tags": [],
       "source": "shenyanpai",
-      "urgency": "far",
+      "urgency": "near",
       "department": "水科学研究院水资源高效利用与工程安全国家工程研究中心",
       "department_group": "地学/环境"
     },
@@ -9170,7 +8257,7 @@
       "category": "理工类",
       "tags": [],
       "source": "shenyanpai",
-      "urgency": "far",
+      "urgency": "near",
       "department": "机械工程与力学学院",
       "department_group": "机械/航空/能源"
     },
@@ -9184,7 +8271,7 @@
       "category": "经管类",
       "tags": [],
       "source": "shenyanpai",
-      "urgency": "far",
+      "urgency": "near",
       "department": "经济与金融学院",
       "department_group": "经管/金融"
     },
@@ -9200,7 +8287,7 @@
         "双非"
       ],
       "source": "shenyanpai",
-      "urgency": "far",
+      "urgency": "near",
       "department": "中国经济特区研究中心",
       "department_group": "经管/金融"
     },
@@ -9214,7 +8301,7 @@
       "category": "经管类",
       "tags": [],
       "source": "shenyanpai",
-      "urgency": "far",
+      "urgency": "near",
       "department": "商学院",
       "department_group": "经管/金融"
     },
@@ -9228,7 +8315,7 @@
       "category": "经管类",
       "tags": [],
       "source": "shenyanpai",
-      "urgency": "far",
+      "urgency": "near",
       "department": "中国合作社研究院（合作经济研究中心",
       "department_group": "经管/金融"
     },
@@ -9242,7 +8329,7 @@
       "category": "文法类",
       "tags": [],
       "source": "shenyanpai",
-      "urgency": "far",
+      "urgency": "near",
       "department": "证据科学研究院",
       "department_group": "其他"
     },
@@ -9256,7 +8343,7 @@
       "category": "医农类",
       "tags": [],
       "source": "shenyanpai",
-      "urgency": "far",
+      "urgency": "near",
       "department": "医学院",
       "department_group": "生医/药学"
     },
@@ -14554,6 +13641,919 @@
       "source": "shenyanpai",
       "urgency": "expired",
       "department": "中国科学院广州生物医药与健康研究院",
+      "department_group": "生医/药学"
+    },
+    {
+      "school": "清华大学",
+      "institute": "“暑期科研体验营”",
+      "title": "2026年清华大学生物医学交叉研究院（北京生命科学研究所）“暑期科研体验营” 报名通知",
+      "url": "https://mp.weixin.qq.com/s/KcR1N1-_BB1TAVNFm8O_4Q",
+      "deadline": "2026-06-20",
+      "expired": true,
+      "category": "理工类",
+      "tags": [
+        "TOP2",
+        "C9",
+        "华五",
+        "985",
+        "211"
+      ],
+      "source": "shenyanpai",
+      "urgency": "expired",
+      "department": "生物医学交叉研究院（北京生命科学研究所",
+      "department_group": "生医/药学"
+    },
+    {
+      "school": "清华大学",
+      "institute": "清华大学力学与工程交叉研究院 2026年暑期体验营",
+      "title": "2026年清华大学力学与工程交叉研究院 2026年暑期体验营报名通知",
+      "url": "https://www.mechanox.tsinghua.edu.cn/cn/2026/0518/c960a7602/page.htm",
+      "deadline": "2026-06-20",
+      "expired": true,
+      "category": "理工类",
+      "tags": [
+        "TOP2",
+        "C9",
+        "华五",
+        "985",
+        "211"
+      ],
+      "source": "shenyanpai",
+      "urgency": "expired",
+      "department": "力学与工程交叉研究院",
+      "department_group": "机械/航空/能源"
+    },
+    {
+      "school": "浙江大学",
+      "institute": "浙江大学环境与资源学院",
+      "title": "2026年浙江大学环境与资源学院关于举办2026年全国优秀大学生学术夏令营的通知",
+      "url": "http://www.cers.zju.edu.cn/cercn/2026/0528/c91703a3167240/page.htm",
+      "deadline": "2026-06-20",
+      "expired": true,
+      "category": "理工类",
+      "tags": [
+        "C9",
+        "华五",
+        "985",
+        "211"
+      ],
+      "source": "shenyanpai",
+      "urgency": "expired",
+      "department": "环境与资源学院",
+      "department_group": "地学/环境"
+    },
+    {
+      "school": "浙江大学",
+      "institute": "浙江大学数据科学研究中心2026年iMDS项目OPEN DAY暨优秀大学生夏令营申请正式开启",
+      "title": "2026年浙江大学数据科学研究中心2026年iMDS项目OPEN DAY暨优秀大学生夏令营申请正式开启",
+      "url": "https://cds.zju.edu.cn/a/zsxx/3806.html",
+      "deadline": "2026-06-20",
+      "expired": true,
+      "category": "理工类",
+      "tags": [
+        "C9",
+        "华五",
+        "985",
+        "211"
+      ],
+      "source": "shenyanpai",
+      "urgency": "expired",
+      "department": "数据科学研究中心",
+      "department_group": "计算机"
+    },
+    {
+      "school": "浙江大学",
+      "institute": "浙江大学航空航天学院",
+      "title": "2026年浙江大学航空航天学院关于举办2026年优秀大学生暑期夏令营的通知",
+      "url": "http://saa.zju.edu.cn/2026/0602/c67629a3169091/page.htm",
+      "deadline": "2026-06-20",
+      "expired": true,
+      "category": "理工类",
+      "tags": [
+        "C9",
+        "华五",
+        "985",
+        "211"
+      ],
+      "source": "shenyanpai",
+      "urgency": "expired",
+      "department": "航空航天学院",
+      "department_group": "机械/航空/能源"
+    },
+    {
+      "school": "浙江大学",
+      "institute": "浙江大学机械工程学院2026年全国优秀大学生暑期学术夏令营活动",
+      "title": "2026年浙江大学机械工程学院2026年全国优秀大学生暑期学术夏令营活动通知",
+      "url": "https://mp.weixin.qq.com/s/ZAjlRfZrRzIU6XIE7KNRrQ",
+      "deadline": "2026-06-20",
+      "expired": true,
+      "category": "理工类",
+      "tags": [
+        "C9",
+        "华五",
+        "985",
+        "211"
+      ],
+      "source": "shenyanpai",
+      "urgency": "expired",
+      "department": "机械工程学院",
+      "department_group": "机械/航空/能源"
+    },
+    {
+      "school": "上海交通大学",
+      "institute": "上海交通大学国家电投智慧能源创新学院“未来能源”国际暑期学校招生简章",
+      "title": "2026年上海交通大学国家电投智慧能源创新学院“未来能源”国际暑期学校招生简章",
+      "url": "https://www.senergy.sjtu.edu.cn/index/tongzhigonggao/3966.html",
+      "deadline": "2026-06-20",
+      "expired": true,
+      "category": "理工类",
+      "tags": [
+        "C9",
+        "华五",
+        "985",
+        "211"
+      ],
+      "source": "shenyanpai",
+      "urgency": "expired",
+      "department": "国家电投智慧能源创新学院",
+      "department_group": "机械/航空/能源"
+    },
+    {
+      "school": "复旦大学",
+      "institute": "复旦大学化学系分子合成与识别科学中心夏令营",
+      "title": "2026年复旦大学化学系分子合成与识别科学中心夏令营报名开始",
+      "url": "https://mp.weixin.qq.com/s/5QpWFn7rLNpm3qnp1SKO8w",
+      "deadline": "2026-06-20",
+      "expired": true,
+      "category": "理工类",
+      "tags": [
+        "C9",
+        "华五",
+        "985",
+        "211"
+      ],
+      "source": "shenyanpai",
+      "urgency": "expired",
+      "department": "化学系分子合成与识别科学中心",
+      "department_group": "化学/材料"
+    },
+    {
+      "school": "复旦大学",
+      "institute": "复旦大学分子合成与识别科学中心2026年研究生推免现场交流会",
+      "title": "2026年复旦大学分子合成与识别科学中心2026年研究生推免现场交流会",
+      "url": "https://rcmrs.fudan.edu.cn/eb/0e/c25962a781070/page.htm",
+      "deadline": "2026-06-20",
+      "expired": true,
+      "category": "理工类",
+      "tags": [
+        "C9",
+        "华五",
+        "985",
+        "211"
+      ],
+      "source": "shenyanpai",
+      "urgency": "expired",
+      "department": "分子合成与识别科学中心",
+      "department_group": "生医/药学"
+    },
+    {
+      "school": "复旦大学",
+      "institute": "复旦大学物理学系2026年全国优秀大学生夏令营",
+      "title": "2026年复旦大学物理学系2026年全国优秀大学生夏令营报名通知",
+      "url": "https://phys.fudan.edu.cn/ee/bc/c7522a782012/page.htm",
+      "deadline": "2026-06-20",
+      "expired": true,
+      "category": "理工类",
+      "tags": [
+        "C9",
+        "华五",
+        "985",
+        "211"
+      ],
+      "source": "shenyanpai",
+      "urgency": "expired",
+      "department": "物理学系",
+      "department_group": "物理/天文"
+    },
+    {
+      "school": "中国科学技术大学",
+      "institute": "中国科学技术大学环境科学与工程系第一届环境交叉科学营",
+      "title": "2026年中国科学技术大学环境科学与工程系第一届环境交叉科学营报名通知",
+      "url": "https://ese.ustc.edu.cn/2026/0430/c26730a736583/page.htm",
+      "deadline": "2026-06-20",
+      "expired": true,
+      "category": "理工类",
+      "tags": [
+        "C9",
+        "华五",
+        "985",
+        "211"
+      ],
+      "source": "shenyanpai",
+      "urgency": "expired",
+      "department": "环境科学与工程系",
+      "department_group": "地学/环境"
+    },
+    {
+      "school": "中国科学技术大学",
+      "institute": "线上研学体验营的",
+      "title": "2026年中国科学技术大学材料科学与工程学院（金属所）线上研学体验营的通知",
+      "url": "https://imr.cas.cn/xwzx/tzgg/202605/t20260519_8205059.html",
+      "deadline": "2026-06-20",
+      "expired": true,
+      "category": "理工类",
+      "tags": [
+        "C9",
+        "华五",
+        "985",
+        "211"
+      ],
+      "source": "shenyanpai",
+      "urgency": "expired",
+      "department": "材料科学与工程学院",
+      "department_group": "化学/材料"
+    },
+    {
+      "school": "中国科学技术大学",
+      "institute": "中国科学技术大学计算机科学与技术学院2026年暑期科学营",
+      "title": "2026年中国科学技术大学计算机科学与技术学院2026年暑期科学营报名通知",
+      "url": "https://cs.ustc.edu.cn/2026/0519/c22511a741173/page.htm",
+      "deadline": "2026-06-20",
+      "expired": true,
+      "category": "理工类",
+      "tags": [
+        "C9",
+        "华五",
+        "985",
+        "211"
+      ],
+      "source": "shenyanpai",
+      "urgency": "expired",
+      "department": "计算机科学与技术学院",
+      "department_group": "计算机"
+    },
+    {
+      "school": "西安交通大学",
+      "institute": "西安交通大学新能源科学技术与工程学院第八届“新能源转化原理与技术”国际暑期学校",
+      "title": "2026年西安交通大学新能源科学技术与工程学院第八届“新能源转化原理与技术”国际暑期学校",
+      "url": "https://mfpe.xjtu.edu.cn/info/1076/7260.htm",
+      "deadline": "2026-06-20",
+      "expired": true,
+      "category": "理工类",
+      "tags": [
+        "C9",
+        "985",
+        "211"
+      ],
+      "source": "shenyanpai",
+      "urgency": "expired",
+      "department": "新能源科学技术与工程学院",
+      "department_group": "机械/航空/能源"
+    },
+    {
+      "school": "西安交通大学",
+      "institute": "全国优秀大学生夏令营",
+      "title": "2026年西安交通大学人居环境与建筑工程学院 2026年（第十届）全国优秀大学生夏令营通知",
+      "url": "https://hsce.xjtu.edu.cn/info/1014/14294.htm",
+      "deadline": "2026-06-20",
+      "expired": true,
+      "category": "理工类",
+      "tags": [
+        "C9",
+        "985",
+        "211"
+      ],
+      "source": "shenyanpai",
+      "urgency": "expired",
+      "department": "人居环境与建筑工程学院",
+      "department_group": "地学/环境"
+    },
+    {
+      "school": "西安交通大学",
+      "institute": "全国优秀大学生夏令营",
+      "title": "2026年西安交通大学航天航空学院复杂服役环境重大装备结构强度与寿命全国重点实验室2026年（第十二届）全国优秀大学生夏令营通知",
+      "url": "https://sae.xjtu.edu.cn/info/1093/9673.htm",
+      "deadline": "2026-06-20",
+      "expired": true,
+      "category": "理工类",
+      "tags": [
+        "C9",
+        "985",
+        "211"
+      ],
+      "source": "shenyanpai",
+      "urgency": "expired",
+      "department": "航天航空学院",
+      "department_group": "机械/航空/能源"
+    },
+    {
+      "school": "哈尔滨工业大学",
+      "institute": "哈尔滨工业大学电气工程及自动化学院暑期学术交流营的",
+      "title": "2026年哈尔滨工业大学电气工程及自动化学院暑期学术交流营的通知",
+      "url": "https://hitee.hit.edu.cn/2026/0605/c17101a393578/page.htm",
+      "deadline": "2026-06-20",
+      "expired": true,
+      "category": "理工类",
+      "tags": [
+        "C9",
+        "985",
+        "211"
+      ],
+      "source": "shenyanpai",
+      "urgency": "expired",
+      "department": "电气工程及自动化学院",
+      "department_group": "自动化/仪器"
+    },
+    {
+      "school": "北京师范大学",
+      "institute": "北京师范大学化学学院2026年全国优秀大学生暑期夏令营活动",
+      "title": "2026年北京师范大学化学学院2026年全国优秀大学生暑期夏令营活动通知",
+      "url": "http://www.chem.bnu.edu.cn/sytzgg/0f4dd590e37a4962b366174854000441.htm",
+      "deadline": "2026-06-20",
+      "expired": true,
+      "category": "理工类",
+      "tags": [
+        "985",
+        "211"
+      ],
+      "source": "shenyanpai",
+      "urgency": "expired",
+      "department": "化学学院",
+      "department_group": "化学/材料"
+    },
+    {
+      "school": "吉林大学",
+      "institute": "吉林大学材料科学与工程学院2026年校园学术活动",
+      "title": "2026年吉林大学材料科学与工程学院2026年校园学术活动开放日的通知",
+      "url": "https://dmse.jlu.edu.cn/info/1018/7803.htm",
+      "deadline": "2026-06-20",
+      "expired": true,
+      "category": "理工类",
+      "tags": [
+        "985",
+        "211"
+      ],
+      "source": "shenyanpai",
+      "urgency": "expired",
+      "department": "材料科学与工程学院",
+      "department_group": "化学/材料"
+    },
+    {
+      "school": "兰州大学",
+      "institute": "兰州大学数学与统计学院2026年第八届优秀大学生暑期夏令营活动",
+      "title": "2026年兰州大学数学与统计学院2026年第八届优秀大学生暑期夏令营活动通知",
+      "url": "https://math.lzu.edu.cn/info/1062/5861.htm",
+      "deadline": "2026-06-20",
+      "expired": true,
+      "category": "理工类",
+      "tags": [
+        "985",
+        "211"
+      ],
+      "source": "shenyanpai",
+      "urgency": "expired",
+      "department": "数学与统计学院",
+      "department_group": "数学/统计"
+    },
+    {
+      "school": "西湖大学",
+      "institute": "西湖大学交叉科学中心夏令营",
+      "title": "2026年西湖大学交叉科学中心夏令营公告",
+      "url": "https://science.westlake.edu.cn/newsevents/news/202605/t20260527_67188.shtml",
+      "deadline": "2026-06-20",
+      "expired": true,
+      "category": "理工类",
+      "tags": [
+        "AI强校",
+        "双非"
+      ],
+      "source": "shenyanpai",
+      "urgency": "expired",
+      "department": "交叉科学中心",
+      "department_group": "交叉/创新创业"
+    },
+    {
+      "school": "中国科学院大学",
+      "institute": "中国科学院大学杭州高等研究院环境学院2026年优秀大学生暑期夏令营活动",
+      "title": "2026年中国科学院大学杭州高等研究院环境学院2026年优秀大学生暑期夏令营活动通知",
+      "url": "https://mp.weixin.qq.com/s/kedqCrO3xAZtO-1nXWx51g",
+      "deadline": "2026-06-20",
+      "expired": true,
+      "category": "理工类",
+      "tags": [
+        "研究院"
+      ],
+      "source": "shenyanpai",
+      "urgency": "expired",
+      "department": "杭州高等研究院环境学院",
+      "department_group": "地学/环境"
+    },
+    {
+      "school": "中国科学院大学",
+      "institute": "中国科学院大学光电学院2026年优秀大学生夏令营",
+      "title": "2026年中国科学院大学光电学院2026年优秀大学生夏令营报名通知",
+      "url": "https://oe.ucas.ac.cn/index.php/zh/tongzhi/614-2026-3",
+      "deadline": "2026-06-20",
+      "expired": true,
+      "category": "理工类",
+      "tags": [
+        "研究院"
+      ],
+      "source": "shenyanpai",
+      "urgency": "expired",
+      "department": "光电学院",
+      "department_group": "电子/通信"
+    },
+    {
+      "school": "中国科学院大学",
+      "institute": "中国科学院大学杭州高等研究院化学与材料科学学院2026年优秀大学生暑期夏令营活动",
+      "title": "2026年中国科学院大学杭州高等研究院化学与材料科学学院2026年优秀大学生暑期夏令营活动通知",
+      "url": "http://hias.ucas.ac.cn/hxyclkxxy/info/1118/1849.htm",
+      "deadline": "2026-06-20",
+      "expired": true,
+      "category": "理工类",
+      "tags": [
+        "研究院"
+      ],
+      "source": "shenyanpai",
+      "urgency": "expired",
+      "department": "杭州高等研究院化学与材料科学学院",
+      "department_group": "化学/材料"
+    },
+    {
+      "school": "中国科学院",
+      "institute": "中国科学院福建物质结构研究所（海西研究院）2026年大学生暑期夏令营",
+      "title": "2026年中国科学院福建物质结构研究所（海西研究院）2026年大学生暑期夏令营招募通知",
+      "url": "http://www.fjirsm.ac.cn/yjsjy/zsxx/202604/t20260407_8182017.html",
+      "deadline": "2026-06-20",
+      "expired": true,
+      "category": "理工类",
+      "tags": [
+        "研究院"
+      ],
+      "source": "shenyanpai",
+      "urgency": "expired",
+      "department": "中国科学院福建物质结构研究所（海西研究院",
+      "department_group": "化学/材料"
+    },
+    {
+      "school": "中国科学院",
+      "institute": "2026年中国科学院上海营养与健康研究所 2026年大学生暑期夏令营暨2027级硕士研究生推免初选",
+      "title": "2026年中国科学院上海营养与健康研究所 2026年大学生暑期夏令营暨2027级硕士研究生推免初选报名通知",
+      "url": "https://sedu.sinh.ac.cn/news.php?id=531",
+      "deadline": "2026-06-20",
+      "expired": true,
+      "category": "理工类",
+      "tags": [
+        "研究院"
+      ],
+      "source": "shenyanpai",
+      "urgency": "expired",
+      "department": "中国科学院上海营养与健康研究所",
+      "department_group": "生医/药学"
+    },
+    {
+      "school": "中国科学院",
+      "institute": "中国科学院兰州化学物理研究所",
+      "title": "2026年中国科学院兰州化学物理研究所关于举办2026年优秀大学生夏令营的通知",
+      "url": "https://licp.cas.cn/sy2018/cslm2024/licpzsdt/dxsxly/202605/t20260526_8209510.html",
+      "deadline": "2026-06-20",
+      "expired": true,
+      "category": "理工类",
+      "tags": [
+        "研究院"
+      ],
+      "source": "shenyanpai",
+      "urgency": "expired",
+      "department": "中国科学院兰州化学物理研究所",
+      "department_group": "物理/天文"
+    },
+    {
+      "school": "中国科学院",
+      "institute": "2026年中国科学院亚热带农业生态研究所“体验农业生态之旅”2026年暑期夏令营活动",
+      "title": "2026年中国科学院亚热带农业生态研究所“体验农业生态之旅”2026年暑期夏令营活动通知（第一轮）",
+      "url": "https://mp.weixin.qq.com/s/aW2LpF7nCLmH4z1m7k91Sg",
+      "deadline": "2026-06-20",
+      "expired": true,
+      "category": "理工类",
+      "tags": [
+        "研究院"
+      ],
+      "source": "shenyanpai",
+      "urgency": "expired",
+      "department": "中国科学院亚热带农业生态研究所",
+      "department_group": "生医/药学"
+    },
+    {
+      "school": "中国科学院",
+      "institute": "中国科学院上海硅酸盐研究所2026年“下一站，硅所”大学生夏令营",
+      "title": "2026年中国科学院上海硅酸盐研究所2026年“下一站，硅所”大学生夏令营报名正式开始",
+      "url": "https://mp.weixin.qq.com/s/U1BXOagIzoMhAUw1ziAvjg",
+      "deadline": "2026-06-20",
+      "expired": true,
+      "category": "理工类",
+      "tags": [
+        "研究院"
+      ],
+      "source": "shenyanpai",
+      "urgency": "expired",
+      "department": "中国科学院上海硅酸盐研究所",
+      "department_group": "化学/材料"
+    },
+    {
+      "school": "中国科学院",
+      "institute": "中国科学院宁波材料技术与工程研究所2026年“梦启甬城，心动科苑”大学生暑期夏令营营员",
+      "title": "2026年中国科学院宁波材料技术与工程研究所2026年“梦启甬城，心动科苑”大学生暑期夏令营营员招募通知",
+      "url": "https://ncmte.nimte.ac.cn/view-33404.html",
+      "deadline": "2026-06-20",
+      "expired": true,
+      "category": "理工类",
+      "tags": [
+        "研究院"
+      ],
+      "source": "shenyanpai",
+      "urgency": "expired",
+      "department": "中国科学院宁波材料技术与工程研究所",
+      "department_group": "化学/材料"
+    },
+    {
+      "school": "中国科学院",
+      "institute": "中国科学院南海海洋研究所2026年“蓝色海洋”大学生夏令营活动",
+      "title": "2026年中国科学院南海海洋研究所2026年“蓝色海洋”大学生夏令营活动通知",
+      "url": "https://scsio.cas.cn/yjsjy/lhpy/xly/202604/t20260419_8187300.html",
+      "deadline": "2026-06-20",
+      "expired": true,
+      "category": "理工类",
+      "tags": [
+        "研究院"
+      ],
+      "source": "shenyanpai",
+      "urgency": "expired",
+      "department": "中国科学院南海海洋研究所",
+      "department_group": "地学/环境"
+    },
+    {
+      "school": "中国科学院",
+      "institute": "中国科学院上海光学精密机械研究所2026年“追光之旅”暑期大学生夏令营",
+      "title": "2026年中国科学院上海光学精密机械研究所2026年“追光之旅”暑期大学生夏令营招募通知",
+      "url": "https://mp.weixin.qq.com/s/s1cbDbIqLy4Co7TOhmE2Sw",
+      "deadline": "2026-06-20",
+      "expired": true,
+      "category": "理工类",
+      "tags": [
+        "研究院"
+      ],
+      "source": "shenyanpai",
+      "urgency": "expired",
+      "department": "中国科学院上海光学精密机械研究所",
+      "department_group": "电子/通信"
+    },
+    {
+      "school": "中国科学院",
+      "institute": "中国科学院遗传与发育生物学研究所2026年“筑梦科学”大学生夏令营活动",
+      "title": "2026年中国科学院遗传与发育生物学研究所2026年“筑梦科学”大学生夏令营活动报名通知",
+      "url": "https://genetics.cas.cn/edu/zsxx/xlytms/202604/t20260424_8190986.html",
+      "deadline": "2026-06-20",
+      "expired": true,
+      "category": "理工类",
+      "tags": [
+        "研究院"
+      ],
+      "source": "shenyanpai",
+      "urgency": "expired",
+      "department": "中国科学院遗传与发育生物学研究所",
+      "department_group": "生医/药学"
+    },
+    {
+      "school": "中国科学院",
+      "institute": "2026年中国科学院西北研究院2026年“相聚丝路兰州 共筑科学梦想”优秀大学生夏令营的",
+      "title": "2026年中国科学院西北研究院2026年“相聚丝路兰州 共筑科学梦想”优秀大学生夏令营的通知",
+      "url": "https://nieer.cas.cn/edu/kjjh/xly/202604/t20260423_8190291.html",
+      "deadline": "2026-06-20",
+      "expired": true,
+      "category": "理工类",
+      "tags": [
+        "研究院"
+      ],
+      "source": "shenyanpai",
+      "urgency": "expired",
+      "department": "中国科学院西北研究院",
+      "department_group": "地学/环境"
+    },
+    {
+      "school": "中国科学院",
+      "institute": "中国科学院高能物理研究所2026年全国大学生夏令营及暑期学校活动",
+      "title": "2026年中国科学院高能物理研究所2026年全国大学生夏令营及暑期学校活动报名通知",
+      "url": "https://ihep.cas.cn/edu/bks/xly/202604/t20260426_8191472.html",
+      "deadline": "2026-06-20",
+      "expired": true,
+      "category": "理工类",
+      "tags": [
+        "研究院"
+      ],
+      "source": "shenyanpai",
+      "urgency": "expired",
+      "department": "中国科学院高能物理研究所",
+      "department_group": "物理/天文"
+    },
+    {
+      "school": "中国科学院",
+      "institute": "2026年中国科学院长春光学精密机械与物理研究所2026年“溯光明理”夏令营邀请函",
+      "title": "2026年中国科学院长春光学精密机械与物理研究所2026年“溯光明理”夏令营邀请函",
+      "url": "https://mp.weixin.qq.com/s/CN-4u5YTKRMVPKT19jPWhQ",
+      "deadline": "2026-06-20",
+      "expired": true,
+      "category": "理工类",
+      "tags": [
+        "研究院"
+      ],
+      "source": "shenyanpai",
+      "urgency": "expired",
+      "department": "中国科学院长春光学精密机械与物理研究所",
+      "department_group": "电子/通信"
+    },
+    {
+      "school": "中国科学院",
+      "institute": "2026年中国科学院上海微系统与信息技术研究所2026年夏令营",
+      "title": "2026年中国科学院上海微系统与信息技术研究所2026年夏令营报名通知",
+      "url": "https://sim.cas.cn/yjs/zsxx/yjs_sszs/202604/t20260429_8194554.html",
+      "deadline": "2026-06-20",
+      "expired": true,
+      "category": "理工类",
+      "tags": [
+        "研究院"
+      ],
+      "source": "shenyanpai",
+      "urgency": "expired",
+      "department": "中国科学院上海微系统与信息技术研究所",
+      "department_group": "电子/通信"
+    },
+    {
+      "school": "中国科学院",
+      "institute": "中国科学院上海技术物理研究所“红外筑梦”优秀大学生夏令营",
+      "title": "2026年中国科学院上海技术物理研究所“红外筑梦”优秀大学生夏令营报名通知",
+      "url": "https://sitp.cas.cn/yjs/zsxx/ssszs/202605/t20260501_8195486.html",
+      "deadline": "2026-06-20",
+      "expired": true,
+      "category": "理工类",
+      "tags": [
+        "研究院"
+      ],
+      "source": "shenyanpai",
+      "urgency": "expired",
+      "department": "中国科学院上海技术物理研究所",
+      "department_group": "物理/天文"
+    },
+    {
+      "school": "中国科学院",
+      "institute": "中国科学院云南天文台2026年“七彩云南天文之旅”大学生夏令营活动",
+      "title": "2026年中国科学院云南天文台2026年“七彩云南天文之旅”大学生夏令营活动通知",
+      "url": "https://www.ynao.cas.cn/yjsjy/jydt/zs/202605/t20260509_8197882.html",
+      "deadline": "2026-06-20",
+      "expired": true,
+      "category": "理工类",
+      "tags": [
+        "研究院"
+      ],
+      "source": "shenyanpai",
+      "urgency": "expired",
+      "department": "中国科学院",
+      "department_group": "其他"
+    },
+    {
+      "school": "中国科学院",
+      "institute": "中国科学院昆明动物研究所2026年大学生夏令营",
+      "title": "2026年中国科学院昆明动物研究所2026年大学生夏令营报名公告",
+      "url": "http://www.kiz.cas.cn/yjsjy/tzgg/202605/t20260509_8198981.html",
+      "deadline": "2026-06-20",
+      "expired": true,
+      "category": "理工类",
+      "tags": [
+        "研究院"
+      ],
+      "source": "shenyanpai",
+      "urgency": "expired",
+      "department": "中国科学院昆明动物研究所",
+      "department_group": "生医/药学"
+    },
+    {
+      "school": "中国科学院",
+      "institute": "2026年中国科学院上海高等研究院2027研究生招生",
+      "title": "2026年中国科学院上海高等研究院2027研究生招生启动",
+      "url": "https://mp.weixin.qq.com/s/ptJjgtzc6FbmSViDG3qdAQ",
+      "deadline": "2026-06-20",
+      "expired": true,
+      "category": "理工类",
+      "tags": [
+        "研究院"
+      ],
+      "source": "shenyanpai",
+      "urgency": "expired",
+      "department": "中国科学院上海高等研究院",
+      "department_group": "交叉/创新创业"
+    },
+    {
+      "school": "中国科学院",
+      "institute": "中国科学院青藏高原研究所2026年度“第三极大学生科学夏令营”",
+      "title": "2026年中国科学院青藏高原研究所2026年度“第三极大学生科学夏令营”招募令",
+      "url": "http://www.itpcas.ac.cn/new_tzgg/new_qt/202605/t20260511_8199676.html",
+      "deadline": "2026-06-20",
+      "expired": true,
+      "category": "理工类",
+      "tags": [
+        "研究院"
+      ],
+      "source": "shenyanpai",
+      "urgency": "expired",
+      "department": "中国科学院青藏高原研究所",
+      "department_group": "地学/环境"
+    },
+    {
+      "school": "中国科学院",
+      "institute": "2026年中国科学院新疆生态与地理研究所2026年“探秘新疆 走进生地所”全国优秀大学生夏令营",
+      "title": "2026年中国科学院新疆生态与地理研究所2026年“探秘新疆 走进生地所”全国优秀大学生夏令营招募通知",
+      "url": "https://egi.cas.cn/yjsjy/zsxx/sszs/202605/t20260509_8198553.html",
+      "deadline": "2026-06-20",
+      "expired": true,
+      "category": "理工类",
+      "tags": [
+        "研究院"
+      ],
+      "source": "shenyanpai",
+      "urgency": "expired",
+      "department": "中国科学院新疆生态与地理研究所",
+      "department_group": "生医/药学"
+    },
+    {
+      "school": "中国科学院",
+      "institute": "2026年中国科学院分子植物科学卓越创新中心2026年“探索生命的多样性”暑期夏令营",
+      "title": "2026年中国科学院分子植物科学卓越创新中心2026年“探索生命的多样性”暑期夏令营报名通知",
+      "url": "http://www.sippe.ac.cn/jypy/yjspy/yjs_zsqk/202604/t20260414_8185538.html",
+      "deadline": "2026-06-20",
+      "expired": true,
+      "category": "理工类",
+      "tags": [
+        "研究院"
+      ],
+      "source": "shenyanpai",
+      "urgency": "expired",
+      "department": "中国科学院分子植物科学卓越创新中心",
+      "department_group": "生医/药学"
+    },
+    {
+      "school": "香港中文大学（深圳）",
+      "institute": "数据科学学院硕士研究生项目2026年优秀大学生迷你营及夏令营",
+      "title": "2026年香港中文大学（深圳）数据科学学院硕士研究生项目2026年优秀大学生迷你营及夏令营开放申请",
+      "url": "https://mp.weixin.qq.com/s/PlA3r0GmzvshCkNB1E3JFg",
+      "deadline": "2026-06-20",
+      "expired": true,
+      "category": "理工类",
+      "tags": [
+        "港澳"
+      ],
+      "source": "shenyanpai",
+      "urgency": "expired",
+      "department": "数据科学学院",
+      "department_group": "计算机"
+    },
+    {
+      "school": "浙江大学",
+      "institute": "浙江大学国际联合商学院ZIBS OPEN DAY暨优秀大学生夏令营申请正式开启",
+      "title": "2026年浙江大学国际联合商学院ZIBS OPEN DAY暨优秀大学生夏令营申请正式开启",
+      "url": "https://zibs.zju.edu.cn/2026/0529/c83662a3167800/page.htm",
+      "deadline": "2026-06-20",
+      "expired": true,
+      "category": "经管类",
+      "tags": [
+        "C9",
+        "华五",
+        "985",
+        "211"
+      ],
+      "source": "shenyanpai",
+      "urgency": "expired",
+      "department": "国际联合商学院",
+      "department_group": "经管/金融"
+    },
+    {
+      "school": "浙江大学",
+      "institute": "浙江大学经济学院经济学拔尖学生培养基地首期暑期学校的",
+      "title": "2026年浙江大学经济学院经济学拔尖学生培养基地首期暑期学校的报名通知",
+      "url": "https://mp.weixin.qq.com/s/wM0osf4N7AJYolZdyco8dQ?scene=1&click_id=912837394",
+      "deadline": "2026-06-20",
+      "expired": true,
+      "category": "经管类",
+      "tags": [
+        "C9",
+        "华五",
+        "985",
+        "211"
+      ],
+      "source": "shenyanpai",
+      "urgency": "expired",
+      "department": "经济学院",
+      "department_group": "经管/金融"
+    },
+    {
+      "school": "山东大学",
+      "institute": "山东大学哲学与社会发展学院第二届扬州文化书院“知行转进”古典学·哲学夏令营",
+      "title": "2026年山东大学哲学与社会发展学院第二届扬州文化书院“知行转进”古典学·哲学夏令营报名通知",
+      "url": "https://www.sps.sdu.edu.cn/info/1050/18626.htm",
+      "deadline": "2026-06-20",
+      "expired": true,
+      "category": "文法类",
+      "tags": [
+        "985",
+        "211"
+      ],
+      "source": "shenyanpai",
+      "urgency": "expired",
+      "department": "哲学与社会发展学院第二届扬州文化书院",
+      "department_group": "文法/社科"
+    },
+    {
+      "school": "吉林大学",
+      "institute": "吉林大学法学院2026年“建构中国法学自主知识体系”主题校园学术活动",
+      "title": "2026年吉林大学法学院2026年“建构中国法学自主知识体系”主题校园学术活动开放日招募通知",
+      "url": "https://law.jlu.edu.cn/info/1046/25338.htm",
+      "deadline": "2026-06-20",
+      "expired": true,
+      "category": "文法类",
+      "tags": [
+        "985",
+        "211"
+      ],
+      "source": "shenyanpai",
+      "urgency": "expired",
+      "department": "法学院",
+      "department_group": "文法/社科"
+    },
+    {
+      "school": "北京第二外国语学院",
+      "institute": "北京第二外国语学院日语学院日语语言文学与翻译（日语）专业/2026年优秀大学生夏令营招生简章（二号",
+      "title": "2026年北京第二外国语学院日语学院日语语言文学与翻译（日语）专业/2026年优秀大学生夏令营招生简章（二号通知）",
+      "url": "https://mp.weixin.qq.com/s/qcTaUWYJGoBXRC6FQCB2zw",
+      "deadline": "2026-06-20",
+      "expired": true,
+      "category": "文法类",
+      "tags": [
+        "双非"
+      ],
+      "source": "shenyanpai",
+      "urgency": "expired",
+      "department": "北京第二外国语学院日语学院",
+      "department_group": "文法/社科"
+    },
+    {
+      "school": "浙江大学",
+      "institute": "通知",
+      "title": "2026年浙江大学动物科学学院”印象西湖·相约浙大”暑期学校（短期项目）通知",
+      "url": "http://www.cas.zju.edu.cn/caschinese/2026/0604/c15939a3174884/page.htm",
+      "deadline": "2026-06-20",
+      "expired": true,
+      "category": "医农类",
+      "tags": [
+        "C9",
+        "华五",
+        "985",
+        "211"
+      ],
+      "source": "shenyanpai",
+      "urgency": "expired",
+      "department": "动物科学学院",
+      "department_group": "生医/药学"
+    },
+    {
+      "school": "北京协和医学院",
+      "institute": "北京协和医学院基础学院2026年全国优秀大学生暑期夏令营活动",
+      "title": "2026年北京协和医学院基础学院2026年全国优秀大学生暑期夏令营活动通知",
+      "url": "https://mp.weixin.qq.com/s/V8UyBYmWvF2AyzpGkLp6OQ?scene=1&click_id=284298398",
+      "deadline": "2026-06-20",
+      "expired": true,
+      "category": "医农类",
+      "tags": [
+        "双非"
+      ],
+      "source": "shenyanpai",
+      "urgency": "expired",
+      "department": "北京协和医学院基础学院",
+      "department_group": "生医/药学"
+    },
+    {
+      "school": "南方科技大学",
+      "institute": "南方科技大学生物医学工程系2026年全国优秀大学生夏季交流营",
+      "title": "2026年南方科技大学生物医学工程系2026年全国优秀大学生夏季交流营",
+      "url": "https://mp.weixin.qq.com/s/b-CGobgc5XqMEr7UTjtOfA",
+      "deadline": "2026-06-20",
+      "expired": true,
+      "category": "医农类",
+      "tags": [
+        "AI强校",
+        "双非"
+      ],
+      "source": "shenyanpai",
+      "urgency": "expired",
+      "department": "生物医学工程系",
       "department_group": "生医/药学"
     },
     {
