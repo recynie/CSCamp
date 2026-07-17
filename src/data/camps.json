@@ -1,146 +1,7 @@
 {
-  "updated_at": "2026-07-16T16:11:56.505052+08:00",
+  "updated_at": "2026-07-17T16:08:38.060080+08:00",
   "total": 1522,
   "camps": [
-    {
-      "school": "重庆大学",
-      "institute": "重庆大学生命科学学院2026年优秀大学生学术交流",
-      "title": "2026年重庆大学生命科学学院2026年优秀大学生学术交流开放周活动方案",
-      "url": "https://life.cqu.edu.cn/info/1157/6704.htm",
-      "deadline": "2026-07-16",
-      "expired": false,
-      "category": "理工类",
-      "tags": [
-        "985",
-        "211"
-      ],
-      "source": "shenyanpai",
-      "urgency": "critical",
-      "department": "生命科学学院",
-      "department_group": "生医/药学"
-    },
-    {
-      "school": "北京科技大学",
-      "institute": "北京科技大学未来城市学院",
-      "title": "2026年北京科技大学未来城市学院关于举办2026年优秀大学生夏令营的通知",
-      "url": "https://sfc.ustb.edu.cn/xwdt/tzgg/dfc9f7969bc540a8bc7760d674b4d4cf.htm",
-      "deadline": "2026-07-16",
-      "expired": false,
-      "category": "理工类",
-      "tags": [],
-      "source": "shenyanpai",
-      "urgency": "critical",
-      "department": "未来城市学院",
-      "department_group": "其他"
-    },
-    {
-      "school": "北京科技大学",
-      "institute": "北京科技大学冶金与生态工程学院",
-      "title": "2026年北京科技大学冶金与生态工程学院关于举办2026年优秀大学生夏令营的通知",
-      "url": "https://metall.ustb.edu.cn/zsjy/yjszs/11a47d878e5c4e669f0c1046ba87eaf5.htm",
-      "deadline": "2026-07-16",
-      "expired": false,
-      "category": "理工类",
-      "tags": [],
-      "source": "shenyanpai",
-      "urgency": "critical",
-      "department": "冶金与生态工程学院",
-      "department_group": "生医/药学"
-    },
-    {
-      "school": "西安建筑科技大学",
-      "institute": "西安建筑科技大学土木工程学院2027年优秀研究生生源选拔暑期夏令营",
-      "title": "2026年西安建筑科技大学土木工程学院2027年优秀研究生生源选拔暑期夏令营通知",
-      "url": "https://yzb.xauat.edu.cn/info/1020/8176.htm",
-      "deadline": "2026-07-16",
-      "expired": false,
-      "category": "理工类",
-      "tags": [],
-      "source": "shenyanpai",
-      "urgency": "critical",
-      "department": "土木工程学院",
-      "department_group": "建筑/土木"
-    },
-    {
-      "school": "复旦大学",
-      "institute": "复旦大学管理学院领创体验活动/博思推免考核最新申请日程公布",
-      "title": "2026年复旦大学管理学院领创体验活动/博思推免考核最新申请日程公布",
-      "url": "https://mp.weixin.qq.com/s/wxbS_grjJLfMCdNzk9Up6g?click_id=1409567600",
-      "deadline": "2026-07-16",
-      "expired": false,
-      "category": "经管类",
-      "tags": [
-        "C9",
-        "华五",
-        "985",
-        "211"
-      ],
-      "source": "shenyanpai",
-      "urgency": "critical",
-      "department": "管理学院",
-      "department_group": "物理/天文"
-    },
-    {
-      "school": "南京邮电大学",
-      "institute": "南京邮电大学管理学院2026年优秀大学生暑期夏令营",
-      "title": "2026年南京邮电大学管理学院2026年优秀大学生暑期夏令营通知",
-      "url": "https://bc.njupt.edu.cn/2026/0709/c9063a306275/page.htm",
-      "deadline": "2026-07-16",
-      "expired": false,
-      "category": "经管类",
-      "tags": [],
-      "source": "shenyanpai",
-      "urgency": "critical",
-      "department": "管理学院",
-      "department_group": "物理/天文"
-    },
-    {
-      "school": "上海交通大学",
-      "institute": "上海交通大学医学院附属新华医院",
-      "title": "2026年上海交通大学医学院附属新华医院关于举办2027年优秀本科生研习营活动的通知",
-      "url": "https://www.xinhuamed.com.cn/education/news-9940.html",
-      "deadline": "2026-07-16",
-      "expired": false,
-      "category": "医农类",
-      "tags": [
-        "C9",
-        "华五",
-        "985",
-        "211"
-      ],
-      "source": "shenyanpai",
-      "urgency": "critical",
-      "department": "医学院",
-      "department_group": "生医/药学"
-    },
-    {
-      "school": "首都医科大学",
-      "institute": "2026年全国优秀大学生暑期夏令营招生简章",
-      "title": "2026年首都医科大学第二临床医学院（附属北京友谊医院）2026年全国优秀大学生暑期夏令营招生简章",
-      "url": "https://yjsh.ccmu.edu.cn/docs//2026-07/8a675b7c33e24daf83fb50f309ee932a.pdf",
-      "deadline": "2026-07-16",
-      "expired": false,
-      "category": "医农类",
-      "tags": [],
-      "source": "shenyanpai",
-      "urgency": "critical",
-      "department": "第二临床医学院",
-      "department_group": "生医/药学"
-    },
-    {
-      "school": "南京医科大学",
-      "institute": "南京医科大学第二临床医学院",
-      "title": "2026年南京医科大学第二临床医学院关于组织“未来医学先锋” 2026年优苗实践创新营暨医院开放日活动的通知",
-      "url": "https://erlin.njmu.edu.cn/2026/0710/c7224a304483/page.htm",
-      "deadline": "2026-07-16",
-      "expired": false,
-      "category": "医农类",
-      "tags": [],
-      "source": "shenyanpai",
-      "urgency": "critical",
-      "department": "第二临床医学院",
-      "department_group": "生医/药学"
-    },
     {
       "school": "东南大学",
       "institute": "东南大学统计与数据科学学院2026年全国优秀大学生夏令营",
@@ -543,7 +404,7 @@
         "211"
       ],
       "source": "shenyanpai",
-      "urgency": "soon",
+      "urgency": "critical",
       "department": "上海交大-南加州大学文化创意产业学院",
       "department_group": "其他"
     },
@@ -562,7 +423,7 @@
         "211"
       ],
       "source": "shenyanpai",
-      "urgency": "soon",
+      "urgency": "critical",
       "department": "先进制造学院",
       "department_group": "机械/航空/能源"
     },
@@ -576,7 +437,7 @@
       "category": "理工类",
       "tags": [],
       "source": "shenyanpai",
-      "urgency": "soon",
+      "urgency": "critical",
       "department": "材料科学与化学工程学院",
       "department_group": "化学/材料"
     },
@@ -592,7 +453,7 @@
         "双非"
       ],
       "source": "shenyanpai",
-      "urgency": "soon",
+      "urgency": "critical",
       "department": "法学院",
       "department_group": "文法/社科"
     },
@@ -608,7 +469,7 @@
         "双非"
       ],
       "source": "shenyanpai",
-      "urgency": "soon",
+      "urgency": "critical",
       "department": "出版学院",
       "department_group": "其他"
     },
@@ -622,7 +483,7 @@
       "category": "医农类",
       "tags": [],
       "source": "shenyanpai",
-      "urgency": "soon",
+      "urgency": "critical",
       "department": "医学院第四临床学院",
       "department_group": "生医/药学"
     },
@@ -636,7 +497,7 @@
       "category": "医农类",
       "tags": [],
       "source": "shenyanpai",
-      "urgency": "soon",
+      "urgency": "critical",
       "department": "药学院",
       "department_group": "生医/药学"
     },
@@ -699,7 +560,7 @@
         "211"
       ],
       "source": "shenyanpai",
-      "urgency": "near",
+      "urgency": "soon",
       "department": "先进能源学院",
       "department_group": "机械/航空/能源"
     },
@@ -716,7 +577,7 @@
         "211"
       ],
       "source": "shenyanpai",
-      "urgency": "near",
+      "urgency": "soon",
       "department": "粉末冶金研究院",
       "department_group": "其他"
     },
@@ -733,7 +594,7 @@
         "211"
       ],
       "source": "shenyanpai",
-      "urgency": "near",
+      "urgency": "soon",
       "department": "理学院",
       "department_group": "物理/天文"
     },
@@ -1198,7 +1059,7 @@
         "211"
       ],
       "source": "shenyanpai",
-      "urgency": "far",
+      "urgency": "near",
       "department": "人工智能学院",
       "department_group": "计算机"
     },
@@ -1214,7 +1075,7 @@
         "211"
       ],
       "source": "shenyanpai",
-      "urgency": "far",
+      "urgency": "near",
       "department": "自动化学院",
       "department_group": "自动化/仪器"
     },
@@ -1230,7 +1091,7 @@
         "双非"
       ],
       "source": "boardcaster",
-      "urgency": "far",
+      "urgency": "near",
       "department": "研究生招生办公室",
       "department_group": "其他"
     },
@@ -1247,7 +1108,7 @@
         "211"
       ],
       "source": "boardcaster",
-      "urgency": "far",
+      "urgency": "near",
       "department": "自动化学院",
       "department_group": "自动化/仪器"
     },
@@ -24283,6 +24144,145 @@
       "urgency": "expired",
       "department": "中国农业科学院烟草研究所",
       "department_group": "农学/畜牧"
+    },
+    {
+      "school": "重庆大学",
+      "institute": "重庆大学生命科学学院2026年优秀大学生学术交流",
+      "title": "2026年重庆大学生命科学学院2026年优秀大学生学术交流开放周活动方案",
+      "url": "https://life.cqu.edu.cn/info/1157/6704.htm",
+      "deadline": "2026-07-16",
+      "expired": true,
+      "category": "理工类",
+      "tags": [
+        "985",
+        "211"
+      ],
+      "source": "shenyanpai",
+      "urgency": "expired",
+      "department": "生命科学学院",
+      "department_group": "生医/药学"
+    },
+    {
+      "school": "北京科技大学",
+      "institute": "北京科技大学未来城市学院",
+      "title": "2026年北京科技大学未来城市学院关于举办2026年优秀大学生夏令营的通知",
+      "url": "https://sfc.ustb.edu.cn/xwdt/tzgg/dfc9f7969bc540a8bc7760d674b4d4cf.htm",
+      "deadline": "2026-07-16",
+      "expired": true,
+      "category": "理工类",
+      "tags": [],
+      "source": "shenyanpai",
+      "urgency": "expired",
+      "department": "未来城市学院",
+      "department_group": "其他"
+    },
+    {
+      "school": "北京科技大学",
+      "institute": "北京科技大学冶金与生态工程学院",
+      "title": "2026年北京科技大学冶金与生态工程学院关于举办2026年优秀大学生夏令营的通知",
+      "url": "https://metall.ustb.edu.cn/zsjy/yjszs/11a47d878e5c4e669f0c1046ba87eaf5.htm",
+      "deadline": "2026-07-16",
+      "expired": true,
+      "category": "理工类",
+      "tags": [],
+      "source": "shenyanpai",
+      "urgency": "expired",
+      "department": "冶金与生态工程学院",
+      "department_group": "生医/药学"
+    },
+    {
+      "school": "西安建筑科技大学",
+      "institute": "西安建筑科技大学土木工程学院2027年优秀研究生生源选拔暑期夏令营",
+      "title": "2026年西安建筑科技大学土木工程学院2027年优秀研究生生源选拔暑期夏令营通知",
+      "url": "https://yzb.xauat.edu.cn/info/1020/8176.htm",
+      "deadline": "2026-07-16",
+      "expired": true,
+      "category": "理工类",
+      "tags": [],
+      "source": "shenyanpai",
+      "urgency": "expired",
+      "department": "土木工程学院",
+      "department_group": "建筑/土木"
+    },
+    {
+      "school": "复旦大学",
+      "institute": "复旦大学管理学院领创体验活动/博思推免考核最新申请日程公布",
+      "title": "2026年复旦大学管理学院领创体验活动/博思推免考核最新申请日程公布",
+      "url": "https://mp.weixin.qq.com/s/wxbS_grjJLfMCdNzk9Up6g?click_id=1409567600",
+      "deadline": "2026-07-16",
+      "expired": true,
+      "category": "经管类",
+      "tags": [
+        "C9",
+        "华五",
+        "985",
+        "211"
+      ],
+      "source": "shenyanpai",
+      "urgency": "expired",
+      "department": "管理学院",
+      "department_group": "物理/天文"
+    },
+    {
+      "school": "南京邮电大学",
+      "institute": "南京邮电大学管理学院2026年优秀大学生暑期夏令营",
+      "title": "2026年南京邮电大学管理学院2026年优秀大学生暑期夏令营通知",
+      "url": "https://bc.njupt.edu.cn/2026/0709/c9063a306275/page.htm",
+      "deadline": "2026-07-16",
+      "expired": true,
+      "category": "经管类",
+      "tags": [],
+      "source": "shenyanpai",
+      "urgency": "expired",
+      "department": "管理学院",
+      "department_group": "物理/天文"
+    },
+    {
+      "school": "上海交通大学",
+      "institute": "上海交通大学医学院附属新华医院",
+      "title": "2026年上海交通大学医学院附属新华医院关于举办2027年优秀本科生研习营活动的通知",
+      "url": "https://www.xinhuamed.com.cn/education/news-9940.html",
+      "deadline": "2026-07-16",
+      "expired": true,
+      "category": "医农类",
+      "tags": [
+        "C9",
+        "华五",
+        "985",
+        "211"
+      ],
+      "source": "shenyanpai",
+      "urgency": "expired",
+      "department": "医学院",
+      "department_group": "生医/药学"
+    },
+    {
+      "school": "首都医科大学",
+      "institute": "2026年全国优秀大学生暑期夏令营招生简章",
+      "title": "2026年首都医科大学第二临床医学院（附属北京友谊医院）2026年全国优秀大学生暑期夏令营招生简章",
+      "url": "https://yjsh.ccmu.edu.cn/docs//2026-07/8a675b7c33e24daf83fb50f309ee932a.pdf",
+      "deadline": "2026-07-16",
+      "expired": true,
+      "category": "医农类",
+      "tags": [],
+      "source": "shenyanpai",
+      "urgency": "expired",
+      "department": "第二临床医学院",
+      "department_group": "生医/药学"
+    },
+    {
+      "school": "南京医科大学",
+      "institute": "南京医科大学第二临床医学院",
+      "title": "2026年南京医科大学第二临床医学院关于组织“未来医学先锋” 2026年优苗实践创新营暨医院开放日活动的通知",
+      "url": "https://erlin.njmu.edu.cn/2026/0710/c7224a304483/page.htm",
+      "deadline": "2026-07-16",
+      "expired": true,
+      "category": "医农类",
+      "tags": [],
+      "source": "shenyanpai",
+      "urgency": "expired",
+      "department": "第二临床医学院",
+      "department_group": "生医/药学"
     },
     {
       "school": "清华大学",
