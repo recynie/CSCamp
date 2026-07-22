@@ -1,37 +1,7 @@
 {
-  "updated_at": "2026-07-21T16:27:03.964633+08:00",
+  "updated_at": "2026-07-22T16:27:36.539810+08:00",
   "total": 1522,
   "camps": [
-    {
-      "school": "长安大学",
-      "institute": "长安大学经济与管理学院2026年度线上学术",
-      "title": "2026年长安大学经济与管理学院2026年度线上学术开放日活动通知",
-      "url": "https://jgxy.chd.edu.cn/info/1041/4650.htm",
-      "deadline": "2026-07-21",
-      "expired": false,
-      "category": "经管类",
-      "tags": [],
-      "source": "shenyanpai",
-      "urgency": "critical",
-      "department": "经济与管理学院",
-      "department_group": "物理/天文"
-    },
-    {
-      "school": "中国科学院",
-      "institute": "自动化研究所",
-      "title": "中国科学院自动化研究所2026年推免面试（第一批）通知，面向自动化、计算机、智能科学、机器人等相关专业2027届本科生，接收推免硕士和直博申请；报名通过中国科学院大学招生信息网完成，第一批推免面试预计8月上旬线下进行。",
-      "url": "http://www.ia.cas.cn/yjsjy/zs/sszs/202606/t20260624_8232737.html",
-      "deadline": "2026-07-21",
-      "expired": false,
-      "category": "BoardCaster",
-      "tags": [
-        "研究院"
-      ],
-      "source": "boardcaster",
-      "urgency": "critical",
-      "department": "中国科学院自动化研究所",
-      "department_group": "自动化/仪器"
-    },
     {
       "school": "中国农业科学院",
       "institute": "中国农业科学院果树研究所",
@@ -109,7 +79,7 @@
       "category": "文法类",
       "tags": [],
       "source": "shenyanpai",
-      "urgency": "soon",
+      "urgency": "critical",
       "department": "国别和区域研究院",
       "department_group": "其他"
     },
@@ -24283,6 +24253,36 @@
       "urgency": "expired",
       "department": "药学院",
       "department_group": "生医/药学"
+    },
+    {
+      "school": "长安大学",
+      "institute": "长安大学经济与管理学院2026年度线上学术",
+      "title": "2026年长安大学经济与管理学院2026年度线上学术开放日活动通知",
+      "url": "https://jgxy.chd.edu.cn/info/1041/4650.htm",
+      "deadline": "2026-07-21",
+      "expired": true,
+      "category": "经管类",
+      "tags": [],
+      "source": "shenyanpai",
+      "urgency": "expired",
+      "department": "经济与管理学院",
+      "department_group": "物理/天文"
+    },
+    {
+      "school": "中国科学院",
+      "institute": "自动化研究所",
+      "title": "中国科学院自动化研究所2026年推免面试（第一批）通知，面向自动化、计算机、智能科学、机器人等相关专业2027届本科生，接收推免硕士和直博申请；报名通过中国科学院大学招生信息网完成，第一批推免面试预计8月上旬线下进行。",
+      "url": "http://www.ia.cas.cn/yjsjy/zs/sszs/202606/t20260624_8232737.html",
+      "deadline": "2026-07-21",
+      "expired": true,
+      "category": "BoardCaster",
+      "tags": [
+        "研究院"
+      ],
+      "source": "boardcaster",
+      "urgency": "expired",
+      "department": "中国科学院自动化研究所",
+      "department_group": "自动化/仪器"
     },
     {
       "school": "清华大学",
