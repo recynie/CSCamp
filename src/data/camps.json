@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-23T16:28:34.017056+08:00",
+  "updated_at": "2026-07-24T16:26:09.095758+08:00",
   "total": 1522,
   "camps": [
     {
@@ -514,7 +514,7 @@
         "211"
       ],
       "source": "shenyanpai",
-      "urgency": "near",
+      "urgency": "soon",
       "department": "人工智能学院",
       "department_group": "计算机"
     },
@@ -530,7 +530,7 @@
         "211"
       ],
       "source": "shenyanpai",
-      "urgency": "near",
+      "urgency": "soon",
       "department": "自动化学院",
       "department_group": "自动化/仪器"
     },
@@ -546,7 +546,7 @@
         "双非"
       ],
       "source": "boardcaster",
-      "urgency": "near",
+      "urgency": "soon",
       "department": "研究生招生办公室",
       "department_group": "其他"
     },
@@ -563,7 +563,7 @@
         "211"
       ],
       "source": "boardcaster",
-      "urgency": "near",
+      "urgency": "soon",
       "department": "自动化学院",
       "department_group": "自动化/仪器"
     },
