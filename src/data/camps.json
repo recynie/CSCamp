@@ -1,21 +1,7 @@
 {
-  "updated_at": "2026-07-25T16:05:03.847194+08:00",
+  "updated_at": "2026-07-26T16:24:49.131757+08:00",
   "total": 1551,
   "camps": [
-    {
-      "school": "北京语言大学",
-      "institute": "北京语言大学国别和区域研究院2026年全国优秀大学生夏令营活动",
-      "title": "2026年北京语言大学国别和区域研究院2026年全国优秀大学生夏令营活动通知",
-      "url": "https://mp.weixin.qq.com/s/S8Qo9eyy8X6EAhgxQHGh1Q",
-      "deadline": "2026-07-25",
-      "expired": false,
-      "category": "文法类",
-      "tags": [],
-      "source": "shenyanpai",
-      "urgency": "critical",
-      "department": "国别和区域研究院",
-      "department_group": "其他"
-    },
     {
       "school": "山东第一医科大学",
       "institute": "山东第一医科大学第一附属医院2026年优秀大学生暑期夏令营招生简章",
@@ -342,7 +328,7 @@
         "211"
       ],
       "source": "boardcaster",
-      "urgency": "soon",
+      "urgency": "critical",
       "department": "机器人与具身智能学院",
       "department_group": "计算机"
     },
@@ -558,7 +544,7 @@
       "category": "文法类",
       "tags": [],
       "source": "shenyanpai",
-      "urgency": "near",
+      "urgency": "soon",
       "department": "科学史高等研究院",
       "department_group": "交叉/创新创业"
     },
@@ -575,7 +561,7 @@
         "211"
       ],
       "source": "shenyanpai",
-      "urgency": "far",
+      "urgency": "near",
       "department": "公共外交学院、国家发展与安全研究院",
       "department_group": "其他"
     },
@@ -24771,6 +24757,20 @@
       "source": "boardcaster",
       "urgency": "expired",
       "department": "智能科学学院",
+      "department_group": "其他"
+    },
+    {
+      "school": "北京语言大学",
+      "institute": "北京语言大学国别和区域研究院2026年全国优秀大学生夏令营活动",
+      "title": "2026年北京语言大学国别和区域研究院2026年全国优秀大学生夏令营活动通知",
+      "url": "https://mp.weixin.qq.com/s/S8Qo9eyy8X6EAhgxQHGh1Q",
+      "deadline": "2026-07-25",
+      "expired": true,
+      "category": "文法类",
+      "tags": [],
+      "source": "shenyanpai",
+      "urgency": "expired",
+      "department": "国别和区域研究院",
       "department_group": "其他"
     },
     {
