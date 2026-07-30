@@ -1,21 +1,7 @@
 {
-  "updated_at": "2026-07-29T16:39:05.006290+08:00",
+  "updated_at": "2026-07-30T16:24:56.286035+08:00",
   "total": 1626,
   "camps": [
-    {
-      "school": "长安大学",
-      "institute": "长安大学机器人与具身智能学院2026年线上学术",
-      "title": "2026年长安大学机器人与具身智能学院2026年线上学术开放日通知",
-      "url": "https://ec.chd.edu.cn/info/1043/2892.htm",
-      "deadline": "2026-07-29",
-      "expired": false,
-      "category": "理工类",
-      "tags": [],
-      "source": "shenyanpai",
-      "urgency": "critical",
-      "department": "机器人与具身智能学院",
-      "department_group": "计算机"
-    },
     {
       "school": "中国科学技术大学",
       "institute": "中国科学技术大学环境科学与光电技术学院科学岛夏季科研训练营",
@@ -373,7 +359,7 @@
       "category": "文法类",
       "tags": [],
       "source": "shenyanpai",
-      "urgency": "soon",
+      "urgency": "critical",
       "department": "科学史高等研究院",
       "department_group": "交叉/创新创业"
     },
@@ -25883,6 +25869,20 @@
       "urgency": "expired",
       "department": "自动化系",
       "department_group": "自动化/仪器"
+    },
+    {
+      "school": "长安大学",
+      "institute": "长安大学机器人与具身智能学院2026年线上学术",
+      "title": "2026年长安大学机器人与具身智能学院2026年线上学术开放日通知",
+      "url": "https://ec.chd.edu.cn/info/1043/2892.htm",
+      "deadline": "2026-07-29",
+      "expired": true,
+      "category": "理工类",
+      "tags": [],
+      "source": "shenyanpai",
+      "urgency": "expired",
+      "department": "机器人与具身智能学院",
+      "department_group": "计算机"
     },
     {
       "school": "清华大学",
