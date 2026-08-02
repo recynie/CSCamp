@@ -1,40 +1,7 @@
 {
-  "updated_at": "2026-08-01T16:19:35.060733+08:00",
+  "updated_at": "2026-08-02T16:22:32.364320+08:00",
   "total": 1645,
   "camps": [
-    {
-      "school": "上海交通大学",
-      "institute": "上海交通大学医学院附属仁济医院2027年优秀本科生研习营",
-      "title": "2026年上海交通大学医学院附属仁济医院2027年优秀本科生研习营报名通知",
-      "url": "https://mp.weixin.qq.com/s/eiAHEXUYrt-SFrThAZeBNA",
-      "deadline": "2026-08-01",
-      "expired": false,
-      "category": "医农类",
-      "tags": [
-        "C9",
-        "华五",
-        "985",
-        "211"
-      ],
-      "source": "shenyanpai",
-      "urgency": "critical",
-      "department": "医学院",
-      "department_group": "生医/药学"
-    },
-    {
-      "school": "江西中医药大学",
-      "institute": "江西中医药大学附属医院儿科“2026年优秀大学生暑期夏令营”活动",
-      "title": "2026年江西中医药大学附属医院儿科“2026年优秀大学生暑期夏令营”活动通知",
-      "url": "https://mp.weixin.qq.com/s/L1f3663FWVxHG_jM8Y8JFA",
-      "deadline": "2026-08-01",
-      "expired": false,
-      "category": "医农类",
-      "tags": [],
-      "source": "shenyanpai",
-      "urgency": "critical",
-      "department": "江西中医药大学附属医院儿科“2026年优秀大学生暑期夏令营”活动",
-      "department_group": "生医/药学"
-    },
     {
       "school": "南京邮电大学",
       "institute": "南京邮电大学计算机学院软件学院网络空间安全学院江苏省研究生“边缘智能与网络安全”暑期学校招生简章",
@@ -123,7 +90,7 @@
         "211"
       ],
       "source": "shenyanpai",
-      "urgency": "near",
+      "urgency": "soon",
       "department": "公共外交学院、国家发展与安全研究院",
       "department_group": "其他"
     },
@@ -137,7 +104,7 @@
       "category": "文法类",
       "tags": [],
       "source": "shenyanpai",
-      "urgency": "near",
+      "urgency": "soon",
       "department": "人文与社会发展学院",
       "department_group": "文法/社科"
     },
@@ -485,7 +452,7 @@
       "category": "理工类",
       "tags": [],
       "source": "shenyanpai",
-      "urgency": "far",
+      "urgency": "near",
       "department": "统计与数学学院",
       "department_group": "数学/统计"
     },
@@ -499,7 +466,7 @@
       "category": "文法类",
       "tags": [],
       "source": "shenyanpai",
-      "urgency": "far",
+      "urgency": "near",
       "department": "知识产权学院",
       "department_group": "经管/金融"
     },
@@ -515,7 +482,7 @@
         "211"
       ],
       "source": "boardcaster",
-      "urgency": "far",
+      "urgency": "near",
       "department": "通信与信息工程学院",
       "department_group": "计算机"
     },
@@ -26161,6 +26128,39 @@
       "urgency": "expired",
       "department": "自动化学院",
       "department_group": "自动化/仪器"
+    },
+    {
+      "school": "上海交通大学",
+      "institute": "上海交通大学医学院附属仁济医院2027年优秀本科生研习营",
+      "title": "2026年上海交通大学医学院附属仁济医院2027年优秀本科生研习营报名通知",
+      "url": "https://mp.weixin.qq.com/s/eiAHEXUYrt-SFrThAZeBNA",
+      "deadline": "2026-08-01",
+      "expired": true,
+      "category": "医农类",
+      "tags": [
+        "C9",
+        "华五",
+        "985",
+        "211"
+      ],
+      "source": "shenyanpai",
+      "urgency": "expired",
+      "department": "医学院",
+      "department_group": "生医/药学"
+    },
+    {
+      "school": "江西中医药大学",
+      "institute": "江西中医药大学附属医院儿科“2026年优秀大学生暑期夏令营”活动",
+      "title": "2026年江西中医药大学附属医院儿科“2026年优秀大学生暑期夏令营”活动通知",
+      "url": "https://mp.weixin.qq.com/s/L1f3663FWVxHG_jM8Y8JFA",
+      "deadline": "2026-08-01",
+      "expired": true,
+      "category": "医农类",
+      "tags": [],
+      "source": "shenyanpai",
+      "urgency": "expired",
+      "department": "江西中医药大学附属医院儿科“2026年优秀大学生暑期夏令营”活动",
+      "department_group": "生医/药学"
     },
     {
       "school": "清华大学",
