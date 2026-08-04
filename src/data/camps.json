@@ -1,23 +1,7 @@
 {
-  "updated_at": "2026-08-03T17:42:07.219508+08:00",
+  "updated_at": "2026-08-04T16:34:42.093366+08:00",
   "total": 1645,
   "camps": [
-    {
-      "school": "暨南大学",
-      "institute": "暨南大学附属广州红十字会医院2026年全国优秀大学生夏令营活动",
-      "title": "2026年暨南大学附属广州红十字会医院2026年全国优秀大学生夏令营活动",
-      "url": "https://mp.weixin.qq.com/s/qOeBY7iq0Ugi7UXjEi0lUw",
-      "deadline": "2026-08-03",
-      "expired": false,
-      "category": "医农类",
-      "tags": [
-        "211"
-      ],
-      "source": "shenyanpai",
-      "urgency": "critical",
-      "department": "暨南大学附属广州红十字会医院2026年全国优秀大学生夏令营活动",
-      "department_group": "生医/药学"
-    },
     {
       "school": "中南大学",
       "institute": "中南大学冶金与环境学院",
@@ -31,7 +15,7 @@
         "211"
       ],
       "source": "shenyanpai",
-      "urgency": "soon",
+      "urgency": "critical",
       "department": "冶金与环境学院",
       "department_group": "地学/环境"
     },
@@ -45,7 +29,7 @@
       "category": "理工类",
       "tags": [],
       "source": "shenyanpai",
-      "urgency": "soon",
+      "urgency": "critical",
       "department": "智慧建筑与城乡规划学院",
       "department_group": "建筑/土木"
     },
@@ -26161,6 +26145,22 @@
       "urgency": "expired",
       "department": "科学史高等研究院",
       "department_group": "交叉/创新创业"
+    },
+    {
+      "school": "暨南大学",
+      "institute": "暨南大学附属广州红十字会医院2026年全国优秀大学生夏令营活动",
+      "title": "2026年暨南大学附属广州红十字会医院2026年全国优秀大学生夏令营活动",
+      "url": "https://mp.weixin.qq.com/s/qOeBY7iq0Ugi7UXjEi0lUw",
+      "deadline": "2026-08-03",
+      "expired": true,
+      "category": "医农类",
+      "tags": [
+        "211"
+      ],
+      "source": "shenyanpai",
+      "urgency": "expired",
+      "department": "暨南大学附属广州红十字会医院2026年全国优秀大学生夏令营活动",
+      "department_group": "生医/药学"
     },
     {
       "school": "清华大学",
