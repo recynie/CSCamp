@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-04T16:34:42.093366+08:00",
+  "updated_at": "2026-08-05T16:33:56.393259+08:00",
   "total": 1645,
   "camps": [
     {
@@ -201,7 +201,7 @@
         "211"
       ],
       "source": "shenyanpai",
-      "urgency": "near",
+      "urgency": "soon",
       "department": "物理学院",
       "department_group": "物理/天文"
     },
@@ -217,7 +217,7 @@
         "研究院"
       ],
       "source": "shenyanpai",
-      "urgency": "near",
+      "urgency": "soon",
       "department": "中国科学院沈阳自动化研究所",
       "department_group": "自动化/仪器"
     },
@@ -231,7 +231,7 @@
       "category": "经管类",
       "tags": [],
       "source": "shenyanpai",
-      "urgency": "near",
+      "urgency": "soon",
       "department": "管理学院",
       "department_group": "物理/天文"
     },
@@ -247,7 +247,7 @@
         "211"
       ],
       "source": "shenyanpai",
-      "urgency": "near",
+      "urgency": "soon",
       "department": "文学院",
       "department_group": "文法/社科"
     },
@@ -264,7 +264,7 @@
         "211"
       ],
       "source": "boardcaster",
-      "urgency": "near",
+      "urgency": "soon",
       "department": "计算机学院",
       "department_group": "计算机"
     },
@@ -280,7 +280,7 @@
         "211"
       ],
       "source": "boardcaster",
-      "urgency": "near",
+      "urgency": "soon",
       "department": "计算机与信息学院",
       "department_group": "计算机"
     },
