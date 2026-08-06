@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-05T16:33:56.393259+08:00",
+  "updated_at": "2026-08-06T16:34:01.212772+08:00",
   "total": 1645,
   "camps": [
     {
@@ -46,7 +46,7 @@
         "211"
       ],
       "source": "shenyanpai",
-      "urgency": "soon",
+      "urgency": "critical",
       "department": "公共外交学院、国家发展与安全研究院",
       "department_group": "其他"
     },
@@ -60,7 +60,7 @@
       "category": "文法类",
       "tags": [],
       "source": "shenyanpai",
-      "urgency": "soon",
+      "urgency": "critical",
       "department": "人文与社会发展学院",
       "department_group": "文法/社科"
     },
@@ -296,7 +296,7 @@
         "双非"
       ],
       "source": "shenyanpai",
-      "urgency": "near",
+      "urgency": "soon",
       "department": "第五附属医学院",
       "department_group": "生医/药学"
     },
@@ -312,7 +312,7 @@
         "双非"
       ],
       "source": "shenyanpai",
-      "urgency": "near",
+      "urgency": "soon",
       "department": "第五临床医学院",
       "department_group": "生医/药学"
     },
@@ -452,7 +452,7 @@
       "category": "理工类",
       "tags": [],
       "source": "shenyanpai",
-      "urgency": "far",
+      "urgency": "near",
       "department": "土木工程学院",
       "department_group": "建筑/土木"
     },
@@ -466,7 +466,7 @@
       "category": "文法类",
       "tags": [],
       "source": "shenyanpai",
-      "urgency": "far",
+      "urgency": "near",
       "department": "公共管理学院",
       "department_group": "物理/天文"
     },
