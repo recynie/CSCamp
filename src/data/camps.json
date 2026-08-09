@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-08T14:51:10.829712+08:00",
+  "updated_at": "2026-08-09T14:54:31.863230+08:00",
   "total": 1645,
   "camps": [
     {
@@ -170,7 +170,7 @@
         "211"
       ],
       "source": "shenyanpai",
-      "urgency": "soon",
+      "urgency": "critical",
       "department": "物理学院",
       "department_group": "物理/天文"
     },
@@ -186,7 +186,7 @@
         "研究院"
       ],
       "source": "shenyanpai",
-      "urgency": "soon",
+      "urgency": "critical",
       "department": "中国科学院沈阳自动化研究所",
       "department_group": "自动化/仪器"
     },
@@ -200,7 +200,7 @@
       "category": "经管类",
       "tags": [],
       "source": "shenyanpai",
-      "urgency": "soon",
+      "urgency": "critical",
       "department": "管理学院",
       "department_group": "物理/天文"
     },
@@ -216,7 +216,7 @@
         "211"
       ],
       "source": "shenyanpai",
-      "urgency": "soon",
+      "urgency": "critical",
       "department": "文学院",
       "department_group": "文法/社科"
     },
@@ -233,7 +233,7 @@
         "211"
       ],
       "source": "boardcaster",
-      "urgency": "soon",
+      "urgency": "critical",
       "department": "计算机学院",
       "department_group": "计算机"
     },
@@ -249,7 +249,7 @@
         "211"
       ],
       "source": "boardcaster",
-      "urgency": "soon",
+      "urgency": "critical",
       "department": "计算机与信息学院",
       "department_group": "计算机"
     },
@@ -377,7 +377,7 @@
       "category": "理工类",
       "tags": [],
       "source": "shenyanpai",
-      "urgency": "near",
+      "urgency": "soon",
       "department": "统计与数学学院",
       "department_group": "数学/统计"
     },
@@ -391,7 +391,7 @@
       "category": "文法类",
       "tags": [],
       "source": "shenyanpai",
-      "urgency": "near",
+      "urgency": "soon",
       "department": "知识产权学院",
       "department_group": "经管/金融"
     },
@@ -407,7 +407,7 @@
         "211"
       ],
       "source": "boardcaster",
-      "urgency": "near",
+      "urgency": "soon",
       "department": "通信与信息工程学院",
       "department_group": "计算机"
     },
@@ -484,7 +484,7 @@
         "211"
       ],
       "source": "shenyanpai",
-      "urgency": "far",
+      "urgency": "near",
       "department": "通信工程学院",
       "department_group": "电子/通信"
     },
@@ -501,7 +501,7 @@
         "211"
       ],
       "source": "boardcaster",
-      "urgency": "far",
+      "urgency": "near",
       "department": "上海自主智能无人系统科学中心",
       "department_group": "其他"
     },
@@ -518,7 +518,7 @@
         "211"
       ],
       "source": "boardcaster",
-      "urgency": "far",
+      "urgency": "near",
       "department": "集成电路学院",
       "department_group": "电子/通信"
     },
