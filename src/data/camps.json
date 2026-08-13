@@ -1,121 +1,7 @@
 {
-  "updated_at": "2026-08-12T15:22:54.208151+08:00",
+  "updated_at": "2026-08-13T15:24:54.359933+08:00",
   "total": 1666,
   "camps": [
-    {
-      "school": "南京理工大学",
-      "institute": "南京理工大学物理学院2026年校园",
-      "title": "2026年南京理工大学物理学院2026年校园开放日活动公告",
-      "url": "https://physics.njust.edu.cn/9a/dd/c18229a367325/page.htm",
-      "deadline": "2026-08-12",
-      "expired": false,
-      "category": "理工类",
-      "tags": [
-        "211"
-      ],
-      "source": "shenyanpai",
-      "urgency": "critical",
-      "department": "物理学院",
-      "department_group": "物理/天文"
-    },
-    {
-      "school": "中国科学院",
-      "institute": "中国科学院沈阳自动化研究所",
-      "title": "2026年中国科学院沈阳自动化研究所关于举办2026年“机智过人，智见未来”大学生暑期学校的通知",
-      "url": "https://sia.cas.cn/zpjy/yjsjy/zs/zsgg/202607/t20260731_8257579.html",
-      "deadline": "2026-08-12",
-      "expired": false,
-      "category": "理工类",
-      "tags": [
-        "研究院"
-      ],
-      "source": "shenyanpai",
-      "urgency": "critical",
-      "department": "中国科学院沈阳自动化研究所",
-      "department_group": "自动化/仪器"
-    },
-    {
-      "school": "广州大学",
-      "institute": "广州大学管理学院全国优秀大学生暑期夏令营",
-      "title": "2026年广州大学管理学院全国优秀大学生暑期夏令营",
-      "url": "https://mp.weixin.qq.com/s/p1jnFProlvDSQnSbunpAUQ",
-      "deadline": "2026-08-12",
-      "expired": false,
-      "category": "经管类",
-      "tags": [],
-      "source": "shenyanpai",
-      "urgency": "critical",
-      "department": "管理学院",
-      "department_group": "物理/天文"
-    },
-    {
-      "school": "上海大学",
-      "institute": "上海大学文学院活动通知  2026年政治学与国际事务专业全国优秀大学生夏令营",
-      "title": "2026年上海大学文学院活动通知  2026年政治学与国际事务专业全国优秀大学生夏令营报名通知",
-      "url": "https://mp.weixin.qq.com/s/uOqdQAfYB1f9M6lFzuMmZg",
-      "deadline": "2026-08-12",
-      "expired": false,
-      "category": "文法类",
-      "tags": [
-        "211"
-      ],
-      "source": "shenyanpai",
-      "urgency": "critical",
-      "department": "文学院",
-      "department_group": "文法/社科"
-    },
-    {
-      "school": "中山大学",
-      "institute": "计算机学院（推免研究生报名）",
-      "title": "中山大学计算机学院2027年接收推荐免试研究生报名，面向预计获得推免资格、对计算机学科研究具有浓厚兴趣的2027届优秀本科生，接收硕士研究生和直接攻读博士学位研究生。",
-      "url": "https://cse.sysu.edu.cn/article/3587",
-      "deadline": "2026-08-12",
-      "expired": false,
-      "category": "BoardCaster",
-      "tags": [
-        "985",
-        "211"
-      ],
-      "source": "boardcaster",
-      "urgency": "critical",
-      "department": "计算机学院",
-      "department_group": "计算机"
-    },
-    {
-      "school": "合肥工业大学",
-      "institute": "计算机与信息学院",
-      "title": "合肥工业大学计算机与信息学院2026年优秀大学生夏令营，拟于2026年8月25日至26日线上举办，面向计算机、电子信息及相关专业2027届优秀本科生，活动包括学院和学科介绍、学术报告及师生交流，本次活动不组织选拔性考试。",
-      "url": "https://ci.hfut.edu.cn/info/1063/16556.htm",
-      "deadline": "2026-08-12",
-      "expired": false,
-      "category": "BoardCaster",
-      "tags": [
-        "211"
-      ],
-      "source": "boardcaster",
-      "urgency": "critical",
-      "department": "计算机与信息学院",
-      "department_group": "计算机"
-    },
-    {
-      "school": "南京大学",
-      "institute": "计算机学院（推免预报名）",
-      "title": "南京大学计算机学院2027年接收推荐免试研究生预报名，招生方向包括计算机科学与技术、软件工程、网络空间安全和电子信息等，接收专业学位硕士、学术学位直博和专业学位直博申请。",
-      "url": "https://cs.nju.edu.cn/d4/59/c1702a840793/page.htm",
-      "deadline": "2026-08-12",
-      "expired": false,
-      "category": "BoardCaster",
-      "tags": [
-        "C9",
-        "华五",
-        "985",
-        "211"
-      ],
-      "source": "boardcaster",
-      "urgency": "critical",
-      "department": "计算机学院",
-      "department_group": "计算机"
-    },
     {
       "school": "安徽医科大学",
       "institute": "安徽医科大学第五附属医学院2026年全国优秀大学生暑期夏令营招生",
@@ -259,7 +145,7 @@
       "category": "理工类",
       "tags": [],
       "source": "shenyanpai",
-      "urgency": "soon",
+      "urgency": "critical",
       "department": "统计与数学学院",
       "department_group": "数学/统计"
     },
@@ -273,7 +159,7 @@
       "category": "文法类",
       "tags": [],
       "source": "shenyanpai",
-      "urgency": "soon",
+      "urgency": "critical",
       "department": "知识产权学院",
       "department_group": "经管/金融"
     },
@@ -289,7 +175,7 @@
         "211"
       ],
       "source": "boardcaster",
-      "urgency": "soon",
+      "urgency": "critical",
       "department": "通信与信息工程学院",
       "department_group": "计算机"
     },
@@ -306,7 +192,7 @@
         "211"
       ],
       "source": "boardcaster",
-      "urgency": "soon",
+      "urgency": "critical",
       "department": "国家卓越工程师学院",
       "department_group": "交叉/创新创业"
     },
@@ -358,7 +244,7 @@
       "category": "理工类",
       "tags": [],
       "source": "shenyanpai",
-      "urgency": "near",
+      "urgency": "soon",
       "department": "土木工程学院",
       "department_group": "建筑/土木"
     },
@@ -372,7 +258,7 @@
       "category": "文法类",
       "tags": [],
       "source": "shenyanpai",
-      "urgency": "near",
+      "urgency": "soon",
       "department": "公共管理学院",
       "department_group": "物理/天文"
     },
@@ -389,7 +275,7 @@
         "211"
       ],
       "source": "boardcaster",
-      "urgency": "near",
+      "urgency": "soon",
       "department": "软件工程学院",
       "department_group": "计算机"
     },
@@ -26530,6 +26416,120 @@
       "source": "boardcaster",
       "urgency": "expired",
       "department": "类脑智能科学与技术研究院",
+      "department_group": "计算机"
+    },
+    {
+      "school": "南京理工大学",
+      "institute": "南京理工大学物理学院2026年校园",
+      "title": "2026年南京理工大学物理学院2026年校园开放日活动公告",
+      "url": "https://physics.njust.edu.cn/9a/dd/c18229a367325/page.htm",
+      "deadline": "2026-08-12",
+      "expired": true,
+      "category": "理工类",
+      "tags": [
+        "211"
+      ],
+      "source": "shenyanpai",
+      "urgency": "expired",
+      "department": "物理学院",
+      "department_group": "物理/天文"
+    },
+    {
+      "school": "中国科学院",
+      "institute": "中国科学院沈阳自动化研究所",
+      "title": "2026年中国科学院沈阳自动化研究所关于举办2026年“机智过人，智见未来”大学生暑期学校的通知",
+      "url": "https://sia.cas.cn/zpjy/yjsjy/zs/zsgg/202607/t20260731_8257579.html",
+      "deadline": "2026-08-12",
+      "expired": true,
+      "category": "理工类",
+      "tags": [
+        "研究院"
+      ],
+      "source": "shenyanpai",
+      "urgency": "expired",
+      "department": "中国科学院沈阳自动化研究所",
+      "department_group": "自动化/仪器"
+    },
+    {
+      "school": "广州大学",
+      "institute": "广州大学管理学院全国优秀大学生暑期夏令营",
+      "title": "2026年广州大学管理学院全国优秀大学生暑期夏令营",
+      "url": "https://mp.weixin.qq.com/s/p1jnFProlvDSQnSbunpAUQ",
+      "deadline": "2026-08-12",
+      "expired": true,
+      "category": "经管类",
+      "tags": [],
+      "source": "shenyanpai",
+      "urgency": "expired",
+      "department": "管理学院",
+      "department_group": "物理/天文"
+    },
+    {
+      "school": "上海大学",
+      "institute": "上海大学文学院活动通知  2026年政治学与国际事务专业全国优秀大学生夏令营",
+      "title": "2026年上海大学文学院活动通知  2026年政治学与国际事务专业全国优秀大学生夏令营报名通知",
+      "url": "https://mp.weixin.qq.com/s/uOqdQAfYB1f9M6lFzuMmZg",
+      "deadline": "2026-08-12",
+      "expired": true,
+      "category": "文法类",
+      "tags": [
+        "211"
+      ],
+      "source": "shenyanpai",
+      "urgency": "expired",
+      "department": "文学院",
+      "department_group": "文法/社科"
+    },
+    {
+      "school": "中山大学",
+      "institute": "计算机学院（推免研究生报名）",
+      "title": "中山大学计算机学院2027年接收推荐免试研究生报名，面向预计获得推免资格、对计算机学科研究具有浓厚兴趣的2027届优秀本科生，接收硕士研究生和直接攻读博士学位研究生。",
+      "url": "https://cse.sysu.edu.cn/article/3587",
+      "deadline": "2026-08-12",
+      "expired": true,
+      "category": "BoardCaster",
+      "tags": [
+        "985",
+        "211"
+      ],
+      "source": "boardcaster",
+      "urgency": "expired",
+      "department": "计算机学院",
+      "department_group": "计算机"
+    },
+    {
+      "school": "合肥工业大学",
+      "institute": "计算机与信息学院",
+      "title": "合肥工业大学计算机与信息学院2026年优秀大学生夏令营，拟于2026年8月25日至26日线上举办，面向计算机、电子信息及相关专业2027届优秀本科生，活动包括学院和学科介绍、学术报告及师生交流，本次活动不组织选拔性考试。",
+      "url": "https://ci.hfut.edu.cn/info/1063/16556.htm",
+      "deadline": "2026-08-12",
+      "expired": true,
+      "category": "BoardCaster",
+      "tags": [
+        "211"
+      ],
+      "source": "boardcaster",
+      "urgency": "expired",
+      "department": "计算机与信息学院",
+      "department_group": "计算机"
+    },
+    {
+      "school": "南京大学",
+      "institute": "计算机学院（推免预报名）",
+      "title": "南京大学计算机学院2027年接收推荐免试研究生预报名，招生方向包括计算机科学与技术、软件工程、网络空间安全和电子信息等，接收专业学位硕士、学术学位直博和专业学位直博申请。",
+      "url": "https://cs.nju.edu.cn/d4/59/c1702a840793/page.htm",
+      "deadline": "2026-08-12",
+      "expired": true,
+      "category": "BoardCaster",
+      "tags": [
+        "C9",
+        "华五",
+        "985",
+        "211"
+      ],
+      "source": "boardcaster",
+      "urgency": "expired",
+      "department": "计算机学院",
       "department_group": "计算机"
     },
     {
