@@ -1,39 +1,7 @@
 {
-  "updated_at": "2026-08-13T15:24:54.359933+08:00",
+  "updated_at": "2026-08-14T15:22:32.912575+08:00",
   "total": 1666,
   "camps": [
-    {
-      "school": "安徽医科大学",
-      "institute": "安徽医科大学第五附属医学院2026年全国优秀大学生暑期夏令营招生",
-      "title": "2026年安徽医科大学第五附属医学院2026年全国优秀大学生暑期夏令营招生通知",
-      "url": "https://mp.weixin.qq.com/s/YnxwfrR3A4RqLQql-g423g",
-      "deadline": "2026-08-13",
-      "expired": false,
-      "category": "医农类",
-      "tags": [
-        "双非"
-      ],
-      "source": "shenyanpai",
-      "urgency": "critical",
-      "department": "第五附属医学院",
-      "department_group": "生医/药学"
-    },
-    {
-      "school": "安徽医科大学",
-      "institute": "优硕汇聚计划2026年全国优秀大学生暑期夏令营招生",
-      "title": "2026年安徽医科大学第五临床医学院（第五附属医院）优硕汇聚计划2026年全国优秀大学生暑期夏令营招生通知",
-      "url": "https://mp.weixin.qq.com/s/_eHfXhczQkwVzHmtXFp-yg",
-      "deadline": "2026-08-13",
-      "expired": false,
-      "category": "医农类",
-      "tags": [
-        "双非"
-      ],
-      "source": "shenyanpai",
-      "urgency": "critical",
-      "department": "第五临床医学院",
-      "department_group": "生医/药学"
-    },
     {
       "school": "南京理工大学",
       "institute": "南京理工大学电子工程与光电技术学院2026年校园",
@@ -211,7 +179,7 @@
         "211"
       ],
       "source": "boardcaster",
-      "urgency": "soon",
+      "urgency": "critical",
       "department": "软件学院",
       "department_group": "计算机"
     },
@@ -291,7 +259,7 @@
         "211"
       ],
       "source": "boardcaster",
-      "urgency": "near",
+      "urgency": "soon",
       "department": "计算机与人工智能学院",
       "department_group": "计算机"
     },
@@ -458,7 +426,7 @@
       "category": "理工类",
       "tags": [],
       "source": "shenyanpai",
-      "urgency": "far",
+      "urgency": "near",
       "department": "环境与资源学院",
       "department_group": "地学/环境"
     },
@@ -472,7 +440,7 @@
       "category": "经管类",
       "tags": [],
       "source": "shenyanpai",
-      "urgency": "far",
+      "urgency": "near",
       "department": "工商管理学院",
       "department_group": "物理/天文"
     },
@@ -26531,6 +26499,38 @@
       "urgency": "expired",
       "department": "计算机学院",
       "department_group": "计算机"
+    },
+    {
+      "school": "安徽医科大学",
+      "institute": "安徽医科大学第五附属医学院2026年全国优秀大学生暑期夏令营招生",
+      "title": "2026年安徽医科大学第五附属医学院2026年全国优秀大学生暑期夏令营招生通知",
+      "url": "https://mp.weixin.qq.com/s/YnxwfrR3A4RqLQql-g423g",
+      "deadline": "2026-08-13",
+      "expired": true,
+      "category": "医农类",
+      "tags": [
+        "双非"
+      ],
+      "source": "shenyanpai",
+      "urgency": "expired",
+      "department": "第五附属医学院",
+      "department_group": "生医/药学"
+    },
+    {
+      "school": "安徽医科大学",
+      "institute": "优硕汇聚计划2026年全国优秀大学生暑期夏令营招生",
+      "title": "2026年安徽医科大学第五临床医学院（第五附属医院）优硕汇聚计划2026年全国优秀大学生暑期夏令营招生通知",
+      "url": "https://mp.weixin.qq.com/s/_eHfXhczQkwVzHmtXFp-yg",
+      "deadline": "2026-08-13",
+      "expired": true,
+      "category": "医农类",
+      "tags": [
+        "双非"
+      ],
+      "source": "shenyanpai",
+      "urgency": "expired",
+      "department": "第五临床医学院",
+      "department_group": "生医/药学"
     },
     {
       "school": "清华大学",
