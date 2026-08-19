@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-18T14:40:24.687608+08:00",
+  "updated_at": "2026-08-19T14:41:02.078071+08:00",
   "total": 1684,
   "camps": [
     {
@@ -108,7 +108,7 @@
         "211"
       ],
       "source": "boardcaster",
-      "urgency": "soon",
+      "urgency": "critical",
       "department": "人工智能学院",
       "department_group": "计算机"
     },
@@ -259,7 +259,7 @@
         "211"
       ],
       "source": "boardcaster",
-      "urgency": "near",
+      "urgency": "soon",
       "department": "网络空间安全学院",
       "department_group": "计算机"
     },
@@ -456,7 +456,7 @@
         "211"
       ],
       "source": "boardcaster",
-      "urgency": "far",
+      "urgency": "near",
       "department": "智能科学与技术学院",
       "department_group": "计算机"
     },
@@ -473,7 +473,7 @@
         "211"
       ],
       "source": "boardcaster",
-      "urgency": "far",
+      "urgency": "near",
       "department": "人工智能研究院",
       "department_group": "计算机"
     },
@@ -489,7 +489,7 @@
         "研究院"
       ],
       "source": "boardcaster",
-      "urgency": "far",
+      "urgency": "near",
       "department": "中国科学院计算机网络信息中心",
       "department_group": "计算机"
     },
