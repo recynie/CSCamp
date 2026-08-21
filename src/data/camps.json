@@ -1,66 +1,7 @@
 {
-  "updated_at": "2026-08-20T14:42:17.126447+08:00",
+  "updated_at": "2026-08-21T14:43:21.766675+08:00",
   "total": 1684,
   "camps": [
-    {
-      "school": "南京林业大学",
-      "institute": "南京林业大学土木工程学院优秀大学生夏令营招生简章",
-      "title": "2026年南京林业大学土木工程学院优秀大学生夏令营招生简章",
-      "url": "https://mp.weixin.qq.com/s/pdx0AyNFAG0pO53Okk8z4A",
-      "deadline": "2026-08-20",
-      "expired": false,
-      "category": "理工类",
-      "tags": [],
-      "source": "shenyanpai",
-      "urgency": "critical",
-      "department": "土木工程学院",
-      "department_group": "建筑/土木"
-    },
-    {
-      "school": "中南财经政法大学",
-      "institute": "中南财经政法大学公共管理学院",
-      "title": "2026年中南财经政法大学公共管理学院关于举办2026年度“公管优才”优秀本科生研招校园开放日研学活动的通知",
-      "url": "https://mp.weixin.qq.com/s/E4G4DYt29n7KhSClI3_VYg",
-      "deadline": "2026-08-20",
-      "expired": false,
-      "category": "文法类",
-      "tags": [],
-      "source": "shenyanpai",
-      "urgency": "critical",
-      "department": "公共管理学院",
-      "department_group": "物理/天文"
-    },
-    {
-      "school": "中南财经政法大学",
-      "institute": "中南财经政法大学国际法学院",
-      "title": "2026年中南财经政法大学国际法学院关于举办2026年“优秀本科生研招校园开放日研学活动”的通知",
-      "url": "https://sil.zuel.edu.cn/2026/0722/c17137a436409/page.htm",
-      "deadline": "2026-08-20",
-      "expired": false,
-      "category": "文法类",
-      "tags": [],
-      "source": "shenyanpai",
-      "urgency": "critical",
-      "department": "国际法学院",
-      "department_group": "文法/社科"
-    },
-    {
-      "school": "中山大学",
-      "institute": "软件工程学院（推免研究生报名）",
-      "title": "中山大学软件工程学院2027年接收推荐免试研究生报名，接收推免硕士和直接攻读博士学位研究生，复试采用线下机试与面试相结合的方式，机试成绩供面试评委参考。",
-      "url": "https://mp.weixin.qq.com/s/eZic4iBU1Geb0LEakK_BjQ",
-      "deadline": "2026-08-20",
-      "expired": false,
-      "category": "BoardCaster",
-      "tags": [
-        "985",
-        "211"
-      ],
-      "source": "boardcaster",
-      "urgency": "critical",
-      "department": "软件工程学院",
-      "department_group": "计算机"
-    },
     {
       "school": "上海财经大学",
       "institute": "计算机与人工智能学院（推免研究生预报名）",
@@ -157,7 +98,7 @@
         "211"
       ],
       "source": "shenyanpai",
-      "urgency": "soon",
+      "urgency": "critical",
       "department": "公共卫生学院",
       "department_group": "生医/药学"
     },
@@ -254,7 +195,7 @@
       "category": "理工类",
       "tags": [],
       "source": "shenyanpai",
-      "urgency": "near",
+      "urgency": "soon",
       "department": "环境与资源学院",
       "department_group": "地学/环境"
     },
@@ -268,7 +209,7 @@
       "category": "经管类",
       "tags": [],
       "source": "shenyanpai",
-      "urgency": "near",
+      "urgency": "soon",
       "department": "工商管理学院",
       "department_group": "物理/天文"
     },
@@ -26762,6 +26703,65 @@
       "source": "boardcaster",
       "urgency": "expired",
       "department": "智能软件与工程学院",
+      "department_group": "计算机"
+    },
+    {
+      "school": "南京林业大学",
+      "institute": "南京林业大学土木工程学院优秀大学生夏令营招生简章",
+      "title": "2026年南京林业大学土木工程学院优秀大学生夏令营招生简章",
+      "url": "https://mp.weixin.qq.com/s/pdx0AyNFAG0pO53Okk8z4A",
+      "deadline": "2026-08-20",
+      "expired": true,
+      "category": "理工类",
+      "tags": [],
+      "source": "shenyanpai",
+      "urgency": "expired",
+      "department": "土木工程学院",
+      "department_group": "建筑/土木"
+    },
+    {
+      "school": "中南财经政法大学",
+      "institute": "中南财经政法大学公共管理学院",
+      "title": "2026年中南财经政法大学公共管理学院关于举办2026年度“公管优才”优秀本科生研招校园开放日研学活动的通知",
+      "url": "https://mp.weixin.qq.com/s/E4G4DYt29n7KhSClI3_VYg",
+      "deadline": "2026-08-20",
+      "expired": true,
+      "category": "文法类",
+      "tags": [],
+      "source": "shenyanpai",
+      "urgency": "expired",
+      "department": "公共管理学院",
+      "department_group": "物理/天文"
+    },
+    {
+      "school": "中南财经政法大学",
+      "institute": "中南财经政法大学国际法学院",
+      "title": "2026年中南财经政法大学国际法学院关于举办2026年“优秀本科生研招校园开放日研学活动”的通知",
+      "url": "https://sil.zuel.edu.cn/2026/0722/c17137a436409/page.htm",
+      "deadline": "2026-08-20",
+      "expired": true,
+      "category": "文法类",
+      "tags": [],
+      "source": "shenyanpai",
+      "urgency": "expired",
+      "department": "国际法学院",
+      "department_group": "文法/社科"
+    },
+    {
+      "school": "中山大学",
+      "institute": "软件工程学院（推免研究生报名）",
+      "title": "中山大学软件工程学院2027年接收推荐免试研究生报名，接收推免硕士和直接攻读博士学位研究生，复试采用线下机试与面试相结合的方式，机试成绩供面试评委参考。",
+      "url": "https://mp.weixin.qq.com/s/eZic4iBU1Geb0LEakK_BjQ",
+      "deadline": "2026-08-20",
+      "expired": true,
+      "category": "BoardCaster",
+      "tags": [
+        "985",
+        "211"
+      ],
+      "source": "boardcaster",
+      "urgency": "expired",
+      "department": "软件工程学院",
       "department_group": "计算机"
     },
     {
