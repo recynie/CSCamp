@@ -1,23 +1,7 @@
 {
-  "updated_at": "2026-08-21T14:43:21.766675+08:00",
+  "updated_at": "2026-08-22T14:37:40.985720+08:00",
   "total": 1684,
   "camps": [
-    {
-      "school": "上海财经大学",
-      "institute": "计算机与人工智能学院（推免研究生预报名）",
-      "title": "上海财经大学计算机与人工智能学院2027年接收推荐免试研究生（含直博生）预报名，面向外校和本校外院2027届本科生，主要招收软件工程学术型硕士，以及管理科学与工程人工智能技术与应用方向的直接攻博和硕博连读项目，复试考核预计于9月举行。",
-      "url": "https://mp.weixin.qq.com/s/mnZWvB8mSItZ8zvW5KgkNg",
-      "deadline": "2026-08-21",
-      "expired": false,
-      "category": "BoardCaster",
-      "tags": [
-        "211"
-      ],
-      "source": "boardcaster",
-      "urgency": "critical",
-      "department": "计算机与人工智能学院",
-      "department_group": "计算机"
-    },
     {
       "school": "中国药科大学",
       "institute": "人工智能学院（推免预报名）",
@@ -112,7 +96,7 @@
       "category": "医农类",
       "tags": [],
       "source": "shenyanpai",
-      "urgency": "soon",
+      "urgency": "critical",
       "department": "气功科学研究所",
       "department_group": "其他"
     },
@@ -129,7 +113,7 @@
         "211"
       ],
       "source": "boardcaster",
-      "urgency": "soon",
+      "urgency": "critical",
       "department": "计算机科学与技术学院",
       "department_group": "计算机"
     },
@@ -147,7 +131,7 @@
         "211"
       ],
       "source": "boardcaster",
-      "urgency": "soon",
+      "urgency": "critical",
       "department": "计算学部",
       "department_group": "计算机"
     },
@@ -164,7 +148,7 @@
         "211"
       ],
       "source": "boardcaster",
-      "urgency": "soon",
+      "urgency": "critical",
       "department": "人工智能学院",
       "department_group": "计算机"
     },
@@ -223,7 +207,7 @@
       "category": "理工类",
       "tags": [],
       "source": "shenyanpai",
-      "urgency": "near",
+      "urgency": "soon",
       "department": "海洋学院",
       "department_group": "地学/环境"
     },
@@ -237,7 +221,7 @@
       "category": "理工类",
       "tags": [],
       "source": "shenyanpai",
-      "urgency": "near",
+      "urgency": "soon",
       "department": "海洋学院",
       "department_group": "地学/环境"
     },
@@ -441,7 +425,7 @@
       "category": "理工类",
       "tags": [],
       "source": "shenyanpai",
-      "urgency": "far",
+      "urgency": "near",
       "department": "信息工程学院",
       "department_group": "计算机"
     },
@@ -455,7 +439,7 @@
       "category": "经管类",
       "tags": [],
       "source": "shenyanpai",
-      "urgency": "far",
+      "urgency": "near",
       "department": "经济学院",
       "department_group": "经管/金融"
     },
@@ -472,7 +456,7 @@
         "211"
       ],
       "source": "boardcaster",
-      "urgency": "far",
+      "urgency": "near",
       "department": "计算机科学与技术学院",
       "department_group": "计算机"
     },
@@ -26762,6 +26746,22 @@
       "source": "boardcaster",
       "urgency": "expired",
       "department": "软件工程学院",
+      "department_group": "计算机"
+    },
+    {
+      "school": "上海财经大学",
+      "institute": "计算机与人工智能学院（推免研究生预报名）",
+      "title": "上海财经大学计算机与人工智能学院2027年接收推荐免试研究生（含直博生）预报名，面向外校和本校外院2027届本科生，主要招收软件工程学术型硕士，以及管理科学与工程人工智能技术与应用方向的直接攻博和硕博连读项目，复试考核预计于9月举行。",
+      "url": "https://mp.weixin.qq.com/s/mnZWvB8mSItZ8zvW5KgkNg",
+      "deadline": "2026-08-21",
+      "expired": true,
+      "category": "BoardCaster",
+      "tags": [
+        "211"
+      ],
+      "source": "boardcaster",
+      "urgency": "expired",
+      "department": "计算机与人工智能学院",
       "department_group": "计算机"
     },
     {
