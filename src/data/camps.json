@@ -1,23 +1,7 @@
 {
-  "updated_at": "2026-08-22T14:37:40.985720+08:00",
+  "updated_at": "2026-08-23T14:38:24.183875+08:00",
   "total": 1684,
   "camps": [
-    {
-      "school": "中国药科大学",
-      "institute": "人工智能学院（推免预报名）",
-      "title": "中国药科大学人工智能学院2027级推免生（含直博生）预报名，招生方向包括医药大数据与人工智能、公共卫生、人工智能药学、生物与医药和应用统计，活动拟于2026年8月28日至30日线下举行。",
-      "url": "https://lxy.cpu.edu.cn/b3/7a/c56a242554/page.htm",
-      "deadline": "2026-08-22",
-      "expired": false,
-      "category": "BoardCaster",
-      "tags": [
-        "211"
-      ],
-      "source": "boardcaster",
-      "urgency": "critical",
-      "department": "人工智能学院",
-      "department_group": "计算机"
-    },
     {
       "school": "吉林大学",
       "institute": "吉林大学通信工程学院2026年校园学术活动",
@@ -165,7 +149,7 @@
         "211"
       ],
       "source": "boardcaster",
-      "urgency": "soon",
+      "urgency": "critical",
       "department": "网络空间安全学院",
       "department_group": "计算机"
     },
@@ -235,7 +219,7 @@
       "category": "文法类",
       "tags": [],
       "source": "shenyanpai",
-      "urgency": "near",
+      "urgency": "soon",
       "department": "哲学院",
       "department_group": "文法/社科"
     },
@@ -249,7 +233,7 @@
       "category": "文法类",
       "tags": [],
       "source": "shenyanpai",
-      "urgency": "near",
+      "urgency": "soon",
       "department": "法学院（法律专业学位教育中心",
       "department_group": "文法/社科"
     },
@@ -473,7 +457,7 @@
         "211"
       ],
       "source": "boardcaster",
-      "urgency": "far",
+      "urgency": "near",
       "department": "软件学院",
       "department_group": "计算机"
     },
@@ -491,7 +475,7 @@
         "211"
       ],
       "source": "boardcaster",
-      "urgency": "far",
+      "urgency": "near",
       "department": "电子与信息工程学院",
       "department_group": "计算机"
     },
@@ -26762,6 +26746,22 @@
       "source": "boardcaster",
       "urgency": "expired",
       "department": "计算机与人工智能学院",
+      "department_group": "计算机"
+    },
+    {
+      "school": "中国药科大学",
+      "institute": "人工智能学院（推免预报名）",
+      "title": "中国药科大学人工智能学院2027级推免生（含直博生）预报名，招生方向包括医药大数据与人工智能、公共卫生、人工智能药学、生物与医药和应用统计，活动拟于2026年8月28日至30日线下举行。",
+      "url": "https://lxy.cpu.edu.cn/b3/7a/c56a242554/page.htm",
+      "deadline": "2026-08-22",
+      "expired": true,
+      "category": "BoardCaster",
+      "tags": [
+        "211"
+      ],
+      "source": "boardcaster",
+      "urgency": "expired",
+      "department": "人工智能学院",
       "department_group": "计算机"
     },
     {
