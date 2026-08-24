@@ -1,58 +1,7 @@
 {
-  "updated_at": "2026-08-23T14:38:24.183875+08:00",
+  "updated_at": "2026-08-24T14:55:42.825416+08:00",
   "total": 1684,
   "camps": [
-    {
-      "school": "吉林大学",
-      "institute": "吉林大学通信工程学院2026年校园学术活动",
-      "title": "2026年吉林大学通信工程学院2026年校园学术活动开放日通知",
-      "url": "https://dce.jlu.edu.cn/info/1032/11402.htm",
-      "deadline": "2026-08-23",
-      "expired": false,
-      "category": "理工类",
-      "tags": [
-        "985",
-        "211"
-      ],
-      "source": "shenyanpai",
-      "urgency": "critical",
-      "department": "通信工程学院",
-      "department_group": "电子/通信"
-    },
-    {
-      "school": "同济大学",
-      "institute": "上海自主智能无人系统科学中心（推免研究生报名）",
-      "title": "同济大学上海自主智能无人系统科学中心2027年接收推荐免试研究生报名，招收智能科学与技术等相关方向的硕士研究生和直接攻读博士学位研究生，申请人须完成学校系统报名并按要求提交材料。",
-      "url": "https://srias.tongji.edu.cn/cb/69/c17827a379753/page.htm",
-      "deadline": "2026-08-23",
-      "expired": false,
-      "category": "BoardCaster",
-      "tags": [
-        "985",
-        "211"
-      ],
-      "source": "boardcaster",
-      "urgency": "critical",
-      "department": "上海自主智能无人系统科学中心",
-      "department_group": "其他"
-    },
-    {
-      "school": "中山大学",
-      "institute": "集成电路学院（推免研究生报名）",
-      "title": "中山大学集成电路学院2027年接收推荐免试研究生报名，面向预计获得推免资格、对集成电路相关领域具有浓厚兴趣的2027届优秀本科生，接收硕士研究生和直接攻读博士学位研究生。",
-      "url": "https://sic.sysu.edu.cn/rc/rc05/1421838.htm",
-      "deadline": "2026-08-23",
-      "expired": false,
-      "category": "BoardCaster",
-      "tags": [
-        "985",
-        "211"
-      ],
-      "source": "boardcaster",
-      "urgency": "critical",
-      "department": "集成电路学院",
-      "department_group": "电子/通信"
-    },
     {
       "school": "吉林大学",
       "institute": "吉林大学公共卫生学院2026年校园学术活动",
@@ -247,7 +196,7 @@
       "category": "经管类",
       "tags": [],
       "source": "shenyanpai",
-      "urgency": "near",
+      "urgency": "soon",
       "department": "文澜学院",
       "department_group": "其他"
     },
@@ -264,7 +213,7 @@
         "双非"
       ],
       "source": "boardcaster",
-      "urgency": "near",
+      "urgency": "soon",
       "department": "深港微电子学院",
       "department_group": "电子/通信"
     },
@@ -492,7 +441,7 @@
         "211"
       ],
       "source": "boardcaster",
-      "urgency": "far",
+      "urgency": "near",
       "department": "软件工程学院（滴水湖国际软件学院",
       "department_group": "计算机"
     },
@@ -26763,6 +26712,57 @@
       "urgency": "expired",
       "department": "人工智能学院",
       "department_group": "计算机"
+    },
+    {
+      "school": "吉林大学",
+      "institute": "吉林大学通信工程学院2026年校园学术活动",
+      "title": "2026年吉林大学通信工程学院2026年校园学术活动开放日通知",
+      "url": "https://dce.jlu.edu.cn/info/1032/11402.htm",
+      "deadline": "2026-08-23",
+      "expired": true,
+      "category": "理工类",
+      "tags": [
+        "985",
+        "211"
+      ],
+      "source": "shenyanpai",
+      "urgency": "expired",
+      "department": "通信工程学院",
+      "department_group": "电子/通信"
+    },
+    {
+      "school": "同济大学",
+      "institute": "上海自主智能无人系统科学中心（推免研究生报名）",
+      "title": "同济大学上海自主智能无人系统科学中心2027年接收推荐免试研究生报名，招收智能科学与技术等相关方向的硕士研究生和直接攻读博士学位研究生，申请人须完成学校系统报名并按要求提交材料。",
+      "url": "https://srias.tongji.edu.cn/cb/69/c17827a379753/page.htm",
+      "deadline": "2026-08-23",
+      "expired": true,
+      "category": "BoardCaster",
+      "tags": [
+        "985",
+        "211"
+      ],
+      "source": "boardcaster",
+      "urgency": "expired",
+      "department": "上海自主智能无人系统科学中心",
+      "department_group": "其他"
+    },
+    {
+      "school": "中山大学",
+      "institute": "集成电路学院（推免研究生报名）",
+      "title": "中山大学集成电路学院2027年接收推荐免试研究生报名，面向预计获得推免资格、对集成电路相关领域具有浓厚兴趣的2027届优秀本科生，接收硕士研究生和直接攻读博士学位研究生。",
+      "url": "https://sic.sysu.edu.cn/rc/rc05/1421838.htm",
+      "deadline": "2026-08-23",
+      "expired": true,
+      "category": "BoardCaster",
+      "tags": [
+        "985",
+        "211"
+      ],
+      "source": "boardcaster",
+      "urgency": "expired",
+      "department": "集成电路学院",
+      "department_group": "电子/通信"
     },
     {
       "school": "清华大学",
