@@ -1,24 +1,7 @@
 {
-  "updated_at": "2026-08-24T14:55:42.825416+08:00",
-  "total": 1684,
+  "updated_at": "2026-08-25T14:43:15.067869+08:00",
+  "total": 1710,
   "camps": [
-    {
-      "school": "吉林大学",
-      "institute": "吉林大学公共卫生学院2026年校园学术活动",
-      "title": "2026年吉林大学公共卫生学院2026年校园学术活动开放日的通知",
-      "url": "https://sph.jlu.edu.cn/info/1146/9760.htm",
-      "deadline": "2026-08-24",
-      "expired": false,
-      "category": "医农类",
-      "tags": [
-        "985",
-        "211"
-      ],
-      "source": "shenyanpai",
-      "urgency": "critical",
-      "department": "公共卫生学院",
-      "department_group": "生医/药学"
-    },
     {
       "school": "江西中医药大学",
       "institute": "江西中医药大学气功科学研究所中医气学・探索气的奥秘2026年中医气学全国优秀大学生夏令营招生",
@@ -32,6 +15,24 @@
       "urgency": "critical",
       "department": "气功科学研究所",
       "department_group": "其他"
+    },
+    {
+      "school": "哈尔滨工业大学",
+      "institute": "计算学部",
+      "title": "计算学部",
+      "url": "https://cs.hit.edu.cn/2026/0726/c11271a398409/page.htm",
+      "deadline": "2026-08-25",
+      "expired": false,
+      "category": "BoardCaster",
+      "tags": [
+        "C9",
+        "985",
+        "211"
+      ],
+      "source": "boardcaster",
+      "urgency": "critical",
+      "department": "计算学部",
+      "department_group": "计算机"
     },
     {
       "school": "同济大学",
@@ -48,24 +49,6 @@
       "source": "boardcaster",
       "urgency": "critical",
       "department": "计算机科学与技术学院",
-      "department_group": "计算机"
-    },
-    {
-      "school": "哈尔滨工业大学",
-      "institute": "计算学部（推免研究生报名）",
-      "title": "哈尔滨工业大学计算学部2027年接收推荐免试研究生报名，面向计算机科学与技术、软件工程、网络空间安全、人工智能等计算类相关专业优秀本科生，接收推免硕士和博士申请，考核以面试为主。",
-      "url": "https://cs.hit.edu.cn/2026/0726/c11271a398409/page.htm",
-      "deadline": "2026-08-25",
-      "expired": false,
-      "category": "BoardCaster",
-      "tags": [
-        "C9",
-        "985",
-        "211"
-      ],
-      "source": "boardcaster",
-      "urgency": "critical",
-      "department": "计算学部",
       "department_group": "计算机"
     },
     {
@@ -112,7 +95,7 @@
       "category": "理工类",
       "tags": [],
       "source": "shenyanpai",
-      "urgency": "soon",
+      "urgency": "critical",
       "department": "环境与资源学院",
       "department_group": "地学/环境"
     },
@@ -126,9 +109,25 @@
       "category": "经管类",
       "tags": [],
       "source": "shenyanpai",
-      "urgency": "soon",
+      "urgency": "critical",
       "department": "工商管理学院",
       "department_group": "物理/天文"
+    },
+    {
+      "school": "中国科学院",
+      "institute": "自动化研究所（第二批推免面试）",
+      "title": "中国科学院自动化研究所2027年接收推荐免试生第二批面试报名，面向自动化、计算机、智能科学与技术、机器人等相关专业2027届本科生，接收推免硕士和直博生申请，申请人须通过在线问卷提交报名信息和合并PDF材料。",
+      "url": "http://www.ia.cas.cn/yjsjy/zs/sszs/202608/t20260820_8262847.html",
+      "deadline": "2026-08-28",
+      "expired": false,
+      "category": "BoardCaster",
+      "tags": [
+        "研究院"
+      ],
+      "source": "boardcaster",
+      "urgency": "critical",
+      "department": "中国科学院自动化研究所",
+      "department_group": "自动化/仪器"
     },
     {
       "school": "河海大学",
@@ -159,6 +158,38 @@
       "department_group": "地学/环境"
     },
     {
+      "school": "苏州大学",
+      "institute": "计算机科学与技术学院（软件学院）（推免预报名）",
+      "title": "苏州大学计算机科学与技术学院（软件学院）2027级推荐免试研究生（含直博生）预报名，学院拟于9月组织线下机试和面试，机试暂定9月4日，内容包括基础程序设计、数据结构和算法，支持C++或Python。",
+      "url": "https://scst.suda.edu.cn/da/c4/c29555a711364/page.htm",
+      "deadline": "2026-08-29",
+      "expired": false,
+      "category": "BoardCaster",
+      "tags": [
+        "211"
+      ],
+      "source": "boardcaster",
+      "urgency": "soon",
+      "department": "计算机科学与技术学院（软件学院",
+      "department_group": "计算机"
+    },
+    {
+      "school": "哈尔滨工业大学（深圳）",
+      "institute": "信息学部计算机科学与技术学院（推免预报名）",
+      "title": "哈尔滨工业大学（深圳）信息学部计算机科学与技术学院2027年接收推荐免试研究生报名，招生专业包括计算机科学与技术和电子信息（计算机技术）；申请人除完成学校系统报名外，还须按要求向学院邮箱提交合并PDF材料。",
+      "url": "http://cist.hitsz.edu.cn/info/1038/2789.htm",
+      "deadline": "2026-08-29",
+      "expired": false,
+      "category": "BoardCaster",
+      "tags": [
+        "四非"
+      ],
+      "source": "boardcaster",
+      "urgency": "soon",
+      "department": "信息学部计算机科学与技术学院",
+      "department_group": "计算机"
+    },
+    {
       "school": "中南财经政法大学",
       "institute": "中南财经政法大学哲学院2026年度优秀本科生研招校园",
       "title": "2026年中南财经政法大学哲学院2026年度优秀本科生研招校园开放日活动简章",
@@ -185,6 +216,22 @@
       "urgency": "soon",
       "department": "法学院（法律专业学位教育中心",
       "department_group": "文法/社科"
+    },
+    {
+      "school": "北京科技大学",
+      "institute": "计算机与通信工程学院（推免预报名）",
+      "title": "北京科技大学计算机与通信工程学院2027年接收推荐免试硕士研究生（含直博生）预报名，招生专业包括计算机科学与技术、计算机技术、信息与通信工程和通信工程，学院拟于9月组织复试。",
+      "url": "https://scce.ustb.edu.cn/info/1111/3831.htm",
+      "deadline": "2026-08-30",
+      "expired": false,
+      "category": "BoardCaster",
+      "tags": [
+        "211"
+      ],
+      "source": "boardcaster",
+      "urgency": "soon",
+      "department": "计算机与通信工程学院",
+      "department_group": "计算机"
     },
     {
       "school": "中南财经政法大学",
@@ -218,6 +265,72 @@
       "department_group": "电子/通信"
     },
     {
+      "school": "南方科技大学",
+      "institute": "计算机科学与工程系",
+      "title": "南方科技大学计算机科学与工程系2027年计划招收全日制硕士研究生、直接攻读博士研究生，接受校内外推免生预报名。招生专业包括0812计算机科学与技术（学硕/直博）和0854电子信息（专硕/直博）。报名时间为2026年7月15日至8月31日；资格审核通过者预计于9月5日前收到邮件通知，考核形式为到校现场面试，预计时间为9月12日下午。\n\n面向已获得或即将获得推免资格的2027届本科生，计算机大类及电子科学与技术、信息与通信工程、自动化、数学、数据科学、信息科学等相关专业均可申请。\n\n申请直博者还须按学院要求提交两封专家推荐信。",
+      "url": "https://cse.sustech.edu.cn/notices/3775.html",
+      "deadline": "2026-08-31",
+      "expired": false,
+      "category": "BoardCaster",
+      "tags": [
+        "AI强校",
+        "双非"
+      ],
+      "source": "boardcaster",
+      "urgency": "soon",
+      "department": "计算机科学与工程系",
+      "department_group": "计算机"
+    },
+    {
+      "school": "广西大学",
+      "institute": "计算机与电子信息学院（推免预报名）",
+      "title": "广西大学计算机与电子信息学院2027年接收推荐免试研究生预报名，申请人须在规定时间内完成网上预报名，后续考核方式和具体安排由学院另行通知。",
+      "url": "https://yjsc.gxu.edu.cn/info/1021/4680.htm",
+      "deadline": "2026-08-31",
+      "expired": false,
+      "category": "BoardCaster",
+      "tags": [
+        "211"
+      ],
+      "source": "boardcaster",
+      "urgency": "soon",
+      "department": "计算机与电子信息学院",
+      "department_group": "计算机"
+    },
+    {
+      "school": "华东师范大学",
+      "institute": "密码学院（推免预报名）",
+      "title": "华东师范大学密码学院2027年接收推荐免试研究生（含本科直博）预报名，复试预计于9月在中山北路校区现场进行，采用面试面谈形式，不设笔试和机试。",
+      "url": "https://sc.ecnu.edu.cn/c3/e8/c50224a771048/page.htm",
+      "deadline": "2026-08-31",
+      "expired": false,
+      "category": "BoardCaster",
+      "tags": [
+        "985",
+        "211"
+      ],
+      "source": "boardcaster",
+      "urgency": "soon",
+      "department": "密码学院",
+      "department_group": "其他"
+    },
+    {
+      "school": "香港大学",
+      "institute": "计算与数据科学学院（2027研究型硕博早招第二轮）",
+      "title": "香港大学计算与数据科学学院2027年研究型硕博早期招生第二轮，覆盖计算机与数据科学相关研究方向，学院计划于2026年9月组织面试。",
+      "url": "https://www.cs.hku.hk/programmes/research-based/mphil-phd-admission",
+      "deadline": "2026-08-31",
+      "expired": false,
+      "category": "BoardCaster",
+      "tags": [
+        "港澳"
+      ],
+      "source": "boardcaster",
+      "urgency": "soon",
+      "department": "计算与数据科学学院",
+      "department_group": "计算机"
+    },
+    {
       "school": "吉林大学",
       "institute": "吉林大学药学院2026年校园学术活动",
       "title": "2026年吉林大学药学院2026年校园学术活动开放日的通知",
@@ -230,7 +343,7 @@
         "211"
       ],
       "source": "shenyanpai",
-      "urgency": "near",
+      "urgency": "soon",
       "department": "药学院",
       "department_group": "生医/药学"
     },
@@ -246,7 +359,7 @@
         "研究院"
       ],
       "source": "boardcaster",
-      "urgency": "near",
+      "urgency": "soon",
       "department": "电子电气与通信工程学院",
       "department_group": "电子/通信"
     },
@@ -263,7 +376,7 @@
         "双非"
       ],
       "source": "boardcaster",
-      "urgency": "near",
+      "urgency": "soon",
       "department": "计算机科学与工程系",
       "department_group": "计算机"
     },
@@ -279,7 +392,7 @@
         "211"
       ],
       "source": "boardcaster",
-      "urgency": "near",
+      "urgency": "soon",
       "department": "计算机与人工智能学院",
       "department_group": "计算机"
     },
@@ -341,6 +454,57 @@
       "expired": false,
       "category": "BoardCaster",
       "tags": [
+        "211"
+      ],
+      "source": "boardcaster",
+      "urgency": "near",
+      "department": "人工智能学院",
+      "department_group": "计算机"
+    },
+    {
+      "school": "南开大学",
+      "institute": "软件学院（推免预报名）",
+      "title": "南开大学软件学院2027年接收推荐免试研究生预报名，学校系统报名截至9月1日，合并PDF材料须于9月3日23:59前上传，申请材料包括两封专家亲笔签名推荐函。",
+      "url": "https://cs.nankai.edu.cn/info/1076/3673.htm",
+      "deadline": "2026-09-03",
+      "expired": false,
+      "category": "BoardCaster",
+      "tags": [
+        "985",
+        "211"
+      ],
+      "source": "boardcaster",
+      "urgency": "near",
+      "department": "软件学院",
+      "department_group": "计算机"
+    },
+    {
+      "school": "南开大学",
+      "institute": "卓越工程师学院（计算机相关工程硕博士专项）",
+      "title": "南开大学卓越工程师学院2027年工程硕博士培养改革专项预报名，其中计算机相关方向包括图像增强、多模态基础模型、智能人机交互、高性能计算软件、数智技术、基础软件与高算力系统及人工智能；接收专业学位硕士和直博申请。",
+      "url": "https://cee.nankai.edu.cn/2026/0821/c37052a601337/page.htm",
+      "deadline": "2026-09-03",
+      "expired": false,
+      "category": "BoardCaster",
+      "tags": [
+        "985",
+        "211"
+      ],
+      "source": "boardcaster",
+      "urgency": "near",
+      "department": "卓越工程师学院",
+      "department_group": "交叉/创新创业"
+    },
+    {
+      "school": "中山大学",
+      "institute": "人工智能学院（推免研究生报名）",
+      "title": "中山大学人工智能学院2027年接收推荐免试研究生报名，招生专业包括计算机科学与技术学术型硕博和人工智能专业型硕博；申请人须同时提交报名问卷并将完整申请材料发送至学院邮箱。",
+      "url": "https://sai.sysu.edu.cn/article/747",
+      "deadline": "2026-09-04",
+      "expired": false,
+      "category": "BoardCaster",
+      "tags": [
+        "985",
         "211"
       ],
       "source": "boardcaster",
@@ -446,6 +610,59 @@
       "department_group": "计算机"
     },
     {
+      "school": "浙江大学",
+      "institute": "数学科学学院",
+      "title": "浙江大学数学科学学院“数据科学与工程”专业硕士项目（招生专业：085411大数据技术与工程）现正式启动2027年推荐免试研究生招生工作。请于2026年8月10日10:00至9月7日12:00，登录“浙江大学研究生招生服务系统-推免生申请系统”填写有关栏目并提交申请。\n备注：本项目为2027年首次招生，培养模式类似工程师学院（数据科学与工程项目），导师来源为数学科学学院、数据科学研究中心、计算机科学与技术学院、控制科学与工程学院；导师名单将稍后公布。",
+      "url": "http://www.math.zju.edu.cn/2026/0806/c38123a3193823/page.htm",
+      "deadline": "2026-09-07",
+      "expired": false,
+      "category": "BoardCaster",
+      "tags": [
+        "C9",
+        "华五",
+        "985",
+        "211"
+      ],
+      "source": "boardcaster",
+      "urgency": "near",
+      "department": "数学科学学院",
+      "department_group": "数学/统计"
+    },
+    {
+      "school": "大连理工大学",
+      "institute": "计算机科学与技术学院（推免预报名）",
+      "title": "大连理工大学计算机科学与技术学院2027级推荐免试研究生预报名，申请人须登录学校推免预报名系统并按系统申请须知提交材料。",
+      "url": "https://gs.dlut.edu.cn/info/1173/51492.htm",
+      "deadline": "2026-09-07",
+      "expired": false,
+      "category": "BoardCaster",
+      "tags": [
+        "985",
+        "211"
+      ],
+      "source": "boardcaster",
+      "urgency": "near",
+      "department": "计算机科学与技术学院",
+      "department_group": "计算机"
+    },
+    {
+      "school": "南开大学",
+      "institute": "前沿交叉学科研究院（计算机相关直博预报名）",
+      "title": "南开大学前沿交叉学科研究院2027年接收推荐免试直博生预报名，其中计算机相关招生专业包括计算机科学与技术、软件工程和网络空间安全，研究方向覆盖人工智能协同、认知安全、数智治理和具身智能等；申请人须提交两封专家推荐信。",
+      "url": "https://aais.nankai.edu.cn/2026/0821/c37162a601333/page.htm",
+      "deadline": "2026-09-07",
+      "expired": false,
+      "category": "BoardCaster",
+      "tags": [
+        "985",
+        "211"
+      ],
+      "source": "boardcaster",
+      "urgency": "near",
+      "department": "前沿交叉学科研究院",
+      "department_group": "交叉/创新创业"
+    },
+    {
       "school": "大连理工大学",
       "institute": "软件学院（推免预报名）",
       "title": "大连理工大学软件学院2027年接收推荐免试研究生预报名，招生专业包括软件工程学术学位和软件工程专业学位，学院预计于9月中下旬组织面试。",
@@ -458,8 +675,25 @@
         "211"
       ],
       "source": "boardcaster",
-      "urgency": "far",
+      "urgency": "near",
       "department": "软件学院",
+      "department_group": "计算机"
+    },
+    {
+      "school": "华东师范大学",
+      "institute": "数据科学与工程学院（推免预报名）",
+      "title": "华东师范大学数据科学与工程学院2027年接收推荐免试研究生预报名，申请人须通过学校研究生报考服务系统提交申请，复试时间和具体安排由学院另行通知。",
+      "url": "https://dase.ecnu.edu.cn/_upload/article/files/ef/b7/8ce4634b46aeb6697638fa0718f7/901c46e7-91ce-4622-9a48-2c7293196931.pdf",
+      "deadline": "2026-09-08",
+      "expired": false,
+      "category": "BoardCaster",
+      "tags": [
+        "985",
+        "211"
+      ],
+      "source": "boardcaster",
+      "urgency": "near",
+      "department": "数据科学与工程学院",
       "department_group": "计算机"
     },
     {
@@ -724,6 +958,57 @@
       "department_group": "计算机"
     },
     {
+      "school": "浙江大学",
+      "institute": "人工智能学院（推免研究生报名）",
+      "title": "浙江大学人工智能学院2027级推荐免试研究生报名，接收人工智能学术学位直博、电子信息（人工智能）专业学位硕士和直博等申请，申请人须通过浙江大学研究生招生服务系统提交材料；申请直博还须提供至少两封专家推荐信。",
+      "url": "https://ai.zju.edu.cn/2026/0810/c90497a3194262/page.htm",
+      "deadline": "2026-09-11",
+      "expired": false,
+      "category": "BoardCaster",
+      "tags": [
+        "C9",
+        "华五",
+        "985",
+        "211"
+      ],
+      "source": "boardcaster",
+      "urgency": "far",
+      "department": "人工智能学院",
+      "department_group": "计算机"
+    },
+    {
+      "school": "哈尔滨工业大学（深圳）",
+      "institute": "智能学部智能科学与工程学院（推免预报名）",
+      "title": "哈尔滨工业大学（深圳）智能学部智能科学与工程学院2027年接收推荐免试研究生报名，招生方向包括智能科学与技术、人工智能、控制科学与工程和控制工程，学院将定期审核并分批通知面试。",
+      "url": "http://intelligence.hitsz.edu.cn/currency.jsp?urltype=news.NewsContentUrl&wbtreeid=1259&wbnewsid=1924",
+      "deadline": "2026-09-11",
+      "expired": false,
+      "category": "BoardCaster",
+      "tags": [
+        "四非"
+      ],
+      "source": "boardcaster",
+      "urgency": "far",
+      "department": "智能学部智能科学与工程学院",
+      "department_group": "其他"
+    },
+    {
+      "school": "香港理工大学",
+      "institute": "数据科学与人工智能学系（2027年1月入学PhD/MPhil）",
+      "title": "香港理工大学数据科学与人工智能学系招收2027年1月入学PhD/MPhil研究生，研究方向包括机器学习、计算机视觉、数据技术及人工智能交叉应用等，申请材料包括研究计划和两封学术推荐信。",
+      "url": "https://www.polyu.edu.hk/study/pg/rpg/20262/dsai",
+      "deadline": "2026-09-12",
+      "expired": false,
+      "category": "BoardCaster",
+      "tags": [
+        "港澳"
+      ],
+      "source": "boardcaster",
+      "urgency": "far",
+      "department": "数据科学与人工智能学系",
+      "department_group": "计算机"
+    },
+    {
       "school": "南开大学",
       "institute": "计算机学院、密码与网络空间安全学院（推免预报名）",
       "title": "南开大学计算机学院、密码与网络空间安全学院2027年接收优秀应届本科毕业生免试攻读研究生预报名，接收计算机科学与技术、计算机技术、网络空间安全、网络与信息安全、密码等方向的硕士生和直接攻博生，申请人完成系统报名后还需向相关导师或实验室发送材料。",
@@ -826,6 +1111,22 @@
       "department_group": "计算机"
     },
     {
+      "school": "香港理工大学",
+      "institute": "计算学系（2027年1月入学PhD/MPhil）",
+      "title": "香港理工大学计算学系招收2027年1月入学PhD/MPhil研究生，研究方向覆盖算法理论、机器学习与人工智能、大数据、网络安全、网络系统和软件工程等。",
+      "url": "https://www.polyu.edu.hk/study/pg/rpg/20262/comp",
+      "deadline": "2026-10-01",
+      "expired": false,
+      "category": "BoardCaster",
+      "tags": [
+        "港澳"
+      ],
+      "source": "boardcaster",
+      "urgency": "far",
+      "department": "计算学系",
+      "department_group": "其他"
+    },
+    {
       "school": "中国科学院",
       "institute": "沈阳计算技术研究所（推免硕士接收）",
       "title": "中国科学院沈阳计算技术研究所接收2027年推荐免试硕士研究生通知，接收具有推荐免试资格的优秀应届本科毕业生免试攻读硕士学位研究生，包括学术型硕士和全日制专业学位硕士，考生需登录中国科学院大学推免生申报系统报名，报考单位选择沈阳计算技术研究所。",
@@ -840,6 +1141,38 @@
       "urgency": "far",
       "department": "中国科学院沈阳计算技术研究所",
       "department_group": "计算机"
+    },
+    {
+      "school": "香港理工大学",
+      "institute": "数据科学与人工智能学系（2027年5月入学PhD/MPhil）",
+      "title": "香港理工大学数据科学与人工智能学系招收2027年5月入学PhD/MPhil研究生，研究方向包括机器学习、计算机视觉、数据技术及人工智能交叉应用等，申请材料包括研究计划和两封学术推荐信。",
+      "url": "https://www.polyu.edu.hk/study/pg/rpg/20263/dsai",
+      "deadline": "2027-01-14",
+      "expired": false,
+      "category": "BoardCaster",
+      "tags": [
+        "港澳"
+      ],
+      "source": "boardcaster",
+      "urgency": "far",
+      "department": "数据科学与人工智能学系",
+      "department_group": "计算机"
+    },
+    {
+      "school": "香港理工大学",
+      "institute": "计算学系（2027年5月入学PhD/MPhil）",
+      "title": "香港理工大学计算学系招收2027年5月入学PhD/MPhil研究生，研究方向覆盖算法理论、机器学习与人工智能、大数据、网络安全、网络系统和软件工程等。",
+      "url": "https://www.polyu.edu.hk/study/pg/rpg/20263/comp",
+      "deadline": "2027-02-01",
+      "expired": false,
+      "category": "BoardCaster",
+      "tags": [
+        "港澳"
+      ],
+      "source": "boardcaster",
+      "urgency": "far",
+      "department": "计算学系",
+      "department_group": "其他"
     },
     {
       "school": "安徽医科大学",
@@ -26255,6 +26588,25 @@
       "department_group": "文法/社科"
     },
     {
+      "school": "南京大学",
+      "institute": "计算机学院",
+      "title": "计算机学院",
+      "url": "https://cs.nju.edu.cn/d4/59/c1702a840793/page.htm",
+      "deadline": "2026-08-12",
+      "expired": true,
+      "category": "BoardCaster",
+      "tags": [
+        "C9",
+        "华五",
+        "985",
+        "211"
+      ],
+      "source": "boardcaster",
+      "urgency": "expired",
+      "department": "计算机学院",
+      "department_group": "计算机"
+    },
+    {
       "school": "中山大学",
       "institute": "计算机学院（推免研究生报名）",
       "title": "中山大学计算机学院2027年接收推荐免试研究生报名，面向预计获得推免资格、对计算机学科研究具有浓厚兴趣的2027届优秀本科生，接收硕士研究生和直接攻读博士学位研究生。",
@@ -26285,25 +26637,6 @@
       "source": "boardcaster",
       "urgency": "expired",
       "department": "计算机与信息学院",
-      "department_group": "计算机"
-    },
-    {
-      "school": "南京大学",
-      "institute": "计算机学院（推免预报名）",
-      "title": "南京大学计算机学院2027年接收推荐免试研究生预报名，招生方向包括计算机科学与技术、软件工程、网络空间安全和电子信息等，接收专业学位硕士、学术学位直博和专业学位直博申请。",
-      "url": "https://cs.nju.edu.cn/d4/59/c1702a840793/page.htm",
-      "deadline": "2026-08-12",
-      "expired": true,
-      "category": "BoardCaster",
-      "tags": [
-        "C9",
-        "华五",
-        "985",
-        "211"
-      ],
-      "source": "boardcaster",
-      "urgency": "expired",
-      "department": "计算机学院",
       "department_group": "计算机"
     },
     {
@@ -26432,6 +26765,25 @@
       "source": "boardcaster",
       "urgency": "expired",
       "department": "人工智能学院",
+      "department_group": "计算机"
+    },
+    {
+      "school": "南京大学",
+      "institute": "智能科学与技术学院（推免预报名）",
+      "title": "南京大学智能科学与技术学院2027年接收推荐免试研究生预报名，申请人须同时完成南京大学和学院预推免系统报名；直博申请人还须提前联系导师并提交导师联系表。",
+      "url": "https://is.nju.edu.cn/d4/5b/c57162a840795/page.htm",
+      "deadline": "2026-08-14",
+      "expired": true,
+      "category": "BoardCaster",
+      "tags": [
+        "C9",
+        "华五",
+        "985",
+        "211"
+      ],
+      "source": "boardcaster",
+      "urgency": "expired",
+      "department": "智能科学与技术学院",
       "department_group": "计算机"
     },
     {
@@ -26585,6 +26937,22 @@
       "department_group": "计算机"
     },
     {
+      "school": "香港科技大学",
+      "institute": "计算机科学与工程学系（2027秋季研究型硕博早招）",
+      "title": "香港科技大学计算机科学与工程学系2027年秋季研究型硕博早期招生，面向计算机及相关领域的优秀本科生和硕士生，面试自2026年9月起分批进行，可采用线上或到校形式。",
+      "url": "https://cse.hkust.edu.hk/pg/admissions/recruiting/",
+      "deadline": "2026-08-16",
+      "expired": true,
+      "category": "BoardCaster",
+      "tags": [
+        "港澳"
+      ],
+      "source": "boardcaster",
+      "urgency": "expired",
+      "department": "计算机科学与工程学系",
+      "department_group": "计算机"
+    },
+    {
       "school": "南京大学",
       "institute": "软件学院（推免预报名）",
       "title": "南京大学软件学院2027年接收推荐免试研究生预报名，招收软件工程学术学位硕士、软件工程专业学位硕士和直接攻读博士学位研究生，申请人须通过南京大学推免预报名系统提交材料。",
@@ -26601,6 +26969,23 @@
       "source": "boardcaster",
       "urgency": "expired",
       "department": "软件学院",
+      "department_group": "计算机"
+    },
+    {
+      "school": "中央民族大学",
+      "institute": "信息工程学院（推免预报名）",
+      "title": "中央民族大学信息工程学院2027年接收推荐免试研究生预报名，申请人须通过学校研究生招生平台提交申请，学院拟于2026年8月28日至30日在海淀校区组织线下复试。",
+      "url": "https://xingong.muc.edu.cn/info/1041/6425.htm",
+      "deadline": "2026-08-18",
+      "expired": true,
+      "category": "BoardCaster",
+      "tags": [
+        "985",
+        "211"
+      ],
+      "source": "boardcaster",
+      "urgency": "expired",
+      "department": "信息工程学院",
       "department_group": "计算机"
     },
     {
@@ -26679,6 +27064,22 @@
       "source": "boardcaster",
       "urgency": "expired",
       "department": "软件工程学院",
+      "department_group": "计算机"
+    },
+    {
+      "school": "重庆邮电大学",
+      "institute": "计算机科学与技术学院/人工智能学院（暑期夏令营）",
+      "title": "重庆邮电大学计算机科学与技术学院/人工智能学院2026年全国优秀大学生夏令营，于2026年8月24日至26日线上举办，活动包括学院介绍、团队及导师交流和优秀营员甄选。",
+      "url": "https://mp.weixin.qq.com/s/SrnecIiHhHnzZBa0HMH9Kg",
+      "deadline": "2026-08-20",
+      "expired": true,
+      "category": "BoardCaster",
+      "tags": [
+        "211"
+      ],
+      "source": "boardcaster",
+      "urgency": "expired",
+      "department": "计算机科学与技术学院/人工智能学院",
       "department_group": "计算机"
     },
     {
@@ -26763,6 +27164,23 @@
       "urgency": "expired",
       "department": "集成电路学院",
       "department_group": "电子/通信"
+    },
+    {
+      "school": "吉林大学",
+      "institute": "吉林大学公共卫生学院2026年校园学术活动",
+      "title": "2026年吉林大学公共卫生学院2026年校园学术活动开放日的通知",
+      "url": "https://sph.jlu.edu.cn/info/1146/9760.htm",
+      "deadline": "2026-08-24",
+      "expired": true,
+      "category": "医农类",
+      "tags": [
+        "985",
+        "211"
+      ],
+      "source": "shenyanpai",
+      "urgency": "expired",
+      "department": "公共卫生学院",
+      "department_group": "生医/药学"
     },
     {
       "school": "清华大学",
@@ -27793,6 +28211,22 @@
       "tags": [
         "985",
         "211"
+      ],
+      "source": "boardcaster",
+      "urgency": "unknown",
+      "department": "人工智能学院",
+      "department_group": "计算机"
+    },
+    {
+      "school": "中国科学院大学",
+      "institute": "人工智能学院（推免生接收）",
+      "title": "中国科学院大学人工智能学院2027年接收推荐免试硕士研究生（含直博生），接收专业为计算机应用技术，优先考虑计算机、人工智能等相关专业学生，申请人须向意向导师或课题组发送材料并完成国科大推免系统报名。",
+      "url": "https://ai.ucas.ac.cn/index.php/zh-cn/tzgg/7698-2027",
+      "deadline": null,
+      "expired": false,
+      "category": "BoardCaster",
+      "tags": [
+        "研究院"
       ],
       "source": "boardcaster",
       "urgency": "unknown",
