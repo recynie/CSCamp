@@ -1,24 +1,7 @@
 {
-  "updated_at": "2026-08-26T14:46:25.654283+08:00",
+  "updated_at": "2026-08-28T01:21:07.002964+08:00",
   "total": 1710,
   "camps": [
-    {
-      "school": "中山大学",
-      "institute": "网络空间安全学院（推免研究生报名）",
-      "title": "中山大学网络空间安全学院2027年接收推荐免试研究生报名，面向预计获得推免资格的2027届优秀本科生，接收网络空间安全相关方向的硕士研究生和直接攻读博士学位研究生。",
-      "url": "https://scst.sysu.edu.cn/article/502",
-      "deadline": "2026-08-26",
-      "expired": false,
-      "category": "BoardCaster",
-      "tags": [
-        "985",
-        "211"
-      ],
-      "source": "boardcaster",
-      "urgency": "critical",
-      "department": "网络空间安全学院",
-      "department_group": "计算机"
-    },
     {
       "school": "西南科技大学",
       "institute": "西南科技大学环境与资源学院2026年大学生暑期研学活动",
@@ -133,7 +116,7 @@
       "category": "文法类",
       "tags": [],
       "source": "shenyanpai",
-      "urgency": "soon",
+      "urgency": "critical",
       "department": "哲学院",
       "department_group": "文法/社科"
     },
@@ -147,7 +130,7 @@
       "category": "文法类",
       "tags": [],
       "source": "shenyanpai",
-      "urgency": "soon",
+      "urgency": "critical",
       "department": "法学院（法律专业学位教育中心",
       "department_group": "文法/社科"
     },
@@ -163,7 +146,7 @@
         "211"
       ],
       "source": "boardcaster",
-      "urgency": "soon",
+      "urgency": "critical",
       "department": "计算机与通信工程学院",
       "department_group": "计算机"
     },
@@ -391,7 +374,7 @@
         "211"
       ],
       "source": "boardcaster",
-      "urgency": "near",
+      "urgency": "soon",
       "department": "人工智能学院",
       "department_group": "计算机"
     },
@@ -408,7 +391,7 @@
         "211"
       ],
       "source": "boardcaster",
-      "urgency": "near",
+      "urgency": "soon",
       "department": "软件学院",
       "department_group": "计算机"
     },
@@ -425,7 +408,7 @@
         "211"
       ],
       "source": "boardcaster",
-      "urgency": "near",
+      "urgency": "soon",
       "department": "卓越工程师学院",
       "department_group": "交叉/创新创业"
     },
@@ -660,7 +643,7 @@
         "211"
       ],
       "source": "shenyanpai",
-      "urgency": "far",
+      "urgency": "near",
       "department": "数学学院",
       "department_group": "数学/统计"
     },
@@ -677,7 +660,7 @@
         "211"
       ],
       "source": "boardcaster",
-      "urgency": "far",
+      "urgency": "near",
       "department": "计算机科学与技术学院",
       "department_group": "计算机"
     },
@@ -694,7 +677,7 @@
         "211"
       ],
       "source": "boardcaster",
-      "urgency": "far",
+      "urgency": "near",
       "department": "集成电路学院",
       "department_group": "电子/通信"
     },
@@ -711,7 +694,7 @@
         "211"
       ],
       "source": "boardcaster",
-      "urgency": "far",
+      "urgency": "near",
       "department": "电子工程学院",
       "department_group": "电子/通信"
     },
@@ -728,7 +711,7 @@
         "211"
       ],
       "source": "boardcaster",
-      "urgency": "far",
+      "urgency": "near",
       "department": "卓越工程师学院",
       "department_group": "交叉/创新创业"
     },
@@ -745,7 +728,7 @@
         "211"
       ],
       "source": "boardcaster",
-      "urgency": "far",
+      "urgency": "near",
       "department": "网络空间安全学院",
       "department_group": "计算机"
     },
@@ -762,7 +745,7 @@
         "211"
       ],
       "source": "boardcaster",
-      "urgency": "far",
+      "urgency": "near",
       "department": "空间人工智能学院",
       "department_group": "计算机"
     },
@@ -779,7 +762,7 @@
         "211"
       ],
       "source": "boardcaster",
-      "urgency": "far",
+      "urgency": "near",
       "department": "人工智能学院",
       "department_group": "计算机"
     },
@@ -796,7 +779,7 @@
         "211"
       ],
       "source": "boardcaster",
-      "urgency": "far",
+      "urgency": "near",
       "department": "计算机学院（国家示范性软件学院",
       "department_group": "计算机"
     },
@@ -813,7 +796,7 @@
         "211"
       ],
       "source": "boardcaster",
-      "urgency": "far",
+      "urgency": "near",
       "department": "智能工程与自动化学院",
       "department_group": "自动化/仪器"
     },
@@ -27180,6 +27163,23 @@
       "source": "boardcaster",
       "urgency": "expired",
       "department": "人工智能学院",
+      "department_group": "计算机"
+    },
+    {
+      "school": "中山大学",
+      "institute": "网络空间安全学院（推免研究生报名）",
+      "title": "中山大学网络空间安全学院2027年接收推荐免试研究生报名，面向预计获得推免资格的2027届优秀本科生，接收网络空间安全相关方向的硕士研究生和直接攻读博士学位研究生。",
+      "url": "https://scst.sysu.edu.cn/article/502",
+      "deadline": "2026-08-26",
+      "expired": true,
+      "category": "BoardCaster",
+      "tags": [
+        "985",
+        "211"
+      ],
+      "source": "boardcaster",
+      "urgency": "expired",
+      "department": "网络空间安全学院",
       "department_group": "计算机"
     },
     {
