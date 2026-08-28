@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-28T01:21:07.002964+08:00",
+  "updated_at": "2026-08-29T02:13:59.771123+08:00",
   "total": 1710,
   "camps": [
     {
@@ -160,7 +160,7 @@
       "category": "经管类",
       "tags": [],
       "source": "shenyanpai",
-      "urgency": "soon",
+      "urgency": "critical",
       "department": "文澜学院",
       "department_group": "其他"
     },
@@ -177,7 +177,7 @@
         "双非"
       ],
       "source": "boardcaster",
-      "urgency": "soon",
+      "urgency": "critical",
       "department": "深港微电子学院",
       "department_group": "电子/通信"
     },
@@ -194,7 +194,7 @@
         "双非"
       ],
       "source": "boardcaster",
-      "urgency": "soon",
+      "urgency": "critical",
       "department": "计算机科学与工程系",
       "department_group": "计算机"
     },
@@ -210,7 +210,7 @@
         "211"
       ],
       "source": "boardcaster",
-      "urgency": "soon",
+      "urgency": "critical",
       "department": "计算机与电子信息学院",
       "department_group": "计算机"
     },
@@ -227,7 +227,7 @@
         "211"
       ],
       "source": "boardcaster",
-      "urgency": "soon",
+      "urgency": "critical",
       "department": "密码学院",
       "department_group": "其他"
     },
@@ -243,7 +243,7 @@
         "港澳"
       ],
       "source": "boardcaster",
-      "urgency": "soon",
+      "urgency": "critical",
       "department": "计算与数据科学学院",
       "department_group": "计算机"
     },
@@ -425,7 +425,7 @@
         "211"
       ],
       "source": "boardcaster",
-      "urgency": "near",
+      "urgency": "soon",
       "department": "人工智能学院",
       "department_group": "计算机"
     },
@@ -813,7 +813,7 @@
         "211"
       ],
       "source": "boardcaster",
-      "urgency": "far",
+      "urgency": "near",
       "department": "电气自动化与信息工程学院",
       "department_group": "计算机"
     },
@@ -832,7 +832,7 @@
         "211"
       ],
       "source": "boardcaster",
-      "urgency": "far",
+      "urgency": "near",
       "department": "工程师学院",
       "department_group": "其他"
     },
@@ -851,7 +851,7 @@
         "211"
       ],
       "source": "boardcaster",
-      "urgency": "far",
+      "urgency": "near",
       "department": "软件学院",
       "department_group": "计算机"
     },
@@ -870,7 +870,7 @@
         "211"
       ],
       "source": "boardcaster",
-      "urgency": "far",
+      "urgency": "near",
       "department": "计算机科学与技术学院",
       "department_group": "计算机"
     },
@@ -889,7 +889,7 @@
         "211"
       ],
       "source": "boardcaster",
-      "urgency": "far",
+      "urgency": "near",
       "department": "人工智能学院",
       "department_group": "计算机"
     },
@@ -905,7 +905,7 @@
         "四非"
       ],
       "source": "boardcaster",
-      "urgency": "far",
+      "urgency": "near",
       "department": "智能学部智能科学与工程学院",
       "department_group": "其他"
     },
