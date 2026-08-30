@@ -1,67 +1,7 @@
 {
-  "updated_at": "2026-08-29T20:20:44.884542+08:00",
+  "updated_at": "2026-08-30T19:19:27.386440+08:00",
   "total": 1710,
   "camps": [
-    {
-      "school": "河海大学",
-      "institute": "河海大学海洋学院2026年全国优秀大学生校园",
-      "title": "2026年河海大学海洋学院2026年全国优秀大学生校园开放日及有关安排的通知",
-      "url": "https://hyxy.hhu.edu.cn/2026/0731/c8662a332360/page.htm",
-      "deadline": "2026-08-29",
-      "expired": false,
-      "category": "理工类",
-      "tags": [],
-      "source": "shenyanpai",
-      "urgency": "critical",
-      "department": "海洋学院",
-      "department_group": "地学/环境"
-    },
-    {
-      "school": "河海大学",
-      "institute": "河海大学海洋学院2026年全国优秀大学生校园",
-      "title": "2026年河海大学海洋学院2026年全国优秀大学生校园开放日及有关安排的通知",
-      "url": "https://mp.weixin.qq.com/s/KmBhBWM9dlfj4V7YCsAVUg",
-      "deadline": "2026-08-29",
-      "expired": false,
-      "category": "理工类",
-      "tags": [],
-      "source": "shenyanpai",
-      "urgency": "critical",
-      "department": "海洋学院",
-      "department_group": "地学/环境"
-    },
-    {
-      "school": "苏州大学",
-      "institute": "计算机科学与技术学院（软件学院）（推免预报名）",
-      "title": "苏州大学计算机科学与技术学院（软件学院）2027级推荐免试研究生（含直博生）预报名，学院拟于9月组织线下机试和面试，机试暂定9月4日，内容包括基础程序设计、数据结构和算法，支持C++或Python。",
-      "url": "https://scst.suda.edu.cn/da/c4/c29555a711364/page.htm",
-      "deadline": "2026-08-29",
-      "expired": false,
-      "category": "BoardCaster",
-      "tags": [
-        "211"
-      ],
-      "source": "boardcaster",
-      "urgency": "critical",
-      "department": "计算机科学与技术学院（软件学院",
-      "department_group": "计算机"
-    },
-    {
-      "school": "哈尔滨工业大学（深圳）",
-      "institute": "信息学部计算机科学与技术学院（推免预报名）",
-      "title": "哈尔滨工业大学（深圳）信息学部计算机科学与技术学院2027年接收推荐免试研究生报名，招生专业包括计算机科学与技术和电子信息（计算机技术）；申请人除完成学校系统报名外，还须按要求向学院邮箱提交合并PDF材料。",
-      "url": "http://cist.hitsz.edu.cn/info/1038/2789.htm",
-      "deadline": "2026-08-29",
-      "expired": false,
-      "category": "BoardCaster",
-      "tags": [
-        "四非"
-      ],
-      "source": "boardcaster",
-      "urgency": "critical",
-      "department": "信息学部计算机科学与技术学院",
-      "department_group": "计算机"
-    },
     {
       "school": "中南财经政法大学",
       "institute": "中南财经政法大学哲学院2026年度优秀本科生研招校园",
@@ -281,7 +221,7 @@
         "211"
       ],
       "source": "boardcaster",
-      "urgency": "soon",
+      "urgency": "critical",
       "department": "智能科学与技术学院",
       "department_group": "计算机"
     },
@@ -298,7 +238,7 @@
         "211"
       ],
       "source": "boardcaster",
-      "urgency": "soon",
+      "urgency": "critical",
       "department": "人工智能研究院",
       "department_group": "计算机"
     },
@@ -314,7 +254,7 @@
         "研究院"
       ],
       "source": "boardcaster",
-      "urgency": "soon",
+      "urgency": "critical",
       "department": "中国科学院计算机网络信息中心",
       "department_group": "计算机"
     },
@@ -443,7 +383,7 @@
         "211"
       ],
       "source": "boardcaster",
-      "urgency": "near",
+      "urgency": "soon",
       "department": "软件学院",
       "department_group": "计算机"
     },
@@ -461,7 +401,7 @@
         "211"
       ],
       "source": "boardcaster",
-      "urgency": "near",
+      "urgency": "soon",
       "department": "电子与信息工程学院",
       "department_group": "计算机"
     },
@@ -894,7 +834,7 @@
         "211"
       ],
       "source": "boardcaster",
-      "urgency": "far",
+      "urgency": "near",
       "department": "计算机学院、密码与网络空间安全学院",
       "department_group": "计算机"
     },
@@ -27181,6 +27121,66 @@
       "urgency": "expired",
       "department": "中国科学院自动化研究所",
       "department_group": "自动化/仪器"
+    },
+    {
+      "school": "河海大学",
+      "institute": "河海大学海洋学院2026年全国优秀大学生校园",
+      "title": "2026年河海大学海洋学院2026年全国优秀大学生校园开放日及有关安排的通知",
+      "url": "https://hyxy.hhu.edu.cn/2026/0731/c8662a332360/page.htm",
+      "deadline": "2026-08-29",
+      "expired": true,
+      "category": "理工类",
+      "tags": [],
+      "source": "shenyanpai",
+      "urgency": "expired",
+      "department": "海洋学院",
+      "department_group": "地学/环境"
+    },
+    {
+      "school": "河海大学",
+      "institute": "河海大学海洋学院2026年全国优秀大学生校园",
+      "title": "2026年河海大学海洋学院2026年全国优秀大学生校园开放日及有关安排的通知",
+      "url": "https://mp.weixin.qq.com/s/KmBhBWM9dlfj4V7YCsAVUg",
+      "deadline": "2026-08-29",
+      "expired": true,
+      "category": "理工类",
+      "tags": [],
+      "source": "shenyanpai",
+      "urgency": "expired",
+      "department": "海洋学院",
+      "department_group": "地学/环境"
+    },
+    {
+      "school": "苏州大学",
+      "institute": "计算机科学与技术学院（软件学院）（推免预报名）",
+      "title": "苏州大学计算机科学与技术学院（软件学院）2027级推荐免试研究生（含直博生）预报名，学院拟于9月组织线下机试和面试，机试暂定9月4日，内容包括基础程序设计、数据结构和算法，支持C++或Python。",
+      "url": "https://scst.suda.edu.cn/da/c4/c29555a711364/page.htm",
+      "deadline": "2026-08-29",
+      "expired": true,
+      "category": "BoardCaster",
+      "tags": [
+        "211"
+      ],
+      "source": "boardcaster",
+      "urgency": "expired",
+      "department": "计算机科学与技术学院（软件学院",
+      "department_group": "计算机"
+    },
+    {
+      "school": "哈尔滨工业大学（深圳）",
+      "institute": "信息学部计算机科学与技术学院（推免预报名）",
+      "title": "哈尔滨工业大学（深圳）信息学部计算机科学与技术学院2027年接收推荐免试研究生报名，招生专业包括计算机科学与技术和电子信息（计算机技术）；申请人除完成学校系统报名外，还须按要求向学院邮箱提交合并PDF材料。",
+      "url": "http://cist.hitsz.edu.cn/info/1038/2789.htm",
+      "deadline": "2026-08-29",
+      "expired": true,
+      "category": "BoardCaster",
+      "tags": [
+        "四非"
+      ],
+      "source": "boardcaster",
+      "urgency": "expired",
+      "department": "信息学部计算机科学与技术学院",
+      "department_group": "计算机"
     },
     {
       "school": "清华大学",
