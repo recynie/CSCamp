@@ -1,51 +1,7 @@
 {
-  "updated_at": "2026-08-30T19:19:27.386440+08:00",
+  "updated_at": "2026-08-31T20:47:49.991995+08:00",
   "total": 1710,
   "camps": [
-    {
-      "school": "中南财经政法大学",
-      "institute": "中南财经政法大学哲学院2026年度优秀本科生研招校园",
-      "title": "2026年中南财经政法大学哲学院2026年度优秀本科生研招校园开放日活动简章",
-      "url": "https://zxy.zuel.edu.cn/2026/0713/c4567a436068/page.htm",
-      "deadline": "2026-08-30",
-      "expired": false,
-      "category": "文法类",
-      "tags": [],
-      "source": "shenyanpai",
-      "urgency": "critical",
-      "department": "哲学院",
-      "department_group": "文法/社科"
-    },
-    {
-      "school": "中南财经政法大学",
-      "institute": "关于举办“第九届优秀本科生研招校园",
-      "title": "2026年中南财经政法大学法学院（法律专业学位教育中心）关于举办“第九届优秀本科生研招校园开放日研学活动”的通知",
-      "url": "https://law.zuel.edu.cn/2026/0714/c16281a436103/page.htm",
-      "deadline": "2026-08-30",
-      "expired": false,
-      "category": "文法类",
-      "tags": [],
-      "source": "shenyanpai",
-      "urgency": "critical",
-      "department": "法学院（法律专业学位教育中心",
-      "department_group": "文法/社科"
-    },
-    {
-      "school": "北京科技大学",
-      "institute": "计算机与通信工程学院（推免预报名）",
-      "title": "北京科技大学计算机与通信工程学院2027年接收推荐免试硕士研究生（含直博生）预报名，招生专业包括计算机科学与技术、计算机技术、信息与通信工程和通信工程，学院拟于9月组织复试。",
-      "url": "https://scce.ustb.edu.cn/info/1111/3831.htm",
-      "deadline": "2026-08-30",
-      "expired": false,
-      "category": "BoardCaster",
-      "tags": [
-        "211"
-      ],
-      "source": "boardcaster",
-      "urgency": "critical",
-      "department": "计算机与通信工程学院",
-      "department_group": "计算机"
-    },
     {
       "school": "中南财经政法大学",
       "institute": "中南财经政法大学文澜学院",
@@ -270,7 +226,7 @@
         "211"
       ],
       "source": "boardcaster",
-      "urgency": "soon",
+      "urgency": "critical",
       "department": "人工智能学院",
       "department_group": "计算机"
     },
@@ -287,7 +243,7 @@
         "211"
       ],
       "source": "boardcaster",
-      "urgency": "soon",
+      "urgency": "critical",
       "department": "软件学院",
       "department_group": "计算机"
     },
@@ -304,7 +260,7 @@
         "211"
       ],
       "source": "boardcaster",
-      "urgency": "soon",
+      "urgency": "critical",
       "department": "卓越工程师学院",
       "department_group": "交叉/创新创业"
     },
@@ -418,7 +374,7 @@
         "211"
       ],
       "source": "boardcaster",
-      "urgency": "near",
+      "urgency": "soon",
       "department": "软件工程学院（滴水湖国际软件学院",
       "department_group": "计算机"
     },
@@ -437,7 +393,7 @@
         "211"
       ],
       "source": "boardcaster",
-      "urgency": "near",
+      "urgency": "soon",
       "department": "数学科学学院",
       "department_group": "数学/统计"
     },
@@ -454,7 +410,7 @@
         "211"
       ],
       "source": "boardcaster",
-      "urgency": "near",
+      "urgency": "soon",
       "department": "计算机科学与技术学院",
       "department_group": "计算机"
     },
@@ -471,7 +427,7 @@
         "211"
       ],
       "source": "boardcaster",
-      "urgency": "near",
+      "urgency": "soon",
       "department": "前沿交叉学科研究院",
       "department_group": "交叉/创新创业"
     },
@@ -851,7 +807,7 @@
         "211"
       ],
       "source": "boardcaster",
-      "urgency": "far",
+      "urgency": "near",
       "department": "计算机科学与工程学院",
       "department_group": "计算机"
     },
@@ -868,7 +824,7 @@
         "211"
       ],
       "source": "boardcaster",
-      "urgency": "far",
+      "urgency": "near",
       "department": "计算机科学与技术学院/软件学院",
       "department_group": "计算机"
     },
@@ -885,7 +841,7 @@
         "211"
       ],
       "source": "boardcaster",
-      "urgency": "far",
+      "urgency": "near",
       "department": "人工智能学院",
       "department_group": "计算机"
     },
@@ -27180,6 +27136,50 @@
       "source": "boardcaster",
       "urgency": "expired",
       "department": "信息学部计算机科学与技术学院",
+      "department_group": "计算机"
+    },
+    {
+      "school": "中南财经政法大学",
+      "institute": "中南财经政法大学哲学院2026年度优秀本科生研招校园",
+      "title": "2026年中南财经政法大学哲学院2026年度优秀本科生研招校园开放日活动简章",
+      "url": "https://zxy.zuel.edu.cn/2026/0713/c4567a436068/page.htm",
+      "deadline": "2026-08-30",
+      "expired": true,
+      "category": "文法类",
+      "tags": [],
+      "source": "shenyanpai",
+      "urgency": "expired",
+      "department": "哲学院",
+      "department_group": "文法/社科"
+    },
+    {
+      "school": "中南财经政法大学",
+      "institute": "关于举办“第九届优秀本科生研招校园",
+      "title": "2026年中南财经政法大学法学院（法律专业学位教育中心）关于举办“第九届优秀本科生研招校园开放日研学活动”的通知",
+      "url": "https://law.zuel.edu.cn/2026/0714/c16281a436103/page.htm",
+      "deadline": "2026-08-30",
+      "expired": true,
+      "category": "文法类",
+      "tags": [],
+      "source": "shenyanpai",
+      "urgency": "expired",
+      "department": "法学院（法律专业学位教育中心",
+      "department_group": "文法/社科"
+    },
+    {
+      "school": "北京科技大学",
+      "institute": "计算机与通信工程学院（推免预报名）",
+      "title": "北京科技大学计算机与通信工程学院2027年接收推荐免试硕士研究生（含直博生）预报名，招生专业包括计算机科学与技术、计算机技术、信息与通信工程和通信工程，学院拟于9月组织复试。",
+      "url": "https://scce.ustb.edu.cn/info/1111/3831.htm",
+      "deadline": "2026-08-30",
+      "expired": true,
+      "category": "BoardCaster",
+      "tags": [
+        "211"
+      ],
+      "source": "boardcaster",
+      "urgency": "expired",
+      "department": "计算机与通信工程学院",
       "department_group": "计算机"
     },
     {
