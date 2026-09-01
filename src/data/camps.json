@@ -1,104 +1,7 @@
 {
-  "updated_at": "2026-08-31T20:47:49.991995+08:00",
+  "updated_at": "2026-09-01T19:09:48.111290+08:00",
   "total": 1710,
   "camps": [
-    {
-      "school": "中南财经政法大学",
-      "institute": "中南财经政法大学文澜学院",
-      "title": "2026年中南财经政法大学文澜学院关于开展2026年“青出于澜”优秀本科生研招校园开放日研学活动的通知",
-      "url": "https://wls.zuel.edu.cn/2026/0713/c3770a436048/page.htm",
-      "deadline": "2026-08-31",
-      "expired": false,
-      "category": "经管类",
-      "tags": [],
-      "source": "shenyanpai",
-      "urgency": "critical",
-      "department": "文澜学院",
-      "department_group": "其他"
-    },
-    {
-      "school": "南方科技大学",
-      "institute": "深港微电子学院（推免预报名）",
-      "title": "南方科技大学深港微电子学院2027级推荐免试研究生（含直博生）预报名，招生专业包括集成电路科学与工程、集成电路工程，申请人须同时在学校研究生招生服务系统报名并向学院邮箱提交材料。",
-      "url": "https://mp.weixin.qq.com/s/p9QdSnhvbnqEKeDBs7MN7w",
-      "deadline": "2026-08-31",
-      "expired": false,
-      "category": "BoardCaster",
-      "tags": [
-        "AI强校",
-        "双非"
-      ],
-      "source": "boardcaster",
-      "urgency": "critical",
-      "department": "深港微电子学院",
-      "department_group": "电子/通信"
-    },
-    {
-      "school": "南方科技大学",
-      "institute": "计算机科学与工程系",
-      "title": "南方科技大学计算机科学与工程系2027年计划招收全日制硕士研究生、直接攻读博士研究生，接受校内外推免生预报名。招生专业包括0812计算机科学与技术（学硕/直博）和0854电子信息（专硕/直博）。报名时间为2026年7月15日至8月31日；资格审核通过者预计于9月5日前收到邮件通知，考核形式为到校现场面试，预计时间为9月12日下午。\n\n面向已获得或即将获得推免资格的2027届本科生，计算机大类及电子科学与技术、信息与通信工程、自动化、数学、数据科学、信息科学等相关专业均可申请。\n\n申请直博者还须按学院要求提交两封专家推荐信。",
-      "url": "https://cse.sustech.edu.cn/notices/3775.html",
-      "deadline": "2026-08-31",
-      "expired": false,
-      "category": "BoardCaster",
-      "tags": [
-        "AI强校",
-        "双非"
-      ],
-      "source": "boardcaster",
-      "urgency": "critical",
-      "department": "计算机科学与工程系",
-      "department_group": "计算机"
-    },
-    {
-      "school": "广西大学",
-      "institute": "计算机与电子信息学院（推免预报名）",
-      "title": "广西大学计算机与电子信息学院2027年接收推荐免试研究生预报名，申请人须在规定时间内完成网上预报名，后续考核方式和具体安排由学院另行通知。",
-      "url": "https://yjsc.gxu.edu.cn/info/1021/4680.htm",
-      "deadline": "2026-08-31",
-      "expired": false,
-      "category": "BoardCaster",
-      "tags": [
-        "211"
-      ],
-      "source": "boardcaster",
-      "urgency": "critical",
-      "department": "计算机与电子信息学院",
-      "department_group": "计算机"
-    },
-    {
-      "school": "华东师范大学",
-      "institute": "密码学院（推免预报名）",
-      "title": "华东师范大学密码学院2027年接收推荐免试研究生（含本科直博）预报名，复试预计于9月在中山北路校区现场进行，采用面试面谈形式，不设笔试和机试。",
-      "url": "https://sc.ecnu.edu.cn/c3/e8/c50224a771048/page.htm",
-      "deadline": "2026-08-31",
-      "expired": false,
-      "category": "BoardCaster",
-      "tags": [
-        "985",
-        "211"
-      ],
-      "source": "boardcaster",
-      "urgency": "critical",
-      "department": "密码学院",
-      "department_group": "其他"
-    },
-    {
-      "school": "香港大学",
-      "institute": "计算与数据科学学院（2027研究型硕博早招第二轮）",
-      "title": "香港大学计算与数据科学学院2027年研究型硕博早期招生第二轮，覆盖计算机与数据科学相关研究方向，学院计划于2026年9月组织面试。",
-      "url": "https://www.cs.hku.hk/programmes/research-based/mphil-phd-admission",
-      "deadline": "2026-08-31",
-      "expired": false,
-      "category": "BoardCaster",
-      "tags": [
-        "港澳"
-      ],
-      "source": "boardcaster",
-      "urgency": "critical",
-      "department": "计算与数据科学学院",
-      "department_group": "计算机"
-    },
     {
       "school": "吉林大学",
       "institute": "吉林大学药学院2026年校园学术活动",
@@ -277,7 +180,7 @@
         "211"
       ],
       "source": "boardcaster",
-      "urgency": "soon",
+      "urgency": "critical",
       "department": "人工智能学院",
       "department_group": "计算机"
     },
@@ -444,7 +347,7 @@
         "211"
       ],
       "source": "boardcaster",
-      "urgency": "near",
+      "urgency": "soon",
       "department": "软件学院",
       "department_group": "计算机"
     },
@@ -461,7 +364,7 @@
         "211"
       ],
       "source": "boardcaster",
-      "urgency": "near",
+      "urgency": "soon",
       "department": "数据科学与工程学院",
       "department_group": "计算机"
     },
@@ -27180,6 +27083,103 @@
       "source": "boardcaster",
       "urgency": "expired",
       "department": "计算机与通信工程学院",
+      "department_group": "计算机"
+    },
+    {
+      "school": "中南财经政法大学",
+      "institute": "中南财经政法大学文澜学院",
+      "title": "2026年中南财经政法大学文澜学院关于开展2026年“青出于澜”优秀本科生研招校园开放日研学活动的通知",
+      "url": "https://wls.zuel.edu.cn/2026/0713/c3770a436048/page.htm",
+      "deadline": "2026-08-31",
+      "expired": true,
+      "category": "经管类",
+      "tags": [],
+      "source": "shenyanpai",
+      "urgency": "expired",
+      "department": "文澜学院",
+      "department_group": "其他"
+    },
+    {
+      "school": "南方科技大学",
+      "institute": "深港微电子学院（推免预报名）",
+      "title": "南方科技大学深港微电子学院2027级推荐免试研究生（含直博生）预报名，招生专业包括集成电路科学与工程、集成电路工程，申请人须同时在学校研究生招生服务系统报名并向学院邮箱提交材料。",
+      "url": "https://mp.weixin.qq.com/s/p9QdSnhvbnqEKeDBs7MN7w",
+      "deadline": "2026-08-31",
+      "expired": true,
+      "category": "BoardCaster",
+      "tags": [
+        "AI强校",
+        "双非"
+      ],
+      "source": "boardcaster",
+      "urgency": "expired",
+      "department": "深港微电子学院",
+      "department_group": "电子/通信"
+    },
+    {
+      "school": "南方科技大学",
+      "institute": "计算机科学与工程系",
+      "title": "南方科技大学计算机科学与工程系2027年计划招收全日制硕士研究生、直接攻读博士研究生，接受校内外推免生预报名。招生专业包括0812计算机科学与技术（学硕/直博）和0854电子信息（专硕/直博）。报名时间为2026年7月15日至8月31日；资格审核通过者预计于9月5日前收到邮件通知，考核形式为到校现场面试，预计时间为9月12日下午。\n\n面向已获得或即将获得推免资格的2027届本科生，计算机大类及电子科学与技术、信息与通信工程、自动化、数学、数据科学、信息科学等相关专业均可申请。\n\n申请直博者还须按学院要求提交两封专家推荐信。",
+      "url": "https://cse.sustech.edu.cn/notices/3775.html",
+      "deadline": "2026-08-31",
+      "expired": true,
+      "category": "BoardCaster",
+      "tags": [
+        "AI强校",
+        "双非"
+      ],
+      "source": "boardcaster",
+      "urgency": "expired",
+      "department": "计算机科学与工程系",
+      "department_group": "计算机"
+    },
+    {
+      "school": "广西大学",
+      "institute": "计算机与电子信息学院（推免预报名）",
+      "title": "广西大学计算机与电子信息学院2027年接收推荐免试研究生预报名，申请人须在规定时间内完成网上预报名，后续考核方式和具体安排由学院另行通知。",
+      "url": "https://yjsc.gxu.edu.cn/info/1021/4680.htm",
+      "deadline": "2026-08-31",
+      "expired": true,
+      "category": "BoardCaster",
+      "tags": [
+        "211"
+      ],
+      "source": "boardcaster",
+      "urgency": "expired",
+      "department": "计算机与电子信息学院",
+      "department_group": "计算机"
+    },
+    {
+      "school": "华东师范大学",
+      "institute": "密码学院（推免预报名）",
+      "title": "华东师范大学密码学院2027年接收推荐免试研究生（含本科直博）预报名，复试预计于9月在中山北路校区现场进行，采用面试面谈形式，不设笔试和机试。",
+      "url": "https://sc.ecnu.edu.cn/c3/e8/c50224a771048/page.htm",
+      "deadline": "2026-08-31",
+      "expired": true,
+      "category": "BoardCaster",
+      "tags": [
+        "985",
+        "211"
+      ],
+      "source": "boardcaster",
+      "urgency": "expired",
+      "department": "密码学院",
+      "department_group": "其他"
+    },
+    {
+      "school": "香港大学",
+      "institute": "计算与数据科学学院（2027研究型硕博早招第二轮）",
+      "title": "香港大学计算与数据科学学院2027年研究型硕博早期招生第二轮，覆盖计算机与数据科学相关研究方向，学院计划于2026年9月组织面试。",
+      "url": "https://www.cs.hku.hk/programmes/research-based/mphil-phd-admission",
+      "deadline": "2026-08-31",
+      "expired": true,
+      "category": "BoardCaster",
+      "tags": [
+        "港澳"
+      ],
+      "source": "boardcaster",
+      "urgency": "expired",
+      "department": "计算与数据科学学院",
       "department_group": "计算机"
     },
     {
