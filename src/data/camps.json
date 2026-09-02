@@ -1,73 +1,7 @@
 {
-  "updated_at": "2026-09-01T19:09:48.111290+08:00",
+  "updated_at": "2026-09-02T18:42:11.938783+08:00",
   "total": 1710,
   "camps": [
-    {
-      "school": "吉林大学",
-      "institute": "吉林大学药学院2026年校园学术活动",
-      "title": "2026年吉林大学药学院2026年校园学术活动开放日的通知",
-      "url": "https://yxy.jlu.edu.cn/info/1257/3784.htm",
-      "deadline": "2026-09-01",
-      "expired": false,
-      "category": "医农类",
-      "tags": [
-        "985",
-        "211"
-      ],
-      "source": "shenyanpai",
-      "urgency": "critical",
-      "department": "药学院",
-      "department_group": "生医/药学"
-    },
-    {
-      "school": "中国科学院大学",
-      "institute": "电子电气与通信工程学院（推免研究生接收）",
-      "title": "中国科学院大学电子电气与通信工程学院接收2027级推荐免试研究生，招生专业包括通信与信息系统、信号与信息处理、微电子学与固体电子学和电子信息，申请材料需于2026年8月31日前发送至学院邮箱。",
-      "url": "https://eece.ucas.ac.cn/index.php/zh-cn/2014-06-13-06-51-06/2715-2027",
-      "deadline": "2026-09-01",
-      "expired": false,
-      "category": "BoardCaster",
-      "tags": [
-        "研究院"
-      ],
-      "source": "boardcaster",
-      "urgency": "critical",
-      "department": "电子电气与通信工程学院",
-      "department_group": "电子/通信"
-    },
-    {
-      "school": "南方科技大学",
-      "institute": "计算机科学与工程系（国优计划）",
-      "title": "南方科技大学计算机科学与工程系2027年国优计划研究生招生预报名，面向已获得或即将获得推免资格、愿意从事中小学教育工作的2027届计算机类及相关专业本科生，拟招收计算机科学与技术学术型硕士8人，并配套教育硕士培养，预计于9月12日线下面试。",
-      "url": "https://cse.sustech.edu.cn/notices/3776.html",
-      "deadline": "2026-09-01",
-      "expired": false,
-      "category": "BoardCaster",
-      "tags": [
-        "AI强校",
-        "双非"
-      ],
-      "source": "boardcaster",
-      "urgency": "critical",
-      "department": "计算机科学与工程系",
-      "department_group": "计算机"
-    },
-    {
-      "school": "西南财经大学",
-      "institute": "计算机与人工智能学院（推免研究生报名）",
-      "title": "西南财经大学计算机与人工智能学院2027年接收推荐免试研究生报名，招生专业包括计算机科学与技术和电子信息，学院预计于2026年9月15日前后组织网络远程面试。",
-      "url": "https://it.swufe.edu.cn/info/1166/22608.htm",
-      "deadline": "2026-09-01",
-      "expired": false,
-      "category": "BoardCaster",
-      "tags": [
-        "211"
-      ],
-      "source": "boardcaster",
-      "urgency": "critical",
-      "department": "计算机与人工智能学院",
-      "department_group": "计算机"
-    },
     {
       "school": "南京理工大学",
       "institute": "智能科学与技术学院（推免预报名）",
@@ -194,7 +128,7 @@
       "category": "理工类",
       "tags": [],
       "source": "shenyanpai",
-      "urgency": "soon",
+      "urgency": "critical",
       "department": "信息工程学院",
       "department_group": "计算机"
     },
@@ -208,7 +142,7 @@
       "category": "经管类",
       "tags": [],
       "source": "shenyanpai",
-      "urgency": "soon",
+      "urgency": "critical",
       "department": "经济学院",
       "department_group": "经管/金融"
     },
@@ -225,7 +159,7 @@
         "211"
       ],
       "source": "boardcaster",
-      "urgency": "soon",
+      "urgency": "critical",
       "department": "计算机科学与技术学院",
       "department_group": "计算机"
     },
@@ -381,7 +315,7 @@
         "211"
       ],
       "source": "boardcaster",
-      "urgency": "near",
+      "urgency": "soon",
       "department": "机器人科学与工程学院",
       "department_group": "自动化/仪器"
     },
@@ -761,7 +695,7 @@
         "211"
       ],
       "source": "boardcaster",
-      "urgency": "far",
+      "urgency": "near",
       "department": "集成电路学部",
       "department_group": "电子/通信"
     },
@@ -27180,6 +27114,72 @@
       "source": "boardcaster",
       "urgency": "expired",
       "department": "计算与数据科学学院",
+      "department_group": "计算机"
+    },
+    {
+      "school": "吉林大学",
+      "institute": "吉林大学药学院2026年校园学术活动",
+      "title": "2026年吉林大学药学院2026年校园学术活动开放日的通知",
+      "url": "https://yxy.jlu.edu.cn/info/1257/3784.htm",
+      "deadline": "2026-09-01",
+      "expired": true,
+      "category": "医农类",
+      "tags": [
+        "985",
+        "211"
+      ],
+      "source": "shenyanpai",
+      "urgency": "expired",
+      "department": "药学院",
+      "department_group": "生医/药学"
+    },
+    {
+      "school": "中国科学院大学",
+      "institute": "电子电气与通信工程学院（推免研究生接收）",
+      "title": "中国科学院大学电子电气与通信工程学院接收2027级推荐免试研究生，招生专业包括通信与信息系统、信号与信息处理、微电子学与固体电子学和电子信息，申请材料需于2026年8月31日前发送至学院邮箱。",
+      "url": "https://eece.ucas.ac.cn/index.php/zh-cn/2014-06-13-06-51-06/2715-2027",
+      "deadline": "2026-09-01",
+      "expired": true,
+      "category": "BoardCaster",
+      "tags": [
+        "研究院"
+      ],
+      "source": "boardcaster",
+      "urgency": "expired",
+      "department": "电子电气与通信工程学院",
+      "department_group": "电子/通信"
+    },
+    {
+      "school": "南方科技大学",
+      "institute": "计算机科学与工程系（国优计划）",
+      "title": "南方科技大学计算机科学与工程系2027年国优计划研究生招生预报名，面向已获得或即将获得推免资格、愿意从事中小学教育工作的2027届计算机类及相关专业本科生，拟招收计算机科学与技术学术型硕士8人，并配套教育硕士培养，预计于9月12日线下面试。",
+      "url": "https://cse.sustech.edu.cn/notices/3776.html",
+      "deadline": "2026-09-01",
+      "expired": true,
+      "category": "BoardCaster",
+      "tags": [
+        "AI强校",
+        "双非"
+      ],
+      "source": "boardcaster",
+      "urgency": "expired",
+      "department": "计算机科学与工程系",
+      "department_group": "计算机"
+    },
+    {
+      "school": "西南财经大学",
+      "institute": "计算机与人工智能学院（推免研究生报名）",
+      "title": "西南财经大学计算机与人工智能学院2027年接收推荐免试研究生报名，招生专业包括计算机科学与技术和电子信息，学院预计于2026年9月15日前后组织网络远程面试。",
+      "url": "https://it.swufe.edu.cn/info/1166/22608.htm",
+      "deadline": "2026-09-01",
+      "expired": true,
+      "category": "BoardCaster",
+      "tags": [
+        "211"
+      ],
+      "source": "boardcaster",
+      "urgency": "expired",
+      "department": "计算机与人工智能学院",
       "department_group": "计算机"
     },
     {
