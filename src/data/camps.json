@@ -1,56 +1,7 @@
 {
-  "updated_at": "2026-09-02T18:42:11.938783+08:00",
+  "updated_at": "2026-09-03T18:43:41.005239+08:00",
   "total": 1710,
   "camps": [
-    {
-      "school": "南京理工大学",
-      "institute": "智能科学与技术学院（推免预报名）",
-      "title": "南京理工大学智能科学与技术学院2027年研究生推免预报名，接收全日制智能科学与技术专业推荐免试研究生，学院将于报名结束后分批审核申请并联系考生参加面试。",
-      "url": "https://sim.njust.edu.cn/67/10/c15653a354064/page.htm",
-      "deadline": "2026-09-02",
-      "expired": false,
-      "category": "BoardCaster",
-      "tags": [
-        "211"
-      ],
-      "source": "boardcaster",
-      "urgency": "critical",
-      "department": "智能科学与技术学院",
-      "department_group": "计算机"
-    },
-    {
-      "school": "厦门大学",
-      "institute": "人工智能研究院（推免预报名）",
-      "title": "厦门大学人工智能研究院2027年接收推荐免试研究生预报名，招收人工智能专业全日制专业学位硕士研究生，面向有望取得推免资格、英语水平良好且具有科研潜质的优秀应届本科生。",
-      "url": "https://iai.xmu.edu.cn/info/1120/6145.htm",
-      "deadline": "2026-09-02",
-      "expired": false,
-      "category": "BoardCaster",
-      "tags": [
-        "985",
-        "211"
-      ],
-      "source": "boardcaster",
-      "urgency": "critical",
-      "department": "人工智能研究院",
-      "department_group": "计算机"
-    },
-    {
-      "school": "中国科学院",
-      "institute": "计算机网络信息中心（推免生接收）",
-      "title": "中国科学院计算机网络信息中心2027年接收推荐免试研究生（含直博生），依托计算机科学与技术、网络空间安全和电子信息等培养方向，申请人须通过中国科学院大学推荐免试生申请系统报名。",
-      "url": "https://cnic.cas.cn/yjsjy/zsxx/tjms/202608/t20260804_8259075.html",
-      "deadline": "2026-09-02",
-      "expired": false,
-      "category": "BoardCaster",
-      "tags": [
-        "研究院"
-      ],
-      "source": "boardcaster",
-      "urgency": "critical",
-      "department": "中国科学院计算机网络信息中心",
-      "department_group": "计算机"
-    },
     {
       "school": "北京科技大学",
       "institute": "人工智能学院（推免预报名）",
@@ -176,7 +127,7 @@
         "211"
       ],
       "source": "boardcaster",
-      "urgency": "soon",
+      "urgency": "critical",
       "department": "软件学院",
       "department_group": "计算机"
     },
@@ -194,7 +145,7 @@
         "211"
       ],
       "source": "boardcaster",
-      "urgency": "soon",
+      "urgency": "critical",
       "department": "电子与信息工程学院",
       "department_group": "计算机"
     },
@@ -332,7 +283,7 @@
         "211"
       ],
       "source": "shenyanpai",
-      "urgency": "near",
+      "urgency": "soon",
       "department": "数学学院",
       "department_group": "数学/统计"
     },
@@ -349,7 +300,7 @@
         "211"
       ],
       "source": "boardcaster",
-      "urgency": "near",
+      "urgency": "soon",
       "department": "计算机科学与技术学院",
       "department_group": "计算机"
     },
@@ -366,7 +317,7 @@
         "211"
       ],
       "source": "boardcaster",
-      "urgency": "near",
+      "urgency": "soon",
       "department": "集成电路学院",
       "department_group": "电子/通信"
     },
@@ -383,7 +334,7 @@
         "211"
       ],
       "source": "boardcaster",
-      "urgency": "near",
+      "urgency": "soon",
       "department": "电子工程学院",
       "department_group": "电子/通信"
     },
@@ -400,7 +351,7 @@
         "211"
       ],
       "source": "boardcaster",
-      "urgency": "near",
+      "urgency": "soon",
       "department": "卓越工程师学院",
       "department_group": "交叉/创新创业"
     },
@@ -417,7 +368,7 @@
         "211"
       ],
       "source": "boardcaster",
-      "urgency": "near",
+      "urgency": "soon",
       "department": "网络空间安全学院",
       "department_group": "计算机"
     },
@@ -434,7 +385,7 @@
         "211"
       ],
       "source": "boardcaster",
-      "urgency": "near",
+      "urgency": "soon",
       "department": "空间人工智能学院",
       "department_group": "计算机"
     },
@@ -451,7 +402,7 @@
         "211"
       ],
       "source": "boardcaster",
-      "urgency": "near",
+      "urgency": "soon",
       "department": "人工智能学院",
       "department_group": "计算机"
     },
@@ -468,7 +419,7 @@
         "211"
       ],
       "source": "boardcaster",
-      "urgency": "near",
+      "urgency": "soon",
       "department": "计算机学院（国家示范性软件学院",
       "department_group": "计算机"
     },
@@ -485,7 +436,7 @@
         "211"
       ],
       "source": "boardcaster",
-      "urgency": "near",
+      "urgency": "soon",
       "department": "智能工程与自动化学院",
       "department_group": "自动化/仪器"
     },
@@ -27180,6 +27131,55 @@
       "source": "boardcaster",
       "urgency": "expired",
       "department": "计算机与人工智能学院",
+      "department_group": "计算机"
+    },
+    {
+      "school": "南京理工大学",
+      "institute": "智能科学与技术学院（推免预报名）",
+      "title": "南京理工大学智能科学与技术学院2027年研究生推免预报名，接收全日制智能科学与技术专业推荐免试研究生，学院将于报名结束后分批审核申请并联系考生参加面试。",
+      "url": "https://sim.njust.edu.cn/67/10/c15653a354064/page.htm",
+      "deadline": "2026-09-02",
+      "expired": true,
+      "category": "BoardCaster",
+      "tags": [
+        "211"
+      ],
+      "source": "boardcaster",
+      "urgency": "expired",
+      "department": "智能科学与技术学院",
+      "department_group": "计算机"
+    },
+    {
+      "school": "厦门大学",
+      "institute": "人工智能研究院（推免预报名）",
+      "title": "厦门大学人工智能研究院2027年接收推荐免试研究生预报名，招收人工智能专业全日制专业学位硕士研究生，面向有望取得推免资格、英语水平良好且具有科研潜质的优秀应届本科生。",
+      "url": "https://iai.xmu.edu.cn/info/1120/6145.htm",
+      "deadline": "2026-09-02",
+      "expired": true,
+      "category": "BoardCaster",
+      "tags": [
+        "985",
+        "211"
+      ],
+      "source": "boardcaster",
+      "urgency": "expired",
+      "department": "人工智能研究院",
+      "department_group": "计算机"
+    },
+    {
+      "school": "中国科学院",
+      "institute": "计算机网络信息中心（推免生接收）",
+      "title": "中国科学院计算机网络信息中心2027年接收推荐免试研究生（含直博生），依托计算机科学与技术、网络空间安全和电子信息等培养方向，申请人须通过中国科学院大学推荐免试生申请系统报名。",
+      "url": "https://cnic.cas.cn/yjsjy/zsxx/tjms/202608/t20260804_8259075.html",
+      "deadline": "2026-09-02",
+      "expired": true,
+      "category": "BoardCaster",
+      "tags": [
+        "研究院"
+      ],
+      "source": "boardcaster",
+      "urgency": "expired",
+      "department": "中国科学院计算机网络信息中心",
       "department_group": "计算机"
     },
     {
