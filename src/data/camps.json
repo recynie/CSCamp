@@ -1,57 +1,7 @@
 {
-  "updated_at": "2026-09-03T18:43:41.005239+08:00",
+  "updated_at": "2026-09-04T18:39:41.264457+08:00",
   "total": 1710,
   "camps": [
-    {
-      "school": "北京科技大学",
-      "institute": "人工智能学院（推免预报名）",
-      "title": "北京科技大学人工智能学院2027年接收推荐免试硕士研究生（含直博生）预报名，面向人工智能、自动化、计算机、通信、软件、物联网、机械和数学等相关专业学生，学院拟于9月中旬组织复试。",
-      "url": "https://ai.ustb.edu.cn/xwgg/tzgg/e41a2652d8ca473d85966eb9142585e6.htm",
-      "deadline": "2026-09-03",
-      "expired": false,
-      "category": "BoardCaster",
-      "tags": [
-        "211"
-      ],
-      "source": "boardcaster",
-      "urgency": "critical",
-      "department": "人工智能学院",
-      "department_group": "计算机"
-    },
-    {
-      "school": "南开大学",
-      "institute": "软件学院（推免预报名）",
-      "title": "南开大学软件学院2027年接收推荐免试研究生预报名，学校系统报名截至9月1日，合并PDF材料须于9月3日23:59前上传，申请材料包括两封专家亲笔签名推荐函。",
-      "url": "https://cs.nankai.edu.cn/info/1076/3673.htm",
-      "deadline": "2026-09-03",
-      "expired": false,
-      "category": "BoardCaster",
-      "tags": [
-        "985",
-        "211"
-      ],
-      "source": "boardcaster",
-      "urgency": "critical",
-      "department": "软件学院",
-      "department_group": "计算机"
-    },
-    {
-      "school": "南开大学",
-      "institute": "卓越工程师学院（计算机相关工程硕博士专项）",
-      "title": "南开大学卓越工程师学院2027年工程硕博士培养改革专项预报名，其中计算机相关方向包括图像增强、多模态基础模型、智能人机交互、高性能计算软件、数智技术、基础软件与高算力系统及人工智能；接收专业学位硕士和直博申请。",
-      "url": "https://cee.nankai.edu.cn/2026/0821/c37052a601337/page.htm",
-      "deadline": "2026-09-03",
-      "expired": false,
-      "category": "BoardCaster",
-      "tags": [
-        "985",
-        "211"
-      ],
-      "source": "boardcaster",
-      "urgency": "critical",
-      "department": "卓越工程师学院",
-      "department_group": "交叉/创新创业"
-    },
     {
       "school": "中山大学",
       "institute": "人工智能学院（推免研究生报名）",
@@ -162,7 +112,7 @@
         "211"
       ],
       "source": "boardcaster",
-      "urgency": "soon",
+      "urgency": "critical",
       "department": "软件工程学院（滴水湖国际软件学院",
       "department_group": "计算机"
     },
@@ -181,7 +131,7 @@
         "211"
       ],
       "source": "boardcaster",
-      "urgency": "soon",
+      "urgency": "critical",
       "department": "数学科学学院",
       "department_group": "数学/统计"
     },
@@ -198,7 +148,7 @@
         "211"
       ],
       "source": "boardcaster",
-      "urgency": "soon",
+      "urgency": "critical",
       "department": "计算机科学与技术学院",
       "department_group": "计算机"
     },
@@ -215,7 +165,7 @@
         "211"
       ],
       "source": "boardcaster",
-      "urgency": "soon",
+      "urgency": "critical",
       "department": "前沿交叉学科研究院",
       "department_group": "交叉/创新创业"
     },
@@ -453,7 +403,7 @@
         "211"
       ],
       "source": "boardcaster",
-      "urgency": "near",
+      "urgency": "soon",
       "department": "电气自动化与信息工程学院",
       "department_group": "计算机"
     },
@@ -472,7 +422,7 @@
         "211"
       ],
       "source": "boardcaster",
-      "urgency": "near",
+      "urgency": "soon",
       "department": "工程师学院",
       "department_group": "其他"
     },
@@ -491,7 +441,7 @@
         "211"
       ],
       "source": "boardcaster",
-      "urgency": "near",
+      "urgency": "soon",
       "department": "软件学院",
       "department_group": "计算机"
     },
@@ -510,7 +460,7 @@
         "211"
       ],
       "source": "boardcaster",
-      "urgency": "near",
+      "urgency": "soon",
       "department": "计算机科学与技术学院",
       "department_group": "计算机"
     },
@@ -529,7 +479,7 @@
         "211"
       ],
       "source": "boardcaster",
-      "urgency": "near",
+      "urgency": "soon",
       "department": "人工智能学院",
       "department_group": "计算机"
     },
@@ -545,7 +495,7 @@
         "四非"
       ],
       "source": "boardcaster",
-      "urgency": "near",
+      "urgency": "soon",
       "department": "智能学部智能科学与工程学院",
       "department_group": "其他"
     },
@@ -27181,6 +27131,56 @@
       "urgency": "expired",
       "department": "中国科学院计算机网络信息中心",
       "department_group": "计算机"
+    },
+    {
+      "school": "北京科技大学",
+      "institute": "人工智能学院（推免预报名）",
+      "title": "北京科技大学人工智能学院2027年接收推荐免试硕士研究生（含直博生）预报名，面向人工智能、自动化、计算机、通信、软件、物联网、机械和数学等相关专业学生，学院拟于9月中旬组织复试。",
+      "url": "https://ai.ustb.edu.cn/xwgg/tzgg/e41a2652d8ca473d85966eb9142585e6.htm",
+      "deadline": "2026-09-03",
+      "expired": true,
+      "category": "BoardCaster",
+      "tags": [
+        "211"
+      ],
+      "source": "boardcaster",
+      "urgency": "expired",
+      "department": "人工智能学院",
+      "department_group": "计算机"
+    },
+    {
+      "school": "南开大学",
+      "institute": "软件学院（推免预报名）",
+      "title": "南开大学软件学院2027年接收推荐免试研究生预报名，学校系统报名截至9月1日，合并PDF材料须于9月3日23:59前上传，申请材料包括两封专家亲笔签名推荐函。",
+      "url": "https://cs.nankai.edu.cn/info/1076/3673.htm",
+      "deadline": "2026-09-03",
+      "expired": true,
+      "category": "BoardCaster",
+      "tags": [
+        "985",
+        "211"
+      ],
+      "source": "boardcaster",
+      "urgency": "expired",
+      "department": "软件学院",
+      "department_group": "计算机"
+    },
+    {
+      "school": "南开大学",
+      "institute": "卓越工程师学院（计算机相关工程硕博士专项）",
+      "title": "南开大学卓越工程师学院2027年工程硕博士培养改革专项预报名，其中计算机相关方向包括图像增强、多模态基础模型、智能人机交互、高性能计算软件、数智技术、基础软件与高算力系统及人工智能；接收专业学位硕士和直博申请。",
+      "url": "https://cee.nankai.edu.cn/2026/0821/c37052a601337/page.htm",
+      "deadline": "2026-09-03",
+      "expired": true,
+      "category": "BoardCaster",
+      "tags": [
+        "985",
+        "211"
+      ],
+      "source": "boardcaster",
+      "urgency": "expired",
+      "department": "卓越工程师学院",
+      "department_group": "交叉/创新创业"
     },
     {
       "school": "清华大学",
