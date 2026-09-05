@@ -1,24 +1,7 @@
 {
-  "updated_at": "2026-09-04T18:39:41.264457+08:00",
+  "updated_at": "2026-09-05T18:00:01.881518+08:00",
   "total": 1710,
   "camps": [
-    {
-      "school": "中山大学",
-      "institute": "人工智能学院（推免研究生报名）",
-      "title": "中山大学人工智能学院2027年接收推荐免试研究生报名，招生专业包括计算机科学与技术学术型硕博和人工智能专业型硕博；申请人须同时提交报名问卷并将完整申请材料发送至学院邮箱。",
-      "url": "https://sai.sysu.edu.cn/article/747",
-      "deadline": "2026-09-04",
-      "expired": false,
-      "category": "BoardCaster",
-      "tags": [
-        "985",
-        "211"
-      ],
-      "source": "boardcaster",
-      "urgency": "critical",
-      "department": "人工智能学院",
-      "department_group": "计算机"
-    },
     {
       "school": "中南财经政法大学",
       "institute": "中南财经政法大学信息工程学院2026年“信工Plus”优秀本科生研招",
@@ -182,7 +165,7 @@
         "211"
       ],
       "source": "boardcaster",
-      "urgency": "soon",
+      "urgency": "critical",
       "department": "软件学院",
       "department_group": "计算机"
     },
@@ -199,7 +182,7 @@
         "211"
       ],
       "source": "boardcaster",
-      "urgency": "soon",
+      "urgency": "critical",
       "department": "数据科学与工程学院",
       "department_group": "计算机"
     },
@@ -511,7 +494,7 @@
         "港澳"
       ],
       "source": "boardcaster",
-      "urgency": "near",
+      "urgency": "soon",
       "department": "数据科学与人工智能学系",
       "department_group": "计算机"
     },
@@ -613,7 +596,7 @@
         "211"
       ],
       "source": "boardcaster",
-      "urgency": "far",
+      "urgency": "near",
       "department": "人工智能学院",
       "department_group": "计算机"
     },
@@ -27181,6 +27164,23 @@
       "urgency": "expired",
       "department": "卓越工程师学院",
       "department_group": "交叉/创新创业"
+    },
+    {
+      "school": "中山大学",
+      "institute": "人工智能学院（推免研究生报名）",
+      "title": "中山大学人工智能学院2027年接收推荐免试研究生报名，招生专业包括计算机科学与技术学术型硕博和人工智能专业型硕博；申请人须同时提交报名问卷并将完整申请材料发送至学院邮箱。",
+      "url": "https://sai.sysu.edu.cn/article/747",
+      "deadline": "2026-09-04",
+      "expired": true,
+      "category": "BoardCaster",
+      "tags": [
+        "985",
+        "211"
+      ],
+      "source": "boardcaster",
+      "urgency": "expired",
+      "department": "人工智能学院",
+      "department_group": "计算机"
     },
     {
       "school": "清华大学",
