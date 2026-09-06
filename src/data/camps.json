@@ -1,52 +1,7 @@
 {
-  "updated_at": "2026-09-05T18:00:01.881518+08:00",
+  "updated_at": "2026-09-06T18:19:29.888268+08:00",
   "total": 1710,
   "camps": [
-    {
-      "school": "中南财经政法大学",
-      "institute": "中南财经政法大学信息工程学院2026年“信工Plus”优秀本科生研招",
-      "title": "2026年中南财经政法大学信息工程学院2026年“信工Plus”优秀本科生研招开放日研学宣传活动",
-      "url": "https://xagx.zuel.edu.cn/2026/0703/c3402a435133/page.htm",
-      "deadline": "2026-09-05",
-      "expired": false,
-      "category": "理工类",
-      "tags": [],
-      "source": "shenyanpai",
-      "urgency": "critical",
-      "department": "信息工程学院",
-      "department_group": "计算机"
-    },
-    {
-      "school": "中南财经政法大学",
-      "institute": "中南财经政法大学经济学院",
-      "title": "2026年中南财经政法大学经济学院关于举办2026年度“优秀本科生研招校园开放日研学活动”的通知",
-      "url": "https://jjxy.zuel.edu.cn/2026/0714/c2744a436106/page.htm",
-      "deadline": "2026-09-05",
-      "expired": false,
-      "category": "经管类",
-      "tags": [],
-      "source": "shenyanpai",
-      "urgency": "critical",
-      "department": "经济学院",
-      "department_group": "经管/金融"
-    },
-    {
-      "school": "华东师范大学",
-      "institute": "计算机科学与技术学院（推免预报名）",
-      "title": "华东师范大学计算机科学与技术学院2027年接收推荐免试研究生（含直接攻博）预报名，面向预计获得推免资格、具有计算机及相关专业背景的优秀本科生，申请人须在学校推免预报名系统提交信息和材料。",
-      "url": "http://www.cs.ecnu.edu.cn/c3/c2/c19867a771010/page.htm",
-      "deadline": "2026-09-05",
-      "expired": false,
-      "category": "BoardCaster",
-      "tags": [
-        "985",
-        "211"
-      ],
-      "source": "boardcaster",
-      "urgency": "critical",
-      "department": "计算机科学与技术学院",
-      "department_group": "计算机"
-    },
     {
       "school": "东北大学",
       "institute": "软件学院（推免预报名）",
@@ -199,7 +154,7 @@
         "211"
       ],
       "source": "boardcaster",
-      "urgency": "soon",
+      "urgency": "critical",
       "department": "机器人科学与工程学院",
       "department_group": "自动化/仪器"
     },
@@ -511,7 +466,7 @@
         "211"
       ],
       "source": "boardcaster",
-      "urgency": "near",
+      "urgency": "soon",
       "department": "计算机学院、密码与网络空间安全学院",
       "department_group": "计算机"
     },
@@ -27180,6 +27135,51 @@
       "source": "boardcaster",
       "urgency": "expired",
       "department": "人工智能学院",
+      "department_group": "计算机"
+    },
+    {
+      "school": "中南财经政法大学",
+      "institute": "中南财经政法大学信息工程学院2026年“信工Plus”优秀本科生研招",
+      "title": "2026年中南财经政法大学信息工程学院2026年“信工Plus”优秀本科生研招开放日研学宣传活动",
+      "url": "https://xagx.zuel.edu.cn/2026/0703/c3402a435133/page.htm",
+      "deadline": "2026-09-05",
+      "expired": true,
+      "category": "理工类",
+      "tags": [],
+      "source": "shenyanpai",
+      "urgency": "expired",
+      "department": "信息工程学院",
+      "department_group": "计算机"
+    },
+    {
+      "school": "中南财经政法大学",
+      "institute": "中南财经政法大学经济学院",
+      "title": "2026年中南财经政法大学经济学院关于举办2026年度“优秀本科生研招校园开放日研学活动”的通知",
+      "url": "https://jjxy.zuel.edu.cn/2026/0714/c2744a436106/page.htm",
+      "deadline": "2026-09-05",
+      "expired": true,
+      "category": "经管类",
+      "tags": [],
+      "source": "shenyanpai",
+      "urgency": "expired",
+      "department": "经济学院",
+      "department_group": "经管/金融"
+    },
+    {
+      "school": "华东师范大学",
+      "institute": "计算机科学与技术学院（推免预报名）",
+      "title": "华东师范大学计算机科学与技术学院2027年接收推荐免试研究生（含直接攻博）预报名，面向预计获得推免资格、具有计算机及相关专业背景的优秀本科生，申请人须在学校推免预报名系统提交信息和材料。",
+      "url": "http://www.cs.ecnu.edu.cn/c3/c2/c19867a771010/page.htm",
+      "deadline": "2026-09-05",
+      "expired": true,
+      "category": "BoardCaster",
+      "tags": [
+        "985",
+        "211"
+      ],
+      "source": "boardcaster",
+      "urgency": "expired",
+      "department": "计算机科学与技术学院",
       "department_group": "计算机"
     },
     {
