@@ -1,116 +1,7 @@
 {
-  "updated_at": "2026-09-11T18:40:09.344696+08:00",
+  "updated_at": "2026-09-12T18:09:26.872257+08:00",
   "total": 1710,
   "camps": [
-    {
-      "school": "天津大学",
-      "institute": "电气自动化与信息工程学院（普通推免）",
-      "title": "天津大学电气自动化与信息工程学院2027级研究生招生推免（普通推免）报名，招生方向包括电气工程、信息与通信工程、控制科学与工程、电子信息和低空技术与工程等，申请人须在天津大学推免申请系统完成报名。",
-      "url": "https://mp.weixin.qq.com/s/zGLQBWGOPKA2iB8J6L1IJQ",
-      "deadline": "2026-09-11",
-      "expired": false,
-      "category": "BoardCaster",
-      "tags": [
-        "985",
-        "211"
-      ],
-      "source": "boardcaster",
-      "urgency": "critical",
-      "department": "电气自动化与信息工程学院",
-      "department_group": "计算机"
-    },
-    {
-      "school": "浙江大学",
-      "institute": "工程师学院（推免研究生报名）",
-      "title": "浙江大学工程师学院2027年全日制专业学位硕士研究生推荐免试招生，面向校内外预计获得推免资格的优秀本科生，卓越培养项目覆盖电子信息、机械、材料与化工、能源动力、人工智能、大数据等多个工程方向。",
-      "url": "https://pi.zju.edu.cn/2026/0730/c67026a3192667/page.htm",
-      "deadline": "2026-09-11",
-      "expired": false,
-      "category": "BoardCaster",
-      "tags": [
-        "C9",
-        "华五",
-        "985",
-        "211"
-      ],
-      "source": "boardcaster",
-      "urgency": "critical",
-      "department": "工程师学院",
-      "department_group": "其他"
-    },
-    {
-      "school": "浙江大学",
-      "institute": "软件学院（推免研究生报名）",
-      "title": "浙江大学软件学院2027年全日制推荐免试研究生招生，招生方向包括人工智能、软件工程、工业设计工程以及电子信息直博，面向预计获得推免资格的优秀本科生。",
-      "url": "http://www.cst.zju.edu.cn/2026/0807/c36206a3193932/page.htm",
-      "deadline": "2026-09-11",
-      "expired": false,
-      "category": "BoardCaster",
-      "tags": [
-        "C9",
-        "华五",
-        "985",
-        "211"
-      ],
-      "source": "boardcaster",
-      "urgency": "critical",
-      "department": "软件学院",
-      "department_group": "计算机"
-    },
-    {
-      "school": "浙江大学",
-      "institute": "计算机科学与技术学院（推免研究生报名）",
-      "title": "浙江大学计算机科学与技术学院2027级推荐免试研究生报名，招生方向包括计算机科学与技术、软件工程、网络空间安全和电子信息，接收专业学位硕士及学术、专业学位直博申请。",
-      "url": "http://www.cs.zju.edu.cn/csen/2026/0807/c27006a3193973/page.htm",
-      "deadline": "2026-09-11",
-      "expired": false,
-      "category": "BoardCaster",
-      "tags": [
-        "C9",
-        "华五",
-        "985",
-        "211"
-      ],
-      "source": "boardcaster",
-      "urgency": "critical",
-      "department": "计算机科学与技术学院",
-      "department_group": "计算机"
-    },
-    {
-      "school": "浙江大学",
-      "institute": "人工智能学院（推免研究生报名）",
-      "title": "浙江大学人工智能学院2027级推荐免试研究生报名，接收人工智能学术学位直博、电子信息（人工智能）专业学位硕士和直博等申请，申请人须通过浙江大学研究生招生服务系统提交材料；申请直博还须提供至少两封专家推荐信。",
-      "url": "https://ai.zju.edu.cn/2026/0810/c90497a3194262/page.htm",
-      "deadline": "2026-09-11",
-      "expired": false,
-      "category": "BoardCaster",
-      "tags": [
-        "C9",
-        "华五",
-        "985",
-        "211"
-      ],
-      "source": "boardcaster",
-      "urgency": "critical",
-      "department": "人工智能学院",
-      "department_group": "计算机"
-    },
-    {
-      "school": "哈尔滨工业大学（深圳）",
-      "institute": "智能学部智能科学与工程学院（推免预报名）",
-      "title": "哈尔滨工业大学（深圳）智能学部智能科学与工程学院2027年接收推荐免试研究生报名，招生方向包括智能科学与技术、人工智能、控制科学与工程和控制工程，学院将定期审核并分批通知面试。",
-      "url": "http://intelligence.hitsz.edu.cn/currency.jsp?urltype=news.NewsContentUrl&wbtreeid=1259&wbnewsid=1924",
-      "deadline": "2026-09-11",
-      "expired": false,
-      "category": "BoardCaster",
-      "tags": [
-        "四非"
-      ],
-      "source": "boardcaster",
-      "urgency": "critical",
-      "department": "智能学部智能科学与工程学院",
-      "department_group": "其他"
-    },
     {
       "school": "香港理工大学",
       "institute": "数据科学与人工智能学系（2027年1月入学PhD/MPhil）",
@@ -225,7 +116,7 @@
         "211"
       ],
       "source": "boardcaster",
-      "urgency": "near",
+      "urgency": "soon",
       "department": "人工智能学院",
       "department_group": "计算机"
     },
@@ -27181,6 +27072,115 @@
       "urgency": "expired",
       "department": "智能工程与自动化学院",
       "department_group": "自动化/仪器"
+    },
+    {
+      "school": "天津大学",
+      "institute": "电气自动化与信息工程学院（普通推免）",
+      "title": "天津大学电气自动化与信息工程学院2027级研究生招生推免（普通推免）报名，招生方向包括电气工程、信息与通信工程、控制科学与工程、电子信息和低空技术与工程等，申请人须在天津大学推免申请系统完成报名。",
+      "url": "https://mp.weixin.qq.com/s/zGLQBWGOPKA2iB8J6L1IJQ",
+      "deadline": "2026-09-11",
+      "expired": true,
+      "category": "BoardCaster",
+      "tags": [
+        "985",
+        "211"
+      ],
+      "source": "boardcaster",
+      "urgency": "expired",
+      "department": "电气自动化与信息工程学院",
+      "department_group": "计算机"
+    },
+    {
+      "school": "浙江大学",
+      "institute": "工程师学院（推免研究生报名）",
+      "title": "浙江大学工程师学院2027年全日制专业学位硕士研究生推荐免试招生，面向校内外预计获得推免资格的优秀本科生，卓越培养项目覆盖电子信息、机械、材料与化工、能源动力、人工智能、大数据等多个工程方向。",
+      "url": "https://pi.zju.edu.cn/2026/0730/c67026a3192667/page.htm",
+      "deadline": "2026-09-11",
+      "expired": true,
+      "category": "BoardCaster",
+      "tags": [
+        "C9",
+        "华五",
+        "985",
+        "211"
+      ],
+      "source": "boardcaster",
+      "urgency": "expired",
+      "department": "工程师学院",
+      "department_group": "其他"
+    },
+    {
+      "school": "浙江大学",
+      "institute": "软件学院（推免研究生报名）",
+      "title": "浙江大学软件学院2027年全日制推荐免试研究生招生，招生方向包括人工智能、软件工程、工业设计工程以及电子信息直博，面向预计获得推免资格的优秀本科生。",
+      "url": "http://www.cst.zju.edu.cn/2026/0807/c36206a3193932/page.htm",
+      "deadline": "2026-09-11",
+      "expired": true,
+      "category": "BoardCaster",
+      "tags": [
+        "C9",
+        "华五",
+        "985",
+        "211"
+      ],
+      "source": "boardcaster",
+      "urgency": "expired",
+      "department": "软件学院",
+      "department_group": "计算机"
+    },
+    {
+      "school": "浙江大学",
+      "institute": "计算机科学与技术学院（推免研究生报名）",
+      "title": "浙江大学计算机科学与技术学院2027级推荐免试研究生报名，招生方向包括计算机科学与技术、软件工程、网络空间安全和电子信息，接收专业学位硕士及学术、专业学位直博申请。",
+      "url": "http://www.cs.zju.edu.cn/csen/2026/0807/c27006a3193973/page.htm",
+      "deadline": "2026-09-11",
+      "expired": true,
+      "category": "BoardCaster",
+      "tags": [
+        "C9",
+        "华五",
+        "985",
+        "211"
+      ],
+      "source": "boardcaster",
+      "urgency": "expired",
+      "department": "计算机科学与技术学院",
+      "department_group": "计算机"
+    },
+    {
+      "school": "浙江大学",
+      "institute": "人工智能学院（推免研究生报名）",
+      "title": "浙江大学人工智能学院2027级推荐免试研究生报名，接收人工智能学术学位直博、电子信息（人工智能）专业学位硕士和直博等申请，申请人须通过浙江大学研究生招生服务系统提交材料；申请直博还须提供至少两封专家推荐信。",
+      "url": "https://ai.zju.edu.cn/2026/0810/c90497a3194262/page.htm",
+      "deadline": "2026-09-11",
+      "expired": true,
+      "category": "BoardCaster",
+      "tags": [
+        "C9",
+        "华五",
+        "985",
+        "211"
+      ],
+      "source": "boardcaster",
+      "urgency": "expired",
+      "department": "人工智能学院",
+      "department_group": "计算机"
+    },
+    {
+      "school": "哈尔滨工业大学（深圳）",
+      "institute": "智能学部智能科学与工程学院（推免预报名）",
+      "title": "哈尔滨工业大学（深圳）智能学部智能科学与工程学院2027年接收推荐免试研究生报名，招生方向包括智能科学与技术、人工智能、控制科学与工程和控制工程，学院将定期审核并分批通知面试。",
+      "url": "http://intelligence.hitsz.edu.cn/currency.jsp?urltype=news.NewsContentUrl&wbtreeid=1259&wbnewsid=1924",
+      "deadline": "2026-09-11",
+      "expired": true,
+      "category": "BoardCaster",
+      "tags": [
+        "四非"
+      ],
+      "source": "boardcaster",
+      "urgency": "expired",
+      "department": "智能学部智能科学与工程学院",
+      "department_group": "其他"
     },
     {
       "school": "清华大学",
