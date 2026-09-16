@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-15T19:09:27.698750+08:00",
+  "updated_at": "2026-09-16T18:54:06.309955+08:00",
   "total": 1710,
   "camps": [
     {
@@ -32,7 +32,7 @@
         "211"
       ],
       "source": "boardcaster",
-      "urgency": "soon",
+      "urgency": "critical",
       "department": "人工智能学院",
       "department_group": "计算机"
     },
