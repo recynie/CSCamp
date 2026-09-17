@@ -1,24 +1,7 @@
 {
-  "updated_at": "2026-09-16T18:54:06.309955+08:00",
+  "updated_at": "2026-09-17T19:02:19.731396+08:00",
   "total": 1710,
   "camps": [
-    {
-      "school": "西安电子科技大学",
-      "institute": "集成电路学部（推免预报名）",
-      "title": "西安电子科技大学集成电路学部2027年推荐免试研究生预报名，面向预计获得推免资格的优秀本科生，学院将于2026年9月20日前分批组织现场考核。",
-      "url": "https://sme.xidian.edu.cn/html/tzgg/jl/2026/0720/3660.html",
-      "deadline": "2026-09-16",
-      "expired": false,
-      "category": "BoardCaster",
-      "tags": [
-        "AI强校",
-        "211"
-      ],
-      "source": "boardcaster",
-      "urgency": "critical",
-      "department": "集成电路学部",
-      "department_group": "电子/通信"
-    },
     {
       "school": "西安电子科技大学",
       "institute": "人工智能学院（推免预报名）",
@@ -48,7 +31,7 @@
         "港澳"
       ],
       "source": "boardcaster",
-      "urgency": "far",
+      "urgency": "near",
       "department": "计算学系",
       "department_group": "其他"
     },
@@ -27181,6 +27164,23 @@
       "urgency": "expired",
       "department": "人工智能学院",
       "department_group": "计算机"
+    },
+    {
+      "school": "西安电子科技大学",
+      "institute": "集成电路学部（推免预报名）",
+      "title": "西安电子科技大学集成电路学部2027年推荐免试研究生预报名，面向预计获得推免资格的优秀本科生，学院将于2026年9月20日前分批组织现场考核。",
+      "url": "https://sme.xidian.edu.cn/html/tzgg/jl/2026/0720/3660.html",
+      "deadline": "2026-09-16",
+      "expired": true,
+      "category": "BoardCaster",
+      "tags": [
+        "AI强校",
+        "211"
+      ],
+      "source": "boardcaster",
+      "urgency": "expired",
+      "department": "集成电路学部",
+      "department_group": "电子/通信"
     },
     {
       "school": "清华大学",
