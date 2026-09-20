@@ -1,24 +1,7 @@
 {
-  "updated_at": "2026-09-19T18:22:27.882525+08:00",
+  "updated_at": "2026-09-20T18:41:34.424841+08:00",
   "total": 1710,
   "camps": [
-    {
-      "school": "西安电子科技大学",
-      "institute": "人工智能学院（推免预报名）",
-      "title": "西安电子科技大学人工智能学院2027年推荐免试研究生预报名，面向预计获得推免资格的优秀本科生，申请人须在学校研究生招生服务平台填报信息并按要求提交材料。",
-      "url": "https://sai.xidian.edu.cn/info/1106/28372.htm",
-      "deadline": "2026-09-19",
-      "expired": false,
-      "category": "BoardCaster",
-      "tags": [
-        "AI强校",
-        "211"
-      ],
-      "source": "boardcaster",
-      "urgency": "critical",
-      "department": "人工智能学院",
-      "department_group": "计算机"
-    },
     {
       "school": "香港理工大学",
       "institute": "计算学系（2027年1月入学PhD/MPhil）",
@@ -27181,6 +27164,23 @@
       "urgency": "expired",
       "department": "集成电路学部",
       "department_group": "电子/通信"
+    },
+    {
+      "school": "西安电子科技大学",
+      "institute": "人工智能学院（推免预报名）",
+      "title": "西安电子科技大学人工智能学院2027年推荐免试研究生预报名，面向预计获得推免资格的优秀本科生，申请人须在学校研究生招生服务平台填报信息并按要求提交材料。",
+      "url": "https://sai.xidian.edu.cn/info/1106/28372.htm",
+      "deadline": "2026-09-19",
+      "expired": true,
+      "category": "BoardCaster",
+      "tags": [
+        "AI强校",
+        "211"
+      ],
+      "source": "boardcaster",
+      "urgency": "expired",
+      "department": "人工智能学院",
+      "department_group": "计算机"
     },
     {
       "school": "清华大学",
