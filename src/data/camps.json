@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-27T19:28:07.419835+08:00",
+  "updated_at": "2026-09-28T21:00:03.455522+08:00",
   "total": 1717,
   "camps": [
     {
@@ -14,7 +14,7 @@
         "港澳"
       ],
       "source": "boardcaster",
-      "urgency": "soon",
+      "urgency": "critical",
       "department": "计算学系",
       "department_group": "其他"
     },
