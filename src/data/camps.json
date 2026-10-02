@@ -1,23 +1,7 @@
 {
-  "updated_at": "2026-10-01T20:30:31.846405+08:00",
+  "updated_at": "2026-10-02T19:56:35.227784+08:00",
   "total": 1717,
   "camps": [
-    {
-      "school": "香港理工大学",
-      "institute": "计算学系（2027年1月入学PhD/MPhil）",
-      "title": "香港理工大学计算学系招收2027年1月入学PhD/MPhil研究生，研究方向覆盖算法理论、机器学习与人工智能、大数据、网络安全、网络系统和软件工程等。",
-      "url": "https://www.polyu.edu.hk/study/pg/rpg/20262/comp",
-      "deadline": "2026-10-01",
-      "expired": false,
-      "category": "BoardCaster",
-      "tags": [
-        "港澳"
-      ],
-      "source": "boardcaster",
-      "urgency": "critical",
-      "department": "计算学系",
-      "department_group": "其他"
-    },
     {
       "school": "中国科学院",
       "institute": "沈阳计算技术研究所（推免硕士接收）",
@@ -27276,6 +27260,22 @@
       "urgency": "expired",
       "department": "人工智能学院",
       "department_group": "计算机"
+    },
+    {
+      "school": "香港理工大学",
+      "institute": "计算学系（2027年1月入学PhD/MPhil）",
+      "title": "香港理工大学计算学系招收2027年1月入学PhD/MPhil研究生，研究方向覆盖算法理论、机器学习与人工智能、大数据、网络安全、网络系统和软件工程等。",
+      "url": "https://www.polyu.edu.hk/study/pg/rpg/20262/comp",
+      "deadline": "2026-10-01",
+      "expired": true,
+      "category": "BoardCaster",
+      "tags": [
+        "港澳"
+      ],
+      "source": "boardcaster",
+      "urgency": "expired",
+      "department": "计算学系",
+      "department_group": "其他"
     },
     {
       "school": "清华大学",
