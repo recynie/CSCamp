@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-06T20:48:35.168306+08:00",
+  "updated_at": "2026-10-07T20:42:50.382728+08:00",
   "total": 1717,
   "camps": [
     {
@@ -14,7 +14,7 @@
         "研究院"
       ],
       "source": "boardcaster",
-      "urgency": "far",
+      "urgency": "near",
       "department": "中国科学院沈阳计算技术研究所",
       "department_group": "计算机"
     },
