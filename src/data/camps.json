@@ -1,23 +1,7 @@
 {
-  "updated_at": "2026-10-21T19:13:43.078869+08:00",
+  "updated_at": "2026-10-22T19:12:52.503351+08:00",
   "total": 1717,
   "camps": [
-    {
-      "school": "中国科学院",
-      "institute": "沈阳计算技术研究所（推免硕士接收）",
-      "title": "中国科学院沈阳计算技术研究所接收2027年推荐免试硕士研究生通知，接收具有推荐免试资格的优秀应届本科毕业生免试攻读硕士学位研究生，包括学术型硕士和全日制专业学位硕士，考生需登录中国科学院大学推免生申报系统报名，报考单位选择沈阳计算技术研究所。",
-      "url": "http://yjs.sict.ac.cn/index.php?m=content&c=index&a=show&catid=15&id=189",
-      "deadline": "2026-10-21",
-      "expired": false,
-      "category": "BoardCaster",
-      "tags": [
-        "研究院"
-      ],
-      "source": "boardcaster",
-      "urgency": "critical",
-      "department": "中国科学院沈阳计算技术研究所",
-      "department_group": "计算机"
-    },
     {
       "school": "香港理工大学",
       "institute": "数据科学与人工智能学系（2027年5月入学PhD/MPhil）",
@@ -27276,6 +27260,22 @@
       "urgency": "expired",
       "department": "计算学系",
       "department_group": "其他"
+    },
+    {
+      "school": "中国科学院",
+      "institute": "沈阳计算技术研究所（推免硕士接收）",
+      "title": "中国科学院沈阳计算技术研究所接收2027年推荐免试硕士研究生通知，接收具有推荐免试资格的优秀应届本科毕业生免试攻读硕士学位研究生，包括学术型硕士和全日制专业学位硕士，考生需登录中国科学院大学推免生申报系统报名，报考单位选择沈阳计算技术研究所。",
+      "url": "http://yjs.sict.ac.cn/index.php?m=content&c=index&a=show&catid=15&id=189",
+      "deadline": "2026-10-21",
+      "expired": true,
+      "category": "BoardCaster",
+      "tags": [
+        "研究院"
+      ],
+      "source": "boardcaster",
+      "urgency": "expired",
+      "department": "中国科学院沈阳计算技术研究所",
+      "department_group": "计算机"
     },
     {
       "school": "清华大学",
